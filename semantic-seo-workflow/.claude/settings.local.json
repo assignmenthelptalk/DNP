@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.ciiassignmenthelp.com)",
+      "Bash(powershell -Command \"Get-Content ''c:\\\\Users\\\\jobmu\\\\agentic-workflow\\\\semantic-seo-workflow\\\\client_data\\\\ot-assignment-help\\\\pages\\\\cmop-e-assignment-help.html'' | Select-Object -Last 5\")",
+      "Bash(powershell -Command \"Get-Content ''c:\\\\Users\\\\jobmu\\\\agentic-workflow\\\\semantic-seo-workflow\\\\client_data\\\\ot-assignment-help\\\\pages\\\\hcpc-standards-proficiency-ot-students.html'' | Select-Object -Last 5\")",
+      "Bash(powershell -Command \"Get-Content ''c:\\\\Users\\\\jobmu\\\\agentic-workflow\\\\semantic-seo-workflow\\\\client_data\\\\ot-assignment-help\\\\pages\\\\clinical-reasoning-ot-assignment-help.html'' | Select-Object -Last 5\")"
+    ]
+  }
+}

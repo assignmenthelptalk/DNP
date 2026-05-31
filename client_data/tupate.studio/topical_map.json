@@ -1,0 +1,1248 @@
+{
+  "built_at": "2026-03-16",
+  "client": "Tupae Studio",
+  "central_entity": "Business Website",
+  "source_context": "Web design and SEO agency monetizing through B2B client acquisition for businesses in Kenya",
+  "central_search_intent": "Professional website design and SEO services in Kenya — helping businesses rank on Google, attract customers, and grow online",
+  "topical_border_definition": "INSIDE BORDER: Website design, web development, e-commerce, SEO (technical, on-page, local, content), website maintenance, website speed, mobile optimization, Google Business Profile, Kenya-specific digital factors (M-Pesa, KRA, mobile-first). OUTER BORDER: Digital marketing, branding, domain/hosting, content marketing, Google Ads, Kenya business landscape, digital economy. EXCLUDED: Standalone social media management, business consulting, offline marketing, accounting, legal services, HR.",
+  "topical_coverage_score": 0,
+  "note_on_score": "Score is 0 because no existing content has been audited. This map defines what MUST be built.",
+
+  "core_section": {
+    "main_attribute": "Digital Presence",
+    "main_attribute_rationale": "Web design CREATES digital presence. SEO GROWS digital presence. Both services unify under this single deliverable — making 'digital presence' the main attribute connecting source context to central entity.",
+    "derived_attributes": [
+      "Search Visibility",
+      "Website Performance",
+      "User Experience",
+      "Mobile Accessibility",
+      "E-commerce Capability",
+      "Local Search Presence",
+      "Technical Website Health",
+      "Content Relevance"
+    ],
+
+    "tier_1_topics": [
+      {
+        "topic": "Website Design for Businesses in Kenya",
+        "attribute_focus": "Digital Presence — creation of professional business website",
+        "macro_context": "What it means to have a professional business website in Kenya — types, purposes, costs, and outcomes for Kenyan businesses across industries",
+        "query_context_match": true,
+        "representative_queries": [
+          "website design Kenya",
+          "web design company Nairobi",
+          "professional website for my business Kenya",
+          "how much does a website cost in Kenya",
+          "best website designers in Kenya"
+        ],
+        "eav_depth_required": "Entity: Business Website (Kenya). Attributes: design types (corporate, e-commerce, portfolio, NGO, government), design elements (color psychology, typography hierarchy, navigation UX, above-the-fold CTA), Kenya-specific factors (M-Pesa button, mobile-first layout, bilingual English/Swahili support, low-bandwidth optimization), cost factors (design hours, CMS choice, hosting integration, domain), delivery timeline. All attributes must connect to business outcome: lead generation, customer trust, revenue.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Website Design for Kenyan Businesses That Turns Visitors Into Customers",
+        "suggested_h2s": [
+          "What Professional Website Design Means for a Business in Kenya",
+          "Types of Business Websites Kenyan Companies Need",
+          "How Website Design Affects Customer Trust and Conversion in Kenya",
+          "Website Design Cost in Kenya: What Determines the Price",
+          "Mobile-First Website Design for Kenya's Mobile-Dominant Market",
+          "Kenya-Specific Website Design Elements: M-Pesa, Swahili, and Low Bandwidth",
+          "The Website Design Process at Tupae Studio: From Brief to Launch"
+        ],
+        "contextual_border_question": "What happens after a business website is designed — how does it start attracting customers from Google search?",
+        "supplementary_bridges_to": [
+          "SEO Services in Kenya",
+          "Mobile-First Website Design Kenya",
+          "E-commerce Website Development Kenya"
+        ]
+      },
+      {
+        "topic": "SEO Services in Kenya",
+        "attribute_focus": "Digital Presence — growing search visibility for Kenyan businesses",
+        "macro_context": "What SEO means for a Kenyan business — how Google.co.ke works, what Kenyan customers search for, and how ranking higher converts to revenue",
+        "query_context_match": true,
+        "representative_queries": [
+          "SEO services in Kenya",
+          "SEO company Nairobi",
+          "how to rank on Google in Kenya",
+          "SEO for small business Kenya",
+          "best SEO agency Kenya"
+        ],
+        "eav_depth_required": "Entity: Business Website (Kenya). SEO Attributes: technical SEO (crawlability, indexation, Core Web Vitals, schema markup), on-page SEO (title tags, meta descriptions, heading hierarchy, content optimization), local SEO (Google Business Profile, local citations, NAP consistency), content SEO (topical authority, query intent matching, NLP optimization), Kenya-specific factors (bilingual content, local keyword modifiers 'Nairobi', 'Kenya', 'near me', search volume data from Kenyan SERPs, Google.co.ke behavior). All attributes connected to business outcome: leads, phone calls, foot traffic, sales.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "SEO Services in Kenya: How We Get Your Business to Page One of Google",
+        "suggested_h2s": [
+          "What SEO Means for a Business in Kenya",
+          "How Google Ranks Kenyan Business Websites",
+          "Technical SEO: Building the Foundation for Search Visibility in Kenya",
+          "On-Page SEO: Optimizing Every Page for Kenya's Search Market",
+          "Local SEO in Kenya: Ranking When Customers Search Near You",
+          "SEO for Kenyan Businesses: English and Swahili Search Behavior",
+          "How Long Does SEO Take to Work for a Business in Kenya",
+          "Tupae Studio SEO Process: Audit, Strategy, and Execution"
+        ],
+        "contextual_border_question": "Which aspect of SEO delivers the fastest results for a new Kenyan business website — local search or content optimization?",
+        "supplementary_bridges_to": [
+          "Local SEO for Kenyan Businesses",
+          "Technical SEO Audit Kenya",
+          "Google Business Profile Optimization Kenya"
+        ]
+      },
+      {
+        "topic": "E-commerce Website Development Kenya",
+        "attribute_focus": "Digital Presence — creating revenue-generating online stores for Kenyan businesses",
+        "macro_context": "What building an e-commerce store in Kenya involves — M-Pesa integration, product catalog, payment gateways, order management, and converting Kenyan online shoppers",
+        "query_context_match": true,
+        "representative_queries": [
+          "e-commerce website development Kenya",
+          "online store development Kenya",
+          "WooCommerce Kenya",
+          "how to set up online store Kenya",
+          "M-Pesa website integration Kenya"
+        ],
+        "eav_depth_required": "Entity: E-commerce Website (Kenya). Attributes: payment gateways (M-Pesa Daraja API, Pesapal, iPay, Flutterwave, Equity, KCB PayStar), product management (categories, variants, inventory), order fulfillment (logistics partners: Sendy, Wells Fargo Courier, G4S Kenya), mobile shopping UX (80%+ Kenyan shoppers on mobile), product photography requirements, shipping zone setup for Kenya counties, VAT and tax compliance for KRA, return policy legal requirements under Kenya Consumer Protection Act, trust signals for Kenyan shoppers (physical address, phone number, M-Pesa trust badge). All connected to conversion outcomes.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "E-commerce Website Development in Kenya: Sell Online With M-Pesa and Card Payments",
+        "suggested_h2s": [
+          "What Kenyan Customers Expect From an Online Store",
+          "M-Pesa Integration: The Non-Negotiable for E-commerce in Kenya",
+          "E-commerce Platform Comparison for Kenya: WooCommerce vs Shopify vs Custom",
+          "Payment Gateways Available for Kenyan E-commerce Websites",
+          "Mobile-First E-commerce: Why 80% of Kenyan Shoppers Use Phones",
+          "Product Catalog Setup for Kenyan E-commerce Businesses",
+          "Delivery and Logistics Integration for Kenyan Online Stores",
+          "KRA Compliance and VAT for Kenyan E-commerce Businesses"
+        ],
+        "contextual_border_question": "After launching a Kenyan e-commerce store, how does SEO help it get discovered by Kenyan online shoppers?",
+        "supplementary_bridges_to": [
+          "SEO Services in Kenya",
+          "M-Pesa Payment Integration Kenya",
+          "WooCommerce Kenya E-commerce Setup"
+        ]
+      },
+      {
+        "topic": "Local SEO for Kenyan Businesses",
+        "attribute_focus": "Digital Presence — dominating local search results in Kenyan cities and counties",
+        "macro_context": "How Kenyan businesses appear when local customers search for their products or services on Google Maps and Google Search",
+        "query_context_match": true,
+        "representative_queries": [
+          "local SEO Kenya",
+          "how to appear on Google Maps Kenya",
+          "local SEO Nairobi",
+          "Google My Business Kenya",
+          "how to rank locally in Kenya"
+        ],
+        "eav_depth_required": "Entity: Local Business Website (Kenya). Attributes: Google Business Profile (categories, service areas, Kenya-specific attributes, photo types, Q&A, review generation), NAP consistency across Kenyan directories (Yellow Pages Kenya, Mocality, Kenya Business Directory), local citation building (county government portals, Nairobi CBD associations, industry associations), location page optimization (county + city + neighborhood targeting), Swahili keyword integration for local searches, Kenya Maps data accuracy, 'near me' query optimization for Nairobi/Mombasa/Kisumu. Connected to foot traffic, phone call, and WhatsApp inquiry outcomes.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Local SEO in Kenya: Get Found by Customers Searching Near You on Google",
+        "suggested_h2s": [
+          "What Local SEO Means for a Business in Kenya",
+          "Google Business Profile Setup and Optimization for Kenyan Businesses",
+          "Local Citation Building: Where Your Kenyan Business Must Be Listed",
+          "Location Pages for Businesses Operating Across Kenya",
+          "How Kenyan Customers Search: 'Near Me' and Location-Based Queries",
+          "Swahili and English Local Search Keywords in Kenya",
+          "Getting More Google Reviews from Kenyan Customers",
+          "Local SEO for Nairobi, Mombasa, Kisumu, and Other Kenyan Cities"
+        ],
+        "contextual_border_question": "Beyond local search, how does a Kenyan business grow visibility nationally through broader SEO strategy?",
+        "supplementary_bridges_to": [
+          "SEO Services in Kenya",
+          "Google Business Profile Optimization Kenya",
+          "Content Strategy for Kenyan Websites"
+        ]
+      },
+      {
+        "topic": "Business Website Redesign Kenya",
+        "attribute_focus": "Digital Presence — upgrading outdated websites to modern, high-performing business websites",
+        "macro_context": "Why Kenyan businesses with old websites lose customers and revenue, and what a professional redesign achieves in conversion rate, SEO, and mobile experience",
+        "query_context_match": true,
+        "representative_queries": [
+          "website redesign Kenya",
+          "update old website Kenya",
+          "modern website design Kenya",
+          "my website is outdated Kenya",
+          "website revamp Nairobi"
+        ],
+        "eav_depth_required": "Entity: Existing Business Website (Kenya). Redesign Attributes: audit criteria (page speed, mobile responsiveness, Core Web Vitals, bounce rate, conversion rate), redesign triggers (design age >3 years, mobile failure, Google indexation issues, rebranding), SEO migration during redesign (301 redirects, URL structure preservation, meta data migration, sitemap update), modern design standards (2025 UI patterns, dark mode, accessibility WCAG 2.1, Kenya color preferences), before/after metrics (traffic recovery timeline, ranking preservation strategy). Connected to business outcome: retained and improved organic traffic.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Website Redesign in Kenya: Modernize Without Losing Your Google Rankings",
+        "suggested_h2s": [
+          "Signs Your Kenyan Business Website Needs a Redesign",
+          "How Website Redesign Affects Your SEO Rankings in Kenya",
+          "Website Audit Before Redesign: What We Check for Kenyan Sites",
+          "SEO-Safe Redesign Process: Preserving Rankings During the Transition",
+          "Mobile-First Redesign for Kenya's Mobile Internet Market",
+          "Modern Website Design Standards for Kenyan Businesses in 2025",
+          "How Long Does a Website Redesign Take in Kenya",
+          "Website Redesign Cost in Kenya: What to Expect"
+        ],
+        "contextual_border_question": "After redesigning a Kenyan business website, what ongoing maintenance keeps it performing at its best?",
+        "supplementary_bridges_to": [
+          "Website Maintenance Services Kenya",
+          "Technical SEO Audit Kenya",
+          "Website Speed Optimization Kenya"
+        ]
+      },
+      {
+        "topic": "Corporate Website Design Kenya",
+        "attribute_focus": "Digital Presence — creating authoritative, credibility-building websites for established Kenyan companies",
+        "macro_context": "What corporate website design means for Kenyan companies — investor relations, talent acquisition, brand credibility, and enterprise client acquisition",
+        "query_context_match": true,
+        "representative_queries": [
+          "corporate website design Kenya",
+          "company website design Nairobi",
+          "professional company website Kenya",
+          "business website design Kenya",
+          "website for company Kenya"
+        ],
+        "eav_depth_required": "Entity: Corporate Website (Kenya). Attributes: design elements (annual report section, board of directors, press room, career portal, investor relations), Kenya-specific corporate requirements (KEBS certification display, regulatory compliance pages, KRA PIN display, county business permits), enterprise UX (enterprise navigation depth, accessibility, multi-department content architecture), security requirements (SSL, HTTPS, GDPR-adjacent Kenya Data Protection Act compliance), CMS requirements for multi-author corporate teams, integration with corporate email systems. Connected to brand authority, investor trust, talent attraction.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Corporate Website Design in Kenya: Build the Digital Authority Your Company Deserves",
+        "suggested_h2s": [
+          "What Makes a Corporate Website Different from a Business Website in Kenya",
+          "Corporate Website Design Elements That Build Trust in Kenya",
+          "Kenya Data Protection Act Compliance for Corporate Websites",
+          "Multi-Department Website Architecture for Kenyan Companies",
+          "Career Portal and Talent Acquisition Features for Kenyan Corporate Sites",
+          "Investor Relations Pages: What Kenyan Public and Private Companies Need",
+          "Content Management for Corporate Teams: Multi-Author Workflows"
+        ],
+        "contextual_border_question": "How does corporate SEO differ from SME SEO — what does a large Kenyan company need to rank for competitive industry terms?",
+        "supplementary_bridges_to": [
+          "SEO Services in Kenya",
+          "Technical SEO Audit Kenya",
+          "Content Strategy for Kenyan Websites"
+        ]
+      }
+    ],
+
+    "tier_2_topics": [
+      {
+        "topic": "Custom-Built Website vs WordPress Kenya",
+        "attribute_focus": "Website Creation — why custom-coded websites outperform CMS-built websites for Kenyan businesses",
+        "macro_context": "The difference between custom-built websites and WordPress/page builder websites for Kenyan businesses — performance, security, speed, ownership, and long-term cost",
+        "query_context_match": true,
+        "representative_queries": [
+          "custom website development Kenya",
+          "custom coded website Kenya",
+          "website without WordPress Kenya",
+          "bespoke website design Kenya",
+          "hand coded website Kenya"
+        ],
+        "eav_depth_required": "Custom vs CMS attributes: performance comparison (custom-coded page weight vs WordPress average 2-4MB page load, Core Web Vitals difference, TTFB comparison), security (no plugin vulnerabilities, no CMS update exposure, no brute-force login attacks — common Kenya WordPress hacks), ownership (no license fees, no plugin renewal costs, no hosting lock-in), speed (clean HTML/CSS/JS vs WordPress bloat — measurable LCP difference for Kenyan mobile users on 4G), SEO advantage (clean semantic HTML, precise schema, no conflicting plugin SEO settings), maintenance (no plugin update conflicts, no theme compatibility breaks, controlled update cycle), custom functionality (built exactly for the business need — no compromise for plugin limitations), total cost of ownership over 3 years for a Kenyan business.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Custom-Built Websites vs WordPress in Kenya: Why We Build From Code, Not Plugins",
+        "suggested_h2s": [
+          "What 'Custom-Built Website' Means for a Kenyan Business",
+          "Why WordPress Websites Are Slower for Kenyan Mobile Users",
+          "Security: Why Custom-Coded Sites Face Fewer Threats Than WordPress in Kenya",
+          "Total Cost of Ownership: Custom Site vs WordPress Over 3 Years in Kenya",
+          "Core Web Vitals Comparison: Custom Code vs Page Builder Websites",
+          "What Kenyan Businesses Get With a Custom-Built Website That WordPress Can't Deliver"
+        ],
+        "contextual_border_question": "How does the clean code foundation of a custom-built website give Kenyan businesses a head start on SEO compared to plugin-heavy WordPress sites?",
+        "supplementary_bridges_to": [
+          "Website Speed Optimization Kenya",
+          "Technical SEO Audit Kenya",
+          "Website Design for Businesses in Kenya"
+        ]
+      },
+      {
+        "topic": "Mobile-First Website Design Kenya",
+        "attribute_focus": "Website Performance — optimizing for Kenya's mobile-dominant internet users",
+        "macro_context": "Why mobile-first design is mandatory for Kenyan websites — data on mobile usage, how Google ranks mobile-friendly sites, and what mobile UX means for Kenyan users",
+        "query_context_match": true,
+        "representative_queries": [
+          "mobile friendly website Kenya",
+          "responsive website design Kenya",
+          "mobile website design Nairobi",
+          "website mobile optimization Kenya"
+        ],
+        "eav_depth_required": "Mobile-first attributes: Kenya mobile internet stats (80%+ mobile users, Safaricom 4G coverage, low-bandwidth scenarios), Google Mobile-First Indexing impact on Kenyan sites, responsive design breakpoints for common Kenyan device types (Android budget phones: Tecno, Infinix, Samsung A-series), touch target sizing, font sizing for mobile readability, image compression for mobile data cost sensitivity, AMP vs responsive, mobile page speed (3G vs 4G rendering), thumb-zone navigation design.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Mobile-First Website Design in Kenya: Built for the 80% Who Browse on Their Phone",
+        "suggested_h2s": [
+          "Kenya's Mobile Internet Reality: Why Your Website Must Be Mobile-First",
+          "What Google's Mobile-First Indexing Means for Kenyan Business Websites",
+          "Responsive Design vs Mobile-Specific Website for Kenya",
+          "Mobile UX for Kenyan Users: Tecno, Infinix, and Samsung Budget Phones",
+          "Data-Friendly Design: Reducing Load Time for Kenyan Mobile Users",
+          "Mobile Conversion Optimization: Getting Kenyan Phone Users to Act"
+        ],
+        "contextual_border_question": "How does mobile-first design connect to Core Web Vitals scores that Google uses to rank Kenyan websites?",
+        "supplementary_bridges_to": [
+          "Website Speed Optimization Kenya",
+          "Technical SEO Audit Kenya",
+          "SEO Services in Kenya"
+        ]
+      },
+      {
+        "topic": "Technical SEO Audit Kenya",
+        "attribute_focus": "Search Visibility — diagnosing and fixing technical barriers preventing Kenyan websites from ranking",
+        "macro_context": "What a technical SEO audit covers for a Kenyan business website — crawl errors, indexation, Core Web Vitals, schema, and how technical issues cost rankings",
+        "query_context_match": true,
+        "representative_queries": [
+          "SEO audit Kenya",
+          "technical SEO audit Nairobi",
+          "website SEO audit Kenya",
+          "why is my website not ranking Kenya"
+        ],
+        "eav_depth_required": "Technical SEO attributes: crawlability (robots.txt, XML sitemap, crawl budget), indexation (canonical tags, noindex issues, Google Search Console coverage errors), Core Web Vitals (LCP targets for Kenya server locations, FID/INP, CLS), schema markup types (LocalBusiness, Organization, Product, FAQ, BreadcrumbList), mobile usability errors, duplicate content sources, redirect chains, HTTPS/SSL status, structured data validation, internal linking architecture, page speed (Kenya server latency factors, CDN usage, hosting quality), hreflang for English/Swahili versions.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Technical SEO Audit for Kenyan Business Websites: Find and Fix What's Stopping Your Rankings",
+        "suggested_h2s": [
+          "What a Technical SEO Audit Checks on a Kenyan Business Website",
+          "Core Web Vitals for Kenyan Websites: LCP, INP, and CLS Explained",
+          "Crawlability and Indexation Issues That Kill Kenyan Website Rankings",
+          "Schema Markup for Kenyan Business Websites: Types and Implementation",
+          "Website Speed Audit: How Hosting in Kenya Affects Your Google Scores",
+          "Technical SEO Audit Report: What You Receive and What We Fix"
+        ],
+        "contextual_border_question": "After fixing technical issues, what on-page content optimization does a Kenyan website need to rank for competitive keywords?",
+        "supplementary_bridges_to": [
+          "On-Page SEO Services Kenya",
+          "Website Speed Optimization Kenya",
+          "SEO Services in Kenya"
+        ]
+      },
+      {
+        "topic": "On-Page SEO Services Kenya",
+        "attribute_focus": "Search Visibility — optimizing individual pages to rank for target queries in Kenyan search",
+        "macro_context": "How on-page optimization works for Kenyan business websites — keyword placement, content structure, title tags, meta descriptions, and content depth that Google rewards",
+        "query_context_match": true,
+        "representative_queries": [
+          "on-page SEO Kenya",
+          "SEO content optimization Kenya",
+          "keyword optimization website Kenya",
+          "on page SEO services Nairobi"
+        ],
+        "eav_depth_required": "On-page SEO attributes: title tag optimization (length, primary keyword position, CTR-driving modifiers for Kenyan audience), meta description (character count, CTA language for Kenyan searchers), heading hierarchy (H1 uniqueness, H2/H3 keyword distribution, entity coverage), content depth (word count by intent type, EAV depth, NLP entity optimization), image optimization (alt text, file naming, WebP format, Kenya-relevant images), internal linking (anchor text, link equity distribution), URL structure (short, keyword-rich, no parameters), schema markup per page type, content freshness signals for Kenya-relevant topics (government policy changes, market shifts).",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "On-Page SEO Services in Kenya: Optimize Every Page to Rank and Convert",
+        "suggested_h2s": [
+          "What On-Page SEO Covers for a Kenyan Business Website",
+          "Title Tags and Meta Descriptions That Get Clicks in Kenyan Search Results",
+          "Heading Structure: How H1, H2, H3 Tags Affect Your Kenya Rankings",
+          "Content Depth for Kenyan Business Keywords: How Much is Enough",
+          "Image Optimization for Kenyan Websites: Alt Text and WebP Format",
+          "Internal Linking Strategy: How Pages on Your Kenyan Site Support Each Other"
+        ],
+        "contextual_border_question": "How does on-page SEO connect to off-page signals — and what local citations and content amplification matter most in Kenya?",
+        "supplementary_bridges_to": [
+          "Local SEO for Kenyan Businesses",
+          "Content Strategy for Kenyan Websites",
+          "Technical SEO Audit Kenya"
+        ]
+      },
+      {
+        "topic": "Google Business Profile Optimization Kenya",
+        "attribute_focus": "Local Search Presence — maximizing Google Maps visibility for Kenyan businesses",
+        "macro_context": "How to set up and optimize a Google Business Profile for a Kenyan business to appear in local search, Google Maps, and the local pack",
+        "query_context_match": true,
+        "representative_queries": [
+          "Google My Business Kenya",
+          "Google Business Profile setup Kenya",
+          "Google Maps listing Kenya",
+          "how to appear on Google Maps Kenya",
+          "GBP optimization Kenya"
+        ],
+        "eav_depth_required": "GBP attributes: category selection (primary vs secondary for Kenyan business types), business description optimization (keyword-rich, 750 characters, Kenya context), service/product listings, photo types (exterior, interior, team, products — quantities and quality standards), Google Posts frequency, Q&A seeding, review strategy (solicitation methods compliant with Google TOS, responding to negative reviews in Kenyan cultural context), attributes (wheelchair accessible, accepts M-Pesa — custom attributes), service area definition (Kenya counties, Nairobi sub-areas), business hours including Kenya public holidays, messaging setup.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Google Business Profile Optimization in Kenya: Dominate Local Search and Google Maps",
+        "suggested_h2s": [
+          "Setting Up Google Business Profile for a Business in Kenya",
+          "Business Category Selection: Which Category Ranks Best in Kenya",
+          "Photos That Drive Clicks: GBP Image Strategy for Kenyan Businesses",
+          "Google Reviews Strategy: Getting and Responding to Reviews in Kenya",
+          "Google Posts for Kenyan Businesses: Offers, Events, and Updates",
+          "Service Area Setup: How to Show Up in Multiple Kenya Locations"
+        ],
+        "contextual_border_question": "Beyond Google Business Profile, what other online directories should a Kenyan business be listed in to strengthen local authority?",
+        "supplementary_bridges_to": [
+          "Local SEO for Kenyan Businesses",
+          "Domain Registration in Kenya",
+          "SEO Services in Kenya"
+        ]
+      },
+      {
+        "topic": "Website Speed Optimization Kenya",
+        "attribute_focus": "Website Performance — reducing load time for Kenyan users on mobile networks",
+        "macro_context": "Why website speed matters for Kenyan business websites — its impact on Google rankings, mobile user experience, and conversion rates in a mobile-first market",
+        "query_context_match": true,
+        "representative_queries": [
+          "website speed optimization Kenya",
+          "slow website Kenya",
+          "improve website loading speed Kenya",
+          "Google PageSpeed Kenya",
+          "website performance Kenya"
+        ],
+        "eav_depth_required": "Speed optimization attributes: Core Web Vitals targets (LCP <2.5s for Kenya server latency, INP <200ms, CLS <0.1), image optimization stack (WebP conversion, lazy loading, srcset for mobile), caching strategies (browser cache, server-side cache, CDN — Cloudflare free tier vs paid for Kenya), hosting quality impact (local Kenya hosting speed vs international, African CDN nodes), JavaScript optimization (defer, async, unused code elimination), CSS optimization (critical CSS, minification), Google Fonts vs self-hosted fonts, database optimization for WordPress, GZIP/Brotli compression, server response time (TTFB) for Kenyan servers.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Website Speed Optimization in Kenya: Faster Load Times That Rank Higher and Convert More",
+        "suggested_h2s": [
+          "Why Website Speed Matters More in Kenya Than in Most Markets",
+          "Core Web Vitals for Kenyan Business Websites: LCP, INP, and CLS",
+          "Image Optimization for Fast Loading on Kenya's Mobile Networks",
+          "Caching and CDN Setup for Kenyan Business Websites",
+          "Hosting Quality: How Your Kenyan Web Host Affects Your Google Score",
+          "JavaScript and CSS Optimization for Faster Kenyan Websites"
+        ],
+        "contextual_border_question": "How does website speed connect to the broader technical health of a Kenyan website — and what else does a technical audit reveal beyond speed?",
+        "supplementary_bridges_to": [
+          "Technical SEO Audit Kenya",
+          "Mobile-First Website Design Kenya",
+          "Custom-Built Website vs WordPress Kenya"
+        ]
+      },
+      {
+        "topic": "Custom Web Development Kenya",
+        "attribute_focus": "Website Creation — bespoke web applications and systems for Kenyan businesses with specific requirements",
+        "macro_context": "When and why a Kenyan business needs custom web development beyond standard CMS — portals, booking systems, custom dashboards, and API integrations",
+        "query_context_match": true,
+        "representative_queries": [
+          "custom web development Kenya",
+          "web developer Kenya",
+          "custom website development Nairobi",
+          "web application development Kenya",
+          "bespoke website Kenya"
+        ],
+        "eav_depth_required": "Custom development attributes: technology stack (PHP/Laravel, Node.js, React, Vue.js — selection criteria for Kenya deployment), database design (MySQL, PostgreSQL), API integrations (M-Pesa Daraja API, KRA iTax API, Safaricom APIs, SMS gateway — Africa's Talking, Twilio), user authentication systems, admin dashboard development, booking and reservation systems, membership portals, multi-vendor marketplace development, hosting environment for custom apps (VPS vs cloud — AWS, Google Cloud Africa region), DevOps for Kenyan deployments, testing and QA for African network conditions.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Custom Web Development in Kenya: Bespoke Digital Solutions for Complex Business Needs",
+        "suggested_h2s": [
+          "When Your Kenyan Business Needs Custom Web Development Instead of a CMS",
+          "Technology Stack Options for Custom Web Applications in Kenya",
+          "M-Pesa API and Kenyan Payment Gateway Integration",
+          "Custom Booking and Reservation System Development Kenya",
+          "Membership and Portal Development for Kenyan Businesses",
+          "Hosting and Deployment for Custom Web Applications in Kenya"
+        ],
+        "contextual_border_question": "How does custom web development integrate with SEO — and what technical architecture decisions most affect a custom-built site's Google performance?",
+        "supplementary_bridges_to": [
+          "Technical SEO Audit Kenya",
+          "M-Pesa Payment Integration Kenya",
+          "Website Maintenance Services Kenya"
+        ]
+      },
+      {
+        "topic": "Custom E-commerce Development Kenya",
+        "attribute_focus": "E-commerce Capability — custom-coded online stores for Kenyan businesses with M-Pesa and card payment integration",
+        "macro_context": "How a custom-built e-commerce store differs from off-the-shelf solutions for Kenyan businesses — performance, M-Pesa Daraja API integration, product management, and conversion optimization for Kenyan shoppers",
+        "query_context_match": true,
+        "representative_queries": [
+          "custom e-commerce website Kenya",
+          "online store development Kenya",
+          "e-commerce developer Kenya",
+          "build online store Kenya",
+          "custom online shop Kenya"
+        ],
+        "eav_depth_required": "Custom e-commerce Kenya attributes: M-Pesa Daraja API direct integration (STK Push, C2B, B2C — without plugin dependency, direct API calls for cleaner payment flow), Pesapal, iPay, Flutterwave as additional payment gateways, Kenyan shipping zone logic (47 counties, express vs standard, logistics partner API integration: Sendy, G4S), product catalog architecture (categories, variants, inventory management), Kenya VAT (16%) automated calculation, multi-currency (KES + USD), abandoned cart recovery logic, mobile-optimized checkout for Kenyan users (single-page checkout, M-Pesa STK Push UX on mobile), order management system, admin dashboard (product CRUD, order tracking, customer management), KRA eTIMS integration for tax invoice compliance, performance advantage over plugin-based e-commerce: faster LCP, lower cart abandonment.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Custom E-commerce Website Development in Kenya: Built for M-Pesa, Speed, and Kenyan Shoppers",
+        "suggested_h2s": [
+          "Why Custom-Built E-commerce Outperforms Off-the-Shelf Platforms for Kenyan Businesses",
+          "M-Pesa Daraja API Direct Integration: Faster and More Reliable Than Plugin-Based Payments",
+          "Custom Checkout Design for Kenya's Mobile Shoppers",
+          "Kenyan Shipping Zones and Logistics API Integration",
+          "Kenya VAT and KRA eTIMS Compliance in Custom E-commerce",
+          "Product Catalog and Inventory System Built for Your Business Model",
+          "E-commerce Performance: How Custom Code Reduces Cart Abandonment for Kenyan Stores"
+        ],
+        "contextual_border_question": "After building a custom e-commerce store in Kenya, how does e-commerce SEO ensure Kenyan shoppers find it on Google when searching for products?",
+        "supplementary_bridges_to": [
+          "E-commerce Website Development Kenya",
+          "SEO Services in Kenya",
+          "M-Pesa Payment Integration Kenya"
+        ]
+      },
+      {
+        "topic": "SEO Keyword Research Kenya",
+        "attribute_focus": "Search Visibility — identifying the right search terms Kenyan customers use to find businesses like yours",
+        "macro_context": "How keyword research works for the Kenyan market — search volume, competition, intent, and the difference between Kenyan and international search behavior",
+        "query_context_match": true,
+        "representative_queries": [
+          "keyword research Kenya",
+          "Kenya SEO keywords",
+          "what do Kenyans search for on Google",
+          "Nairobi search terms",
+          "SEO keyword strategy Kenya"
+        ],
+        "eav_depth_required": "Keyword research attributes for Kenya: tools (Google Keyword Planner with Kenya geo-filter, Ahrefs Kenyan data, SEMrush Kenya, Google Search Console geo-filtered data), search volume interpretation (Kenya volumes are smaller than US/UK — 100 searches/month can be significant), keyword intent classification (informational, commercial, transactional, navigational for Kenyan searchers), Swahili keyword modifiers (e.g., 'bei ya' = price of, 'kwa' = for), local keyword patterns (county name + service), question-format queries in Kenya, seasonal search patterns (Kenya holidays, Back to School, Christmas shopping patterns, salary cycle effects on search behavior), competitor keyword gap analysis in Kenyan SERPs.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "SEO Keyword Research for Kenya: Find the Exact Terms Your Customers Are Searching",
+        "suggested_h2s": [
+          "How Keyword Research for Kenya Differs from International Markets",
+          "Kenyan Search Volume: What 100 Monthly Searches Really Means",
+          "Swahili Keywords: How Bilingual Search Affects Keyword Strategy in Kenya",
+          "Local Keywords: City, County, and Neighborhood Modifiers in Kenya",
+          "Search Intent Classification for Kenyan Business Keywords",
+          "Competitive Keyword Analysis: What Your Kenyan Competitors Rank For"
+        ],
+        "contextual_border_question": "Once target keywords are identified, how does on-page optimization ensure each page of the Kenyan website is correctly matched to its target query?",
+        "supplementary_bridges_to": [
+          "On-Page SEO Services Kenya",
+          "Local SEO for Kenyan Businesses",
+          "Content Strategy for Kenyan Websites"
+        ]
+      },
+      {
+        "topic": "Website Maintenance Services Kenya",
+        "attribute_focus": "Website Performance — ongoing upkeep to keep Kenyan business websites secure, fast, and up-to-date",
+        "macro_context": "What website maintenance covers for Kenyan businesses — updates, backups, security, uptime monitoring, and why neglecting maintenance costs more than the service",
+        "query_context_match": true,
+        "representative_queries": [
+          "website maintenance Kenya",
+          "website support Kenya",
+          "monthly website management Kenya",
+          "website update service Nairobi",
+          "who maintains my website Kenya"
+        ],
+        "eav_depth_required": "Maintenance attributes: CMS updates (WordPress core, theme, plugin — update risks and testing protocol), security (malware scanning, firewall, brute force protection, SSL renewal), backup systems (daily off-site backups, restoration testing, storage location), uptime monitoring (99.9% SLA, Kenya ISP downtime patterns, alert systems), performance monitoring (Core Web Vitals tracking over time), content updates (text changes, new products, blog posts), broken link monitoring, Google Search Console error monitoring, annual SEO health checks, hosting renewal management.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Website Maintenance Services in Kenya: Keep Your Website Secure, Fast, and Always Online",
+        "suggested_h2s": [
+          "What Website Maintenance Covers for a Kenyan Business Website",
+          "WordPress Updates: Why Delaying Plugin and Theme Updates Costs Kenyan Businesses",
+          "Website Security Monitoring: Protecting Kenyan Business Websites from Hackers",
+          "Daily Backup and Recovery for Kenyan Business Websites",
+          "Uptime Monitoring: Ensuring Your Kenyan Website Is Always Accessible",
+          "Monthly Website Maintenance Plans for Kenyan Businesses"
+        ],
+        "contextual_border_question": "Beyond maintenance, how does ongoing SEO monitoring ensure a Kenyan website keeps improving its rankings over time?",
+        "supplementary_bridges_to": [
+          "SEO Services in Kenya",
+          "Custom-Built Website vs WordPress Kenya",
+          "Technical SEO Audit Kenya"
+        ]
+      },
+      {
+        "topic": "Landing Page Design Kenya",
+        "attribute_focus": "Website Performance — high-converting single pages for Kenyan campaigns and lead generation",
+        "macro_context": "What landing pages are, why Kenyan businesses need them for ads and campaigns, and how conversion-focused design differs from regular website pages",
+        "query_context_match": true,
+        "representative_queries": [
+          "landing page design Kenya",
+          "landing page developer Kenya",
+          "conversion landing page Nairobi",
+          "high converting landing page Kenya",
+          "Google Ads landing page Kenya"
+        ],
+        "eav_depth_required": "Landing page attributes: conversion anatomy (headline formula, hero section, social proof types for Kenyan audience — WhatsApp testimonials, Google reviews screenshots, client logos), CTA placement (above fold, repeat CTAs, Kenya-appropriate CTAs: 'Call Now', 'WhatsApp Us', 'Get a Free Quote'), form design (field count, progressive disclosure), trust elements for Kenyan visitors (physical address display, phone number, M-Pesa badge), A/B testing methodology, mobile landing page conversion optimization, Google Ads Quality Score connection, landing page speed requirements for paid traffic.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Landing Page Design in Kenya: Convert Visitors Into Leads and Customers",
+        "suggested_h2s": [
+          "What Makes a Landing Page Different From a Regular Website Page",
+          "The Anatomy of a High-Converting Landing Page for Kenyan Businesses",
+          "Trust Signals That Convert Kenyan Website Visitors",
+          "Mobile Landing Page Design for Kenya's Phone-First Market",
+          "Landing Pages for Google Ads: What Google Rewards in Quality Score"
+        ],
+        "contextual_border_question": "How do landing pages integrate with Google Ads campaigns in Kenya — and what makes a Kenyan ad landing page achieve a high Quality Score?",
+        "supplementary_bridges_to": [
+          "Google Ads Kenya",
+          "Website Design for Businesses in Kenya",
+          "Mobile-First Website Design Kenya"
+        ]
+      },
+      {
+        "topic": "Content Strategy for Kenyan Websites",
+        "attribute_focus": "Content Relevance — planning and structuring website content to match what Kenyan customers search and need",
+        "macro_context": "How content strategy connects to SEO and business outcomes for Kenyan websites — what to write, for whom, and in what structure",
+        "query_context_match": true,
+        "representative_queries": [
+          "website content strategy Kenya",
+          "SEO content Kenya",
+          "content writing for websites Kenya",
+          "blog strategy for business Kenya",
+          "content planning Kenya"
+        ],
+        "eav_depth_required": "Content strategy attributes: audience research for Kenyan markets (buyer personas by industry: retail, hospitality, construction, healthcare), content types for Kenyan business websites (service pages, location pages, blog/educational content, case studies, FAQ pages), query intent mapping for Kenyan search behavior, topical authority approach for Kenyan industries (covering sub-topics before main competitive terms), content calendar aligned with Kenya's business calendar (Budget announcements, school terms, tourism seasons), bilingual content strategy (English primary + Swahili supplementary), competitor content gap analysis in Kenyan SERPs.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Content Strategy for Kenyan Business Websites: Create Content That Ranks and Converts",
+        "suggested_h2s": [
+          "Why Content Strategy Matters for SEO in the Kenyan Market",
+          "Understanding What Kenyan Customers Search and Need",
+          "Content Types That Drive Traffic for Kenyan Business Websites",
+          "Bilingual Content Strategy: English and Swahili for Kenyan SEO",
+          "Building Topical Authority for Kenyan Business Niches",
+          "Content Calendar Aligned With Kenya's Business and Search Seasons"
+        ],
+        "contextual_border_question": "Beyond content planning, how does link building and digital PR amplify content performance for Kenyan websites?",
+        "supplementary_bridges_to": [
+          "SEO Services in Kenya",
+          "On-Page SEO Services Kenya",
+          "Digital Marketing Services Kenya"
+        ]
+      },
+      {
+        "topic": "Industrial and Machinery Business Website Design Kenya",
+        "attribute_focus": "Website Creation — industry-specific design for Kenyan industrial, manufacturing, and machinery businesses",
+        "macro_context": "What an industrial or machinery company website in Kenya needs — heavy equipment catalogs, service request forms, technical specifications, and the specific trust signals that procurement managers and operations directors look for",
+        "query_context_match": true,
+        "representative_queries": [
+          "industrial company website Kenya",
+          "machinery business website Nairobi",
+          "manufacturing company website Kenya",
+          "engineering firm website Kenya",
+          "construction equipment company website Kenya"
+        ],
+        "eav_depth_required": "Industrial website Kenya attributes: product/equipment catalog structure (categories: excavators, generators, compressors, fabrication equipment — with technical specs tables, PDF datasheets, model comparison), service pages (preventive maintenance, spare parts, field repair, calibration — with service area maps for Kenya counties), procurement-ready design (RFQ forms, tender download section, ISO certification display, KEBS certification, NEMA compliance), trust signals for B2B buyers (years in operation, client logos of Kenyan parastatals and construction firms, project case studies), heavy file handling (CAD drawings, technical manuals — optimized delivery), contact UX for B2B Kenya (phone, WhatsApp, email, physical address with map — procurement managers still prefer phone).",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Industrial and Machinery Business Website Design in Kenya: Built for Procurement Managers and Operations Directors",
+        "suggested_h2s": [
+          "What an Industrial Company Website Must Do for Kenyan B2B Buyers",
+          "Equipment Catalog Design: Specs, Datasheets, and Technical Tables for Kenyan Industrial Sites",
+          "Service and Maintenance Pages for Kenyan Industrial Businesses",
+          "Trust Signals That Win Tenders: Certifications, Case Studies, and Client Logos",
+          "RFQ and Inquiry Forms Designed for Kenyan Procurement Workflows",
+          "Industrial Website SEO in Kenya: Ranking for Machinery and Equipment Searches"
+        ],
+        "contextual_border_question": "How does local SEO help an industrial company in Nairobi's Industrial Area appear when procurement managers search for equipment suppliers near them?",
+        "supplementary_bridges_to": [
+          "Local SEO for Kenyan Businesses",
+          "SEO Services in Kenya",
+          "Website Design for Businesses in Kenya"
+        ]
+      },
+      {
+        "topic": "Medical Clinic and Dental Practice Website Design Kenya",
+        "attribute_focus": "Website Creation — industry-specific design for Kenyan medical clinics, dental practices, and healthcare providers",
+        "macro_context": "What a Kenyan medical or dental clinic website needs — appointment booking, doctor profiles, service descriptions, NHIF information, and the trust signals that Kenyan patients require before choosing a healthcare provider",
+        "query_context_match": true,
+        "representative_queries": [
+          "medical clinic website Kenya",
+          "dental practice website Nairobi",
+          "doctor website Kenya",
+          "healthcare website design Kenya",
+          "clinic website design Kenya"
+        ],
+        "eav_depth_required": "Medical/dental website Kenya attributes: appointment booking system (online booking vs WhatsApp booking — Kenya patient preference), doctor and dentist profile pages (qualifications, Kenya Medical Practitioners & Dentists Council registration number, specializations), service pages (procedures with patient-friendly descriptions, pricing transparency for self-pay vs NHIF patients), NHIF acceptance display (critical conversion signal for Kenyan patients), location pages (map, parking, operating hours including Saturday hours — important for Kenyan clinics), emergency contact prominence, before/after gallery for dental (patient consent compliance), lab and diagnostic services catalog, telemedicine option (growing post-COVID in Kenya), patient education content for SEO (dental hygiene, preventive care — high-volume informational queries in Kenya).",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Medical Clinic and Dental Practice Website Design in Kenya: Convert Patient Searches to Appointments",
+        "suggested_h2s": [
+          "What Kenyan Patients Look for on a Clinic Website Before Booking",
+          "Online Appointment Booking for Kenyan Clinics: WhatsApp vs Online Form",
+          "NHIF and Insurance Information: The Trust Signal Kenyan Patients Need",
+          "Doctor and Dentist Profile Pages: Qualifications and KMPDC Registration",
+          "Service Pages for Kenyan Medical and Dental Websites",
+          "Local SEO for Clinics: Ranking When Nairobi Patients Search for Your Specialty"
+        ],
+        "contextual_border_question": "Beyond the website, how does local SEO ensure a Nairobi clinic appears when patients search for their specific medical specialty or dental service nearby?",
+        "supplementary_bridges_to": [
+          "Local SEO for Kenyan Businesses",
+          "Google Business Profile Optimization Kenya",
+          "Website Design for Businesses in Kenya"
+        ]
+      },
+      {
+        "topic": "Law Firm and Accountancy Practice Website Design Kenya",
+        "attribute_focus": "Website Creation — industry-specific design for Kenyan law firms, advocates, and accounting practices",
+        "macro_context": "What a Kenyan law firm or accounting practice website needs — credibility signals, practice area pages, advocate profiles, and the specific conversion mechanisms that attract Kenyan legal and financial services clients",
+        "query_context_match": true,
+        "representative_queries": [
+          "law firm website Kenya",
+          "lawyer website Nairobi",
+          "advocate website Kenya",
+          "accounting firm website Kenya",
+          "CPA firm website Kenya"
+        ],
+        "eav_depth_required": "Legal/accounting website Kenya attributes: practice area pages (conveyancing, litigation, family law, corporate law, employment law — each with Kenyan law context), advocate profiles (LSK (Law Society of Kenya) admission year, call to bar, specializations, High Court of Kenya admission), credibility signals (LSK membership display, ICPAK membership for accountants, years in practice, case wins/client outcomes without specific claims), service description language (Kenya-specific legal terminology, Fee Remuneration Order 2014 reference for legal fees), consultation request form design (confidentiality assurance prominent — Kenyan clients are cautious about sharing legal matters online), Nairobi CBD vs Westlands vs Upper Hill office location prominence, Swahili tagline option for accessibility, thought leadership blog for SEO (Kenyan Employment Act updates, Companies Act 2015 changes, tax law Kenya).",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Law Firm and Accountancy Website Design in Kenya: Build the Authority That Earns Client Trust",
+        "suggested_h2s": [
+          "What Kenyan Clients Look for on a Law Firm or Accounting Website",
+          "Practice Area Pages for Kenyan Law Firms: Structure and Content",
+          "Advocate and Partner Profile Pages: LSK Credentials and Specializations",
+          "Confidentiality and Trust Signals That Convert Kenyan Legal Clients",
+          "Accounting Firm Websites: ICPAK Membership and Service Pages for Kenyan Clients",
+          "Thought Leadership Content for Kenyan Legal and Accounting SEO"
+        ],
+        "contextual_border_question": "How does SEO help a Nairobi law firm or accounting practice appear when potential clients search for specific legal or financial services in Kenya?",
+        "supplementary_bridges_to": [
+          "SEO Services in Kenya",
+          "Local SEO for Kenyan Businesses",
+          "Content Strategy for Kenyan Websites"
+        ]
+      },
+      {
+        "topic": "Real Estate Agent and Agency Website Design Kenya",
+        "attribute_focus": "Website Creation — industry-specific design for Kenyan real estate agents, property developers, and letting agencies",
+        "macro_context": "What a Kenyan real estate website needs — property listings, search and filter functionality, agent profiles, and the specific trust signals that Kenyan property buyers and tenants look for",
+        "query_context_match": true,
+        "representative_queries": [
+          "real estate website Kenya",
+          "property website design Kenya",
+          "real estate agent website Nairobi",
+          "property listing website Kenya",
+          "estate agent website Kenya"
+        ],
+        "eav_depth_required": "Real estate website Kenya attributes: property listing system (custom search/filter: location by constituency/estate, price range KES, bedrooms, property type — apartments, maisonettes, bungalows, commercial), map integration (Google Maps pins for Nairobi estates: Karen, Kilimani, Westlands, Lavington, Syokimau, Ruaka, Kiambu Road), virtual tour integration (360° photos, video walkthroughs — growing expectation in Nairobi market), agent profile pages (EARB (Estate Agents Registration Board) registration number — mandatory for Kenya), mortgage calculator (Kenya bank rates, deposit requirements — 10-30% for Kenyan banks), lead capture design (WhatsApp CTA dominant — how Kenyan property inquiries start), rental vs sale property distinction, off-plan project pages for developers, KRA stamp duty calculator tool for buyers.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Real Estate Website Design in Kenya: Property Listings That Attract Buyers and Tenants",
+        "suggested_h2s": [
+          "What Kenyan Property Buyers and Tenants Expect From a Real Estate Website",
+          "Property Listing System: Search, Filter, and Map for Kenyan Real Estate Websites",
+          "Agent Profile Pages With EARB Registration: Trust Signals for Kenyan Clients",
+          "Virtual Tours and Property Photography Integration for Kenyan Real Estate Sites",
+          "Mortgage Calculator and KRA Stamp Duty Tool: Conversion Features for Kenyan Buyers",
+          "Real Estate SEO in Kenya: Ranking for Property Searches in Nairobi and Beyond"
+        ],
+        "contextual_border_question": "Beyond the property listing website, how does local SEO ensure a Kenyan real estate agent appears when buyers search for properties in specific Nairobi estates or towns?",
+        "supplementary_bridges_to": [
+          "Local SEO for Kenyan Businesses",
+          "SEO Services in Kenya",
+          "Custom E-commerce Development Kenya"
+        ]
+      },
+      {
+        "topic": "Restaurant and Hotel Website Design Kenya",
+        "attribute_focus": "Website Creation — industry-specific design for Kenyan restaurants, hotels, lodges, and hospitality businesses (upcountry focus)",
+        "macro_context": "What a Kenyan restaurant or hotel website needs — menus, booking functionality, photo galleries, and the specific conversion paths that Kenyan diners and travellers use when choosing hospitality venues",
+        "query_context_match": true,
+        "representative_queries": [
+          "restaurant website design Kenya",
+          "hotel website design Kenya",
+          "lodge website Kenya",
+          "hospitality website Kenya",
+          "restaurant website Nairobi"
+        ],
+        "eav_depth_required": "Hospitality website Kenya attributes: restaurant menu display (digital menu with photos, pricing in KES, dietary labels — vegetarian, halal, vegan — important for Nairobi market), table reservation system (direct booking vs third-party: TheFork, Dineout Kenya — pros/cons of direct booking for revenue), hotel room booking integration (direct booking engine vs OTA dependency: Booking.com, Airbnb — cost comparison for Kenyan hoteliers, 15-20% OTA commission vs direct), photo gallery optimization (food photography, room photos, venue ambiance — essential conversion driver for Kenya hospitality), upcountry context (safari lodges: Mara, Tsavo, Samburu — international traveller vs domestic traveller design considerations), Google Maps integration and directions (critical for upcountry locations), M-Pesa payment for local bookings, TripAdvisor and Google Reviews integration, WhatsApp booking as primary inquiry channel for Kenyan hospitality.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Restaurant and Hotel Website Design in Kenya: Convert Searches Into Bookings and Reservations",
+        "suggested_h2s": [
+          "What Kenyan Diners and Guests Look for on a Restaurant or Hotel Website",
+          "Digital Menu Design for Kenyan Restaurants: Photos, Pricing, and Dietary Labels",
+          "Direct Hotel Booking vs OTA Dependency: Why Kenyan Hotels Need Their Own Booking Engine",
+          "Photo Gallery Optimization for Kenyan Hospitality Websites",
+          "WhatsApp Booking Integration: How Kenyan Guests Actually Make Reservations",
+          "Upcountry Kenya and Safari Lodge Website Design: International and Domestic Traveller Needs"
+        ],
+        "contextual_border_question": "How does local SEO help a restaurant or hotel appear when Kenyan and international guests search for hospitality venues in specific locations?",
+        "supplementary_bridges_to": [
+          "Local SEO for Kenyan Businesses",
+          "Google Business Profile Optimization Kenya",
+          "M-Pesa Payment Integration Kenya"
+        ]
+      },
+      {
+        "topic": "School and College Website Design Kenya",
+        "attribute_focus": "Website Creation — industry-specific design for Kenyan primary schools, secondary schools, colleges, and training institutes",
+        "macro_context": "What a Kenyan school or college website needs — admissions information, fee structures, academic programs, and the conversion paths that Kenyan parents and students use when choosing an institution",
+        "query_context_match": true,
+        "representative_queries": [
+          "school website design Kenya",
+          "college website design Kenya",
+          "school website Nairobi",
+          "university website design Kenya",
+          "training institute website Kenya"
+        ],
+        "eav_depth_required": "Education website Kenya attributes: admissions section (application requirements, deadlines, entry requirements by KNEC/KCSE grade, online application form vs physical form — most Kenyan schools still physical in 2025), fee structure pages (tuition fees, boarding fees, activity fees — transparency is a conversion driver for Kenyan parents, parents comparison-shop fees), academic programmes (curriculum: CBC, 8-4-4, IGCSE, A-level — which system is clearly stated, link to KNEC recognition), academic calendar (term dates aligned with Kenya's three-term system), news and events section (school activities, exam results, sports — engagement signal for current families), photo and video gallery (classroom, facilities, sports, graduation — essential for Kenyan parent decision-making), Google Maps for school location (essential — Kenyan parents drive past before enrolling), MPESA fee payment integration or payment instructions, TSC and MoE Kenya registration display for credibility, contact and transport routes for boarding schools.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "School and College Website Design in Kenya: Attract Enrolments and Build Community Trust",
+        "suggested_h2s": [
+          "What Kenyan Parents and Students Look for on a School or College Website",
+          "Admissions Pages for Kenyan Schools: Entry Requirements, Applications, and Deadlines",
+          "Fee Structure Transparency: Why Kenyan Parents Need Clear Pricing Before Enquiring",
+          "Academic Programme Pages: CBC, KCSE, and Professional Certification for Kenyan Institutions",
+          "Photo Gallery and Facilities Showcase for Kenyan School Websites",
+          "Local SEO for Schools: Ranking When Parents Search for Schools in Your Area"
+        ],
+        "contextual_border_question": "How does local SEO help a Kenyan school appear when parents search for schools in their neighbourhood or within a specific county?",
+        "supplementary_bridges_to": [
+          "Local SEO for Kenyan Businesses",
+          "Google Business Profile Optimization Kenya",
+          "Website Design for Businesses in Kenya"
+        ]
+      }
+    ],
+
+    "macro_semantics": {
+      "site_wide_ngrams": [
+        "Kenyan businesses",
+        "website design Kenya",
+        "SEO in Kenya",
+        "business website",
+        "Google ranking",
+        "online visibility",
+        "digital presence",
+        "Nairobi web",
+        "Kenya market",
+        "mobile-first",
+        "M-Pesa integration",
+        "rank on Google",
+        "business growth Kenya",
+        "organic traffic",
+        "search visibility Kenya"
+      ],
+      "question_formats": [
+        "How does [X] work for Kenyan businesses?",
+        "What does [X] cost in Kenya?",
+        "Why does [X] matter for a business in Kenya?",
+        "How long does [X] take for a Kenyan website?",
+        "What is [X] and how does it affect Google rankings in Kenya?",
+        "Which [X] is best for Kenyan [industry] businesses?"
+      ],
+      "predicate_distributions": [
+        "rank (rank on Google, rank higher, rank for)",
+        "grow (grow online, grow visibility, grow traffic)",
+        "build (build a website, build authority, build presence)",
+        "optimize (optimize for search, optimize for mobile, optimize content)",
+        "attract (attract customers, attract leads)",
+        "convert (convert visitors, convert clicks)",
+        "appear (appear on Google, appear in search results)",
+        "generate (generate leads, generate revenue)"
+      ],
+      "heading_vector_pattern": "H1: [Outcome/Benefit] in Kenya — [What We Do]. H2: [Specific aspect] for [Kenyan context/audience]. H3: [Precise entity or attribute with Kenya-specific depth]. First paragraph word: answers directly (e.g., 'Website design in Kenya costs...', 'Local SEO works by...') — never rhetoric ('In today's digital world...')."
+    }
+  },
+
+  "outer_section": {
+    "tier_1_topics": [
+      {
+        "topic": "M-Pesa Payment Integration for Websites",
+        "attribute_focus": "Minor attribute of Business Website — Kenya-specific payment infrastructure",
+        "macro_context": "How M-Pesa integrates with business websites in Kenya — Daraja API, WooCommerce plugins, STK Push, and what it means for Kenyan e-commerce conversion",
+        "query_context_match": true,
+        "representative_queries": [
+          "M-Pesa website integration",
+          "Mpesa Daraja API",
+          "add M-Pesa to my website",
+          "WooCommerce M-Pesa plugin Kenya",
+          "Safaricom Daraja API developer"
+        ],
+        "eav_depth_required": "M-Pesa integration attributes: Daraja API types (STK Push/Lipa Na M-Pesa Online, B2C, C2B, B2B), sandbox vs production credentials, callback URL setup, WooCommerce M-Pesa plugins comparison (Safaricom official, WC Mpesa by Osen Concepts, Pesapal), M-Pesa Express (STK Push) user experience on mobile, transaction limits (Ksh. 10 minimum, Ksh. 150,000 maximum), float management for businesses, M-Pesa reversal handling, integration testing on Safaricom Sandbox, go-live requirements (Safaricom business account, till or paybill choice).",
+        "coverage_status": "missing",
+        "priority": "high",
+        "bridge_to_core": "Connects to E-commerce Website Development Kenya and Custom E-commerce Development Kenya via linked contextual bridge on payment gateway integration",
+        "suggested_h1": "M-Pesa Integration for Kenyan Business Websites: Accept Payments With STK Push",
+        "suggested_h2s": [
+          "How M-Pesa Daraja API Works for Business Websites in Kenya",
+          "STK Push vs Paybill vs Till Number: Which M-Pesa Method for Your Website",
+          "WooCommerce M-Pesa Plugin Comparison for Kenyan Online Stores",
+          "M-Pesa Integration Go-Live Requirements From Safaricom",
+          "Testing Your M-Pesa Integration on Safaricom Sandbox",
+          "M-Pesa Transaction Limits and Float Management for Kenyan E-commerce"
+        ]
+      },
+      {
+        "topic": "Digital Marketing Services Kenya",
+        "attribute_focus": "Minor attribute of Business Website — broader digital promotion context",
+        "macro_context": "The full digital marketing landscape for Kenyan businesses — how website, SEO, social, and ads work together as a digital marketing system",
+        "query_context_match": true,
+        "representative_queries": [
+          "digital marketing Kenya",
+          "digital marketing agency Nairobi",
+          "online marketing Kenya",
+          "digital marketing for small business Kenya"
+        ],
+        "eav_depth_required": "Digital marketing Kenya attributes: channels (organic search via SEO, paid search via Google Ads, social media — Facebook/Instagram/TikTok/LinkedIn in Kenya, email marketing, WhatsApp marketing — most active in Kenya), budget allocation benchmarks for Kenyan SMEs, marketing funnel for Kenyan buyer journey, digital marketing KPIs for Kenya, agency vs in-house decision for Kenyan businesses, digital marketing laws in Kenya (Data Protection Act 2019, advertising standards), analytics stack for Kenyan businesses (GA4, Google Search Console, Meta Business Suite).",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Connects to SEO Services in Kenya via linked bridge — SEO as the organic pillar of digital marketing. Linkless bridge via consistent mention of website as the hub of all digital marketing.",
+        "suggested_h1": "Digital Marketing Services in Kenya: A Complete Online Growth System for Your Business",
+        "suggested_h2s": [
+          "Digital Marketing Channels Available to Kenyan Businesses",
+          "How SEO, Social Media, and Google Ads Work Together for Kenyan Businesses",
+          "Digital Marketing Budget for Kenyan SMEs: Where to Start",
+          "WhatsApp Marketing in Kenya: Converting Through the Most Used App",
+          "Measuring Digital Marketing Results for a Kenyan Business"
+        ]
+      },
+      {
+        "topic": "Online Business Growth Strategies Kenya",
+        "attribute_focus": "Minor attribute — business outcome context beyond the website itself",
+        "macro_context": "Strategic approaches Kenyan businesses use to grow through their digital presence — customer acquisition, retention, referral, and revenue growth online",
+        "query_context_match": true,
+        "representative_queries": [
+          "how to grow business online Kenya",
+          "online business growth Kenya",
+          "digital strategy for business Kenya",
+          "increase online sales Kenya",
+          "how to get more customers online Kenya"
+        ],
+        "eav_depth_required": "Business growth Kenya attributes: customer acquisition cost benchmarks for Kenyan industries, lifetime value calculation for Kenya market, growth channels (SEO ROI timeline vs Google Ads immediate traffic), referral programs (Kenyan consumer trust in peer recommendations), WhatsApp Business as a conversion channel, email list building for Kenyan businesses, repeat customer strategy for Kenya e-commerce, online reputation management (Google reviews, response strategy), Kenya-specific customer journey (price sensitivity, mobile payment preference, WhatsApp as preferred communication).",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Connects to SEO Services in Kenya and E-commerce Website Development Kenya via linkless bridge — consistent positioning of website + SEO as the engine of online business growth.",
+        "suggested_h1": "Online Business Growth in Kenya: How Digital Presence Converts to Revenue",
+        "suggested_h2s": [
+          "The Kenyan Customer Journey Online: From Google Search to Purchase",
+          "SEO vs Google Ads for Business Growth in Kenya: Which Wins Long-Term",
+          "WhatsApp as a Business Growth Tool for Kenyan Companies",
+          "Building Customer Loyalty for Kenyan Online Businesses",
+          "Online Reputation Management for Kenyan Businesses"
+        ]
+      }
+    ],
+
+    "tier_2_topics": [
+      {
+        "topic": "Domain Registration in Kenya",
+        "attribute_focus": "Minor attribute — foundational infrastructure of a Kenyan business website",
+        "macro_context": "How to register a domain name for a Kenyan business — .co.ke vs .com, registrars, pricing, and what domain choice signals to Kenyan customers and Google",
+        "representative_queries": [
+          "domain registration Kenya",
+          "register .co.ke domain",
+          "Kenya domain name",
+          "buy domain Kenya",
+          "domain name for business Kenya"
+        ],
+        "eav_depth_required": ".co.ke domain attributes: KENIC (Kenya Network Information Centre) as registry, accredited registrars in Kenya (Truehost, Kenya Website Experts, Safaricom, Web Hosting Kenya), .co.ke vs .com vs .africa for Kenyan businesses, domain pricing (annual cost comparison), domain privacy/WHOIS protection, DNS management, domain transfer process, expired domain acquisition for SEO, ccTLD benefit for local search ranking in Kenya.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Linked bridge to Website Design for Businesses in Kenya — domain choice is the first step in building a professional Kenyan business website."
+      },
+      {
+        "topic": "Web Hosting in Kenya",
+        "attribute_focus": "Minor attribute — server infrastructure that affects Kenyan website performance",
+        "macro_context": "Hosting options for Kenyan business websites — local vs international, speed implications, reliability, cost, and what to look for when choosing a host for a Kenya-based website",
+        "representative_queries": [
+          "web hosting Kenya",
+          "best web hosting Kenya",
+          "hosting company Kenya",
+          "cheap web hosting Kenya",
+          "Kenya web host comparison"
+        ],
+        "eav_depth_required": "Kenya hosting attributes: local providers (Truehost Kenya, Kenya Website Experts, Safaricom Business, Web4Africa), international with African POPs (SiteGround, Cloudflare, AWS af-south-1 Cape Town), hosting types (shared, VPS, cloud, dedicated), cPanel vs Plesk management, uptime SLA for Kenya market, server location impact on TTFB for Kenyan visitors, SSL inclusion, email hosting integration, bandwidth for Kenyan traffic volumes, backup policies, customer support in Kenyan time zone (EAT UTC+3).",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Linked bridge to Website Speed Optimization Kenya — hosting choice is the primary determinant of server response time (TTFB) for Kenyan visitors."
+      },
+      {
+        "topic": "Google Ads Kenya",
+        "attribute_focus": "Minor attribute — paid search complement to organic SEO for Kenyan businesses",
+        "macro_context": "How Google Ads works for Kenyan businesses — campaign setup, budget, bidding, and how it complements SEO as an immediate traffic source",
+        "representative_queries": [
+          "Google Ads Kenya",
+          "Google Ads agency Nairobi",
+          "run Google Ads Kenya",
+          "PPC agency Kenya",
+          "paid search marketing Kenya"
+        ],
+        "eav_depth_required": "Google Ads Kenya attributes: campaign types (Search, Display, Shopping, YouTube, Performance Max), Kenyan keyword bid prices by industry (lower CPCs than US/UK — KSh data), audience targeting (Nairobi, Mombasa, county-level geotargeting), ad copy compliance (Google Ads policies for Kenya), billing in KES vs USD, Kenya conversion tracking setup (GA4, Google Ads tag), remarketing for Kenyan website visitors, landing page quality score factors, Google Ads vs Facebook Ads for Kenya — comparative ROI data.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Linked bridge to Landing Page Design Kenya and SEO Services in Kenya — Google Ads needs optimized landing pages; SEO and Google Ads together dominate both organic and paid search real estate in Kenya."
+      },
+      {
+        "topic": "Content Marketing Kenya",
+        "attribute_focus": "Minor attribute — blog and article content that builds organic traffic for Kenyan business websites",
+        "macro_context": "How Kenyan businesses use blog content and educational articles to attract organic traffic, build trust, and support SEO",
+        "representative_queries": [
+          "content marketing Kenya",
+          "blog for business Kenya",
+          "content writer Kenya",
+          "SEO blog posts Kenya",
+          "blog strategy business Kenya"
+        ],
+        "eav_depth_required": "Content marketing Kenya attributes: content formats (how-to guides, listicles, industry reports for Kenyan markets, case studies of Kenyan businesses), editorial calendar planning for Kenya, content distribution channels (organic search, LinkedIn Kenya, Twitter/X Kenya, WhatsApp groups), content length benchmarks for Kenyan search ranking, evergreen vs trending content for Kenya, content ROI measurement (traffic to lead attribution), outsourcing content writing (Kenyan freelancers vs content agencies), pillar page and cluster content structure for Kenya niches.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Linked bridge to Content Strategy for Kenyan Websites and SEO Services in Kenya — content marketing is the execution of content strategy and directly fuels SEO."
+      },
+      {
+        "topic": "Branding and Logo Design Kenya",
+        "attribute_focus": "Minor attribute — visual identity that precedes and informs website design for Kenyan businesses",
+        "macro_context": "How branding and logo design connect to website design for Kenyan businesses — brand guidelines, color systems, and visual consistency across digital presence",
+        "representative_queries": [
+          "logo design Kenya",
+          "branding Kenya",
+          "brand identity Kenya",
+          "logo designer Nairobi",
+          "business branding Kenya"
+        ],
+        "eav_depth_required": "Branding Kenya attributes: brand identity components (logo, color palette, typography system, brand voice, tagline), logo file formats for web use (SVG, PNG, WebP), color psychology for Kenyan audiences, brand guideline document components, Kenyan industry branding conventions (healthcare — blue/white, construction — orange/grey, NGO — green, hospitality — warm tones), brand consistency across website, social media, and print, rebranding triggers for established Kenyan businesses, logo design cost in Kenya.",
+        "coverage_status": "missing",
+        "priority": "low",
+        "bridge_to_core": "Linked bridge to Website Design for Businesses in Kenya — brand identity is the visual foundation that website design implements and extends."
+      },
+      {
+        "topic": "Website Analytics and Reporting Kenya",
+        "attribute_focus": "Minor attribute — measuring and understanding website performance for Kenyan businesses",
+        "macro_context": "How Kenyan businesses track website performance — setting up GA4, interpreting traffic data, and using analytics to make business decisions",
+        "representative_queries": [
+          "Google Analytics Kenya",
+          "website analytics Kenya",
+          "track website visitors Kenya",
+          "GA4 setup Kenya",
+          "website reporting Kenya"
+        ],
+        "eav_depth_required": "Analytics Kenya attributes: GA4 setup (property creation, data stream, measurement protocol), key reports for Kenyan businesses (audience location filter for Kenya, device breakdown — mobile dominance confirmation, traffic source analysis — direct, organic, social, referral), conversion tracking setup (contact form submissions, phone call clicks, WhatsApp link clicks, M-Pesa payment completions), Google Search Console integration (Kenya performance filter, query data, CTR optimization), Looker Studio dashboard for client reporting, privacy compliance (Kenya Data Protection Act 2019 and analytics cookie consent).",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Linked bridge to SEO Services in Kenya — analytics is the measurement layer that proves SEO results and informs strategy for Kenyan websites."
+      }
+    ],
+
+    "tier_3_topics": [
+      {
+        "topic": "Kenya E-commerce Market Overview",
+        "attribute_focus": "Deep contextual bridge — market landscape that creates the demand for e-commerce website development in Kenya",
+        "macro_context": "The state of e-commerce in Kenya — market size, growth, consumer behavior, major players, and what it means for businesses going online",
+        "representative_queries": [
+          "e-commerce Kenya",
+          "online shopping Kenya",
+          "Kenya e-commerce market",
+          "online business Kenya statistics",
+          "Kenya digital commerce"
+        ],
+        "eav_depth_required": "Kenya e-commerce attributes: market size (Kenya e-commerce revenue data, growth rate), major platforms (Jumia Kenya, Jiji Kenya, Kilimall), consumer behavior (M-Pesa payment preference, cash-on-delivery still significant, trust barriers for online shopping), product categories with highest online demand in Kenya (electronics, fashion, beauty, groceries — Naivas Online, QuickMart), delivery infrastructure (Sendy, Glovo, Bolt Food for last-mile), internet penetration by county, digital literacy by age bracket in Kenya.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Linkless bridge to E-commerce Website Development Kenya — consistent positioning of Kenya's e-commerce growth as the reason businesses need a professional online store."
+      },
+      {
+        "topic": "Kenya Digital Economy and ICT Landscape",
+        "attribute_focus": "Deep contextual bridge — national digital context that gives meaning to web design and SEO in Kenya",
+        "macro_context": "How Kenya's digital economy creates the environment in which Tupae Studio operates — internet penetration, smartphone adoption, government digital initiatives, and the opportunity for Kenyan businesses online",
+        "representative_queries": [
+          "Kenya digital economy",
+          "internet in Kenya statistics",
+          "ICT Kenya",
+          "Kenya tech hub",
+          "Silicon Savannah Kenya"
+        ],
+        "eav_depth_required": "Kenya ICT attributes: internet penetration (CA Kenya reports — 2024 figures), mobile subscription data (Safaricom, Airtel, Telkom market share), Silicon Savannah reputation (Nairobi as Africa's tech hub), government digital initiatives (Huduma Namba, e-government, eCitizen platform), Kenya ICT Authority regulations for websites, data center infrastructure (EAOX — East Africa Internet Exchange, CDC Kenya), broadband infrastructure (TEAMS cable, SEACOM, EASSy undersea cables), Konza Technopolis development, university ICT programs driving tech talent.",
+        "coverage_status": "missing",
+        "priority": "low",
+        "bridge_to_core": "Linkless bridge to SEO Services in Kenya and Website Design for Businesses in Kenya — positions Tupae Studio as experts operating within Kenya's growing digital economy."
+      },
+      {
+        "topic": "Small and Medium Enterprise (SME) Digital Adoption Kenya",
+        "attribute_focus": "Deep contextual bridge — the primary customer segment for Tupae Studio and their digital challenges",
+        "macro_context": "The state of digital adoption among Kenyan SMEs — barriers to going online, what drives SME website investment, and how digital presence changes SME fortunes",
+        "representative_queries": [
+          "SME digital Kenya",
+          "small business website Kenya",
+          "how to take business online Kenya",
+          "digital transformation Kenya SME",
+          "online presence for small business Kenya"
+        ],
+        "eav_depth_required": "Kenya SME digital attributes: SME definition in Kenya (Kenya National Bureau of Statistics criteria), number of registered SMEs in Kenya, percentage with websites vs without, barriers to website adoption (cost misconceptions, technical complexity perception, ROI doubt), government support programs (MSEA, Kenya ICT Board digital programs for SMEs), KEPSA (Kenya Private Sector Alliance) digital initiatives, success stories of Kenyan SMEs that grew through digital, ROI of website for Kenyan SMEs by sector (hospitality, retail, professional services).",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Linked bridge to Website Design for Businesses in Kenya — SME digital adoption context leads directly to the case for professional website design."
+      },
+      {
+        "topic": "Kenya Data Protection Act and Website Compliance",
+        "attribute_focus": "Deep contextual bridge — legal requirement context affecting every Kenyan business website",
+        "macro_context": "What the Kenya Data Protection Act (2019) requires of business websites — privacy policies, cookie consent, data handling, and compliance for Kenyan website owners",
+        "representative_queries": [
+          "Kenya Data Protection Act website",
+          "privacy policy Kenya",
+          "GDPR Kenya website",
+          "website legal requirements Kenya",
+          "Kenya data protection compliance"
+        ],
+        "eav_depth_required": "KDPA website attributes: Kenya Data Protection Act 2019 key provisions for websites (data controller registration with ODPC, lawful basis for data collection, privacy notice requirements), cookie consent implementation for Kenyan websites, privacy policy required components under KDPA, data breach notification obligations (72-hour rule), cross-border data transfer restrictions, penalties for non-compliance (KSh. 5 million fine or imprisonment), Office of the Data Protection Commissioner (ODPC) registration process, GDPR comparison for Kenyan businesses serving international clients.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "bridge_to_core": "Linked bridge to Website Design for Businesses in Kenya and Corporate Website Design Kenya — compliance is a design requirement, not an afterthought, for Kenyan business websites."
+      },
+      {
+        "topic": "Social Media Marketing Integration Kenya",
+        "attribute_focus": "Deep contextual bridge — social platforms that drive traffic to Kenyan business websites",
+        "macro_context": "How Kenyan businesses use social media to drive traffic to their websites — Facebook, Instagram, TikTok, LinkedIn, and WhatsApp in the Kenyan market context",
+        "representative_queries": [
+          "social media marketing Kenya",
+          "Facebook marketing Kenya",
+          "Instagram business Kenya",
+          "TikTok marketing Kenya",
+          "WhatsApp business Kenya"
+        ],
+        "eav_depth_required": "Kenya social media attributes: platform penetration (Facebook still #1 by active users in Kenya, TikTok fastest growing, Instagram for visual brands, LinkedIn for B2B Kenya, Twitter/X for news and commentary), WhatsApp Business features for Kenyan businesses (catalog, broadcast lists, quick replies — most converted channel in Kenya), Meta Ads for Kenyan audience targeting, TikTok for Business Kenya, content formats by platform (Reels, Stories, posts), social proof → website traffic funnel for Kenya, social media profile optimization to drive website clicks, link-in-bio strategy for Kenya.",
+        "coverage_status": "missing",
+        "priority": "low",
+        "bridge_to_core": "Linked bridge to Digital Marketing Services Kenya and Website Design for Businesses in Kenya — social media is the traffic driver; the website is the conversion engine."
+      }
+    ],
+
+    "contextual_bridges": [
+      {
+        "from_node": "M-Pesa Payment Integration Kenya",
+        "to_node": "E-commerce Website Development Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "e-commerce website development in Kenya",
+        "bridge_description": "M-Pesa integration article links to e-commerce development service page — M-Pesa is the key differentiator of Kenyan e-commerce, making it the natural entry point into the e-commerce service offering"
+      },
+      {
+        "from_node": "Kenya E-commerce Market Overview",
+        "to_node": "E-commerce Website Development Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "professional e-commerce website in Kenya",
+        "bridge_description": "Market overview article drives to the e-commerce development service — readers learning about the Kenya e-commerce opportunity are primed to invest in an online store"
+      },
+      {
+        "from_node": "Kenya Data Protection Act and Website Compliance",
+        "to_node": "Website Design for Businesses in Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "professionally designed Kenyan business website",
+        "bridge_description": "Compliance article connects to website design service — professional design includes compliance features (privacy policy, cookie consent, data collection forms) from the start"
+      },
+      {
+        "from_node": "Digital Marketing Services Kenya",
+        "to_node": "SEO Services in Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "SEO services in Kenya",
+        "bridge_description": "Digital marketing overview positions SEO as the highest-ROI channel for Kenyan businesses, directly linking to the core SEO service page"
+      },
+      {
+        "from_node": "SME Digital Adoption Kenya",
+        "to_node": "Website Design for Businesses in Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "build a professional website for your Kenyan business",
+        "bridge_description": "SME digital adoption article addresses the awareness stage — readers learning about going online are directed to the website design service"
+      },
+      {
+        "from_node": "Web Hosting in Kenya",
+        "to_node": "Website Speed Optimization Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "website speed optimization in Kenya",
+        "bridge_description": "Hosting article connects hosting quality to speed — readers learning about hosting are directed to the speed optimization service, which addresses the performance outcome of hosting decisions"
+      },
+      {
+        "from_node": "Social Media Marketing Integration Kenya",
+        "to_node": "Website Design for Businesses in Kenya",
+        "bridge_type": "linkless",
+        "anchor_text": "",
+        "bridge_description": "Consistent message across social media content and website design content: social media drives traffic, but the website converts it — positions website as the essential conversion hub for all social traffic"
+      },
+      {
+        "from_node": "Google Ads Kenya",
+        "to_node": "Landing Page Design Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "landing page design in Kenya",
+        "bridge_description": "Google Ads article links to landing page design — Google Ads ROI depends heavily on landing page quality, making this a natural product recommendation within the content"
+      },
+      {
+        "from_node": "Content Marketing Kenya",
+        "to_node": "SEO Services in Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "SEO services in Kenya",
+        "bridge_description": "Content marketing article links to SEO service — content and SEO are inseparable; the article positions Tupae Studio SEO as the strategy that makes content marketing pay off"
+      },
+      {
+        "from_node": "Branding and Logo Design Kenya",
+        "to_node": "Website Design for Businesses in Kenya",
+        "bridge_type": "linked",
+        "anchor_text": "professional website design in Kenya",
+        "bridge_description": "Branding article links to website design — brand identity is the foundation, website is where it lives and works to attract customers"
+      }
+    ]
+  },
+
+  "coverage_gaps": [
+    {
+      "topic": "NGO and Non-Profit Website Design Kenya",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Kenya has thousands of registered NGOs. NGO website requirements (donor pages, programme pages, impact reporting, grant compliance, NGO Board registration display) are distinct from commercial business websites and warrant a dedicated node. Low competition in search."
+    },
+    {
+      "topic": "Multilingual (Swahili) SEO Kenya",
+      "section": "core",
+      "gap_type": "shallow_depth",
+      "priority": "high",
+      "reason": "Swahili search behavior in Kenya is an underexplored but growing area. A dedicated node on Swahili SEO strategy (Swahili keyword research, hreflang for Swahili pages, Swahili content optimization) would give Tupae Studio a unique competitive advantage."
+    },
+    {
+      "topic": "Link Building and Digital PR for Kenyan Websites",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "high",
+      "reason": "Off-page SEO (earning backlinks from Kenyan media, industry associations, government portals) is a critical ranking factor not covered in the current map. Business Daily Africa, Nation Media Group, Standard Group digital — these are natural link targets for Kenyan businesses."
+    },
+    {
+      "topic": "Schema Markup for Kenyan Local Businesses",
+      "section": "core",
+      "gap_type": "disconnected",
+      "priority": "medium",
+      "reason": "Schema markup is touched in Technical SEO Audit but deserves its own depth-first node — types, Kenya-specific attributes (accepting M-Pesa in schema), rich result opportunities in Kenyan SERPs."
+    },
+    {
+      "topic": "WhatsApp Business Integration for Websites",
+      "section": "outer",
+      "gap_type": "undefined",
+      "priority": "high",
+      "reason": "WhatsApp is Kenya's primary business communication channel. A dedicated node on WhatsApp Business API integration with websites (click-to-WhatsApp buttons, WhatsApp catalog integration, WhatsApp Business API for larger businesses) is a major gap given its conversion importance."
+    },
+    {
+      "topic": "KRA iTax and eTIMS Compliance for E-commerce",
+      "section": "outer",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Kenya Revenue Authority's eTIMS (Electronic Tax Invoice Management System) is now mandatory for businesses above a threshold. E-commerce websites must integrate eTIMS compliance. This is a highly specific, low-competition topic with high commercial intent."
+    }
+  ],
+
+  "vastness_depth_momentum": {
+    "vastness_assessment": "The topical map now has 6 Tier 1 Core topics, 18 Tier 2 Core topics (including 6 confirmed industry verticals from business plan), 3 Tier 1 Outer topics, 6 Tier 2 Outer topics, and 5 Tier 3 Outer topics — totaling 38 content nodes. Industry verticals (Industrial/Machinery, Medical/Dental, Law/Accounting, Real Estate, Hospitality, Schools) are now confirmed niches with dedicated pages — not just coverage gaps. The map is wide and niche-deep. Phase 2 expansion: NGO/non-profit websites, and deeper geographic targeting (Mombasa, Kisumu, Nakuru city-specific pages).",
+    "depth_assessment": "Depth is strong at the framework level — each node has Kenya-specific EAV requirements. Actual coverage depth score is 0% (no content published). The custom-built website positioning (vs WordPress) is a strategic differentiator that must permeate all content: performance data, security comparisons, Core Web Vitals advantages. This is not just a service feature — it is a topical authority claim that changes the macro semantics of the entire site.",
+    "momentum_recommendation": "Priority order: Core Tier 1 service pages first (6 pages, Month 1) — these are the pages clients land on from a pitch demo link or Google search. Then industry vertical pages (Month 2) — these directly support the 6 target niches in the business plan and allow Tupae Studio to build demo sites for each niche with an SEO-optimised case study page. Then Core Tier 2 (Month 3-4). Outer Section (Month 5-6). Minimum momentum: 2 substantial pages/week at 1,500+ words with Kenya-specific depth.",
+    "priority_recommendation": "DEPTH first, then MOMENTUM. The custom-built positioning plus Kenya specificity is the topical border that generic agencies cannot cross. Every page must answer queries that a WordPress-using web agency in Nairobi cannot answer credibly. Industry vertical pages are strategically critical — they match the business plan's prospecting targets and enable the 'free demo site' pitch strategy: each niche page becomes both an SEO asset and a sales tool.",
+    "recommended_publication_order": [
+      "1. Website Design for Businesses in Kenya (Tier 1 Core — homepage-level authority page)",
+      "2. Custom-Built Website vs WordPress Kenya (Tier 2 Core — core brand positioning page)",
+      "3. SEO Services in Kenya (Tier 1 Core)",
+      "4. E-commerce Website Development Kenya (Tier 1 Core)",
+      "5. Local SEO for Kenyan Businesses (Tier 1 Core)",
+      "6. Custom E-commerce Development Kenya (Tier 2 Core — replaces WooCommerce)",
+      "7. M-Pesa Payment Integration Kenya (Tier 1 Outer — high commercial intent)",
+      "8. Industrial and Machinery Business Website Design Kenya (Tier 2 Core — first niche: highest priority per business plan)",
+      "9. Medical Clinic and Dental Practice Website Design Kenya (Tier 2 Core)",
+      "10. Law Firm and Accountancy Practice Website Design Kenya (Tier 2 Core)",
+      "11. Real Estate Agent and Agency Website Design Kenya (Tier 2 Core)",
+      "12. Restaurant and Hotel Website Design Kenya (Tier 2 Core)",
+      "13. School and College Website Design Kenya (Tier 2 Core)",
+      "14. Mobile-First Website Design Kenya (Tier 2 Core)",
+      "15. Google Business Profile Optimization Kenya (Tier 2 Core)",
+      "16. Technical SEO Audit Kenya (Tier 2 Core)",
+      "17. Business Website Redesign Kenya (Tier 1 Core)",
+      "18. Corporate Website Design Kenya (Tier 1 Core)",
+      "19. On-Page SEO Services Kenya (Tier 2 Core)",
+      "20. SEO Keyword Research Kenya (Tier 2 Core)",
+      "21. Website Speed Optimization Kenya (Tier 2 Core)",
+      "22. Domain Registration Kenya (Tier 2 Outer)",
+      "23. Web Hosting Kenya (Tier 2 Outer)",
+      "24. Kenya E-commerce Market Overview (Tier 3 Outer)",
+      "25. SME Digital Adoption Kenya (Tier 3 Outer)",
+      "26. Digital Marketing Services Kenya (Tier 1 Outer)",
+      "27. Website Maintenance Services Kenya (Tier 2 Core)",
+      "28. Landing Page Design Kenya (Tier 2 Core)",
+      "29. Custom Web Development Kenya (Tier 2 Core)",
+      "30. Content Strategy for Kenyan Websites (Tier 2 Core)",
+      "31. Google Ads Kenya (Tier 2 Outer)",
+      "32. Content Marketing Kenya (Tier 2 Outer)",
+      "33. Online Business Growth Strategies Kenya (Tier 1 Outer)",
+      "34. Website Analytics and Reporting Kenya (Tier 2 Outer)",
+      "35. Kenya Data Protection Act Website Compliance (Tier 3 Outer)",
+      "36. Social Media Marketing Integration Kenya (Tier 3 Outer)",
+      "37. Branding and Logo Design Kenya (Tier 2 Outer)",
+      "38. Kenya Digital Economy and ICT Landscape (Tier 3 Outer)"
+    ]
+  }
+}

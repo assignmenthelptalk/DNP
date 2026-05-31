@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="cache-gibbs-title">
+  <title id="cache-gibbs-title">Gibbs' Reflective Cycle 1988: Six Stages Applied to CACHE Early Years and Health and Social Care Reflective Accounts</title>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Gibbs' Reflective Cycle 1988 — CACHE Level 3</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Six Stages · Analysis Stage Must Cite Theory and Legislation in Harvard Format · Action Plan Must Be Specific</text>
+
+  <!-- Stage cards in linear flow 3+3 layout -->
+
+  <!-- Row 1 -->
+  <!-- Stage 1: Description -->
+  <rect x="28" y="82" width="232" height="154" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="82" width="232" height="36" rx="8" fill="#4B5563"/>
+  <rect x="28" y="104" width="232" height="14" fill="#4B5563"/>
+  <text x="144" y="105" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">1. DESCRIPTION</text>
+  <text x="44" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">What happened? Specific</text>
+  <text x="44" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">practice episode — who, where,</text>
+  <text x="44" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">when, what occurred.</text>
+  <line x1="44" y1="170" x2="244" y2="170" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">Length: concise (3–5 sentences)</text>
+  <text x="44" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Not a detailed narrative.</text>
+  <text x="44" y="212" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#DC2626">Error: Making this the longest section</text>
+  <text x="44" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">Write in first person throughout</text>
+
+  <!-- Arrow 1→2 -->
+  <polygon points="268,169 284,161 284,177" fill="#2563EB"/>
+  <line x1="260" y1="169" x2="284" y2="169" stroke="#2563EB" stroke-width="2"/>
+
+  <!-- Stage 2: Feelings -->
+  <rect x="284" y="82" width="232" height="154" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="284" y="82" width="232" height="36" rx="8" fill="#4B5563"/>
+  <rect x="284" y="104" width="232" height="14" fill="#4B5563"/>
+  <text x="400" y="105" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">2. FEELINGS</text>
+  <text x="300" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">What were you feeling during</text>
+  <text x="300" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">and after the episode?</text>
+  <text x="300" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Authentic, specific emotional response.</text>
+  <line x1="300" y1="170" x2="500" y2="170" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="300" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">Length: brief (2–4 sentences)</text>
+  <text x="300" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"I felt uncertain whether I was</text>
+  <text x="300" y="212" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">following correct procedure."</text>
+  <text x="300" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#DC2626">Error: Skipping as "unprofessional"</text>
+
+  <!-- Arrow 2→3 -->
+  <polygon points="524,169 540,161 540,177" fill="#2563EB"/>
+  <line x1="516" y1="169" x2="540" y2="169" stroke="#2563EB" stroke-width="2"/>
+
+  <!-- Stage 3: Evaluation -->
+  <rect x="540" y="82" width="232" height="154" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="540" y="82" width="232" height="36" rx="8" fill="#2563EB"/>
+  <rect x="540" y="104" width="232" height="14" fill="#2563EB"/>
+  <text x="656" y="105" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">3. EVALUATION</text>
+  <text x="556" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">What went well? What did not</text>
+  <text x="556" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">go well? Explicit judgements</text>
+  <text x="556" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">not neutral description.</text>
+  <line x1="556" y1="170" x2="756" y2="170" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="556" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Both strengths AND areas for</text>
+  <text x="556" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">development must be identified.</text>
+  <text x="556" y="212" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Balanced and honest.</text>
+  <text x="556" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#DC2626">Error: Self-congratulatory only</text>
+
+  <!-- Curved arrow Row 1 → Row 2 (right side down) -->
+  <polygon points="772,246 764,258 756,248" fill="#D97706"/>
+  <path d="M 772 236 Q 786 236 786 252 Q 786 268 772 268" stroke="#D97706" stroke-width="2" fill="none"/>
+
+  <!-- Row 2 (reversed flow: right to left) -->
+  <!-- Stage 4: Analysis (right) — most important -->
+  <rect x="540" y="254" width="232" height="168" rx="8" fill="#FFF8EC" stroke="#F5C97A" stroke-width="2"/>
+  <rect x="540" y="254" width="232" height="36" rx="8" fill="#D97706"/>
+  <rect x="540" y="276" width="232" height="14" fill="#D97706"/>
+  <text x="656" y="277" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">4. ANALYSIS ★ LONGEST</text>
+  <text x="556" y="304" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Make sense of the episode using</text>
+  <text x="556" y="318" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">theory and legislation. Apply named</text>
+  <text x="556" y="332" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">theorist with (Author, Year) citation.</text>
+  <line x1="556" y1="342" x2="756" y2="342" stroke="#FDE68A" stroke-width="1"/>
+  <text x="556" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">Early Years: cite Piaget, Vygotsky,</text>
+  <text x="556" y="370" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">Bowlby etc. + EYFS (2021)</text>
+  <text x="556" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">H&amp;SC: Care Act 2014, MCA 2005</text>
+  <text x="556" y="398" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Must be SPECIFIC — not generic</text>
+  <text x="556" y="412" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#DC2626">Error: Describing more without citing theory</text>
+
+  <!-- Arrow 4→5 (left) -->
+  <polygon points="532,339 516,331 516,347" fill="#D97706"/>
+  <line x1="540" y1="339" x2="516" y2="339" stroke="#D97706" stroke-width="2"/>
+
+  <!-- Stage 5: Conclusion -->
+  <rect x="284" y="254" width="232" height="168" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="284" y="254" width="232" height="36" rx="8" fill="#2563EB"/>
+  <rect x="284" y="276" width="232" height="14" fill="#2563EB"/>
+  <text x="400" y="277" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">5. CONCLUSION</text>
+  <text x="300" y="304" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">What else could have been done?</text>
+  <text x="300" y="318" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">What has been learned from this</text>
+  <text x="300" y="332" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">reflective analysis?</text>
+  <line x1="300" y1="342" x2="500" y2="342" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="300" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Synthesises the Analysis.</text>
+  <text x="300" y="370" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">No new theoretical content here</text>
+  <text x="300" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">(all theory should be in Analysis).</text>
+  <text x="300" y="398" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Identifies the gap: practice vs</text>
+  <text x="300" y="412" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">legislative/theoretical standard.</text>
+
+  <!-- Arrow 5→6 (left) -->
+  <polygon points="276,339 260,331 260,347" fill="#2563EB"/>
+  <line x1="284" y1="339" x2="260" y2="339" stroke="#2563EB" stroke-width="2"/>
+
+  <!-- Stage 6: Action Plan -->
+  <rect x="28" y="254" width="232" height="168" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <rect x="28" y="254" width="232" height="36" rx="8" fill="#D97706"/>
+  <rect x="28" y="276" width="232" height="14" fill="#D97706"/>
+  <text x="144" y="277" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">6. ACTION PLAN</text>
+  <text x="44" y="304" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">What will I do differently?</text>
+  <text x="44" y="318" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Must be specific, measurable,</text>
+  <text x="44" y="332" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">and evidence-derived.</text>
+  <line x1="44" y1="342" x2="244" y2="342" stroke="#FDE68A" stroke-width="1"/>
+  <text x="44" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Name what, when, how and</text>
+  <text x="44" y="370" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">how success will be recognised.</text>
+  <text x="44" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Derives from Analysis — not generic</text>
+  <text x="44" y="398" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">professional development aspiration.</text>
+  <text x="44" y="412" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Error: "I will improve communication"</text>
+
+  <!-- Citation rule -->
+  <rect x="28" y="436" width="744" height="32" rx="8" fill="#1B3A6B"/>
+  <text x="400" y="456" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Cite Gibbs: (Gibbs, 1988) | Full ref: Gibbs, G. (1988) Learning by Doing. Oxford: Further Education Unit, Oxford Polytechnic.</text>
+
+  <!-- Models comparison -->
+  <rect x="28" y="480" width="360" height="68" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="498" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">KOLB (1984) — 4 STAGES</text>
+  <text x="44" y="513" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Concrete Experience → Reflective Observation</text>
+  <text x="44" y="527" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">→ Abstract Conceptualisation → Active Experimentation</text>
+  <text x="44" y="541" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Best for CPD / professional development units. Cite: (Kolb, 1984)</text>
+
+  <rect x="412" y="480" width="360" height="68" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="428" y="498" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">SCHON (1983) — TWO TYPES</text>
+  <text x="428" y="513" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Reflection-IN-Action: real-time adjustment during episode</text>
+  <text x="428" y="527" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Reflection-ON-Action: structured review after episode</text>
+  <text x="428" y="541" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">CACHE accounts = Reflection-on-Action. Cite: (Schon, 1983)</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CACHE Assignment Help Service · NCFE CACHE Level 3 Early Years and Health and Social Care</text>
+</svg>

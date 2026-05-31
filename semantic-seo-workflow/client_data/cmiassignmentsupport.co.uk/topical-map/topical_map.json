@@ -1,0 +1,557 @@
+{
+  "built_at": "2026-04-03",
+  "central_entity": "CMI qualification assignment",
+  "source_context": "UK academic support service — CMI assignment writing and tutoring for working professionals (managers, NHS staff, public sector workers) pursuing Chartered Management Institute qualifications at Levels 3 to 7. Monetises through paid assignment writing, tutoring sessions, and resubmission support across all CMI qualification levels.",
+  "central_search_intent": "Getting expert help to complete, pass, and understand CMI qualification assignments to the required standard — at the correct command verb depth — for working professionals who cannot afford a referral or a failed submission.",
+
+  "topical_border_definition": {
+    "inside_core": [
+      "All five CMI qualification levels — Level 3 (First Line Management), Level 4 (Management and Leadership), Level 5 (Management and Leadership Diploma), Level 6 (Professional Management and Leadership), Level 7 (Strategic Management and Leadership)",
+      "All qualification types at each level — Award, Certificate, and Diploma",
+      "All 80+ CMI units across levels: L3 (301–312), L4 (401–411), L5 (501–525), L6 (601–616), L7 (701–717)",
+      "All CMI assignment output formats — management report, essay, reflective account, case study analysis, action plan, work-based project",
+      "All service delivery types — full assignment writing, assignment tutoring, coursework help, resubmission support, homework help, assignment answers, examples",
+      "CMI command verb mastery and alignment — Identify, Describe, Explain, Discuss, Analyse, Evaluate, Justify, Critically Evaluate, Critically Analyse, Assess, Develop a Plan",
+      "CMI assignment structure — executive summary, title page, contents page, analysis sections, recommendations, bibliography, appendices",
+      "CMI assessment criteria and Learning Outcomes — Pass, Merit, Distinction differentiation",
+      "Harvard referencing to CMI standards — ManagementDirect, peer-reviewed journals, CMI publications",
+      "UK-specific CMI student profiles — NHS Band 7+, public sector managers, commercial managers, military officers, professional services leaders",
+      "Access modality variants — online help, cheap/affordable options, outsourced completion",
+      "Resubmission and referral recovery"
+    ],
+    "inside_outer": [
+      "CMI qualification framework and pathway structure — how levels connect, ACMI/MCMI/FCMI membership progression",
+      "CMI qualification level comparison and selection guidance (Level 5 vs Level 7, CMI vs ILM, CMI vs MBA)",
+      "Management theories and frameworks used in CMI assignments — Tuckman, Gibbs, Kolb, Kotter, Lewin, Maslow, Herzberg, Porter, Belbin, Bass and Avolio, Thomas-Kilmann, ADKAR, Ansoff, Balanced Scorecard, Resource-Based View",
+      "CMI reflective practice methodology — Gibbs' Reflective Cycle, Kolb's Experiential Learning Cycle, CPD portfolio practice",
+      "NHS management context — Band structure, management qualifications in NHS, workforce leadership",
+      "Public sector management qualifications landscape",
+      "Management report writing methodology — how to write an executive summary, how to write SMART recommendations, how to structure analysis sections",
+      "Academic writing skills for managers — translating professional experience into academic language, argument construction",
+      "CMI assessment criteria explained — what assessors look for at each level, Pass vs Merit vs Distinction",
+      "Harvard referencing guide for CMI students — citing ManagementDirect, journals, government reports",
+      "CMI Membership grades explained — ACMI, MCMI, FCMI, CMgr — what qualifications unlock which grades",
+      "Is a CMI qualification worth it? — career ROI, employer recognition, sector value",
+      "CMI qualification structure explained — credits, units, how the Diploma is built",
+      "Strategic leadership theory — relevant to L7 outer context: distributed leadership, authentic leadership, servant leadership, transactional vs transformational",
+      "Organisational strategy frameworks — Porter's Five Forces, PESTLE, Ansoff Matrix — educational context for L7 students"
+    ],
+    "outside_border_excluded": [
+      "ILM (Institute of Leadership and Management) assignment help — different awarding body, different qualification structure, would dilute CMI source context specificity",
+      "CIPD assignment help — HR qualifications, completely different professional domain and student type",
+      "ACCA, CIMA, CFA, or any financial/accounting qualification assignment help",
+      "University degree or MBA dissertation help — different academic context, different student type, different word count and research methodology requirements",
+      "Consumer-facing management content (general leadership articles not connected to CMI assessment)",
+      "CMI short courses, apprenticeships, or employer programmes not connected to the Award/Certificate/Diploma qualification structure",
+      "Generic study skills content with no CMI connection"
+    ],
+    "competitor_border_threat": "The primary border risk is generic 'assignment help' sites that list CMI among dozens of qualifications. Their site-wide N-grams are diluted across subjects. cmiassignmentsupport.co.uk must maintain CMI-only specificity in all boilerplate, anchor texts, and N-grams to signal a purpose-built source context rather than a general academic writing service. ILM is the most proximate competitor qualification — some students study both, but the content must not mix the two."
+  },
+
+  "topical_coverage_score": 22,
+  "topical_coverage_note": "19 pages live (17 service pages + 2 guide pages). Estimated 22/100 against the full topical border including unit-level pages. Target 60+ at 12 months, 80+ at 24 months. Unit-specific pages (80+ units) represent the largest single coverage gap — each unit page captures a distinct query cluster with its own intent and Learning Outcome context.",
+
+  "core_section": {
+    "main_attribute": "CMI assignment completion and academic success — writing, structuring, and passing CMI qualification unit assignments at the correct command verb depth for the student's qualification level",
+    "derived_attributes": [
+      "Qualification level navigation — matching students to the right level-specific service (L3 → L4 → L5 → L6 → L7)",
+      "Assignment format mastery — management report, essay, reflective account, case study, action plan",
+      "Command verb depth alignment — matching response depth to Pass/Merit/Distinction standard",
+      "Service delivery modality — full writing vs tutoring vs resubmission support",
+      "Unit-specific subject coverage — 80+ individual unit assignment topics across all five levels",
+      "Affordability and access — affordable options, online delivery, outsourced completion variants"
+    ],
+
+    "tier_1_nodes": [
+      {
+        "node_id": "T1-01",
+        "topic": "CMI Assignment Help (Homepage / Pillar)",
+        "slug": "/",
+        "status": "live",
+        "priority": "critical",
+        "attribute_focus": "Full-service overview — all levels, all service types, qualification framework navigation, trust and social proof",
+        "macro_context": "Expert CMI assignment help for working professionals studying Levels 3–7 — writing service, tutoring, coursework support, and resubmission across all 80+ CMI units",
+        "micro_context_targets": ["level navigation (L3–L7)", "service type disambiguation (writing vs tutoring vs coursework)", "process (WhatsApp → quote → delivery)", "writer credibility", "FAQs"],
+        "command_verbs_covered": ["all service verbs at overview depth"],
+        "primary_schema": ["Organization", "WebSite", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T1-03", "T1-04", "T1-05", "T1-06", "T1-07", "T2-01", "T2-02", "T2-08"],
+        "central_entity_connection": "CMI qualification assignment — appears in every content section as the service object",
+        "eav_note": "EAV complete for service overview level. Needs infographic placeholders replaced with designed assets."
+      },
+      {
+        "node_id": "T1-02",
+        "topic": "CMI Assignment Writing Service",
+        "slug": "/cmi-assignment-writing-service/",
+        "status": "live",
+        "priority": "critical",
+        "attribute_focus": "Full assignment writing — all formats (management report, essay, reflective account, case study, action plan), all levels, command verb alignment, Harvard referencing",
+        "macro_context": "Professional CMI assignment writing service — submission-ready documents written by CMI-qualified UK writers across all levels and formats",
+        "micro_context_targets": ["format types by level", "command verb alignment", "writer credentials", "confidentiality", "revision policy", "level-by-level writing service navigation"],
+        "command_verbs_covered": ["Evaluate", "Justify", "Critically Analyse", "Critically Evaluate", "Develop a Plan"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-03", "T1-04", "T1-05", "T1-06", "T1-07", "T2-01"],
+        "central_entity_connection": "CMI qualification assignment — service object throughout",
+        "eav_note": "Strong EAV on format types and command verb alignment. Process timeline infographic placeholder needs designed asset."
+      },
+      {
+        "node_id": "T1-03",
+        "topic": "CMI Level 3 Assignment Help",
+        "slug": "/cmi-level-3-assignment-help/",
+        "status": "live",
+        "priority": "high",
+        "attribute_focus": "First Line Management qualification — all 12 units (301–312), essay and short-report formats, Describe/Explain/Analyse command verbs, team leader and supervisor student profile",
+        "macro_context": "CMI Level 3 First Line Management assignment help — all 12 units, essay format, foundational command verbs",
+        "micro_context_targets": ["qualification structure (Award, Certificate, Diploma)", "unit coverage (301–312)", "student profile (team leaders, supervisors)", "format (essay, structured answer)", "qualification pathway to L4"],
+        "command_verbs_covered": ["Identify", "Describe", "Explain", "Discuss", "Analyse"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-04", "T1-02", "T2-01"],
+        "planned_child_nodes": ["Unit 301 help", "Unit 302 help", "Unit 303 help", "Unit 304 help", "Unit 305 help", "Unit 306 help", "Unit 307 help", "Unit 308 help", "Unit 309 help", "Unit 310 help", "Unit 311 help", "Unit 312 help"],
+        "central_entity_connection": "CMI Level 3 qualification assignment — central entity specified at level",
+        "eav_note": "Level 3 unit list and format coverage is the main depth gap. Unit-level child pages are the priority expansion."
+      },
+      {
+        "node_id": "T1-04",
+        "topic": "CMI Level 4 Assignment Help",
+        "slug": "/cmi-level-4-assignment-help/",
+        "status": "live",
+        "priority": "high",
+        "attribute_focus": "Management and Leadership (L4) — all 11 units (401–411), emerging Analyse and Evaluate command verbs, junior managers, essay and management report transition",
+        "macro_context": "CMI Level 4 Management and Leadership assignment help — all 11 units, Analyse and Evaluate depth, junior manager student profile",
+        "micro_context_targets": ["qualification structure", "unit coverage (401–411)", "student profile (junior managers)", "format transition (essay → management report)", "qualification pathway L3→L4→L5"],
+        "command_verbs_covered": ["Analyse", "Evaluate", "Discuss"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-03", "T1-05", "T1-02", "T2-01"],
+        "planned_child_nodes": ["Unit 401 help", "Unit 402 help", "Unit 403 help", "Unit 404 help", "Unit 405 help", "Unit 406 help", "Unit 407 help", "Unit 408 help", "Unit 409 help", "Unit 410 help", "Unit 411 help"],
+        "central_entity_connection": "CMI Level 4 qualification assignment — central entity at level",
+        "eav_note": "Full unit list (401–411) and format bridge from L3 essay to L4/L5 management report is the key EAV gap."
+      },
+      {
+        "node_id": "T1-05",
+        "topic": "CMI Level 5 Assignment Help",
+        "slug": "/cmi-level-5-assignment-help/",
+        "status": "live",
+        "priority": "critical",
+        "attribute_focus": "Management and Leadership Diploma (L5) — all 25 units (501–525), management report format, Evaluate/Justify command verbs, middle manager and NHS Band 7+ student profile",
+        "macro_context": "CMI Level 5 assignment help — all 25 units of the Management and Leadership Diploma, management report format, Evaluate and Justify depth, Merit vs Distinction differentiation",
+        "micro_context_targets": ["qualification structure (Award, Certificate, Diploma)", "all 25 units (501–525)", "management report format in full", "Evaluate vs Critically Evaluate distinction", "Merit vs Distinction depth", "student profile (NHS, public sector, middle managers)", "pathway to L6 and L7"],
+        "command_verbs_covered": ["Evaluate", "Justify", "Critically Evaluate", "Develop a Plan"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-04", "T1-06", "T1-07", "T1-02", "T2-01", "T2-02", "O2-04", "O2-06"],
+        "planned_child_nodes": ["CMI 501 help", "CMI 502 help", "CMI 503 help", "CMI 504 help", "CMI 505 help", "CMI 506 help", "CMI 507 help", "CMI 508 help", "CMI 509 help", "CMI 510 help", "CMI 511 help", "CMI 512 help", "CMI 513 help", "CMI 514 help", "CMI 515 help", "CMI 516 help", "CMI 517 help", "CMI 518 help", "CMI 519 help", "CMI 520 help", "CMI 521 help", "CMI 522 help", "CMI 523 help", "CMI 524 help", "CMI 525 help"],
+        "central_entity_connection": "CMI Level 5 qualification assignment — highest-volume central entity instance",
+        "eav_note": "Strongest existing page. 25 unit pages planned — CMI 501, 502, 503, 504, 509 are highest priority. Links to command verbs guide and management report structure guide needed."
+      },
+      {
+        "node_id": "T1-06",
+        "topic": "CMI Level 6 Assignment Help",
+        "slug": "/cmi-level-6-assignment-help/",
+        "status": "live",
+        "priority": "high",
+        "attribute_focus": "Professional Management and Leadership (L6) — all 16 units (601–616), Critically Evaluate command verb, senior manager and department head student profile, strategic scope begins",
+        "macro_context": "CMI Level 6 assignment help — all 16 Professional Management units, Critically Evaluate depth, senior manager profile, bridge between L5 operational and L7 strategic",
+        "micro_context_targets": ["qualification structure", "unit coverage (601–616)", "Critically Evaluate at full depth", "student profile (senior managers, department heads)", "L5 vs L6 vs L7 comparison", "pathway to L7"],
+        "command_verbs_covered": ["Critically Evaluate", "Evaluate", "Justify", "Assess"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-05", "T1-07", "T1-02", "T2-01"],
+        "planned_child_nodes": ["Unit 601 help", "Unit 602 help", "Unit 603 help", "Unit 604 help", "Unit 605 help", "Unit 606 help", "Unit 607 help", "Unit 608 help", "Unit 609 help", "Unit 610 help", "Unit 611 help", "Unit 612 help", "Unit 613 help", "Unit 614 help", "Unit 615 help", "Unit 616 help"],
+        "central_entity_connection": "CMI Level 6 qualification assignment — central entity at level",
+        "eav_note": "16 unit pages planned. Critically Evaluate vs Evaluate disambiguation is the key differentiating EAV content for this level."
+      },
+      {
+        "node_id": "T1-07",
+        "topic": "CMI Level 7 Assignment Help",
+        "slug": "/cmi-level-7-assignment-help/",
+        "status": "live",
+        "priority": "critical",
+        "attribute_focus": "Strategic Management and Leadership Diploma (L7) — all 17 units (701–717), Critically Analyse command verb, director and C-suite student profile, strategic paper format, postgraduate equivalence",
+        "macro_context": "CMI Level 7 assignment help — all 17 Strategic Management and Leadership units, Critically Analytical depth at Master's standard, strategic paper format, director-level writers",
+        "micro_context_targets": ["qualification structure (Award, Certificate, Diploma)", "all 17 units (701–717)", "Critically Analyse at full strategic depth", "strategic paper vs management report format comparison", "student profile (directors, NHS Exec, military officers)", "FCMI membership pathway", "L5 vs L7 comparison"],
+        "command_verbs_covered": ["Critically Analyse", "Justify at strategic depth", "Develop and Implement a Strategy"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-05", "T1-06", "T1-02", "T2-01", "O2-04"],
+        "planned_child_nodes": ["CMI 701 help", "CMI 702 help", "CMI 703 help", "CMI 704 help", "CMI 705 help", "CMI 706 help", "CMI 707 help", "CMI 708 help", "CMI 709 help", "CMI 710 help", "CMI 711 help", "CMI 712 help", "CMI 713 help", "CMI 714 help", "CMI 715 help", "CMI 716 help", "CMI 717 help"],
+        "central_entity_connection": "CMI Level 7 qualification assignment — highest-value central entity instance (highest price point, lowest competition relative to depth)",
+        "eav_note": "Strong existing page. Level comparison infographic placeholder needs designed asset. 17 unit pages planned — 701, 702, 704, 705, 708 are highest priority by search volume."
+      }
+    ],
+
+    "tier_2_nodes": [
+      {
+        "node_id": "T2-01",
+        "topic": "CMI Assignment Tutoring",
+        "slug": "/cmi-assignment-tutoring/",
+        "status": "live",
+        "priority": "high",
+        "attribute_focus": "Tutoring service — student retains authorship, tutor guides structure, command verb application, Learning Outcome alignment, resubmission coaching",
+        "macro_context": "CMI assignment tutoring — expert guidance for students who want to write their own assignment with professional academic direction across all levels",
+        "micro_context_targets": ["who needs tutoring vs writing service", "tutoring session types", "resubmission coaching", "command verb guidance", "structure planning sessions"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T1-05", "T1-07", "O2-01", "O2-02"],
+        "central_entity_connection": "CMI qualification assignment — tutoring service variant of central entity support",
+        "eav_note": "Good foundational content. Session format detail (session length, what happens in a session, how resubmission coaching differs from standard tutoring) is the depth gap."
+      },
+      {
+        "node_id": "T2-02",
+        "topic": "CMI Coursework Help",
+        "slug": "/cmi-coursework-help/",
+        "status": "live",
+        "priority": "medium",
+        "attribute_focus": "Ongoing multi-unit support across a full qualification — tracking pass outcomes across units, consistent academic framing through a Diploma",
+        "macro_context": "CMI coursework help — sustained support across multiple CMI units for students working through a full Diploma",
+        "micro_context_targets": ["coursework vs single assignment distinction", "multi-unit tracking", "consistency across submissions", "Diploma progression support"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T2-01", "T1-05", "T1-07"],
+        "central_entity_connection": "CMI qualification assignment — ongoing coursework variant",
+        "eav_note": "Strongest differentiation angle: consistency of academic voice and strategy across 6–8 units. This is undersold in existing content."
+      },
+      {
+        "node_id": "T2-03",
+        "topic": "CMI Essay Writing Help",
+        "slug": "/cmi-essay-writing-help/",
+        "status": "live",
+        "priority": "medium",
+        "attribute_focus": "Essay format CMI assignments — Discuss and Analyse command verbs, academic argument construction, management theory application, primarily L3 and L4",
+        "macro_context": "CMI essay writing help — structured academic essay support for Levels 3 and 4 CMI units requiring argument-based responses",
+        "micro_context_targets": ["essay vs management report distinction", "Discuss vs Analyse in essay context", "CMI essay structure", "workplace application in essays vs university essays"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-03", "T1-04", "T2-07", "O2-02"],
+        "central_entity_connection": "CMI qualification assignment — essay format variant",
+        "eav_note": "CMI essay format specificity (how it differs from university essays — workplace application requirement) is the key EAV differentiator."
+      },
+      {
+        "node_id": "T2-04",
+        "topic": "CMI Report Writing Help",
+        "slug": "/cmi-report-writing-help/",
+        "status": "live",
+        "priority": "high",
+        "attribute_focus": "Management report format — executive summary, analysis sections, recommendations (SMART), bibliography, Harvard referencing; primarily L5 and L6",
+        "macro_context": "CMI management report writing help — specialist support for the management report format across Levels 5 and 6",
+        "micro_context_targets": ["management report section-by-section structure", "executive summary writing", "SMART recommendations", "analysis section depth (Evaluate)", "bibliography and referencing"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-05", "T1-06", "T2-01", "O2-02"],
+        "central_entity_connection": "CMI qualification assignment — management report format variant",
+        "eav_note": "High-intent page. Section-by-section breakdown with word count guidance per section is the depth gap. Should link directly to assignment structure guide."
+      },
+      {
+        "node_id": "T2-05",
+        "topic": "CMI Homework Help",
+        "slug": "/cmi-homework-help/",
+        "status": "live",
+        "priority": "low",
+        "attribute_focus": "Any CMI written task — catch-all for students who use 'homework' to describe CMI assignment tasks",
+        "macro_context": "CMI homework help — expert support for any CMI written task across all levels",
+        "micro_context_targets": ["disambiguate CMI 'homework' from formal assignment", "all task types covered", "WhatsApp submission process"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T2-01", "T1-05"],
+        "central_entity_connection": "CMI qualification assignment — informal terminology variant",
+        "eav_note": "Lower commercial intent. Content should bridge 'homework' to formal CMI assessment language quickly."
+      },
+      {
+        "node_id": "T2-06",
+        "topic": "CMI Assignment Answers",
+        "slug": "/cmi-assignment-answers/",
+        "status": "live",
+        "priority": "medium",
+        "attribute_focus": "Unit-specific written answers — students who need answers to specific CMI assignment questions or Learning Outcomes",
+        "macro_context": "CMI assignment answers — expert written responses to specific CMI unit questions across all levels",
+        "micro_context_targets": ["answer vs full assignment distinction", "unit-specific answers", "Learning Outcome targeted response", "answers as model study references"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T2-08", "T1-05", "T1-07"],
+        "central_entity_connection": "CMI qualification assignment — answer/response variant of central entity",
+        "eav_note": "Strong query-intent match for students mid-assignment with a specific question. Unit-specific answer examples would strengthen this page."
+      },
+      {
+        "node_id": "T2-07",
+        "topic": "CMI Assignment Examples",
+        "slug": "/cmi-assignment-examples/",
+        "status": "live",
+        "priority": "medium",
+        "attribute_focus": "Sample assignments by level and format — management reports, essays, reflective accounts used as model references",
+        "macro_context": "CMI assignment examples — real structured samples across Levels 3–7 showing correct format, depth, and command verb application",
+        "micro_context_targets": ["examples by level", "examples by format type", "what Merit/Distinction looks like", "free sample via WhatsApp CTA"],
+        "primary_schema": ["WebPage", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T1-05", "T1-07", "T2-04", "O2-02"],
+        "central_entity_connection": "CMI qualification assignment — example/reference variant",
+        "eav_note": "High top-of-funnel intent. Adding actual visible sample excerpts (even short ones) would dramatically increase conversion and depth."
+      },
+      {
+        "node_id": "T2-08",
+        "topic": "CMI Assignment Help Online",
+        "slug": "/cmi-assignment-help-online/",
+        "status": "live",
+        "priority": "medium",
+        "attribute_focus": "Remote/online delivery — WhatsApp-first process, digital document delivery, no in-person requirement, suitable for any UK location",
+        "macro_context": "CMI assignment help online — remote expert support via WhatsApp for all levels and units, UK-based writers",
+        "micro_context_targets": ["online vs in-person distinction", "WhatsApp process detail", "delivery method (Word document)", "geography (any UK location)", "turnaround times for online orders"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T2-01", "T1-05"],
+        "central_entity_connection": "CMI qualification assignment — online delivery variant",
+        "eav_note": "Access modality focus. Should reinforce why WhatsApp is a better brief-taking mechanism than form-based competitors."
+      },
+      {
+        "node_id": "T2-09",
+        "topic": "Cheap CMI Assignment Help",
+        "slug": "/cheap-cmi-assignment-help/",
+        "status": "live",
+        "priority": "medium",
+        "attribute_focus": "Pricing and affordability — competitive pricing narrative, value proposition, what determines price (level, word count, turnaround), quality assurance at lower price",
+        "macro_context": "Affordable CMI assignment help — competitive UK pricing without quality compromise for all levels",
+        "micro_context_targets": ["what drives price variation by level", "quality at competitive price", "price comparison positioning", "how to get a quote on WhatsApp"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T2-08", "T1-05"],
+        "central_entity_connection": "CMI qualification assignment — affordability/access variant",
+        "eav_note": "Avoid race-to-bottom framing. Reinforce that Level 7 is higher price because of writer credential, not arbitrary pricing."
+      },
+      {
+        "node_id": "T2-10",
+        "topic": "Pay Someone to Do My CMI Assignment",
+        "slug": "/pay-someone-to-do-my-cmi-assignment/",
+        "status": "live",
+        "priority": "medium",
+        "attribute_focus": "High-intent outsourced completion query — students who want a complete, submission-ready assignment written for them; addresses legality, confidentiality, process",
+        "macro_context": "Trusted UK CMI assignment outsourcing — submission-ready assignments for all levels, discrete WhatsApp process, confidentiality guaranteed",
+        "micro_context_targets": ["legality and academic integrity positioning", "confidentiality assurance", "outsourced completion process", "writer matching", "all levels covered"],
+        "primary_schema": ["Service", "FAQPage"],
+        "internal_links_outbound": ["T1-02", "T2-08", "T2-09", "T1-05", "T1-07"],
+        "central_entity_connection": "CMI qualification assignment — outsourced completion variant",
+        "eav_note": "Highest commercial intent page. Legality and confidentiality must be addressed within the first 200 words."
+      }
+    ],
+
+    "tier_3_planned_nodes": {
+      "description": "Unit-specific landing pages — one page per CMI unit. Each page targets a distinct query cluster (e.g. 'CMI 502 assignment help', 'unit 502 developing managing leading teams') with unique Learning Outcome context, command verb requirements, and format guidance. These are the highest-volume coverage expansion opportunity.",
+      "priority_sequence": [
+        "CMI Level 5 — Units 501, 502, 503, 504, 509 (highest search volume, most requested)",
+        "CMI Level 7 — Units 701, 702, 704, 705, 708 (highest value, least competition)",
+        "CMI Level 5 — Remaining units 505–525",
+        "CMI Level 7 — Remaining units 703, 706, 707, 709–717",
+        "CMI Level 3 — Units 301–312",
+        "CMI Level 4 — Units 401–411",
+        "CMI Level 6 — Units 601–616"
+      ],
+      "total_planned_unit_pages": 81,
+      "node_template": {
+        "slug_pattern": "/cmi-level-[N]/unit-[NNN]-[unit-name-slug]/",
+        "macro_context": "Expert CMI assignment help for Unit [NNN] — [Unit Name] — Learning Outcomes, command verb requirements, format guidance, service options",
+        "schema": ["Service", "FAQPage"],
+        "minimum_eav_per_page": ["Unit title and number", "Qualification level and Diploma context", "Required output format", "Command verb(s) with depth explanation", "Assessment Criteria summary", "Subject matter coverage (key theories and frameworks)", "Word count and referencing requirements", "Link to level hub page", "Link to command verbs guide", "WhatsApp CTA"]
+      }
+    }
+  },
+
+  "outer_section": {
+    "purpose": "Process topics from the minor attributes of the CMI qualification central entity. These pages improve historical data by attracting informational search traffic from CMI students at research stage. They propagate trust and topical relevance signals to the Core Section via internal links. They do not sell the assignment writing service directly — they demonstrate authority in the CMI qualification subject matter.",
+    "main_minor_attributes_covered": [
+      "CMI qualification framework and navigation",
+      "CMI assessment methodology (command verbs, marking criteria, format rules)",
+      "Academic writing skills for managers (reflective practice, management report writing, referencing)",
+      "Management theory reference (frameworks used in CMI assignments)",
+      "Professional context (NHS management, public sector leadership)",
+      "Qualification value and career ROI"
+    ],
+
+    "outer_nodes": [
+      {
+        "node_id": "O1-01",
+        "topic": "CMI Command Verbs Explained",
+        "slug": "/guides/cmi-command-verbs-explained/",
+        "status": "live",
+        "priority": "critical",
+        "attribute_focus": "Every CMI command verb — cognitive depth hierarchy, what each verb requires, how they differ across levels, what Pass/Merit/Distinction responses look like for each verb",
+        "macro_context": "Complete CMI command verb guide — every verb from Identify to Critically Analyse, what each requires at each level, and how to apply them correctly in assignments",
+        "micro_context_targets": ["command verb cognitive hierarchy", "Analyse vs Evaluate distinction", "Critically Evaluate vs Critically Analyse distinction", "verb application by level (L3–L7)", "what assessors mark", "verb-to-grade correlation"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["O1-02", "T1-05", "T1-07", "T1-06"],
+        "propagates_to_core": ["T1-05", "T1-07", "T1-02", "T2-01"],
+        "central_entity_connection": "CMI qualification assignment — command verb is a primary attribute of the assessment process",
+        "eav_note": "Existing content is strong. SVG assets (command verb ladder) are present. Should expand verb-by-verb worked examples — 'a Level 5 Evaluate response on leadership looks like this'."
+      },
+      {
+        "node_id": "O1-02",
+        "topic": "CMI Assignment Structure Guide",
+        "slug": "/guides/cmi-assignment-structure/",
+        "status": "live",
+        "priority": "high",
+        "attribute_focus": "Management report structure section by section, essay structure for CMI, reflective account structure — format selection decision guide, word count distribution",
+        "macro_context": "How to structure every CMI assignment format — management report, essay, and reflective account — with section-by-section guidance and word count distribution",
+        "micro_context_targets": ["format selection by command verb", "management report sections in full", "executive summary requirements", "essay vs report distinction", "reflective account with Gibbs model", "common structural errors by format"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["O1-01", "T2-04", "T1-05", "O2-01"],
+        "propagates_to_core": ["T2-04", "T1-05", "T1-06"],
+        "central_entity_connection": "CMI qualification assignment — structure is a primary attribute of the assignment submission",
+        "eav_note": "Existing content is strong. SVG asset (management report structure diagram) is present. Needs dedicated sections for essay and reflective account structures with equivalent visual assets."
+      },
+      {
+        "node_id": "O2-01",
+        "topic": "CMI Reflective Practice Guide",
+        "slug": "/guides/cmi-reflective-practice/",
+        "status": "planned",
+        "priority": "high",
+        "attribute_focus": "Gibbs' Reflective Cycle and Kolb's Experiential Learning Cycle applied to CMI reflective account assignments — how to write a CMI reflective account, what each stage requires, CPD portfolio guidance",
+        "macro_context": "CMI reflective practice — how to use Gibbs' Reflective Cycle and Kolb's model to structure CMI reflective account assignments at all levels",
+        "micro_context_targets": ["Gibbs 6-stage model applied to CMI assignment format", "Kolb learning cycle application", "reflective account format requirements by level", "first-person academic language in reflective accounts", "CPD reflection vs assignment reflection", "Unit 525 and Unit 714 specific application"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["O1-02", "T1-05", "T1-07", "T2-01"],
+        "propagates_to_core": ["T1-05", "T1-07", "T2-01"],
+        "central_entity_connection": "CMI qualification assignment — reflective account is a minor format attribute of the central entity",
+        "eav_note": "SVG asset (Gibbs reflective cycle) already exists in /content/. Planned page should use it as the anchor visual."
+      },
+      {
+        "node_id": "O2-02",
+        "topic": "Harvard Referencing for CMI Assignments",
+        "slug": "/guides/harvard-referencing-cmi/",
+        "status": "planned",
+        "priority": "medium",
+        "attribute_focus": "Harvard referencing applied specifically to CMI assignments — citing ManagementDirect, CMI publications, academic journals, government reports; in-text citation format; bibliography format",
+        "macro_context": "Harvard referencing guide for CMI students — how to cite the sources CMI assessors expect, in-text and bibliography format, minimum source count by level",
+        "micro_context_targets": ["Harvard referencing format (in-text and bibliography)", "ManagementDirect citation format", "CMI journal and publication citation", "minimum sources by level (L3: 6+, L5: 10–12, L7: 15–20)", "common referencing errors", "paraphrasing vs quoting in CMI assignments"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["O1-02", "T1-02", "T1-05", "T1-07"],
+        "propagates_to_core": ["T1-02", "T1-05", "T1-07", "T2-04"],
+        "central_entity_connection": "CMI qualification assignment — referencing is a technical requirement attribute of the submission",
+        "eav_note": "High-intent informational query. Should include worked citation examples for ManagementDirect (the most CMI-specific source) that competitors do not cover."
+      },
+      {
+        "node_id": "O2-03",
+        "topic": "CMI Qualification Levels Explained",
+        "slug": "/guides/cmi-qualification-levels-explained/",
+        "status": "planned",
+        "priority": "medium",
+        "attribute_focus": "What each CMI level covers, typical student profile, qualification structure (Award/Certificate/Diploma), national qualification equivalence, how levels connect",
+        "macro_context": "CMI qualification levels explained — what Levels 3 to 7 cover, who studies each, and how the qualification pathway works",
+        "micro_context_targets": ["Level 3–7 summary comparison table", "student profile by level", "national qualification equivalence (HNC, Foundation Degree, Degree, Master's)", "ACMI/MCMI/FCMI membership by level", "Award vs Certificate vs Diploma at each level", "time and unit commitment by level"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["T1-03", "T1-04", "T1-05", "T1-06", "T1-07", "O2-04"],
+        "propagates_to_core": ["T1-03", "T1-04", "T1-05", "T1-06", "T1-07"],
+        "central_entity_connection": "CMI qualification — framework attribute connecting all level-specific nodes",
+        "eav_note": "Structural navigation page with high early-funnel value. Students choosing their level need this before they search for assignment help."
+      },
+      {
+        "node_id": "O2-04",
+        "topic": "CMI Level 5 vs Level 7 — Which Is Right for You?",
+        "slug": "/faq/cmi-level-5-vs-level-7/",
+        "status": "planned",
+        "priority": "high",
+        "attribute_focus": "Comparison — scope, format, command verbs, student profile, career outcomes, commitment level; helps students self-select the right level and the right assignment support",
+        "macro_context": "CMI Level 5 vs Level 7 — five key differences in scope, format, command verbs, sources, and writer credential, with guidance on which level to study",
+        "micro_context_targets": ["scope (operational vs strategic)", "format (management report vs strategic paper)", "command verb depth comparison", "student profile comparison (middle manager vs director)", "career and salary outcomes", "time commitment and word count comparison", "ACMI vs FCMI membership pathway"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["T1-05", "T1-07", "T1-06", "O2-03"],
+        "propagates_to_core": ["T1-05", "T1-07"],
+        "central_entity_connection": "CMI qualification levels — comparative attribute of the central entity connecting the two highest-demand level hubs",
+        "eav_note": "Already referenced from both L5 and L7 content pages. High commercial value — a student choosing their level will also be choosing which assignment support tier they need."
+      },
+      {
+        "node_id": "O2-05",
+        "topic": "Is a CMI Qualification Worth It?",
+        "slug": "/faq/is-cmi-qualification-worth-it/",
+        "status": "planned",
+        "priority": "medium",
+        "attribute_focus": "Career ROI, employer recognition, salary uplift evidence, CMI vs ILM vs MBA comparison, who benefits most from CMI credentials",
+        "macro_context": "Is a CMI qualification worth it? — career ROI, employer recognition, and why working professionals choose CMI",
+        "micro_context_targets": ["CMI vs ILM comparison", "CMI vs MBA (time, cost, recognition)", "employer sector recognition (NHS, public sector, commercial)", "salary and promotion evidence", "ACMI/MCMI/FCMI career value", "who should study CMI"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["O2-03", "T1-05", "T1-07", "T1-02"],
+        "propagates_to_core": ["T1-05", "T1-07"],
+        "central_entity_connection": "CMI qualification — career outcome attribute; attracts early-funnel students considering qualification entry",
+        "eav_note": "Top-of-funnel. Students researching whether to start a CMI qualification are also potential future assignment help customers. Captures them early."
+      },
+      {
+        "node_id": "O2-06",
+        "topic": "NHS Management and CMI Qualifications",
+        "slug": "/guides/nhs-management-cmi-qualifications/",
+        "status": "planned",
+        "priority": "high",
+        "attribute_focus": "CMI qualifications in NHS context — Band 7 and above, NHS leadership development, CMI Level 5 as the primary NHS manager qualification, workforce development tie-in",
+        "macro_context": "CMI qualifications for NHS managers — how CMI Level 5 and Level 7 fit into NHS leadership development, who studies CMI in the NHS, and how assignment help supports NHS managers",
+        "micro_context_targets": ["NHS Band structure and CMI qualification alignment (Band 7 = L5, Band 8+ = L7)", "NHS funded CMI programmes", "NHS Leadership Academy context", "common CMI units for NHS managers", "time pressure on NHS managers studying CMI", "how NHS managers use assignment help"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["T1-05", "T1-07", "T2-01", "T1-02"],
+        "propagates_to_core": ["T1-05", "T1-07", "T2-01"],
+        "central_entity_connection": "CMI qualification — NHS professional context attribute; the single largest student segment for this service",
+        "eav_note": "NHS managers are the highest-volume student segment. This page targets NHS-specific queries and provides contextual consolidation for the CMI × NHS query cluster. High priority for Outer Section."
+      },
+      {
+        "node_id": "O2-07",
+        "topic": "Management Theory Reference — Frameworks Used in CMI Assignments",
+        "slug": "/guides/management-theory-cmi-assignments/",
+        "status": "planned",
+        "priority": "medium",
+        "attribute_focus": "The key management theories and frameworks used in CMI assignment responses — Tuckman, Gibbs, Kolb, Kotter, Lewin, Maslow, Herzberg, Belbin, Porter, Bass and Avolio — what each is, which units use them, how to apply them correctly",
+        "macro_context": "Management theory and frameworks for CMI assignments — which models appear at each level, what they cover, and how to apply them at Evaluate and Critically Analyse depth",
+        "micro_context_targets": ["framework-by-level mapping", "how to apply Tuckman in a CMI 502 management report", "how to Evaluate Kotter vs Lewin at L5", "how to Critically Analyse Bass and Avolio at L7", "limitations of each framework (required for Distinction)", "peer-reviewed sources for each framework"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["O1-01", "T1-05", "T1-07", "O1-02"],
+        "propagates_to_core": ["T1-05", "T1-07", "T1-06", "T2-04"],
+        "central_entity_connection": "CMI qualification assignment — management theory is a content attribute of assignment responses at all levels",
+        "eav_note": "This can be structured as a hub page with individual framework sub-pages (e.g. /guides/tuckman-model-cmi-assignments/). Each framework sub-page captures a specific long-tail query cluster."
+      },
+      {
+        "node_id": "O2-08",
+        "topic": "CMI Resubmission Guide — What to Do After a Referral",
+        "slug": "/guides/cmi-resubmission-guide/",
+        "status": "planned",
+        "priority": "medium",
+        "attribute_focus": "What happens when a CMI assignment is referred — how to read assessor feedback, which Learning Outcomes were unmet, how resubmission support works, what changes are required",
+        "macro_context": "CMI resubmission guide — what to do after a CMI referral, how to read assessor feedback, and how to restructure or rewrite to meet unmet Learning Outcomes",
+        "micro_context_targets": ["what a CMI referral means", "how to read assessor feedback", "identifying unmet Learning Outcomes", "resubmission process and timeline", "how resubmission support differs from full writing service", "most common resubmission reasons by level"],
+        "primary_schema": ["Article", "FAQPage"],
+        "internal_links_outbound": ["T2-01", "T1-02", "O1-01", "T1-05", "T1-07"],
+        "propagates_to_core": ["T2-01", "T1-02"],
+        "central_entity_connection": "CMI qualification assignment — resubmission is a secondary state attribute of the assignment lifecycle",
+        "eav_note": "Students post-referral are high-intent and high-urgency. This page captures them when they are actively searching for a fix. Strong conversion potential."
+      }
+    ]
+  },
+
+  "internal_linking_strategy": {
+    "primary_rule": "Every Core node links outward to its parent level hub and to at least one Outer node. Every Outer node links back to at least two Core nodes.",
+    "anchor_text_rule": "Anchor texts must use CMI + level or CMI + service type. Never use generic anchors ('click here', 'learn more', 'this page'). The central entity must appear in anchor text as a synonym variant (e.g. 'CMI Level 5 assignment help', 'Level 5 management report support', 'CMI 502 assignment guidance').",
+    "contextual_bridge_priority": [
+      "T1-05 (Level 5) ↔ O1-01 (Command Verbs) — strongest bridge; Level 5 is where Evaluate and Justify are first demanded at full depth",
+      "T1-07 (Level 7) ↔ O1-01 (Command Verbs) — Critically Analyse disambiguation is the Level 7 differentiation content",
+      "T1-07 (Level 7) ↔ O2-04 (L5 vs L7 comparison) — comparison page drives level-selection traffic to both hubs",
+      "T1-05 (Level 5) ↔ O2-06 (NHS Management) — NHS is the primary student segment for Level 5",
+      "T2-04 (Report Writing) ↔ O1-02 (Assignment Structure) — report writing help and structure guide are the same student intent at different purchase stages",
+      "T2-01 (Tutoring) ↔ O2-08 (Resubmission Guide) — resubmission is the highest-urgency tutoring trigger"
+    ]
+  },
+
+  "publication_frequency_recommendation": {
+    "current_momentum": "19 pages live — low momentum",
+    "recommended_phase_1": {
+      "period": "Months 1–3",
+      "target_pages": 10,
+      "focus": "Priority Outer Section pages (O2-04, O2-06, O1-01 expansion, O2-01, O2-08) + CMI 501/502 unit pages",
+      "rationale": "Outer section pages expand topical coverage into informational query clusters and improve historical data from organic research traffic. High-priority unit pages (501, 502) capture the highest-volume long-tail queries immediately."
+    },
+    "recommended_phase_2": {
+      "period": "Months 4–9",
+      "target_pages": 30,
+      "focus": "All Level 5 unit pages (501–525) + Level 7 priority units (701, 702, 704, 705, 708) + remaining Outer Section nodes",
+      "rationale": "Unit pages are the single largest topical coverage gap. 25 Level 5 unit pages represent 25 distinct query clusters with specific Learning Outcome intent. Completing this tier moves topical coverage score from 22 to approximately 55."
+    },
+    "recommended_phase_3": {
+      "period": "Months 10–18",
+      "target_pages": 50,
+      "focus": "Level 3, 4, 6 unit pages (39 units) + Level 7 remaining units (12) + management theory sub-pages",
+      "rationale": "Completes the topical border across all five levels. Management theory sub-pages build the outer section into a reference hub that drives informational traffic and propagates authority to unit pages."
+    }
+  },
+
+  "topical_coverage_targets": {
+    "current": 22,
+    "at_3_months": 35,
+    "at_9_months": 60,
+    "at_18_months": 80,
+    "full_border": 100
+  },
+
+  "site_wide_ngram_requirements": {
+    "must_appear_in_boilerplate": ["CMI assignment", "CMI qualification", "UK-based writers", "all levels", "WhatsApp"],
+    "header_nav_ngrams": ["CMI Level [N] assignment help", "CMI assignment writing service", "CMI assignment tutoring"],
+    "footer_ngrams": ["CMI assignment support", "UK-based CMI writers", "all levels 3 to 7"],
+    "heading_vector_patterns": ["CMI [Level/Unit/Format] + [service verb]", "How to [action] + CMI assignment", "CMI [Level N] + [command verb] + [format]"],
+    "anchor_text_pool": ["CMI Level 5 assignment help", "CMI assignment writing service", "CMI command verbs", "management report writing", "CMI Level 7 strategic paper", "CMI tutoring", "CMI resubmission support", "CMI 501 help", "CMI 502 help"]
+  }
+}

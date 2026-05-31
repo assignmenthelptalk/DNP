@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" role="img" aria-labelledby="hnc-grading-title">
+  <title id="hnc-grading-title">HNC Assignment Grading Overview: Pass Merit Distinction Cognitive Levels, Criterion Codes Pn Mn Dn, Subject Directory Business Computing Engineering Health Social Care, Harvard Referencing Requirement</title>
+
+  <!-- Background -->
+  <rect width="800" height="620" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">HNC Assignment Grading: Complete Framework Overview</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Level 4 RQF · 120 Credits · Pearson BTEC (England/Wales) · SQA (Scotland) · Criterion-Referenced</text>
+
+  <!-- P/M/D section header -->
+  <rect x="28" y="82" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">PASS · MERIT · DISTINCTION — Cognitive Level Requirements and Criterion Code Structure</text>
+
+  <!-- Pass card -->
+  <rect x="28" y="112" width="232" height="140" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="112" width="232" height="34" rx="8" fill="#1B3A6B"/>
+  <rect x="28" y="132" width="232" height="14" fill="#1B3A6B"/>
+  <text x="144" y="133" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">PASS (Pn)</text>
+  <text x="44" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Cognitive level: Knowledge + Application</text>
+  <text x="44" y="177" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Criterion verbs: describe, identify, explain,</text>
+  <text x="44" y="191" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">apply, produce, demonstrate</text>
+  <text x="44" y="205" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Requires: accurate theoretical knowledge</text>
+  <text x="44" y="219" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">+ correct application to scenario</text>
+  <text x="44" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#1B3A6B">Entry requirement for Merit consideration</text>
+
+  <!-- Merit card -->
+  <rect x="284" y="112" width="232" height="140" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="284" y="112" width="232" height="34" rx="8" fill="#2563EB"/>
+  <rect x="284" y="132" width="232" height="14" fill="#2563EB"/>
+  <text x="400" y="133" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">MERIT (Mn)</text>
+  <text x="300" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Cognitive level: Analysis + Justification</text>
+  <text x="300" y="177" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Criterion verbs: analyse, compare, justify,</text>
+  <text x="300" y="191" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">assess, discuss</text>
+  <text x="300" y="205" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Requires: theoretical framework applied +</text>
+  <text x="300" y="219" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">comparison + academic citation support</text>
+  <text x="300" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#2563EB">All Pn criteria must be met first</text>
+
+  <!-- Distinction card -->
+  <rect x="540" y="112" width="232" height="140" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="540" y="112" width="232" height="34" rx="8" fill="#7C3AED"/>
+  <rect x="540" y="132" width="232" height="14" fill="#7C3AED"/>
+  <text x="656" y="133" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">DISTINCTION (Dn)</text>
+  <text x="556" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Cognitive level: Synthesis + Critical Evaluation</text>
+  <text x="556" y="177" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Criterion verbs: evaluate, synthesise,</text>
+  <text x="556" y="191" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">critically assess, recommend, appraise</text>
+  <text x="556" y="205" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Requires: critical evaluation of limitations +</text>
+  <text x="556" y="219" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">synthesis + independent professional judgement</text>
+  <text x="556" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">All Pn + Mn criteria must be met first</text>
+
+  <!-- Subject directory header -->
+  <rect x="28" y="268" width="744" height="22" rx="4" fill="#D97706"/>
+  <text x="400" y="283" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">SUBJECT DIRECTORY — Key Units and Distinction-Level Focus Per Route</text>
+
+  <!-- Business -->
+  <rect x="28" y="298" width="178" height="130" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="298" width="178" height="22" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="308" width="178" height="12" fill="#1B3A6B"/>
+  <text x="117" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HNC BUSINESS</text>
+  <text x="40" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Business Environment (PESTLE + Porter's)</text>
+  <text x="40" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Managing People (Maslow / Herzberg)</text>
+  <text x="40" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Marketing (7Ps / STP)</text>
+  <text x="40" y="376" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Financial Management (ratio analysis)</text>
+  <text x="40" y="393" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Research Project mandatory (4,500–6,000w)</text>
+  <text x="40" y="407" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Min. 8 academic sources</text>
+
+  <!-- Computing -->
+  <rect x="220" y="298" width="178" height="130" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="220" y="298" width="178" height="22" rx="6" fill="#2563EB"/>
+  <rect x="220" y="308" width="178" height="12" fill="#2563EB"/>
+  <text x="309" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HNC COMPUTING</text>
+  <text x="232" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Programming (design rationale + evaluation)</text>
+  <text x="232" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Networking (OSI / protocol justification)</text>
+  <text x="232" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Database Design (1NF/2NF/3NF + SQL)</text>
+  <text x="232" y="376" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Systems Analysis (UML + methodology)</text>
+  <text x="232" y="393" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Technical competence ≠ Merit/Distinction</text>
+  <text x="232" y="407" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Written analytical commentary required</text>
+
+  <!-- Engineering -->
+  <rect x="412" y="298" width="178" height="130" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="412" y="298" width="178" height="22" rx="6" fill="#1B3A6B"/>
+  <rect x="412" y="308" width="178" height="12" fill="#1B3A6B"/>
+  <text x="501" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HNC ENGINEERING</text>
+  <text x="424" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Mechanical / Electrical / Civil routes</text>
+  <text x="424" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Engineering Science (stress/thermo/fluid)</text>
+  <text x="424" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">E&amp;E Principles (KCL/KVL/Thevenin)</text>
+  <text x="424" y="376" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Maths for Engineering (calculus/stats)</text>
+  <text x="424" y="393" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Written analytical sections only — no calcs</text>
+  <text x="424" y="407" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Apprentice / technician audience</text>
+
+  <!-- HSC -->
+  <rect x="604" y="298" width="168" height="130" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="604" y="298" width="168" height="22" rx="6" fill="#7C3AED"/>
+  <rect x="604" y="308" width="168" height="12" fill="#7C3AED"/>
+  <text x="688" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HNC HEALTH &amp; SOCIAL CARE</text>
+  <text x="616" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Concepts of Health (medical/social model)</text>
+  <text x="616" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Sociological Perspectives (Parsons/Goffman)</text>
+  <text x="616" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Communication (Care Act/MCA 2005)</text>
+  <text x="616" y="376" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Reflective Practice (Gibbs 1988)</text>
+  <text x="616" y="393" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Analysis stage = Distinction concentration</text>
+  <text x="616" y="407" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Working care professionals audience</text>
+
+  <!-- Harvard referencing strip -->
+  <rect x="28" y="442" width="744" height="56" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="460" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">HARVARD REFERENCING — Mandatory from Level 4 · Not required at BTEC Level 3</text>
+  <text x="44" y="476" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">In-text: (Maslow, 1943) · With page: (Maslow, 1943: 372) · Two authors: (Kotler and Keller, 2016) · Three+: (Johnson et al., 2017)</text>
+  <text x="44" y="490" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Reference list: Kotler, P. and Keller, K. (2016). Marketing Management. 15th ed. Harlow: Pearson. [italicise title in written assignments]</text>
+
+  <!-- Resubmission warning -->
+  <rect x="28" y="512" width="744" height="30" rx="6" fill="#DC2626"/>
+  <text x="400" y="532" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">ONE RESUBMISSION ONLY per unit assignment — Referral → Resubmission → Unit Fail if not met · Grading is cumulative: no Merit without all Pn</text>
+
+  <!-- Progression pathway -->
+  <rect x="28" y="556" width="744" height="34" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="572" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">PROGRESSION: HNC (L4, 120 credits) → HND (L5, +120 credits) → Degree Top-Up (Year 3)</text>
+  <text x="400" y="584" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#A8C4E0">Full-time 1 year · Part-time 2 years · Employer-sponsored apprenticeship route available</text>
+
+  <!-- Footer -->
+  <text x="400" y="614" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HNC Assignment Help Service · Level 4 RQF Criterion-Referenced Assessment Framework</text>
+</svg>

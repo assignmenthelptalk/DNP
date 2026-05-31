@@ -1,0 +1,35 @@
+{
+  "initialized_at": "2026-03-12",
+  "target": "https://ciiassignmenthelp.com",
+  "client_name": "ciiassignmenthelp.com",
+  "workflow": "seo-audit-workflow.md",
+  "status": "initialized",
+  "preconditions": {
+    "source_context": "Assignment-support business monetizing via custom quotes and upfront payment for CII coursework support.",
+    "central_entity": "CII qualification",
+    "central_search_intent": "Get professional assignment writing help to pass CII insurance qualifications without failing modules",
+    "main_attribute": "assignment help",
+    "topical_border_definition": "Included: CII qualification support topics directly tied to assignment help, module-specific guidance, qualification-level support, trust and study-support topics that strengthen conversion and topical relevance for CII learners. Excluded: generic university essay writing, unrelated insurance news, broad finance careers without a direct bridge to CII qualifications, and non-CII certification ecosystems unless used as comparative outer-section support."
+  },
+  "phase_status": {
+    "phase_1_discovery": "initialized",
+    "phase_2_semantic_mapping": "pending",
+    "phase_3_analysis_and_scoring": "pending",
+    "phase_4_report_generation": "pending"
+  },
+  "artifacts": {
+    "business_profile": "client_data/ciiassignmenthelp.com/business_profile.json",
+    "scraped_content": "client_data/ciiassignmenthelp.com/scraped_content.json",
+    "entity_map": "client_data/ciiassignmenthelp.com/entity_map.json",
+    "topical_map": "client_data/ciiassignmenthelp.com/topical_map.json",
+    "query_clusters": "client_data/ciiassignmenthelp.com/query_clusters.json",
+    "content_network": "client_data/ciiassignmenthelp.com/content_network.json",
+    "scorecard": "client_data/ciiassignmenthelp.com/topical_authority_score.json"
+  },
+  "blocking_issues": [
+    "The local environment does not currently have the anthropic package installed.",
+    "The repo uses a directory named .env rather than a dotenv file, so API loading depends on environment variables already being exported.",
+    "A full audit run will need live network access for site fetching and likely for model calls."
+  ],
+  "next_action": "Install the anthropic dependency, confirm model/API access, then run entity discovery, topical map building, query analysis, and scoring against this initialized client workspace."
+}

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="100%" role="img" aria-labelledby="hnc-business-units-title">
+  <title id="hnc-business-units-title">HNC Business Assignment Units: Business Environment PESTLE Porter Five Forces, Managing People Maslow Herzberg, Marketing 7Ps STP, Financial Management Ratio Analysis, Research Project 4500 to 6000 words with Pass Merit Distinction criteria codes</title>
+
+  <!-- Background -->
+  <rect width="800" height="640" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">HNC Business: Unit Framework and P/M/D Criteria</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Five Core Units · Pn/Mn/Dn Criterion Codes · Research Project Mandatory · Harvard Referencing Required</text>
+
+  <!-- Units header -->
+  <rect x="28" y="82" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">CORE UNITS — Key Frameworks, Distinction Focus, and Common Criterion Failures</text>
+
+  <!-- Unit 1: Business Environment -->
+  <rect x="28" y="112" width="356" height="118" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="112" width="356" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="124" width="356" height="12" fill="#1B3A6B"/>
+  <text x="206" y="127" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">BUSINESS ENVIRONMENT (P5/M3/D2)</text>
+  <text x="44" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Pass: PESTLE analysis + Porter's Five Forces applied to organisation</text>
+  <text x="44" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit (M3): Analyse the significance of TWO macro-environmental factors</text>
+  <text x="44" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Distinction (D2): Evaluate how environmental change impacts strategic decisions</text>
+  <text x="44" y="193" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#DC2626">Common fail: listing PESTLE factors without analysing their strategic significance</text>
+  <text x="44" y="206" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Key sources: Johnson et al. (2017) Exploring Strategy · Porter (1980) Competitive Strategy</text>
+
+  <!-- Unit 2: Managing People -->
+  <rect x="416" y="112" width="356" height="118" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="416" y="112" width="356" height="24" rx="6" fill="#2563EB"/>
+  <rect x="416" y="124" width="356" height="12" fill="#2563EB"/>
+  <text x="594" y="127" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">MANAGING PEOPLE (P4/M2/D1)</text>
+  <text x="432" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Pass: Apply Maslow + Herzberg to motivational scenario</text>
+  <text x="432" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit (M2): Compare motivational theories; justify recommendation for context</text>
+  <text x="432" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Distinction (D1): Critically evaluate theory limitations (Wahba &amp; Bridwell, 1976)</text>
+  <text x="432" y="193" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#DC2626">Common fail: describing theories without comparing or evaluating limitations</text>
+  <text x="432" y="206" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">McGregor Theory X/Y · Hersey &amp; Blanchard Situational Leadership</text>
+
+  <!-- Unit 3: Marketing -->
+  <rect x="28" y="244" width="356" height="118" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="244" width="356" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="256" width="356" height="12" fill="#1B3A6B"/>
+  <text x="206" y="259" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">MARKETING (P4/M2/D2)</text>
+  <text x="44" y="282" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Pass: Apply 7Ps marketing mix to an organisation</text>
+  <text x="44" y="296" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit (M2): Analyse how STP informs the marketing mix decisions</text>
+  <text x="44" y="310" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Distinction (D2): Evaluate marketing effectiveness; recommend strategic changes</text>
+  <text x="44" y="325" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#DC2626">Common fail: describing 7Ps without proportionate analysis across all seven elements</text>
+  <text x="44" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Segmentation / Targeting / Positioning must be connected to each mix element</text>
+
+  <!-- Unit 4: Financial Management -->
+  <rect x="416" y="244" width="356" height="118" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="416" y="244" width="356" height="24" rx="6" fill="#2563EB"/>
+  <rect x="416" y="256" width="356" height="12" fill="#2563EB"/>
+  <text x="594" y="259" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">FINANCIAL MANAGEMENT (P4/M2/D1)</text>
+  <text x="432" y="282" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Pass: Calculate profitability, liquidity, efficiency, gearing ratios</text>
+  <text x="432" y="296" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit (M2): Analyse ratio trends; compare against industry benchmarks</text>
+  <text x="432" y="310" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Distinction (D1): Evaluate financial health; recommend financing/investment strategy</text>
+  <text x="432" y="325" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#DC2626">Common fail: listing ratios without interpreting their financial management significance</text>
+  <text x="432" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Cash flow ≠ profit · Distinguish liquidity from solvency in analytical commentary</text>
+
+  <!-- Research Project -->
+  <rect x="28" y="376" width="744" height="100" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <rect x="28" y="376" width="744" height="24" rx="6" fill="#D97706"/>
+  <rect x="28" y="388" width="744" height="12" fill="#D97706"/>
+  <text x="400" y="391" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">MANAGING A SUCCESSFUL BUSINESS PROJECT — Mandatory Unit · 4,500–6,000 words</text>
+  <text x="44" y="416" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Structure: SMART aims → Literature Review (min. 8 academic sources) → Methodology Justification → Findings → Conclusions → Recommendations</text>
+  <text x="44" y="432" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Pass: Research plan produced + primary/secondary data collected + findings presented</text>
+  <text x="44" y="446" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit: Methodology justified against alternatives · Literature review synthesises rather than summarises sources</text>
+  <text x="44" y="460" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Distinction: Conclusions drawn from evidence + limitations acknowledged + actionable recommendations with evidential basis</text>
+  <text x="44" y="474" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#DC2626">Common structural fails: aims not SMART · methodology not justified · findings and conclusions merged without distinction</text>
+
+  <!-- Distinction synthesis bar -->
+  <rect x="28" y="490" width="744" height="46" rx="6" fill="#7C3AED"/>
+  <text x="400" y="507" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">DISTINCTION REQUIRES: Synthesis + Critical Evaluation + Independent Strategic Recommendation</text>
+  <text x="400" y="522" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#E9D5FF">Not "what is Porter's Five Forces" — but "to what extent does Porter's Five Forces explain the competitive dynamics of this specific industry, and what are the limitations of applying it here?"</text>
+  <text x="400" y="530" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#C4B5FD">with cited evidence for both the application and the limitation</text>
+
+  <!-- Footer -->
+  <text x="400" y="630" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HNC Assignment Help Service · HNC Business Unit Framework — Level 4 RQF</text>
+</svg>

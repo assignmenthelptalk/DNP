@@ -1,0 +1,683 @@
+{
+  "built_at": "2026-04-11",
+  "central_entity": "CELTA assignment",
+  "source_context": "Academic assignment help service — monetizes by providing CELTA written assignment guidance, teaching practice feedback analysis support, language analysis task help, and unit-specific tutoring for candidates enrolled in the Certificate in Teaching English to Speakers of Other Languages (CELTA), awarded by Cambridge Assessment English",
+  "central_search_intent": "CELTA candidates seeking expert help to complete the four written assignments, structure language analysis tasks, write lessons from a learner's perspective, and pass the CELTA course while simultaneously managing intensive teaching practice",
+  "topical_border_definition": {
+    "inside_border": [
+      "CELTA qualification (Cambridge Assessment English Certificate in Teaching English to Speakers of Other Languages)",
+      "CELTA four written assignments: Assignment 1 (Focus on the Learner), Assignment 2 (Language-Related Tasks), Assignment 3 (Skills-Related Task), Assignment 4 (Lessons from the Classroom)",
+      "CELTA assessment criteria for written assignments (Pass, Pass B, Fail — Cambridge marking descriptors)",
+      "Language analysis for CELTA assignments — grammar, lexis, phonology, discourse",
+      "CELTA teaching practice (TP) connection to written assignments",
+      "CELTA assignment referral, resubmission, and tutor feedback interpretation",
+      "CELTA language awareness tasks — form, meaning, use, and phonological analysis",
+      "Lesson planning for CELTA — structure, staging, aims, anticipated problems",
+      "Learner profile writing for CELTA Assignment 1",
+      "Receptive and productive skills lessons — reading, listening, speaking, writing in CELTA context",
+      "CELTA course structure — full-time, part-time, online blended routes",
+      "Cambridge CELTA grading criteria — Pass, Pass B, and what each requires in written work",
+      "CELTA vs DELTA — progression from CELTA to DELTA written work expectations"
+    ],
+    "outside_border": [
+      "General EFL/ESL teaching resources, lesson plans, and classroom activities not tied to CELTA assignments",
+      "DELTA assignments as primary topic (comparison and progression context only)",
+      "PGCE in Modern Foreign Languages as primary topic",
+      "Trinity CertTESOL as primary topic (comparison context only)",
+      "General linguistics and applied linguistics content without CELTA assignment connection",
+      "IELTS, Cambridge exam preparation as primary topics"
+    ],
+    "competitor_border_risk": "Competitors may expand into 'TEFL assignment help' or 'EFL teaching assignment help' generically — defend topical border by going deeper on CELTA-specific Cambridge assessment criteria, the four-assignment structure, language analysis task conventions, and Pass B vs Pass grade distinctions rather than broadening into general EFL content"
+  },
+  "topical_coverage_score": 0,
+  "core_section": {
+    "main_attribute": "written assignment completion and Cambridge assessment criteria achievement",
+    "derived_attributes": [
+      "language analysis task writing",
+      "learner profile construction (Assignment 1)",
+      "skills-related task analysis (Assignment 3)",
+      "lessons from the classroom reflective writing (Assignment 4)",
+      "Pass B criteria achievement",
+      "teaching practice connection to written assignments",
+      "CELTA assignment resubmission and referral recovery"
+    ],
+    "tier_1_topics": [
+      {
+        "topic": "CELTA Assignment Help",
+        "attribute_focus": "written assignment completion — all four CELTA assignments, service overview",
+        "macro_context": "CELTA candidates on full-time, part-time, or online blended courses who are struggling to complete the four written assignments while simultaneously delivering teaching practice lessons every day",
+        "query_context_match": true,
+        "eav_depth_required": "Define CELTA as a qualification (Cambridge Assessment English Certificate in Teaching English to Speakers of Other Languages — the globally recognised entry-level EFL teaching qualification, Level 5 on the RQF), connect to CELTA course structure (120 hours minimum: 6 hours observed teaching practice + 80+ hours input sessions + written assignments), define the four CELTA written assignments (Assignment 1: Focus on the Learner — learner profile and needs analysis; Assignment 2: Language-Related Tasks — grammar and/or lexis analysis; Assignment 3: Skills-Related Task — receptive or productive skills lesson analysis; Assignment 4: Lessons from the Classroom — reflective account of teaching practice development), define CELTA grading for written work (Pass = criteria met; Pass B = criteria met with distinction — typically 3+ Pass B grades in assignments and TP required for overall Pass B; Fail = criteria not met and resubmission allowed once), explain what CELTA assignment help includes, explain Cambridge Academic English academic integrity expectations",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Assignment Help: Expert Guidance for All Four Cambridge CELTA Written Assignments",
+        "suggested_h2s": [
+          "What Are the Four CELTA Written Assignments?",
+          "CELTA Assignment Grading: Pass, Pass B, and What Each Requires",
+          "How the Four CELTA Assignments Connect to Teaching Practice",
+          "Which CELTA Assignment Are You Struggling With?",
+          "CELTA Full-Time vs Part-Time vs Online: Do Assignments Differ?",
+          "What Does CELTA Assignment Help Include?",
+          "Cambridge Assessment English and Academic Integrity in CELTA"
+        ],
+        "contextual_border_question": "How does the dual pressure of daily teaching practice and four written assignments define the unique academic challenge of completing CELTA to the standard required for a pass or Pass B?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment 1 Help: Focus on the Learner",
+          "CELTA Assignment 2 Help: Language-Related Tasks",
+          "CELTA Assignment 3 Help: Skills-Related Task",
+          "CELTA Assignment 4 Help: Lessons from the Classroom",
+          "CELTA Language Analysis Help"
+        ]
+      },
+      {
+        "topic": "CELTA Assignment 1 Help: Focus on the Learner",
+        "attribute_focus": "assignment completion — Assignment 1: learner profile and needs analysis",
+        "macro_context": "CELTA candidates who need to write their first assignment — a learner profile and language needs analysis of one or more learners on their teaching practice group",
+        "query_context_match": true,
+        "eav_depth_required": "Define CELTA Assignment 1 (Focus on the Learner — typically 750–1000 words, requires: learner background and L1 influence analysis, current level assessment, identification of specific language strengths and weaknesses, analysis of L1 interference errors in the learner's spoken or written English, identification of learning needs, suggested activities or approaches to address identified needs, Harvard or author-date referencing), connect to what 'L1 interference' means in assignment context (specific phonological, grammatical, or lexical errors that arise from the learner's first language — must name the L1, identify specific error patterns, explain the contrastive linguistic reason), define what Pass B requires in Assignment 1 vs Pass (Pass: identifies learner background and some needs with basic error analysis; Pass B: detailed L1 contrastive analysis, specific error examples from real interaction, theoretically grounded suggestions for addressing needs), connect to common Assignment 1 errors (too generic, no L1 contrastive analysis, describes needs without evidencing them from real learner interaction)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Assignment 1 Help: How to Write a Distinction-Level Focus on the Learner",
+        "suggested_h2s": [
+          "What Does CELTA Assignment 1 Require?",
+          "How to Write a Learner Profile for CELTA Assignment 1",
+          "L1 Interference Analysis in CELTA Assignment 1: What to Include",
+          "How to Identify and Evidence Language Needs in CELTA Assignment 1",
+          "What Pass B Looks Like in CELTA Assignment 1",
+          "How to Suggest Activities That Address Identified Learner Needs",
+          "Common CELTA Assignment 1 Mistakes and How to Avoid Them"
+        ],
+        "contextual_border_question": "How does providing specific L1 contrastive analysis with real examples from observed learner interaction — rather than generic descriptions of the learner's nationality — define the difference between a Pass and a Pass B in CELTA Assignment 1?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment Help",
+          "CELTA Language Analysis Help",
+          "CELTA Assignment 2 Help: Language-Related Tasks"
+        ]
+      },
+      {
+        "topic": "CELTA Assignment 2 Help: Language-Related Tasks",
+        "attribute_focus": "assignment completion — Assignment 2: grammar and/or lexis language analysis",
+        "macro_context": "CELTA candidates who need to complete the language-related tasks assignment — the most technically demanding CELTA written task, requiring accurate analysis of grammar structures, lexical items, or phonology using linguistic terminology",
+        "query_context_match": true,
+        "eav_depth_required": "Define CELTA Assignment 2 (Language-Related Tasks — requires candidates to analyse a set of language items using form, meaning, use, and phonology; may include grammar structures such as present perfect, conditionals, modal verbs, passives; lexical items such as collocations, multi-word verbs, idioms; or pronunciation features), define the four analysis dimensions required (form: structural components of the language item; meaning: what the item communicates; use: when and why native speakers use it; phonology: weak forms, word stress, connected speech features), define what Pass B requires vs Pass in Assignment 2 (Pass: accurate form and meaning analysis; Pass B: nuanced use analysis with authentic example sentences, accurate phonological representation using IPA for pronunciation, insight into teaching challenges and anticipated learner errors), connect to the most common Assignment 2 errors (confusing form and use, incorrect IPA, ignoring connected speech, missing 'use' analysis, overly simple example sentences), connect to which language items most commonly feature in CELTA Assignment 2",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Assignment 2 Help: Language-Related Tasks — Grammar, Lexis, and Phonology Analysis",
+        "suggested_h2s": [
+          "What Does CELTA Assignment 2 Require?",
+          "How to Analyse Form, Meaning, Use, and Phonology in CELTA Assignment 2",
+          "Grammar Analysis for CELTA Assignment 2: Tenses, Modals, Conditionals, and Passives",
+          "Lexis Analysis for CELTA Assignment 2: Collocations, Multi-Word Verbs, and Idioms",
+          "Phonology in CELTA Assignment 2: IPA, Word Stress, and Connected Speech",
+          "What Pass B Looks Like in CELTA Assignment 2",
+          "Common CELTA Assignment 2 Errors and How to Avoid Them"
+        ],
+        "contextual_border_question": "How does providing nuanced use analysis with authentic graded example sentences and accurate IPA phonological representation — rather than surface-level form description — define the Pass B standard in CELTA Assignment 2?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment Help",
+          "CELTA Language Analysis Help",
+          "CELTA Assignment 1 Help: Focus on the Learner",
+          "CELTA Grammar Analysis Help",
+          "CELTA Phonology and IPA for Assignments"
+        ]
+      },
+      {
+        "topic": "CELTA Assignment 3 Help: Skills-Related Task",
+        "attribute_focus": "assignment completion — Assignment 3: receptive or productive skills lesson analysis",
+        "macro_context": "CELTA candidates who need to write the skills-related task — an analysis of how to teach a receptive (reading or listening) or productive (speaking or writing) skill lesson using authentic materials",
+        "query_context_match": true,
+        "eav_depth_required": "Define CELTA Assignment 3 (Skills-Related Task — requires candidates to: select an authentic text or task for a specific learner level; justify the selection; analyse the skills sub-skills the text/task develops; design pre-, while-, and post-task activities; justify each stage methodologically; anticipate problems; describe how they would exploit the text for language focus), differentiate receptive skills task (reading/listening — pre-reading/listening tasks, gist and detail comprehension tasks, text exploitation for language, skills sub-skills such as skimming, scanning, inferring) from productive skills task (speaking/writing — fluency vs accuracy, task design, feedback approaches, process vs product writing), define Pass B requirements (detailed methodological justification for task design choices, reference to published methodology, explicit sub-skills identification, nuanced anticipated problems with specific learner group in mind), connect to common Assignment 3 errors (choosing texts that are too easy or inauthentic, staging activities without methodological justification, ignoring sub-skills specificity)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Assignment 3 Help: Skills-Related Task — Reading, Listening, Speaking, and Writing Lesson Analysis",
+        "suggested_h2s": [
+          "What Does CELTA Assignment 3 Require?",
+          "Receptive Skills in CELTA Assignment 3: Reading and Listening Task Design",
+          "Productive Skills in CELTA Assignment 3: Speaking and Writing Lesson Planning",
+          "How to Justify Your Task Design Methodologically in CELTA Assignment 3",
+          "Pre-, While-, and Post-Task Staging in CELTA Assignment 3",
+          "What Pass B Looks Like in CELTA Assignment 3",
+          "Common CELTA Assignment 3 Errors and How to Avoid Them"
+        ],
+        "contextual_border_question": "How does providing theoretically grounded justification for each lesson stage — citing EFL methodology rather than simply describing activities — define the Pass B standard in CELTA Assignment 3?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment Help",
+          "CELTA Assignment 4 Help: Lessons from the Classroom",
+          "CELTA Language Analysis Help"
+        ]
+      },
+      {
+        "topic": "CELTA Assignment 4 Help: Lessons from the Classroom",
+        "attribute_focus": "assignment completion — Assignment 4: reflective account of teaching practice development",
+        "macro_context": "CELTA candidates who need to write the final reflective assignment — a critical account of their development as a teacher over the course, connecting observed teaching practice to EFL theory and identifying areas for continued professional development",
+        "query_context_match": true,
+        "eav_depth_required": "Define CELTA Assignment 4 (Lessons from the Classroom — a reflective essay typically 750–1000 words requiring: identification of 2–3 specific areas of teaching practice that developed during the course; critical reflection on what changed and why; connection of the development to input sessions, feedback, and observed practice; reference to EFL methodology and published sources; identification of ongoing professional development needs), define what makes a strong Assignment 4 (specific TP incidents cited, not generic; named methodology referenced analytically not just mentioned; honest critical self-evaluation; forward-looking professional development plan that shows awareness of DELTA progression), define Pass B requirements (independent critical reflection, synthesis of theory and practice, specific TP lesson references with analytical commentary, evidenced professional development trajectory), connect to common Assignment 4 errors (too descriptive of what happened in lessons, no theory integration, generic statements not tied to real TP incidents)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Assignment 4 Help: How to Write a Distinction-Level Lessons from the Classroom Reflection",
+        "suggested_h2s": [
+          "What Does CELTA Assignment 4 Require?",
+          "How to Identify Teaching Practice Areas That Developed During CELTA",
+          "Connecting TP Incidents to EFL Theory in CELTA Assignment 4",
+          "How to Write Critical Self-Evaluation in CELTA Assignment 4",
+          "What Pass B Looks Like in CELTA Assignment 4",
+          "Professional Development Planning in CELTA Assignment 4",
+          "Common CELTA Assignment 4 Errors and How to Avoid Them"
+        ],
+        "contextual_border_question": "How does connecting specific teaching practice incidents to named EFL methodology with critical self-evaluation — rather than narrating what happened during lessons — define the reflective depth required for a Pass B in CELTA Assignment 4?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment Help",
+          "CELTA Assignment 3 Help: Skills-Related Task",
+          "CELTA Teaching Practice and Written Assignment Connection"
+        ]
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "CELTA Language Analysis Help",
+        "attribute_focus": "language analysis — the core technical skill underpinning Assignments 1 and 2",
+        "macro_context": "CELTA candidates who need to develop the ability to analyse English language items accurately using form, meaning, use, and phonology — the foundational skill for Assignments 1 and 2 and for lesson planning",
+        "query_context_match": true,
+        "eav_depth_required": "Define language analysis in CELTA context (not grammar study — the metalinguistic ability to describe how English works from a teaching perspective), connect to the four analysis dimensions (form: morphological and syntactic structure; meaning: what the item denotes and connotes; use: pragmatic and discourse contexts; phonology: pronunciation features including IPA representation, word stress, and connected speech), define how to analyse a grammar structure (e.g. present perfect: form = subject + have/has + past participle; meaning = connection between past event and present relevance; use = recent past, experience/never, change over time, unfinished time; phonology = weak form of 'have' in connected speech /həv/ or /əv/), define how to analyse a lexical item (e.g. 'get away with it': form = phrasal verb, literal vs idiomatic; meaning = to avoid punishment for something wrong; use = informal spoken register; phonology = stress on 'get' in affirmative, reduction in connected speech), connect to IPA as the required notation system for CELTA phonology analysis",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Language Analysis: How to Analyse Form, Meaning, Use, and Phonology for Assignments 1 and 2",
+        "suggested_h2s": [
+          "What Is Language Analysis in CELTA and Why Does It Matter?",
+          "Form Analysis in CELTA: How to Describe Grammar and Lexis Structurally",
+          "Meaning Analysis in CELTA: Denotation, Connotation, and Concept Questions",
+          "Use Analysis in CELTA: Register, Context, and When Native Speakers Choose This Form",
+          "Phonology Analysis in CELTA: IPA, Word Stress, and Connected Speech",
+          "Language Analysis Examples: Present Perfect, Conditionals, and Multi-Word Verbs",
+          "Common Language Analysis Errors in CELTA Assignments"
+        ],
+        "contextual_border_question": "How does producing accurate 'use' analysis that explains why native speakers choose one form over another — rather than simply describing what a form means — define the metalinguistic depth required for Pass B in CELTA language analysis tasks?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment 2 Help: Language-Related Tasks",
+          "CELTA Assignment 1 Help: Focus on the Learner",
+          "CELTA Grammar Analysis Help",
+          "CELTA Phonology and IPA for Assignments"
+        ]
+      },
+      {
+        "topic": "CELTA Grammar Analysis Help",
+        "attribute_focus": "grammar analysis — the most common language focus in CELTA Assignment 2",
+        "macro_context": "CELTA candidates who need to produce accurate grammatical analysis of English structures for Assignment 2, including form diagrams, concept checking questions, and phonological representations",
+        "query_context_match": true,
+        "eav_depth_required": "Define grammar analysis for CELTA (accurate description of morphosyntactic form, accurate meaning identification using concept checking questions, nuanced use analysis distinguishing different uses of the same structure, IPA transcription of natural pronunciation), cover the most commonly analysed CELTA grammar structures with example analyses: present perfect simple vs continuous, second and third conditionals, passive voice, modal verbs (obligation, ability, permission, deduction), reported speech, relative clauses; define concept checking questions (CCQs) — what they are and how to write them for grammar items; define timelines for tense analysis; define form diagrams using symbols (S, V, O, Adj, Adv, auxiliary notation)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Grammar Analysis Help: Tenses, Conditionals, Modals, and Passives for Assignment 2",
+        "suggested_h2s": [
+          "How to Analyse Grammar for CELTA Assignment 2",
+          "CELTA Grammar Analysis: Present Perfect Simple and Continuous",
+          "CELTA Grammar Analysis: Second and Third Conditionals",
+          "CELTA Grammar Analysis: Modal Verbs — Obligation, Ability, and Deduction",
+          "CELTA Grammar Analysis: Passive Voice",
+          "Writing Concept Checking Questions (CCQs) for CELTA Grammar",
+          "Using Timelines and Form Diagrams in CELTA Grammar Analysis"
+        ],
+        "contextual_border_question": "How does writing precise concept checking questions that isolate the core meaning of a grammar structure — rather than paraphrasing the structure's definition — define the accuracy required in CELTA grammar analysis tasks?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment 2 Help: Language-Related Tasks",
+          "CELTA Language Analysis Help",
+          "CELTA Phonology and IPA for Assignments"
+        ]
+      },
+      {
+        "topic": "CELTA Phonology and IPA for Assignments",
+        "attribute_focus": "phonology analysis — pronunciation component of CELTA Assignment 2",
+        "macro_context": "CELTA candidates who are unfamiliar with IPA and need to learn how to transcribe language items accurately and describe pronunciation features for Assignment 2",
+        "query_context_match": true,
+        "eav_depth_required": "Define phonology in CELTA assignment context (accurate IPA transcription of a target language item, identification of word stress patterns, identification of connected speech features relevant to teaching — weak forms, assimilation, elision, intrusion, linking), connect to IPA chart as the required tool (consonants, vowels, diphthongs — British English RP as the default CELTA reference accent unless course specifies otherwise), define the most common CELTA phonology errors (using spelling to represent pronunciation instead of IPA, missing weak forms, incorrect stress marking, no connected speech analysis), provide worked examples of phonological analysis for common CELTA structures (e.g. 'I should have gone' → /aɪ ʃʊdəv ɡɒn/ — weak form of 'have', stress on 'should', connected speech reduction), connect to why phonology is often the lowest-scoring element of Assignment 2",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Phonology and IPA for Assignments: Transcription, Word Stress, and Connected Speech",
+        "suggested_h2s": [
+          "Why Does CELTA Require IPA in Assignment 2?",
+          "The IPA Chart for CELTA: Consonants, Vowels, and Diphthongs",
+          "Word Stress in CELTA Phonology Analysis",
+          "Connected Speech in CELTA Assignments: Weak Forms, Assimilation, and Elision",
+          "Common IPA Errors in CELTA Assignment 2",
+          "Phonology Analysis Examples: Modal Verbs, Perfect Tenses, and Multi-Word Verbs",
+          "How Phonology Analysis Affects Your CELTA Assignment 2 Grade"
+        ],
+        "contextual_border_question": "How does accurate IPA transcription with connected speech features — rather than spelling-based pronunciation representation — define the technical standard required for Pass B phonology analysis in CELTA assignments?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment 2 Help: Language-Related Tasks",
+          "CELTA Language Analysis Help",
+          "CELTA Grammar Analysis Help"
+        ]
+      },
+      {
+        "topic": "CELTA Assignment Referral and Resubmission Guide",
+        "attribute_focus": "referral recovery — for candidates whose assignments have been failed",
+        "macro_context": "CELTA candidates whose written assignments have been referred and who need to understand what the tutor feedback means, what must change, and how to produce a passing resubmission within the tight CELTA course timeline",
+        "query_context_match": true,
+        "eav_depth_required": "Define CELTA assignment referral (one assignment not meeting pass criteria — tutor must return with written feedback indicating gaps; one resubmission permitted; if resubmission fails, overall course fail in most cases), explain the urgency context (CELTA is intensive — a referral must often be addressed within days while teaching practice continues), define what tutor feedback means in CELTA (will identify specific criteria not met — e.g. 'language analysis of form is incomplete' or 'use analysis does not distinguish contexts' or 'no phonological analysis provided'), connect to the most common referral reasons by assignment (Assignment 1: no L1 contrastive analysis; Assignment 2: insufficient use analysis or IPA errors; Assignment 3: no methodological justification for task staging; Assignment 4: too descriptive, no theory integration), define what the resubmission must demonstrate (targeted improvement in specific criteria gaps, not general rewriting), connect to the emotional and time pressure context for CELTA candidates",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Assignment Referral: What It Means, How to Read Feedback, and How to Resubmit in Time",
+        "suggested_h2s": [
+          "What Does a CELTA Assignment Referral Mean?",
+          "How to Read CELTA Tutor Feedback and Identify What Must Change",
+          "CELTA Resubmission Timeline: How Long Do You Have?",
+          "Common CELTA Assignment Referral Reasons by Assignment Type",
+          "What Must Be Different in a CELTA Resubmission",
+          "How to Resubmit Assignment 2 When Language Analysis Was Referred",
+          "Can You Still Pass CELTA After an Assignment Referral?"
+        ],
+        "contextual_border_question": "How does the compressed timeline of an intensive CELTA course — where a referral must be addressed while teaching practice continues — define the urgency and targeted nature of what a CELTA resubmission must achieve?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment Help",
+          "CELTA Language Analysis Help",
+          "CELTA Assignment 2 Help: Language-Related Tasks"
+        ]
+      },
+      {
+        "topic": "CELTA Pass B: How to Achieve a Distinction-Level CELTA Grade",
+        "attribute_focus": "Pass B achievement strategy — distinction-level CELTA performance",
+        "macro_context": "CELTA candidates who want to understand what Pass B requires across written assignments and teaching practice and how to achieve it",
+        "query_context_match": true,
+        "eav_depth_required": "Define CELTA Pass B (the higher Cambridge CELTA grade — requires Pass B in the majority of written assignments AND Pass B in teaching practice; approximately the top 10–15% of candidates achieve Pass B), define what Pass B means in each assignment type (Assignment 1 Pass B: detailed L1 contrastive analysis with real evidence; Assignment 2 Pass B: nuanced use analysis, accurate IPA, connected speech analysis, insightful CCQs; Assignment 3 Pass B: methodologically referenced task design justification, sub-skills specificity; Assignment 4 Pass B: theoretically synthesised critical reflection with specific TP references), connect to the Cambridge criteria document as the authoritative definition, define how Pass B in written assignments interacts with TP grades, explain what tutors mean by 'insight' and 'independence' in Cambridge CELTA assessment language",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Pass B: What It Requires in Every Written Assignment and How to Achieve It",
+        "suggested_h2s": [
+          "What Is CELTA Pass B and How Many Candidates Achieve It?",
+          "Pass B in CELTA Assignment 1: What the Cambridge Criteria Require",
+          "Pass B in CELTA Assignment 2: Nuanced Language Analysis and IPA",
+          "Pass B in CELTA Assignment 3: Methodological Depth and Sub-Skills Specificity",
+          "Pass B in CELTA Assignment 4: Critical Synthesis of Theory and Practice",
+          "How CELTA Written Assignment Grades Combine With TP Grades for Pass B",
+          "What Cambridge Tutors Mean by 'Insight' and 'Independence' in CELTA"
+        ],
+        "contextual_border_question": "How does the Cambridge CELTA assessment language distinguishing 'insight' and 'independence' in Pass B criteria define a fundamentally higher order of thinking than the evidence-and-application standard of a standard Pass?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment Help",
+          "CELTA Assignment 2 Help: Language-Related Tasks",
+          "CELTA Assignment 4 Help: Lessons from the Classroom",
+          "CELTA Language Analysis Help"
+        ]
+      },
+      {
+        "topic": "CELTA Lesson Planning Help",
+        "attribute_focus": "lesson planning — the practical document that bridges teaching practice and written assignments",
+        "macro_context": "CELTA candidates who need help understanding how to write a CELTA lesson plan correctly and how the lesson plan connects to Assignments 2 and 3",
+        "query_context_match": true,
+        "eav_depth_required": "Define CELTA lesson plan structure (aims and objectives, context and lead-in, presentation or skills work stage, practice activities, production or output stage, materials analysis, anticipated problems and solutions, timing), connect to the relationship between lesson plans and written assignments (Assignment 2 language analysis feeds the language presentation stage; Assignment 3 skills work is documented in a lesson plan), define what assessors look for in CELTA lesson plans (clear staging rationale, realistic timing, learner-centred activities, anticipated problems that are LANGUAGE-specific not procedure-specific), explain the difference between teacher-centred and learner-centred lesson design in CELTA, connect to PPP (Presentation-Practice-Production) and Task-Based Learning (TBL) as the two primary CELTA lesson frameworks",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "CELTA Lesson Planning Help: Structure, Staging, and How Plans Connect to Written Assignments",
+        "suggested_h2s": [
+          "What Does a CELTA Lesson Plan Need to Include?",
+          "CELTA Lesson Plan Staging: Lead-In, Presentation, Practice, and Production",
+          "PPP vs Task-Based Learning in CELTA Lesson Planning",
+          "Anticipated Problems in CELTA Lesson Plans: What Assessors Want to See",
+          "How CELTA Assignment 2 Feeds Into Your Language Lesson Plan",
+          "How CELTA Assignment 3 Connects to Your Skills Lesson Plan",
+          "Common CELTA Lesson Planning Mistakes"
+        ],
+        "contextual_border_question": "How does writing anticipated problems that address specific linguistic or processing challenges for the learner group — rather than logistical concerns — define the quality standard in CELTA lesson planning that connects to both TP and written assignment assessment?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment 2 Help: Language-Related Tasks",
+          "CELTA Assignment 3 Help: Skills-Related Task",
+          "CELTA Assignment Help"
+        ]
+      },
+      {
+        "topic": "CELTA Online Blended Assignment Help",
+        "attribute_focus": "assignment help specific to online/blended CELTA delivery",
+        "macro_context": "CELTA candidates completing the course through Cambridge's online blended route (TP delivered locally, input online) who face different assignment submission timelines and support structures",
+        "query_context_match": true,
+        "eav_depth_required": "Define the CELTA online blended route (Cambridge-approved online input component combined with face-to-face teaching practice at a local centre — same assignments, same assessment criteria, different pacing and support structure), connect to how assignment timelines differ in online blended vs full-time courses (typically spread over 3–12 months rather than 4 weeks), define the specific challenges of online blended CELTA assignment writing (less immediate tutor support, self-directed study between input modules, isolation from cohort), explain that Cambridge assessment criteria are identical regardless of delivery mode, connect to the most common online blended CELTA assignment errors (rushing assignments before TP observation windows, no cohort discussion available for language analysis checking)",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "CELTA Online Blended Assignment Help: Guidance for Candidates on Cambridge's Online Route",
+        "suggested_h2s": [
+          "How Does CELTA Online Blended Work and How Do Assignments Differ?",
+          "CELTA Online vs Full-Time Assignment Timelines Compared",
+          "Challenges of CELTA Online Blended Assignments and How to Overcome Them",
+          "Are the Assignment Criteria Different for Online CELTA?",
+          "How to Get Feedback on Language Analysis Without a Daily Cohort",
+          "Assignment 2 Language Analysis in CELTA Online Blended: What to Watch Out For"
+        ],
+        "contextual_border_question": "How does the loss of daily cohort interaction and immediate tutor access in CELTA online blended delivery create specific language analysis checking gaps that affect Assignment 2 quality?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment Help",
+          "CELTA Language Analysis Help",
+          "CELTA Assignment 2 Help: Language-Related Tasks"
+        ]
+      },
+      {
+        "topic": "CELTA Academic Referencing and Sources",
+        "attribute_focus": "referencing — required for CELTA Assignments 1, 3, and 4",
+        "macro_context": "CELTA candidates who are unsure how to reference EFL methodology sources, course books, and published grammars correctly in their assignments",
+        "query_context_match": true,
+        "eav_depth_required": "Define referencing in CELTA assignment context (author-date or Harvard referencing required in Assignments 1, 3, and 4 — not typically in Assignment 2 which is purely analytical; candidates must cite EFL methodology texts, learner grammar references, and course books), connect to key sources commonly referenced in CELTA assignments (Harmer: The Practice of English Language Teaching; Thornbury: How to Teach Grammar, How to Teach Vocabulary, How to Teach Speaking; Scrivener: Learning Teaching; Richards and Rodgers: Approaches and Methods in Language Teaching; Swan: Practical English Usage; Celce-Murcia and Larsen-Freeman for grammar), define how to cite in-text (author, year, page for direct quotes), how to format a reference list for EFL methodology texts, connect to common CELTA referencing errors (citing Wikipedia, citing grammar checkers, missing page numbers, no reference list)",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "CELTA Assignment Referencing: How to Cite EFL Sources in Assignments 1, 3, and 4",
+        "suggested_h2s": [
+          "Which CELTA Assignments Require References?",
+          "Key EFL Methodology Books to Reference in CELTA Assignments",
+          "How to Cite Harmer, Thornbury, and Scrivener in CELTA Assignments",
+          "How to Format a Reference List for CELTA Written Work",
+          "Common CELTA Referencing Errors to Avoid",
+          "Can You Reference Online Sources in CELTA Assignments?"
+        ],
+        "contextual_border_question": "How does citing established EFL methodology to justify pedagogical choices — rather than relying on personal experience or general educational reasoning — define the academic standard expected in CELTA Assignments 3 and 4?",
+        "supplementary_bridges_to": [
+          "CELTA Assignment 3 Help: Skills-Related Task",
+          "CELTA Assignment 4 Help: Lessons from the Classroom",
+          "CELTA Assignment Help"
+        ]
+      }
+    ],
+    "macro_semantics": {
+      "site_wide_ngrams": [
+        "CELTA assignment help",
+        "CELTA written assignments",
+        "language analysis for CELTA",
+        "Pass B CELTA criteria",
+        "CELTA Assignment 2",
+        "form meaning use phonology",
+        "Cambridge CELTA assessment",
+        "CELTA language-related tasks",
+        "IPA CELTA assignments",
+        "CELTA focus on the learner"
+      ],
+      "question_formats": [
+        "What does CELTA Assignment [1/2/3/4] require?",
+        "How do you achieve Pass B in CELTA?",
+        "How do you analyse [grammar structure/lexical item] for CELTA?",
+        "What is the difference between Pass and Pass B in CELTA?",
+        "Why was my CELTA assignment referred and what do I do?"
+      ],
+      "predicate_distributions": [
+        "analyse (analyse form, meaning, use, and phonology)",
+        "achieve (achieve Pass B in CELTA assignments)",
+        "write (write a distinction-level CELTA assignment)",
+        "complete (complete CELTA Assignment 2)",
+        "justify (justify your lesson staging in CELTA)",
+        "reflect (reflect critically on teaching practice in Assignment 4)",
+        "pass (pass your CELTA assignment first time)"
+      ],
+      "heading_vector_pattern": "H1 = [CELTA Assignment Number/Type] + [Assignment Help/Guidance] + [Outcome Qualifier]; H2 = What/How question openings (What Does X Require / How to Analyse X / How to Achieve X) or element-led headings (Form Analysis in CELTA / Phonology in CELTA Assignments); H3 = Specific grammar structures, language items, Cambridge criteria elements, or assignment sub-sections"
+    }
+  },
+  "outer_section": {
+    "tier_1_topics": [
+      {
+        "topic": "What Is CELTA? The Cambridge Certificate in Teaching English Explained",
+        "attribute_focus": "CELTA as an entity — qualification overview and global recognition",
+        "macro_context": "People considering teaching EFL who want to understand what CELTA is, who it is for, and how it compares to other TEFL qualifications",
+        "minor_attribute": "qualification overview and recognition",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "What Is CELTA? The Cambridge Certificate in Teaching English to Speakers of Other Languages Explained",
+        "contextual_bridge_to_core": "Explaining that CELTA requires four written assignments and intensive teaching practice bridges to CELTA Assignment Help main page"
+      },
+      {
+        "topic": "CELTA vs Trinity CertTESOL: Which TEFL Certificate Should You Choose?",
+        "attribute_focus": "qualification comparison — CELTA vs Trinity CertTESOL",
+        "macro_context": "Prospective EFL teachers deciding between CELTA and Trinity CertTESOL as their initial teaching qualification",
+        "minor_attribute": "qualification selection and comparison",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA vs Trinity CertTESOL: Which Entry-Level TEFL Certificate Is Right for You?",
+        "contextual_bridge_to_core": "Students choosing CELTA will need assignment help — bridges to CELTA Assignment Help main page and assignment-specific pages"
+      },
+      {
+        "topic": "CELTA vs DELTA: What Is the Difference and How Do You Progress?",
+        "attribute_focus": "qualification comparison — CELTA vs DELTA progression",
+        "macro_context": "CELTA holders considering whether to progress to DELTA or candidates wanting to understand the assignment complexity difference",
+        "minor_attribute": "qualification progression comparison",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA vs DELTA: How the Qualifications Compare and What DELTA Assignments Require",
+        "contextual_bridge_to_core": "CELTA vs DELTA comparison reveals how CELTA assignment quality prepares for DELTA — bridges to Pass B strategy and CELTA Assignment 4"
+      },
+      {
+        "topic": "CELTA Full-Time vs Part-Time vs Online: Which Route Is Right for You?",
+        "attribute_focus": "course delivery comparison — CELTA study routes",
+        "macro_context": "Prospective CELTA candidates deciding between full-time (4 weeks), part-time (evenings over several months), or online blended delivery",
+        "minor_attribute": "course structure and delivery mode",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Full-Time vs Part-Time vs Online Blended: Which Route Suits You and How Do Assignments Differ?",
+        "contextual_bridge_to_core": "Route comparison bridges to CELTA Online Blended Assignment Help and main CELTA Assignment Help page"
+      },
+      {
+        "topic": "CELTA Pass Rates: How Difficult Is CELTA and What Percentage of Candidates Pass?",
+        "attribute_focus": "course difficulty and outcomes data",
+        "macro_context": "Prospective candidates researching how challenging CELTA is and what their chances of passing are",
+        "minor_attribute": "qualification difficulty and outcome statistics",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "CELTA Pass Rates: How Difficult Is CELTA and What Does the Data Say About Candidates?",
+        "contextual_bridge_to_core": "Pass rate anxiety bridges to CELTA Assignment Help and CELTA Pass B strategy page"
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "EFL Methodology for CELTA Assignments: Key Approaches and Theorists",
+        "attribute_focus": "EFL methodology knowledge base — required for Assignments 3 and 4",
+        "macro_context": "CELTA candidates who need to understand the major EFL methodology frameworks well enough to reference them analytically in their assignments",
+        "minor_attribute": "EFL methodology knowledge base",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "EFL Methodology for CELTA Assignments: PPP, TBL, and the Key Approaches You Must Reference",
+        "contextual_bridge_to_core": "EFL methodology knowledge bridges to CELTA Assignment 3, Assignment 4, and CELTA Lesson Planning Help pages"
+      },
+      {
+        "topic": "Concept Checking Questions (CCQs) for CELTA Assignments",
+        "attribute_focus": "CCQs — a specific CELTA language analysis technique",
+        "macro_context": "CELTA candidates who need to write effective concept checking questions for grammar and lexis items in Assignment 2",
+        "minor_attribute": "language teaching technique — CCQs",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Concept Checking Questions for CELTA: How to Write CCQs for Grammar and Lexis in Assignment 2",
+        "contextual_bridge_to_core": "CCQ writing is a direct sub-skill of Assignment 2 language analysis — bridges to CELTA Assignment 2 and Language Analysis pages"
+      },
+      {
+        "topic": "Error Analysis for CELTA: Understanding L1 Interference and Learner Errors",
+        "attribute_focus": "error analysis — required for Assignment 1 L1 interference section",
+        "macro_context": "CELTA candidates who need to identify and explain L1 interference errors in their learner's English for Assignment 1",
+        "minor_attribute": "applied linguistics knowledge base — error analysis",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Error Analysis for CELTA: How to Identify L1 Interference and Analyse Learner Errors in Assignment 1",
+        "contextual_bridge_to_core": "Error analysis knowledge bridges directly to CELTA Assignment 1 Help and CELTA Language Analysis Help pages"
+      },
+      {
+        "topic": "CELTA Academic Integrity: What Cambridge Allows and What Counts as Malpractice",
+        "attribute_focus": "academic integrity — Cambridge Assessment English policy for CELTA",
+        "macro_context": "CELTA candidates who want to understand where the line is between legitimate assignment support and academic malpractice under Cambridge rules",
+        "minor_attribute": "academic integrity and compliance",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CELTA Academic Integrity: What Cambridge Assessment English Allows and What Counts as Malpractice",
+        "contextual_bridge_to_core": "Integrity framing builds trust — directly supports conversion on CELTA Assignment Help main page"
+      },
+      {
+        "topic": "Teaching Practice in CELTA: How TP Connects to Written Assignments",
+        "attribute_focus": "teaching practice — the practical component and its assignment connection",
+        "macro_context": "CELTA candidates who want to understand how their observed teaching practice feeds into Assignments 1, 2, 3, and 4",
+        "minor_attribute": "practical component and assessment integration",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "CELTA Teaching Practice: How Your Observed TP Connects to All Four Written Assignments",
+        "contextual_bridge_to_core": "TP and assignment connection bridges to all four assignment-specific help pages"
+      }
+    ],
+    "tier_3_topics": [
+      {
+        "topic": "Careers After CELTA: Where Can You Teach and What Does CELTA Lead To?",
+        "attribute_focus": "career outcomes — post-CELTA teaching options",
+        "macro_context": "CELTA holders and prospective candidates researching what job opportunities CELTA opens globally",
+        "minor_attribute": "career outcomes and ROI",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "Careers After CELTA: Teaching Jobs, Countries, and Where a Cambridge CELTA Takes You",
+        "contextual_bridge_to_core": "Career motivation connects to achieving Pass B — bridges to CELTA Pass B strategy and CELTA Assignment Help"
+      },
+      {
+        "topic": "CELTA for Non-Native English Speaking Teachers (NNESTs): What to Expect",
+        "attribute_focus": "audience segment — non-native English speakers on CELTA",
+        "macro_context": "Non-native English speakers considering CELTA who want to understand whether CELTA is accessible to them and what the language analysis expectations mean for them",
+        "minor_attribute": "audience-specific concerns and context",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "CELTA for Non-Native English Speaking Teachers: Language Analysis, Written Assignments, and What to Expect",
+        "contextual_bridge_to_core": "NNEST specific assignment challenges bridge to Language Analysis Help and Assignment 2 help pages"
+      },
+      {
+        "topic": "What Is the IPA? A Beginner's Guide for CELTA Candidates",
+        "attribute_focus": "IPA as foundational knowledge for CELTA phonology analysis",
+        "macro_context": "CELTA candidates who have never studied phonetics and need a basic introduction to the IPA before tackling Assignment 2",
+        "minor_attribute": "foundational phonetics knowledge",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "What Is the IPA? A Beginner's Guide for CELTA Candidates Approaching Assignment 2",
+        "contextual_bridge_to_core": "IPA introduction bridges to CELTA Phonology and IPA for Assignments and Assignment 2 Help"
+      }
+    ],
+    "contextual_bridges": [
+      {
+        "from_node": "What Is CELTA? The Cambridge Certificate Explained",
+        "to_node": "CELTA Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA assignment help",
+        "bridge_description": "CELTA overview explains the four written assignment component — readers directed to assignment support service"
+      },
+      {
+        "from_node": "CELTA vs Trinity CertTESOL",
+        "to_node": "CELTA Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA assignment help",
+        "bridge_description": "After choosing CELTA over CertTESOL, candidates need assignment support — bridges to main service page"
+      },
+      {
+        "from_node": "CELTA vs DELTA",
+        "to_node": "CELTA Pass B: How to Achieve a Distinction-Level Grade",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA Pass B",
+        "bridge_description": "DELTA progression discussion highlights CELTA Pass B as an advantageous foundation — bridges to Pass B strategy"
+      },
+      {
+        "from_node": "CELTA Full-Time vs Part-Time vs Online",
+        "to_node": "CELTA Online Blended Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA online blended assignment help",
+        "bridge_description": "Route comparison bridges to online-specific assignment guidance for candidates on that route"
+      },
+      {
+        "from_node": "CELTA Pass Rates: How Difficult Is CELTA?",
+        "to_node": "CELTA Assignment Referral and Resubmission Guide",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA assignment referral",
+        "bridge_description": "Pass rate discussion includes referral rates — bridges to referral recovery for worried candidates"
+      },
+      {
+        "from_node": "EFL Methodology for CELTA Assignments",
+        "to_node": "CELTA Assignment 3 Help: Skills-Related Task",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA Assignment 3 help",
+        "bridge_description": "EFL methodology knowledge is required for Assignment 3 methodological justification — bridges to specific assignment page"
+      },
+      {
+        "from_node": "Concept Checking Questions for CELTA",
+        "to_node": "CELTA Assignment 2 Help: Language-Related Tasks",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA Assignment 2 help",
+        "bridge_description": "CCQ writing is a core Assignment 2 sub-skill — bridges directly to the Assignment 2 help page"
+      },
+      {
+        "from_node": "Error Analysis for CELTA",
+        "to_node": "CELTA Assignment 1 Help: Focus on the Learner",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA Assignment 1 help",
+        "bridge_description": "Error analysis knowledge is the core skill for Assignment 1 L1 interference section — bridges to Assignment 1"
+      },
+      {
+        "from_node": "CELTA Academic Integrity",
+        "to_node": "CELTA Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA assignment help",
+        "bridge_description": "Integrity policy clarification resolves candidate concern — bridges to main service page"
+      },
+      {
+        "from_node": "Teaching Practice in CELTA",
+        "to_node": "CELTA Assignment 4 Help: Lessons from the Classroom",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA Assignment 4 help",
+        "bridge_description": "TP and assignment connection naturally bridges to the reflection assignment most directly linked to TP"
+      },
+      {
+        "from_node": "What Is the IPA?",
+        "to_node": "CELTA Phonology and IPA for Assignments",
+        "bridge_type": "linked",
+        "anchor_text": "CELTA phonology and IPA for assignments",
+        "bridge_description": "IPA beginner guide bridges to CELTA-specific phonology analysis guidance"
+      },
+      {
+        "from_node": "CELTA for NNESTs",
+        "to_node": "CELTA Language Analysis Help",
+        "bridge_type": "linkless",
+        "anchor_text": "",
+        "bridge_description": "Both pages reference the language analysis challenge for non-native speakers — creates topical proximity for this audience segment"
+      }
+    ]
+  },
+  "coverage_gaps": [
+    {
+      "topic": "CELTA Assignment 2: Present Perfect Analysis (worked example page)",
+      "section": "core",
+      "gap_type": "shallow_depth",
+      "priority": "high",
+      "reason": "The present perfect is the single most commonly assigned grammar item in CELTA Assignment 2. A dedicated worked example page with full form-meaning-use-phonology analysis, CCQs, timelines, and Pass B commentary would be the highest-specificity content asset in the niche — capturing candidates searching for exactly this structure."
+    },
+    {
+      "topic": "CELTA Assignment 2: Modal Verbs Analysis (worked example page)",
+      "section": "core",
+      "gap_type": "shallow_depth",
+      "priority": "high",
+      "reason": "Modal verbs (obligation, ability, permission, deduction) are the second most common CELTA Assignment 2 grammar focus. A dedicated worked example captures a high-volume specific query."
+    },
+    {
+      "topic": "CELTA Assignment 2: Conditionals Analysis (worked example page)",
+      "section": "core",
+      "gap_type": "shallow_depth",
+      "priority": "medium",
+      "reason": "Second and third conditionals are a common Assignment 2 focus. A dedicated page with full analysis and CCQs would serve candidates with this specific structure."
+    },
+    {
+      "topic": "CELTA Help for Career Changers and Mature Candidates",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "A large proportion of CELTA candidates are career changers who have not done academic writing in years. A targeted page addressing re-entry to academic writing in the CELTA context (language analysis as a new skill, referencing EFL sources for the first time) serves an underserved high-need segment."
+    },
+    {
+      "topic": "CELTA Language Analysis: Lexis — Multi-Word Verbs, Idioms, and Collocations",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Lexical analysis for CELTA is distinct from grammar analysis and requires specific form-meaning-use-phonology treatment. A dedicated lexis analysis page covers candidates whose Assignment 2 focuses on vocabulary rather than grammar."
+    },
+    {
+      "topic": "CELTA Assignment Help for International Candidates Studying in the UK",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "low",
+      "reason": "International candidates on CELTA face the additional challenge of analysing English from a non-native perspective, with potential L1 interference in their own written assignments. A targeted page addresses this specific dual-challenge audience."
+    }
+  ],
+  "vastness_depth_momentum": {
+    "vastness_assessment": "The topical map covers all four CELTA written assignments at Core Tier 1 plus the main overview page. Core Tier 2 covers the critical sub-skills: language analysis, grammar analysis, phonology/IPA, Pass B strategy, lesson planning, online blended context, referral recovery, and referencing. Outer section covers qualification discovery, EFL methodology knowledge base, and CCQ/error analysis technique pages. Six gap topics identified — the three worked example pages (present perfect, modals, conditionals) are the highest-priority specificity assets.",
+    "depth_assessment": "Core Tier 1 pages have strong EAV depth defined (assignment structure, Cambridge criteria, Pass vs Pass B distinctions, common errors). The most important depth asset not yet built is the present perfect worked example — this is the most searched specific CELTA Assignment 2 query and no competitor provides it at sufficient analytical depth. The phonology/IPA page is the second most distinctive depth asset because IPA competence is almost universally weak among CELTA candidates.",
+    "momentum_recommendation": "Publish the main CELTA overview and the four assignment-specific pages first (Phase 1 — weeks 1–3). Then the three core technical sub-skill pages (language analysis, grammar analysis, phonology/IPA — Phase 2). Then Pass B strategy, referral guide, and lesson planning (Phase 3). Outer Tier 1 qualification discovery pages in Phase 4. Worked example grammar pages and gap topics in Phase 5. Aim for 2 pages per week minimum.",
+    "priority_recommendation": "Technical depth before breadth. The CELTA niche is extremely thin — a handful of blog posts and forum discussions are the only competition. Establish authority immediately by: (1) being the only resource with a full form-meaning-use-phonology analysis framework at CELTA depth; (2) the IPA and connected speech page — almost universally feared by candidates; (3) the Pass B criteria page which maps Cambridge's own assessment language to actionable advice. These three assets will dominate the niche rapidly because no equivalent exists at this depth anywhere online."
+  }
+}

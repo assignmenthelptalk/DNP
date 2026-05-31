@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="btec-hnd-title">
+  <title id="btec-hnd-title">Managing a Successful Business Project: 5-Stage Structure with Word Counts and Common Failure Modes</title>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="26" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Managing a Successful Business Project</text>
+  <text x="400" y="46" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">BTEC HND Business — Mandatory Core Unit — 5,000–6,000 Words</text>
+
+  <!-- Stage 1 -->
+  <rect x="28" y="82" width="144" height="340" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="82" width="144" height="36" rx="8" fill="#2563EB"/>
+  <rect x="28" y="104" width="144" height="14" fill="#2563EB"/>
+  <text x="100" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">1. AIMS &amp; OBJECTIVES</text>
+  <text x="38" y="134" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">~300–400 words</text>
+  <line x1="38" y1="144" x2="158" y2="144" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="38" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Define researchable</text>
+  <text x="38" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">business question.</text>
+  <text x="38" y="188" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Write SMART objectives.</text>
+  <text x="38" y="202" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">State rationale + scope.</text>
+  <line x1="38" y1="214" x2="158" y2="214" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="38" y="228" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">COMMON FAIL</text>
+  <text x="38" y="242" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Topic chosen, not</text>
+  <text x="38" y="256" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">a research question.</text>
+
+  <!-- Arrow 1→2 -->
+  <polygon points="180,252 196,244 196,260" fill="#2563EB"/>
+  <line x1="172" y1="252" x2="196" y2="252" stroke="#2563EB" stroke-width="2"/>
+
+  <!-- Stage 2 -->
+  <rect x="200" y="82" width="144" height="340" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="200" y="82" width="144" height="36" rx="8" fill="#2563EB"/>
+  <rect x="200" y="104" width="144" height="14" fill="#2563EB"/>
+  <text x="272" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">2. LITERATURE REVIEW</text>
+  <text x="210" y="134" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">~1,200–1,500 words</text>
+  <line x1="210" y1="144" x2="330" y2="144" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="210" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Synthesise 8–12+</text>
+  <text x="210" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">academic sources.</text>
+  <text x="210" y="188" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Organise by theme.</text>
+  <text x="210" y="202" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Identify the gap.</text>
+  <line x1="210" y1="214" x2="330" y2="214" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="210" y="228" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">COMMON FAIL</text>
+  <text x="210" y="242" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Source-by-source</text>
+  <text x="210" y="256" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">summary, not synthesis.</text>
+
+  <!-- Arrow 2→3 -->
+  <polygon points="352,252 368,244 368,260" fill="#7C3AED"/>
+  <line x1="344" y1="252" x2="368" y2="252" stroke="#7C3AED" stroke-width="2"/>
+
+  <!-- Stage 3 -->
+  <rect x="372" y="82" width="144" height="340" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="372" y="82" width="144" height="36" rx="8" fill="#7C3AED"/>
+  <rect x="372" y="104" width="144" height="14" fill="#7C3AED"/>
+  <text x="444" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">3. METHODOLOGY</text>
+  <text x="382" y="134" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">~600–800 words</text>
+  <line x1="382" y1="144" x2="502" y2="144" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="382" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Justify: quant / qual /</text>
+  <text x="382" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">mixed methods.</text>
+  <text x="382" y="188" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Reference Research Onion.</text>
+  <text x="382" y="202" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Ethics + limitations.</text>
+  <line x1="382" y1="214" x2="502" y2="214" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="382" y="228" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">COMMON FAIL</text>
+  <text x="382" y="242" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Methods listed,</text>
+  <text x="382" y="256" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">not justified.</text>
+
+  <!-- Arrow 3→4 -->
+  <polygon points="524,252 540,244 540,260" fill="#7C3AED"/>
+  <line x1="516" y1="252" x2="540" y2="252" stroke="#7C3AED" stroke-width="2"/>
+
+  <!-- Stage 4 -->
+  <rect x="544" y="82" width="112" height="340" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="544" y="82" width="112" height="36" rx="8" fill="#7C3AED"/>
+  <rect x="544" y="104" width="112" height="14" fill="#7C3AED"/>
+  <text x="600" y="100" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">4. FINDINGS &amp;</text>
+  <text x="600" y="113" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">ANALYSIS</text>
+  <text x="554" y="134" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">~1,200–1,500 wds</text>
+  <line x1="554" y1="144" x2="646" y2="144" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="554" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Present data clearly.</text>
+  <text x="554" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Analyse against</text>
+  <text x="554" y="188" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">literature review.</text>
+  <text x="554" y="202" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Confirm or challenge.</text>
+  <line x1="554" y1="214" x2="646" y2="214" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="554" y="228" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">COMMON FAIL</text>
+  <text x="554" y="242" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Data presented,</text>
+  <text x="554" y="256" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">no analysis.</text>
+
+  <!-- Arrow 4→5 -->
+  <polygon points="664,252 680,244 680,260" fill="#D97706"/>
+  <line x1="656" y1="252" x2="680" y2="252" stroke="#D97706" stroke-width="2"/>
+
+  <!-- Stage 5 -->
+  <rect x="684" y="82" width="88" height="340" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <rect x="684" y="82" width="88" height="36" rx="8" fill="#D97706"/>
+  <rect x="684" y="104" width="88" height="14" fill="#D97706"/>
+  <text x="728" y="98" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">5. CONCLUSIONS</text>
+  <text x="728" y="111" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">&amp; RECS</text>
+  <text x="690" y="134" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#374151">~400–500 words</text>
+  <line x1="690" y1="144" x2="762" y2="144" stroke="#FDE68A" stroke-width="1"/>
+  <text x="690" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Conclusions from</text>
+  <text x="690" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">findings only.</text>
+  <text x="690" y="188" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Specific actionable</text>
+  <text x="690" y="202" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">recommendations.</text>
+  <text x="690" y="216" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Justified by evidence.</text>
+  <line x1="690" y1="228" x2="762" y2="228" stroke="#FDE68A" stroke-width="1"/>
+  <text x="690" y="242" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">COMMON</text>
+  <text x="690" y="254" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">FAIL</text>
+  <text x="690" y="268" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Generic rec.</text>
+  <text x="690" y="282" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">New info in</text>
+  <text x="690" y="296" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">conclusions.</text>
+
+  <!-- Total word count bar -->
+  <rect x="28" y="436" width="744" height="36" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="459" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Total: 5,000–6,000 words (excluding reference list and appendices) · Harvard referencing throughout</text>
+
+  <!-- Distinction note -->
+  <rect x="28" y="484" width="744" height="64" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="504" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">DISTINCTION REQUIREMENTS FOR THIS UNIT</text>
+  <text x="44" y="520" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Literature Review: thematic synthesis, not source summaries · Methodology: justified research philosophy (Research Onion) · Findings: analysed against literature</text>
+  <text x="44" y="536" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Recommendations: specific, actionable, evidence-derived — not generic · References: 12–18+ peer-reviewed sources, correctly formatted throughout</text>
+
+  <!-- Footer -->
+  <text x="400" y="580" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">BTEC Assignment Help Service · BTEC HND Business Level 5 (Pearson)</text>
+</svg>

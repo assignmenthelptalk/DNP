@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" role="img" aria-labelledby="hnc-computing-title">
+  <title id="hnc-computing-title">HNC Computing Written vs Practical Assessment Split: Programming Design Analysis, Networking OSI Protocol Justification, Database Normalisation 1NF 2NF 3NF, Systems Analysis UML Waterfall Agile SSADM Pass Merit Distinction</title>
+
+  <!-- Background -->
+  <rect width="800" height="620" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">HNC Computing: Written Analysis vs Technical Output</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Merit and Distinction are awarded for written analytical commentary — not for technical competence alone</text>
+
+  <!-- Key principle banner -->
+  <rect x="28" y="82" width="744" height="30" rx="6" fill="#DC2626"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">CRITICAL PRINCIPLE: Working code / correct diagrams / functional database = PASS only</text>
+  <text x="400" y="109" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#FECACA">Merit requires design rationale · Distinction requires critical evaluation of design decisions and limitations</text>
+
+  <!-- Unit cards header -->
+  <rect x="28" y="126" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="141" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">4 CORE UNITS — Technical Requirement vs Written Analytical Requirement at P / M / D</text>
+
+  <!-- Programming -->
+  <rect x="28" y="156" width="178" height="200" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="156" width="178" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="168" width="178" height="12" fill="#1B3A6B"/>
+  <text x="117" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">PROGRAMMING</text>
+  <text x="44" y="196" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#1B3A6B">Pass (technical):</text>
+  <text x="44" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Working program · functional</text>
+  <text x="44" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">tests passing · correct syntax</text>
+  <line x1="44" y1="232" x2="196" y2="232" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#2563EB">Merit (written):</text>
+  <text x="44" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">OOP design justification</text>
+  <text x="44" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Class / inheritance rationale</text>
+  <text x="44" y="288" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Algorithm comparison</text>
+  <line x1="44" y1="296" x2="196" y2="296" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="310" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#7C3AED">Distinction (written):</text>
+  <text x="44" y="324" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Evaluate solution limitations</text>
+  <text x="44" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Design pattern alternatives</text>
+  <text x="44" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Sommerville (2016) ref req.</text>
+
+  <!-- Networking -->
+  <rect x="220" y="156" width="178" height="200" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="220" y="156" width="178" height="24" rx="6" fill="#2563EB"/>
+  <rect x="220" y="168" width="178" height="12" fill="#2563EB"/>
+  <text x="309" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">NETWORKING</text>
+  <text x="236" y="196" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#1B3A6B">Pass (technical):</text>
+  <text x="236" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Network design · correct</text>
+  <text x="236" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">topology · addressing scheme</text>
+  <line x1="236" y1="232" x2="388" y2="232" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="236" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#2563EB">Merit (written):</text>
+  <text x="236" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Protocol justification: TCP vs</text>
+  <text x="236" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">UDP, OSPF vs RIP rationale</text>
+  <text x="236" y="288" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">OSI model layer analysis</text>
+  <line x1="236" y1="296" x2="388" y2="296" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="236" y="310" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#7C3AED">Distinction (written):</text>
+  <text x="236" y="324" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">CIA triad security evaluation</text>
+  <text x="236" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Threat model assessment</text>
+  <text x="236" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Tanenbaum (2011) ref req.</text>
+
+  <!-- Database -->
+  <rect x="412" y="156" width="178" height="200" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="412" y="156" width="178" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="412" y="168" width="178" height="12" fill="#1B3A6B"/>
+  <text x="501" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">DATABASE DESIGN</text>
+  <text x="428" y="196" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#1B3A6B">Pass (technical):</text>
+  <text x="428" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Normalised schema · working</text>
+  <text x="428" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">SQL queries · correct keys</text>
+  <line x1="428" y1="232" x2="580" y2="232" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="428" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#2563EB">Merit (written):</text>
+  <text x="428" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">1NF→2NF→3NF process shown</text>
+  <text x="428" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Crow's foot ER notation</text>
+  <text x="428" y="288" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">JOIN type justification</text>
+  <line x1="428" y1="296" x2="580" y2="296" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="428" y="310" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#7C3AED">Distinction (written):</text>
+  <text x="428" y="324" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Denormalisation trade-off eval.</text>
+  <text x="428" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Performance vs integrity</text>
+  <text x="428" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Connolly &amp; Begg (2015) ref req.</text>
+
+  <!-- Systems Analysis -->
+  <rect x="604" y="156" width="168" height="200" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="604" y="156" width="168" height="24" rx="6" fill="#7C3AED"/>
+  <rect x="604" y="168" width="168" height="12" fill="#7C3AED"/>
+  <text x="688" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">SYSTEMS ANALYSIS</text>
+  <text x="620" y="196" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#1B3A6B">Pass (technical):</text>
+  <text x="620" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Use case · class · sequence</text>
+  <text x="620" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">UML diagrams accurate</text>
+  <line x1="620" y1="232" x2="762" y2="232" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="620" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#2563EB">Merit (written):</text>
+  <text x="620" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Waterfall vs Agile vs SSADM</text>
+  <text x="620" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">comparison + justification</text>
+  <text x="620" y="288" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">for specific project context</text>
+  <line x1="620" y1="296" x2="762" y2="296" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="620" y="310" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#7C3AED">Distinction (written):</text>
+  <text x="620" y="324" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">UML gaps critically identified</text>
+  <text x="620" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Methodology risk evaluation</text>
+  <text x="620" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Evaluate assumptions made</text>
+
+  <!-- Merit test -->
+  <rect x="28" y="372" width="744" height="70" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="390" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">THE MERIT TEST — Does your written commentary answer WHY?</text>
+  <text x="44" y="406" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Pass commentary: "I used an INNER JOIN to retrieve records from both tables where a matching student_id exists."</text>
+  <text x="44" y="421" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit commentary: "An INNER JOIN was selected because the query requires only records with a confirmed match in both tables — a LEFT OUTER JOIN would return NULL values for unmatched rows, which would misrepresent enrolment data where incomplete records must be excluded from the analysis."</text>
+  <text x="44" y="436" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#1D4ED8">The Merit connector: "because," "in order to," "in contrast to," "this approach was selected because it enables"</text>
+
+  <!-- Progression strip -->
+  <rect x="28" y="456" width="744" height="30" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="476" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Academic Sources: Sommerville (2016) · Tanenbaum &amp; Wetherall (2011) · Connolly &amp; Begg (2015) — Harvard format required</text>
+
+  <!-- Footer -->
+  <text x="400" y="610" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HNC Assignment Help Service · HNC Computing Written Analysis Framework</text>
+</svg>

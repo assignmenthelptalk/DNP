@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" role="img" aria-labelledby="celta-l1-title">
+  <title id="celta-l1-title">CELTA Assignment 1 L1 Interference: Spanish, Arabic, Mandarin, and French Error Patterns with Grammatical Mechanisms and Asterisk Notation</title>
+
+  <!-- Background -->
+  <rect width="800" height="580" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">CELTA Assignment 1: L1 Interference Patterns</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Spanish · Arabic · Mandarin · French — Grammatical Mechanisms and Asterisk Notation</text>
+
+  <!-- Spanish column -->
+  <rect x="28" y="82" width="178" height="350" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="82" width="178" height="34" rx="8" fill="#2563EB"/>
+  <rect x="28" y="102" width="178" height="14" fill="#2563EB"/>
+  <text x="117" y="103" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">SPANISH</text>
+  <text x="44" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">ARTICLE ERRORS</text>
+  <text x="44" y="142" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*The people is kind (generic noun)</text>
+  <text x="44" y="155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Spanish: el/la with gendered articles</text>
+  <text x="44" y="168" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Different rules from English 'the'</text>
+  <line x1="44" y1="177" x2="196" y2="177" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="191" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">QUESTION WORD ORDER</text>
+  <text x="44" y="205" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*What she said?</text>
+  <text x="44" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Spanish does not require do-support</text>
+  <text x="44" y="231" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ ¿Qué dijo? (no auxiliary needed)</text>
+  <line x1="44" y1="240" x2="196" y2="240" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="254" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">SER / ESTAR CONFUSION</text>
+  <text x="44" y="268" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*She is tired always</text>
+  <text x="44" y="281" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Spanish: ser (permanent) / estar (temp.)</text>
+  <text x="44" y="294" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ English 'be' = one verb, no distinction</text>
+  <line x1="44" y1="303" x2="196" y2="303" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="317" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">TENSE CONFUSION</text>
+  <text x="44" y="331" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Present continuous overused for states</text>
+  <text x="44" y="344" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">*I am knowing the answer</text>
+  <text x="44" y="360" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Spanish uses present continuous more broadly</text>
+  <text x="44" y="414" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">State verbs + stative meaning → simple present</text>
+
+  <!-- Arabic column -->
+  <rect x="218" y="82" width="178" height="350" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="218" y="82" width="178" height="34" rx="8" fill="#2563EB"/>
+  <rect x="218" y="102" width="178" height="14" fill="#2563EB"/>
+  <text x="307" y="103" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">ARABIC</text>
+  <text x="234" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">COPULA OMISSION</text>
+  <text x="234" y="142" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*He very tall</text>
+  <text x="234" y="155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*The book interesting</text>
+  <text x="234" y="168" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Arabic: no overt 'be' in present equative</text>
+  <text x="234" y="181" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ هو طويل (he tall) grammatically correct</text>
+  <line x1="234" y1="190" x2="386" y2="190" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="234" y="204" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">PHONOLOGICAL: /p/ → /b/</text>
+  <text x="234" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*/bɪktʃər/ for "picture"</text>
+  <text x="234" y="231" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*/bɑːk/ for "park"</text>
+  <text x="234" y="244" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Arabic has no /p/ phoneme</text>
+  <text x="234" y="257" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ substitution is phonological L1 transfer</text>
+  <line x1="234" y1="266" x2="386" y2="266" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="234" y="280" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">PLURAL MARKING</text>
+  <text x="234" y="294" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*Two book · *Many student</text>
+  <text x="234" y="307" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Arabic broken plural: internal vowel change</text>
+  <text x="234" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ English -s suffix feels non-intuitive</text>
+  <line x1="234" y1="329" x2="386" y2="329" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="234" y="343" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">ARTICLE OVERUSE</text>
+  <text x="234" y="357" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*The life is beautiful</text>
+  <text x="234" y="370" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Arabic definite article (ال) with generic nouns</text>
+  <text x="234" y="414" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Phonological errors: use IPA in error analysis</text>
+
+  <!-- Mandarin column -->
+  <rect x="408" y="82" width="178" height="350" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="408" y="82" width="178" height="34" rx="8" fill="#7C3AED"/>
+  <rect x="408" y="102" width="178" height="14" fill="#7C3AED"/>
+  <text x="497" y="103" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">MANDARIN</text>
+  <text x="424" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">PAST TENSE -ED OMISSION</text>
+  <text x="424" y="142" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*Yesterday I go to market</text>
+  <text x="424" y="155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*Last week she finish the work</text>
+  <text x="424" y="168" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Mandarin marks tense with time adverbs</text>
+  <text x="424" y="181" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Verb morphology does not change for tense</text>
+  <line x1="424" y1="190" x2="576" y2="190" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="424" y="204" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">ARTICLE OMISSION</text>
+  <text x="424" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*I saw dog in garden</text>
+  <text x="424" y="231" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*Dog is animal</text>
+  <text x="424" y="244" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Mandarin has no article system</text>
+  <text x="424" y="257" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Definiteness marked by context/demonstrative</text>
+  <line x1="424" y1="266" x2="576" y2="266" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="424" y="280" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">PLURAL -S OMISSION</text>
+  <text x="424" y="294" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*Three student · *Many book</text>
+  <text x="424" y="307" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Mandarin: number marked by numerals/classifiers</text>
+  <text x="424" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Noun morphology does not mark number</text>
+  <line x1="424" y1="329" x2="576" y2="329" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="424" y="343" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">RELATIVE CLAUSE ORDER</text>
+  <text x="424" y="357" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*I met yesterday the man</text>
+  <text x="424" y="370" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Mandarin relative clauses are pre-nominal</text>
+  <text x="424" y="414" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">-ed omission persists to intermediate level</text>
+
+  <!-- French column -->
+  <rect x="598" y="82" width="174" height="350" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="598" y="82" width="174" height="34" rx="8" fill="#7C3AED"/>
+  <rect x="598" y="102" width="174" height="14" fill="#7C3AED"/>
+  <text x="685" y="103" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">FRENCH</text>
+  <text x="614" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">FALSE COGNATES (FAUX AMIS)</text>
+  <text x="614" y="142" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">sensible (Fr) = sensitive in Eng</text>
+  <text x="614" y="155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">actuel (Fr) = current in Eng</text>
+  <text x="614" y="168" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">éventuel (Fr) = possible in Eng</text>
+  <text x="614" y="181" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Form similarity masks meaning difference</text>
+  <line x1="614" y1="190" x2="762" y2="190" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="614" y="204" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">GENDER TRANSFER</text>
+  <text x="614" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*The table — she is heavy</text>
+  <text x="614" y="231" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ French assigns grammatical gender to all nouns</text>
+  <text x="614" y="244" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ Gender pronoun transferred to English objects</text>
+  <line x1="614" y1="253" x2="762" y2="253" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="614" y="267" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">PREPOSITION TRANSFER</text>
+  <text x="614" y="281" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*interested about (← intéressé par)</text>
+  <text x="614" y="294" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*depend of (← dépendre de)</text>
+  <line x1="614" y1="303" x2="762" y2="303" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="614" y="317" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">DURATION EXPRESSION</text>
+  <text x="614" y="331" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">*I am here since Monday</text>
+  <text x="614" y="344" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ French depuis + present = still occurring</text>
+  <text x="614" y="357" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">→ English: present perfect + since/for</text>
+  <text x="614" y="414" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">False cognates: always check meaning against Eng.</text>
+
+  <!-- Asterisk notation rule -->
+  <rect x="28" y="448" width="744" height="36" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="464" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Asterisk convention: * marks unacceptable form · *He go to school yesterday (past tense error) · */bɪktʃər/ for /ˈpɪktʃə/ (phonological substitution)</text>
+  <text x="400" y="479" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#A8C4E0">Error must be traced to cause: L1 interference · overgeneralisation · developmental error — not just the learner's nationality</text>
+
+  <!-- Footer -->
+  <text x="400" y="568" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CELTA Assignment Help Service · Cambridge CELTA Assignment 1 — Focus on the Learner</text>
+</svg>

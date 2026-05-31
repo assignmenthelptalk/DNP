@@ -1,0 +1,766 @@
+{
+  "topical_map": {
+    "website": "https://cipdassignmentexamples.com",
+    "created": "2026-04-05",
+    "methodology": "Holistic SEO by Koray Tuğberk GÜBÜR — holisticseo.digital",
+    "central_entity": "CIPD Qualification Assignments",
+    "source_context": "Specialist educational resource for CIPD Level 3, 5, and 7 assignment examples",
+
+    "core_section": {
+      "description": "Unification of Source Context with the Central Search Intent. Focuses on the MAIN ATTRIBUTE of the central entity — qualification level × module code × worked example. Every page directly serves the student's assignment completion need.",
+      "nodes": {
+        "source_context_anchor": {
+          "url": "/",
+          "title": "CIPD Assignment Examples — Level 3, Level 5 and Level 7 Worked Solutions",
+          "status": "optimise",
+          "current_performance": {"clicks": 25, "impressions": 736, "ctr": "3.40%", "position": 32.22},
+          "macro_context": "Hub for all CIPD assignment examples across all qualification levels",
+          "required_h1": "CIPD Assignment Examples — Level 3, Level 5 and Level 7 Worked Solutions",
+          "schema": ["Organisation", "FAQPage", "BreadcrumbList"],
+          "internal_link_target": "Level hub pages only — not directly to module pages"
+        },
+        "level_hub_pages": [
+          {
+            "url": "/cipd-level-3-assignment-examples/",
+            "title": "CIPD Level 3 Assignment Examples — Foundation Certificate in People Practice",
+            "status": "create",
+            "priority": 2,
+            "macro_context": "Hub for all Level 3 CIPD Foundation Certificate module examples",
+            "schema": ["ItemList", "BreadcrumbList", "FAQPage"],
+            "must_include": ["Qualification structure", "Pathway overview", "All L3 module links", "Marking criteria language"]
+          },
+          {
+            "url": "/cipd-level-5-assignment-examples/",
+            "title": "CIPD Level 5 Assignment Examples — Associate Diploma in People Management",
+            "status": "rebuild",
+            "replaces": "/cipd-level-5-examples/",
+            "current_performance": {"clicks": 0, "impressions": 1, "position": 63},
+            "priority": 1,
+            "macro_context": "Hub for all Level 5 CIPD Associate Diploma module examples",
+            "schema": ["ItemList", "BreadcrumbList", "FAQPage"],
+            "must_include": ["Core pathway modules", "HR pathway modules", "Specialist pathway modules", "L&D pathway modules", "Word count guidance", "Pass/Merit criteria"]
+          },
+          {
+            "url": "/cipd-level-7-assignment-examples/",
+            "title": "CIPD Level 7 Assignment Examples — Advanced Diploma in Strategic People Management",
+            "status": "create",
+            "priority": 3,
+            "macro_context": "Hub for all Level 7 CIPD Advanced Diploma module examples",
+            "schema": ["ItemList", "BreadcrumbList", "FAQPage"],
+            "must_include": ["Post-graduate level framing", "Strategic vs operational distinction", "Academic referencing note", "All L7 module links"]
+          }
+        ],
+        "level_3_modules": [
+          {
+            "url": "/3co01-assignment-example/",
+            "module_code": "3CO01",
+            "module_name": "Business, Culture and Change in Context",
+            "level": 3,
+            "pathway": "core",
+            "status": "create",
+            "priority": 1,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"],
+            "connects_to_level_5": "5CO01"
+          },
+          {
+            "url": "/3co02-assignment-example/",
+            "module_code": "3CO02",
+            "module_name": "Principles of Analytics",
+            "level": 3,
+            "pathway": "core",
+            "status": "create",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"],
+            "connects_to_level_5": "5CO02"
+          },
+          {
+            "url": "/3co03-assignment-example/",
+            "module_code": "3CO03",
+            "module_name": "Core Behaviours for People Professionals",
+            "level": 3,
+            "pathway": "core",
+            "status": "optimise_if_exists",
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/3co04-assignment-example/",
+            "module_code": "3CO04",
+            "module_name": "Essentials of People Practice",
+            "level": 3,
+            "pathway": "core",
+            "status": "optimise_if_exists",
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/3hr01-assignment-example/",
+            "module_code": "3HR01",
+            "module_name": "Supporting Good Practice in Performance and Reward Management",
+            "level": 3,
+            "pathway": "hr",
+            "status": "create",
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"],
+            "connects_to_level_5": "5HR03"
+          },
+          {
+            "url": "/3hr02-assignment-example/",
+            "module_code": "3HR02",
+            "module_name": "Supporting Good Practice in Managing Employment Relations",
+            "level": 3,
+            "pathway": "hr",
+            "status": "create",
+            "priority": 2,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"],
+            "connects_to_level_5": "5HR01"
+          },
+          {
+            "url": "/3ld02-assignment-example/",
+            "module_code": "3LD02",
+            "module_name": "Supporting Individual Learning and Development",
+            "level": 3,
+            "pathway": "ld",
+            "status": "create",
+            "priority": 5,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"],
+            "connects_to_level_5": "5LD01"
+          }
+        ],
+        "level_5_modules": [
+          {
+            "url": "/5co01-assignment-example/",
+            "module_code": "5CO01",
+            "module_name": "Organisational Performance and Culture in Practice",
+            "level": 5,
+            "pathway": "core",
+            "status": "redirect_and_optimise",
+            "redirect_from": "/5co01/",
+            "current_performance": {"clicks": 24, "impressions": 981, "ctr": "2.45%", "position": 8.96},
+            "priority": 1,
+            "scenario": "Chaffinch Group",
+            "confirmed_queries": [
+              "analyse how chaffinch group could use a rational approach to strategy formulation",
+              "explain why problems arose following the calmere house takeover",
+              "assess how changes to selection and employee voice impacted culture"
+            ],
+            "optimisation_actions": [
+              "Add H2s using verbatim Chaffinch Group AC question text",
+              "Add AC navigation table near top of page",
+              "Update title to include 'Organisational Performance and Culture'",
+              "Add FAQPage schema with AC questions",
+              "Add Article schema with dateModified"
+            ],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5co02-assignment-example/",
+            "module_code": "5CO02",
+            "module_name": "Evidence-Based Practice",
+            "level": 5,
+            "pathway": "core",
+            "status": "redirect_and_optimise",
+            "redirect_from": "/5co02/",
+            "current_performance": {"clicks": 0, "impressions": 35, "ctr": "0%", "position": 12.2},
+            "priority": 2,
+            "optimisation_actions": [
+              "Title: '5CO02 Assignment Example — Evidence-Based Practice | CIPD Level 5'",
+              "AC 3.2 benchmarking section already has 100% CTR — expand this pattern to all ACs",
+              "Add internal links from 5CO01 (students often need both mandatory core units)"
+            ],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5co03-assignment-example/",
+            "module_code": "5CO03",
+            "module_name": "Professional Behaviours and Valuing People",
+            "level": 5,
+            "pathway": "core",
+            "status": "optimise_if_exists",
+            "current_performance": {"clicks": 2, "impressions": 56, "position": null},
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5hr01-assignment-example/",
+            "module_code": "5HR01",
+            "module_name": "Employment Relationship Management",
+            "level": 5,
+            "pathway": "hr",
+            "status": "consolidate",
+            "consolidate_from": "/5hr01/",
+            "current_performance": {"clicks": 5, "impressions": 102, "ctr": "4.90%", "position": 26.43},
+            "priority": 2,
+            "confirmed_queries": ["compare forms of union and non-union employee voice and how they add value"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5hr02-assignment-example/",
+            "module_code": "5HR02",
+            "module_name": "Talent Management and Workforce Planning",
+            "level": 5,
+            "pathway": "hr",
+            "status": "optimise",
+            "current_performance": {"clicks": 7, "impressions": 115, "ctr": "6.09%", "position": 11.77},
+            "priority": 2,
+            "scenario": "ParcelCare",
+            "confirmed_queries": ["for parcelcare to position itself strategically in the global labour market"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5hr03-assignment-example/",
+            "module_code": "5HR03",
+            "module_name": "Reward for Performance and Contribution",
+            "level": 5,
+            "pathway": "hr",
+            "status": "optimise",
+            "current_performance": {"clicks": 6, "impressions": 169, "ctr": "3.55%", "position": 18.29},
+            "priority": 2,
+            "confirmed_queries": ["evaluate the most appropriate ways in which benchmarking data can be gathered and measured to develop insight"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os01-assignment-example/",
+            "module_code": "5OS01",
+            "module_name": "Specialist Employment Law",
+            "level": 5,
+            "pathway": "specialist",
+            "status": "HIGHEST_PRIORITY_OPTIMISE",
+            "current_performance": {"clicks": 8, "impressions": 3307, "ctr": "0.24%", "position": 7.49},
+            "priority": 0,
+            "root_cause_ctr_failure": [
+              "Title tag does not reflect the maternity leave / shared parental leave question content",
+              "SERP snippet not pulling the AC-specific passage for the dominant query",
+              "No dedicated H2 section matching the verbatim CIPD question about maternity leave"
+            ],
+            "dominant_query": {
+              "query": "maternity leave and shared parental leave [verbatim CIPD AC question]",
+              "impressions": 3044,
+              "clicks": 0,
+              "ctr": "0%",
+              "position": 7.29
+            },
+            "optimisation_actions": [
+              "Add H2: 'The Major Ways in Which Maternity Leave and Shared Parental Leave Differ' (verbatim AC question language)",
+              "Write 400-word substantive answer in this section — not a summary",
+              "Add AC navigation table with jump links near top of page",
+              "Add scenario context disclosure (which case study is used)",
+              "Update title: '5OS01 Specialist Employment Law Assignment Example | Maternity Leave, EU Law & More'",
+              "Update meta: 'Worked example for CIPD 5OS01. Covers maternity leave, shared parental leave, EU law post-Brexit, employment regulation. All ACs answered.'",
+              "Add FAQPage schema with the verbatim maternity leave question as a FAQ entry"
+            ],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os02-assignment-example/",
+            "module_code": "5OS02",
+            "module_name": "Advances in Digital Learning and Development",
+            "level": 5,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os03-assignment-example/",
+            "module_code": "5OS03",
+            "module_name": "Learning and Development Design to Create Value",
+            "level": 5,
+            "pathway": "specialist",
+            "status": "create_with_301",
+            "redirect_from": "/5oso3/",
+            "note": "URL TYPO: /5oso3/ (letter O instead of zero) — fix immediately",
+            "current_performance_typo_url": {"clicks": 0, "impressions": 13, "ctr": "0%", "position": 10.38},
+            "priority": 2,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os04-assignment-example/",
+            "module_code": "5OS04",
+            "module_name": "Wellbeing at Work",
+            "level": 5,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os05-assignment-example/",
+            "module_code": "5OS05",
+            "module_name": "Diversity and Inclusion",
+            "level": 5,
+            "pathway": "specialist",
+            "status": "consolidate",
+            "consolidate_from": ["/5os05/", "/cipd-5os05-diversity-and-inclusion/"],
+            "current_performance_combined": {"clicks": 3, "impressions": 37, "position": "~23"},
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os06-assignment-example/",
+            "module_code": "5OS06",
+            "module_name": "Leadership and Management Development",
+            "level": 5,
+            "pathway": "specialist",
+            "status": "optimise_if_exists",
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os07-assignment-example/",
+            "module_code": "5OS07",
+            "module_name": "Innovative and Engaging Learning Content",
+            "level": 5,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 5,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5ld01-assignment-example/",
+            "module_code": "5LD01",
+            "module_name": "Learning and Development Essentials",
+            "level": 5,
+            "pathway": "ld",
+            "status": "redirect_and_optimise",
+            "redirect_from": "/5ld01/",
+            "current_performance": {"clicks": 5, "impressions": 34, "ctr": "14.71%", "position": 11.21},
+            "note": "EXCELLENT CTR — highest on site. Protect this page's rankings during redirect.",
+            "priority": 1,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5ld02-assignment-example/",
+            "module_code": "5LD02",
+            "module_name": "Identifying Learning and Development Needs",
+            "level": 5,
+            "pathway": "ld",
+            "status": "create",
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5ld03-assignment-example/",
+            "module_code": "5LD03",
+            "module_name": "Learning and Development Facilitation Skills",
+            "level": 5,
+            "pathway": "ld",
+            "status": "create",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "level_7_modules": [
+          {
+            "url": "/7os01-assignment-example/",
+            "module_code": "7OS01",
+            "module_name": "Advanced Employment Law in Practice",
+            "level": 7,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 1,
+            "note": "Mirrors 5OS01 high-demand topic. Advanced Employment Law at post-grad level.",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7hr01-assignment-example/",
+            "module_code": "7HR01",
+            "module_name": "Strategic Employment Relations",
+            "level": 7,
+            "pathway": "hr",
+            "status": "create",
+            "priority": 1,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7co02-assignment-example/",
+            "module_code": "7CO02",
+            "module_name": "People Management and Development Strategies for Performance",
+            "level": 7,
+            "pathway": "core",
+            "status": "create",
+            "priority": 2,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7hr02-assignment-example/",
+            "module_code": "7HR02",
+            "module_name": "Resourcing and Talent Management to Sustain Success",
+            "level": 7,
+            "pathway": "hr",
+            "status": "create",
+            "priority": 2,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7hr03-assignment-example/",
+            "module_code": "7HR03",
+            "module_name": "Strategic Reward Management",
+            "level": 7,
+            "pathway": "hr",
+            "status": "create",
+            "priority": 2,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7co01-assignment-example/",
+            "module_code": "7CO01",
+            "module_name": "Work and Working Lives in a Changing Business Environment",
+            "level": 7,
+            "pathway": "core",
+            "status": "create",
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7co03-assignment-example/",
+            "module_code": "7CO03",
+            "module_name": "Personal Effectiveness, Ethics and Business Acumen",
+            "level": 7,
+            "pathway": "core",
+            "status": "create",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7co04-assignment-example/",
+            "module_code": "7CO04",
+            "module_name": "Business Research in People Practice",
+            "level": 7,
+            "pathway": "core",
+            "status": "create",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7os02-assignment-example/",
+            "module_code": "7OS02",
+            "module_name": "Learning and Development Practice",
+            "level": 7,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 5,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7os03-assignment-example/",
+            "module_code": "7OS03",
+            "module_name": "Technology Enhanced Learning",
+            "level": 7,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 5,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7os04-assignment-example/",
+            "module_code": "7OS04",
+            "module_name": "Diversity and Inclusion",
+            "level": 7,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 5,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7os05-assignment-example/",
+            "module_code": "7OS05",
+            "module_name": "Wellbeing at Work",
+            "level": 7,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 5,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7os06-assignment-example/",
+            "module_code": "7OS06",
+            "module_name": "Leadership and Management Development",
+            "level": 7,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 5,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7os07-assignment-example/",
+            "module_code": "7OS07",
+            "module_name": "Coaching and Mentoring",
+            "level": 7,
+            "pathway": "specialist",
+            "status": "create",
+            "priority": 5,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ]
+      }
+    },
+
+    "outer_section": {
+      "description": "Focuses on MINOR attributes of the central entity. Improves overall historical data, increases topical relevance, and propagates trust signals to Core Section via contextual bridges. Every outer page must link explicitly to its relevant Core module page(s) with a contextual bridge sentence.",
+      "rule": "Every Outer page must contain: (1) explicit internal link to relevant Core module page(s), (2) contextual bridge sentence mentioning the specific CIPD unit, (3) BreadcrumbList schema.",
+      "nodes": {
+        "cipd_framework_guides": [
+          {
+            "url": "/what-is-cipd/",
+            "title": "What is CIPD? The Chartered Institute of Personnel and Development Explained",
+            "status": "create",
+            "priority": 3,
+            "supports_core": ["all level hub pages"],
+            "evidence": "Foundational informational page for all CIPD-naive visitors",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/cipd-qualification-levels-explained/",
+            "title": "CIPD Qualification Levels Explained — Level 3, 5 and 7 Compared",
+            "status": "create",
+            "priority": 2,
+            "supports_core": ["/cipd-level-3-assignment-examples/", "/cipd-level-5-assignment-examples/", "/cipd-level-7-assignment-examples/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/how-to-write-a-cipd-assignment/",
+            "title": "How to Write a CIPD Assignment — Structure, Evidence and Assessment Criteria",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["all module pages"],
+            "evidence": "Confirmed query in GSC data",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/cipd-assessment-criteria-explained/",
+            "title": "CIPD Assessment Criteria Explained — How Assignments Are Marked",
+            "status": "create",
+            "priority": 2,
+            "supports_core": ["all module pages"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/cipd-code-of-conduct-and-professional-ethics/",
+            "title": "CIPD Code of Conduct and Professional Ethics for HR Practitioners",
+            "status": "create",
+            "priority": 2,
+            "supports_core": ["/5co03-assignment-example/", "/7co03-assignment-example/"],
+            "evidence": "Confirmed queries in GSC data",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "employment_law_concepts": [
+          {
+            "url": "/employment-law-uk-overview/",
+            "title": "UK Employment Law Overview — Key Legislation for HR Professionals",
+            "status": "create",
+            "priority": 2,
+            "supports_core": ["/5os01-assignment-example/", "/5hr01-assignment-example/", "/7os01-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/maternity-leave-uk-employer-guide/",
+            "title": "Maternity Leave UK — Employer Rights, Obligations and Statutory Pay",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5os01-assignment-example/"],
+            "evidence": "5OS01 dominant query is about maternity leave — this Outer page captures non-CIPD employment law traffic and bridges back to Core",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/shared-parental-leave-uk/",
+            "title": "Shared Parental Leave UK — How It Works and How It Differs from Maternity Leave",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5os01-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/eu-employment-law-post-brexit/",
+            "title": "EU Employment Law Post-Brexit — What Changed for UK Employers",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5os01-assignment-example/", "/7os01-assignment-example/"],
+            "evidence": "Confirmed query with 50% CTR in GSC data (ECJ/EU law question)",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/equality-act-2010-cipd/",
+            "title": "The Equality Act 2010 — A CIPD Student's Guide to Protected Characteristics",
+            "status": "create",
+            "priority": 3,
+            "supports_core": ["/5os01-assignment-example/", "/5os05-assignment-example/", "/7os04-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "employee_relations": [
+          {
+            "url": "/employee-relations-definition/",
+            "title": "Employee Relations — Definition, Models and Importance in HR Practice",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5hr01-assignment-example/", "/7hr01-assignment-example/"],
+            "evidence": "Confirmed query in GSC — 10 impressions at position 68.8 (ranking with no dedicated page)",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/employee-voice-forms-union-non-union/",
+            "title": "Forms of Employee Voice — Union and Non-Union Representation Compared",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5hr01-assignment-example/", "/7hr01-assignment-example/"],
+            "evidence": "Query 'compare forms of union and non-union employee voice' got 100% CTR — confirmed demand for dedicated page",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/psychological-contract-cipd/",
+            "title": "The Psychological Contract — Definition, Types and Impact on Employee Relations",
+            "status": "create",
+            "priority": 3,
+            "supports_core": ["/5hr01-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "reward_and_performance": [
+          {
+            "url": "/benchmarking-pay-data/",
+            "title": "Benchmarking Pay Data — Methods for Gathering and Measuring Reward Data",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5hr03-assignment-example/", "/7hr03-assignment-example/"],
+            "evidence": "Confirmed AC 3.2 query 'evaluate the most appropriate ways in which benchmarking data can be gathered' got 100% CTR on its one impression",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/total-reward-approach/",
+            "title": "Total Reward Approach — Definition, Components and Strategic Benefits",
+            "status": "create",
+            "priority": 3,
+            "supports_core": ["/5hr03-assignment-example/", "/7hr03-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "talent_and_workforce_planning": [
+          {
+            "url": "/workforce-planning-definition/",
+            "title": "Workforce Planning — Definition, Process and Strategic Value",
+            "status": "create",
+            "priority": 3,
+            "supports_core": ["/5hr02-assignment-example/", "/7hr02-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/labour-market-trends-cipd/",
+            "title": "Labour Market Trends — Analysis for Strategic Talent and Workforce Planning",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5hr02-assignment-example/"],
+            "evidence": "Confirmed query 'for parcelcare to position itself strategically in the global labour market' — 15 impressions tied to 5HR02 ParcelCare scenario",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "organisational_behaviour": [
+          {
+            "url": "/organisational-culture-cipd/",
+            "title": "Organisational Culture — Definition, Models and How Culture Drives Performance",
+            "status": "create",
+            "priority": 2,
+            "supports_core": ["/5co01-assignment-example/", "/7co01-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/hierarchical-vs-flat-structure/",
+            "title": "Hierarchical vs Flat Organisational Structures — CIPD Context",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5co01-assignment-example/"],
+            "evidence": "Confirmed query 'hierarchical bureaucratic structure cipd' — 2 impressions at position 16 (near-first-page without a dedicated page)",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/handy-model-organisational-culture/",
+            "title": "Handy's Model of Organisational Culture — Power, Role, Task and Person Cultures",
+            "status": "create",
+            "priority": 1,
+            "supports_core": ["/5co01-assignment-example/"],
+            "evidence": "Confirmed Chaffinch Group / Handy's model query in GSC data",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "learning_and_development": [
+          {
+            "url": "/learning-needs-analysis/",
+            "title": "Learning Needs Analysis — How to Identify and Prioritise L&D Requirements",
+            "status": "create",
+            "priority": 3,
+            "supports_core": ["/5ld01-assignment-example/", "/5ld02-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/70-20-10-learning-model/",
+            "title": "The 70:20:10 Learning Model — Application in Workplace L&D",
+            "status": "create",
+            "priority": 3,
+            "supports_core": ["/5ld01-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "diversity_and_inclusion": [
+          {
+            "url": "/diversity-inclusion-cipd/",
+            "title": "Diversity and Inclusion in the Workplace — CIPD Framework and Best Practice",
+            "status": "create",
+            "priority": 3,
+            "supports_core": ["/5os05-assignment-example/", "/7os04-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ]
+      }
+    }
+  },
+
+  "technical_fixes_required": [
+    {
+      "issue": "URL typo /5oso3/ (letter O instead of zero)",
+      "action": "Create /5os03-assignment-example/ and 301 redirect from /5oso3/",
+      "priority": "IMMEDIATE",
+      "impact": "Recovers 13 impressions at position 10.38"
+    },
+    {
+      "issue": "Duplicate URLs for OS05: /5os05/ and /cipd-5os05-diversity-and-inclusion/",
+      "action": "Merge content into /5os05-assignment-example/, 301 redirect both old URLs",
+      "priority": "IMMEDIATE",
+      "impact": "Consolidates ~37 impressions and prevents PageRank dilution"
+    },
+    {
+      "issue": "URL without trailing slash /5hr01 vs /5hr01/",
+      "action": "301 redirect /5hr01 (no slash) to /5hr01/ or to canonical /5hr01-assignment-example/",
+      "priority": "IMMEDIATE"
+    },
+    {
+      "issue": "WordPress author archive indexed: /author/jobmugachiagmail-com/",
+      "action": "Add noindex to author archive template via Yoast SEO or RankMath",
+      "priority": "HIGH",
+      "impact": "Stops irrelevant pages appearing in SERPs, clarifies topical scope for Google"
+    },
+    {
+      "issue": "/cipd-level-5-examples/ at position 63 — dead page",
+      "action": "301 redirect to new /cipd-level-5-assignment-examples/ once built",
+      "priority": "PHASE_3"
+    }
+  ],
+
+  "schema_priority_order": [
+    "1. FAQPage — on every module page, using verbatim CIPD AC questions as FAQ entries",
+    "2. Article + EducationalOccupationalCredential — on all module pages (datePublished, dateModified, educationalLevel)",
+    "3. ItemList — on level hub pages listing all modules",
+    "4. BreadcrumbList — on ALL pages without exception",
+    "5. Organisation — on homepage only"
+  ],
+
+  "publication_frequency_target": {
+    "phase_1_2_weeks": "Technical fixes only — no new content",
+    "phase_2_weeks_3_4": "Optimise 3 existing pages (5OS01, 5CO01, homepage) + title/meta updates for top 5",
+    "phase_3_weeks_5_7": "Publish 3 level hub pages",
+    "phase_4_weeks_8_12": "Publish 5 Level 3 module pages (1 per week)",
+    "phase_5_weeks_13_18": "Publish 5 missing Level 5 pages + 10 Outer Section pages (2.5 per week)",
+    "phase_6_weeks_19_30": "Publish 14 Level 7 module pages (1-2 per week)",
+    "note": "Momentum principle: consistent publication signals to Google's crawl systems. Do not publish in bursts followed by silence."
+  }
+}

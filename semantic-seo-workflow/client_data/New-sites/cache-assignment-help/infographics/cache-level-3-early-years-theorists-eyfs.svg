@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" role="img" aria-labelledby="cache-ey-title">
+  <title id="cache-ey-title">CACHE Level 3 Early Years: Eight Child Development Theorists and EYFS 2021 Areas of Learning Required at Level 3</title>
+
+  <!-- Background -->
+  <rect width="800" height="620" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">CACHE Level 3 Early Years: Theory and EYFS Framework</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Eight Required Theorists with Key Concepts · EYFS 2021 Seven Areas of Learning</text>
+
+  <!-- Section header: Theorists -->
+  <rect x="28" y="82" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">CHILD DEVELOPMENT THEORISTS — Each must be cited as (Author, Year) with specific framework named</text>
+
+  <!-- Theorist cards: row 1 (4 cards) -->
+  <rect x="28" y="112" width="176" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">PIAGET (1952)</text>
+  <text x="44" y="143" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Cognitive Development</text>
+  <text x="44" y="157" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">4 stages: Sensorimotor (0–2),</text>
+  <text x="44" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Pre-operational (2–7)</text>
+  <text x="44" y="185" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Schema, assimilation, accommodation</text>
+
+  <rect x="216" y="112" width="176" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="232" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">VYGOTSKY (1978)</text>
+  <text x="232" y="143" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Zone of Proximal Development</text>
+  <text x="232" y="157" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">ZPD: gap between independent</text>
+  <text x="232" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">and guided achievement</text>
+  <text x="232" y="185" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Scaffolding · More Knowledgeable Other</text>
+
+  <rect x="404" y="112" width="176" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="420" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">BOWLBY (1969)</text>
+  <text x="420" y="143" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Attachment Theory</text>
+  <text x="420" y="157" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Secure base · Key person role</text>
+  <text x="420" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">4 attachment types via Ainsworth</text>
+  <text x="420" y="185" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">(1978): secure, avoidant, ambivalent, disorg.</text>
+
+  <rect x="592" y="112" width="180" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="608" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">BRUNER (1966)</text>
+  <text x="608" y="143" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">3 Modes of Representation</text>
+  <text x="608" y="157" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Enactive (action) → Iconic (image)</text>
+  <text x="608" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">→ Symbolic (language)</text>
+  <text x="608" y="185" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Scaffolding (educational context)</text>
+
+  <!-- Theorist cards: row 2 -->
+  <rect x="28" y="208" width="176" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">BRONFENBRENNER (1979)</text>
+  <text x="44" y="239" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Ecological Systems Theory</text>
+  <text x="44" y="253" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">5 systems: Microsystem,</text>
+  <text x="44" y="267" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Mesosystem, Exosystem,</text>
+  <text x="44" y="281" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Macrosystem, Chronosystem</text>
+
+  <rect x="216" y="208" width="176" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="232" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">ERIKSON (1950)</text>
+  <text x="232" y="239" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">8 Psychosocial Stages</text>
+  <text x="232" y="253" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Trust vs Mistrust (0–18m)</text>
+  <text x="232" y="267" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Autonomy vs Shame (18m–3yr)</text>
+  <text x="232" y="281" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Initiative vs Guilt (3–5yr)</text>
+
+  <rect x="404" y="208" width="176" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="420" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">SKINNER (1938)</text>
+  <text x="420" y="239" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Operant Conditioning Theory</text>
+  <text x="420" y="253" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Behaviour shaped by consequences</text>
+  <text x="420" y="267" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Positive reinforcement</text>
+  <text x="420" y="281" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Negative reinforcement · Punishment</text>
+
+  <rect x="592" y="208" width="180" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="608" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">BANDURA (1977)</text>
+  <text x="608" y="239" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Social Learning Theory</text>
+  <text x="608" y="253" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Observation · Imitation · Modelling</text>
+  <text x="608" y="267" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Self-efficacy: belief in own</text>
+  <text x="608" y="281" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">capability to achieve (1977: 22)</text>
+
+  <!-- EYFS Section header -->
+  <rect x="28" y="306" width="744" height="22" rx="4" fill="#D97706"/>
+  <text x="400" y="321" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">EYFS 2021 — SEVEN AREAS OF LEARNING AND DEVELOPMENT — Use 2021 Framework Terminology Precisely</text>
+
+  <!-- Prime Areas -->
+  <text x="28" y="344" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1B3A6B">PRIME AREAS (foundation for all learning — priority from birth to 3)</text>
+
+  <rect x="28" y="350" width="232" height="64" rx="6" fill="#FFF8EC" stroke="#F5C97A" stroke-width="1.5"/>
+  <text x="44" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">COMMUNICATION AND LANGUAGE</text>
+  <text x="44" y="383" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Listening, Attention and Understanding</text>
+  <text x="44" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Speaking</text>
+
+  <rect x="276" y="350" width="232" height="64" rx="6" fill="#FFF8EC" stroke="#F5C97A" stroke-width="1.5"/>
+  <text x="292" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">PHYSICAL DEVELOPMENT</text>
+  <text x="292" y="383" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Gross and Fine Motor Skills</text>
+  <text x="292" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Health and Self-Care</text>
+
+  <rect x="524" y="350" width="248" height="64" rx="6" fill="#FFF8EC" stroke="#F5C97A" stroke-width="1.5"/>
+  <text x="540" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">PERSONAL, SOCIAL AND EMOTIONAL DEV.</text>
+  <text x="540" y="383" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Self-Regulation · Managing Self</text>
+  <text x="540" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Building Relationships</text>
+
+  <!-- Specific Areas -->
+  <text x="28" y="432" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1B3A6B">SPECIFIC AREAS (build on the Prime Areas)</text>
+
+  <rect x="28" y="438" width="174" height="64" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1"/>
+  <text x="44" y="456" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">LITERACY</text>
+  <text x="44" y="471" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Comprehension</text>
+  <text x="44" y="485" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Word Reading · Writing</text>
+
+  <rect x="214" y="438" width="174" height="64" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1"/>
+  <text x="230" y="456" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">MATHEMATICS</text>
+  <text x="230" y="471" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Number</text>
+  <text x="230" y="485" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Numerical Patterns</text>
+
+  <rect x="400" y="438" width="174" height="64" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1"/>
+  <text x="416" y="456" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">UNDERSTANDING THE WORLD</text>
+  <text x="416" y="471" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Past and Present</text>
+  <text x="416" y="485" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">People, Culture, Natural World</text>
+
+  <rect x="586" y="438" width="186" height="64" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1"/>
+  <text x="602" y="456" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">EXPRESSIVE ARTS AND DESIGN</text>
+  <text x="602" y="471" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Creating with Materials</text>
+  <text x="602" y="485" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Being Imaginative and Expressive</text>
+
+  <!-- Warning banner -->
+  <rect x="28" y="514" width="744" height="30" rx="6" fill="#DC2626"/>
+  <text x="400" y="534" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Common error: Using pre-2021 EYFS terminology or generic "learning areas" rather than the precise 2021 framework names above</text>
+
+  <!-- Footer -->
+  <text x="400" y="610" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CACHE Assignment Help Service · NCFE CACHE Level 3 Early Years Education and Care (Pearson / NCFE)</text>
+</svg>

@@ -1,0 +1,61 @@
+{
+  "client": {
+    "website": "https://cipdassignmentexamples.com",
+    "niche": "CIPD Assignment Examples",
+    "gsc_data_date": "2026-04-05",
+    "gsc_period": "Last 3 months (2026-01-04 to 2026-04-03)"
+  },
+  "source_context": {
+    "definition": "A specialist educational resource providing fully worked, model-answer assignment examples for students enrolled in CIPD (Chartered Institute of Personnel and Development) qualifications at Level 3, Level 5, and Level 7. The site exists to help HR and L&D professionals studying for CIPD credentials understand how to structure, argue, and evidence their assessments to the standard required for a pass or merit grade.",
+    "monetisation_model": "Free worked examples as lead magnets converting to paid/premium full assignment access, with potential for tutoring/coaching upsell.",
+    "primary_markets": ["United Kingdom", "United Arab Emirates", "Saudi Arabia", "Ireland", "Qatar", "Bahrain"],
+    "underperforming_markets": ["United States (3905 impressions, 0% CTR — ghost traffic, do not target)", "Canada (318 impressions, 0% CTR)"],
+    "brand_identity_note": "Currently single-author WordPress site. Brand identity signal needs strengthening via About page and author credentials to establish E-E-A-T for CIPD qualification content."
+  },
+  "central_entity": {
+    "name": "CIPD Qualification Assignments",
+    "definition": "Written assessments produced by candidates enrolled in CIPD Foundation (Level 3), Associate (Level 5), or Advanced Diploma (Level 7) programmes, structured around specific Assessment Criteria (ACs) defined by CIPD for each unit/module. Each assignment requires candidates to demonstrate applied knowledge of people practice, employment law, HR theory, and organisational behaviour through contextualised written responses to set scenarios or questions.",
+    "required_connections": [
+      "CIPD qualification awarding body and framework",
+      "Module structure: Level + pathway + unit code",
+      "Assessment methodology: ACs, learning outcomes, word counts, marking criteria",
+      "Subject matter of each module (employment law, reward, talent management, etc.)",
+      "Student profile: HR/L&D professionals studying for career advancement",
+      "Geographic context: UK employment law, Middle East CIPD affiliates"
+    ]
+  },
+  "central_search_intent": "CIPD students seeking model-answer examples to understand how to respond to their specific assignment questions, structured by their exact module code, written to the standard required to pass or achieve merit at their qualification level.",
+  "central_search_intent_sub_intents": [
+    "Module-specific: 'Show me a worked example for 5CO01 / 5HR01 / 7CO02'",
+    "Level-discovery: 'Show me all CIPD Level 5 assignment examples'",
+    "Concept-reinforcement: 'Explain what employee voice means in a CIPD context'"
+  ],
+  "qualification_framework": {
+    "level_3": {
+      "name": "CIPD Foundation Certificate in People Practice",
+      "description": "Entry-level CIPD qualification for those new to HR/L&D",
+      "tone": "Practical, operational, shorter word counts"
+    },
+    "level_5": {
+      "name": "CIPD Associate Diploma in People Management",
+      "description": "Mid-level qualification for experienced HR/L&D practitioners",
+      "tone": "Applied theory, moderate word counts, scenario-based"
+    },
+    "level_7": {
+      "name": "CIPD Advanced Diploma in Strategic People Management",
+      "description": "Post-graduate level qualification for senior HR professionals",
+      "tone": "Academic, strategic, extensive referencing, higher word counts"
+    }
+  },
+  "current_performance": {
+    "total_clicks_q1_2026": 88,
+    "total_impressions_q1_2026": 5646,
+    "overall_ctr": "1.56%",
+    "avg_position": 16.2,
+    "device_split": {
+      "desktop": {"clicks": 69, "impressions": 5303, "ctr": "1.30%", "avg_position": 11.17},
+      "mobile": {"clicks": 17, "impressions": 330, "ctr": "5.15%", "avg_position": 27.65},
+      "tablet": {"clicks": 2, "impressions": 13, "ctr": "15.38%", "avg_position": 11.54}
+    }
+  }
+}

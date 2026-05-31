@@ -1,0 +1,101 @@
+{
+  "client_name": "CII Assignment Help",
+  "website_url": "https://www.ciiassignmenthelp.com",
+  "industry": "Education / Professional Qualifications Support",
+  "location": "Global (Operations based in Kenya - WhatsApp: +254721165448)",
+  "last_updated": "2026-03-12",
+  "source_context": {
+    "how_they_monetize": "Per-assignment fee paid upfront before writing begins. Student submits module details and deadline via WhatsApp or quote form. Price is quoted per module level and complexity. Payment via PayPal, internet banking, debit or credit card. Upsell through repeat orders as students return for multiple modules across their qualification journey.",
+    "who_they_serve": "Insurance professionals and students studying for CII qualifications at Certificate (Level 3), Diploma (Level 4), and Advanced Diploma/ACII (Levels 4-7). Primarily working professionals in the insurance industry juggling study with full-time jobs. Global audience with evidence from the UK, Dubai, Mumbai, and Kenya.",
+    "conversion_goal": "Get a free quote via WhatsApp or the quote form",
+    "conversion_mechanism": "WhatsApp button as the primary conversion path and quote form as the secondary path. The site promises a response within 5 minutes on WhatsApp.",
+    "trust_signals": [
+      "3,000+ students helped",
+      "95% pass rate",
+      "4.9/5 average rating",
+      "Free Turnitin plagiarism report with every delivery",
+      "Unlimited free revisions",
+      "Full refund policy",
+      "24/7 support",
+      "Writers hold CII Diploma and above"
+    ],
+    "pricing_structure": "Certificate modules start from affordable rates. Diploma and ACII modules are priced by complexity. Quotes are customized per order and no public price list is shown."
+  },
+  "central_entity": "CII qualification",
+  "central_search_intent": "Get professional assignment writing help to pass CII insurance qualifications (Certificate, Diploma, ACII) without failing modules",
+  "main_attribute": "assignment help",
+  "derived_attributes": [
+    "module-specific writing",
+    "plagiarism-free work",
+    "on-time delivery",
+    "unlimited revisions",
+    "CII-qualified writers",
+    "pass rate positioning"
+  ],
+  "central_entity_synonyms": [
+    "CII assignment help",
+    "CII assignment writing service",
+    "CII coursework help",
+    "chartered insurance institute assignment help",
+    "CII module help",
+    "insurance qualification assignment help",
+    "CII diploma assignment help",
+    "ACII assignment help",
+    "CII certificate assignment help"
+  ],
+  "core_section_topics": [
+    "CII Certificate assignment help (Level 3)",
+    "CII Diploma assignment help (Level 4)",
+    "ACII assignment help (Levels 4-7)",
+    "CII Insurance Law assignment help (M05)",
+    "CII Underwriting Practice assignment help",
+    "CII Claims assignment help",
+    "CII Economics and Business assignment help",
+    "How CII assignment help works",
+    "CII assignment writing service pricing"
+  ],
+  "outer_section_topics": [
+    "What is the CII qualification",
+    "CII qualification levels explained",
+    "How to pass CII exams",
+    "CII study tips for working professionals",
+    "What is the Chartered Insurance Institute",
+    "Insurance industry career paths",
+    "CII vs other insurance qualifications",
+    "How long CII takes to complete",
+    "CII module difficulty rankings",
+    "Insurance underwriting explained",
+    "Insurance law principles in UK and Kenya",
+    "What ACII is and why it matters"
+  ],
+  "existing_pages": [
+    {
+      "url": "/",
+      "title": "Homepage - CII Assignment Help",
+      "topical_map_section": "core",
+      "status": "published"
+    },
+    {
+      "url": "/cii-certificate-in-insurance",
+      "title": "CII Certificate in Insurance",
+      "topical_map_section": "core",
+      "tier": "tier_1",
+      "status": "published"
+    },
+    {
+      "url": "/CII-Diploma-in-Insurance",
+      "title": "CII Diploma in Insurance",
+      "topical_map_section": "core",
+      "tier": "tier_1",
+      "status": "published"
+    },
+    {
+      "url": "/cii-advanced-diploma-in-insurance",
+      "title": "CII Advanced Diploma in Insurance (ACII)",
+      "topical_map_section": "core",
+      "tier": "tier_1",
+      "status": "published"
+    }
+  ],
+  "audit_notes": "Current site footprint is thin: homepage plus 3 qualification pages. Core depth is incomplete and the outer section is effectively missing. Priority is to expand module-specific core coverage first, then build the outer section that supports trust and contextual bridges."
+}

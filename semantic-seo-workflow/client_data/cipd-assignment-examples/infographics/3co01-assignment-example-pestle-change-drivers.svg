@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" role="img" aria-labelledby="3co01-infographic-title">
+  <title id="3co01-infographic-title">3CO01 CIPD Level 3 — PESTLE Analysis Framework and Lewin's Three-Stage Change Model</title>
+  <rect width="800" height="480" fill="#F5F5F5" rx="12"/>
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#1A1A2E" rx="12"/>
+  <rect x="0" y="44" width="800" height="16" fill="#1A1A2E"/>
+  <text x="400" y="25" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">3CO01 — Business, Culture and Change in Context</text>
+  <text x="400" y="48" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#E94560">PESTLE Analysis · Lewin's Three-Stage Change Model · CIPD Level 3</text>
+
+  <!-- LEFT SIDE: PESTLE -->
+  <text x="190" y="86" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">PESTLE Analysis</text>
+  <text x="190" y="101" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#888888">External factors affecting the organisation</text>
+
+  <!-- P -->
+  <rect x="20" y="112" width="340" height="44" fill="#1A1A2E" rx="6"/>
+  <text x="55" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#E94560">P</text>
+  <text x="72" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Political</text>
+  <text x="72" y="147" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Government policy · NMW legislation · Trade agreements</text>
+
+  <!-- E -->
+  <rect x="20" y="162" width="340" height="44" fill="#16213E" rx="6"/>
+  <text x="55" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#E94560">E</text>
+  <text x="72" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Economic</text>
+  <text x="72" y="197" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Inflation · Interest rates · Unemployment · GDP</text>
+
+  <!-- S -->
+  <rect x="20" y="212" width="340" height="44" fill="#1A1A2E" rx="6"/>
+  <text x="55" y="230" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#E94560">S</text>
+  <text x="72" y="230" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Social</text>
+  <text x="72" y="247" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Demographics · Remote working expectations · Diversity</text>
+
+  <!-- T -->
+  <rect x="20" y="262" width="340" height="44" fill="#16213E" rx="6"/>
+  <text x="55" y="280" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#E94560">T</text>
+  <text x="72" y="280" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Technological</text>
+  <text x="72" y="297" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Automation · AI · HRIS · Digital transformation</text>
+
+  <!-- L -->
+  <rect x="20" y="312" width="340" height="44" fill="#1A1A2E" rx="6"/>
+  <text x="55" y="330" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#E94560">L</text>
+  <text x="72" y="330" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Legal</text>
+  <text x="72" y="347" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Equality Act 2010 · Working Time Regs · GDPR</text>
+
+  <!-- E -->
+  <rect x="20" y="362" width="340" height="44" fill="#16213E" rx="6"/>
+  <text x="55" y="380" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#E94560">E</text>
+  <text x="72" y="380" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Environmental</text>
+  <text x="72" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Net zero targets · ESG reporting · Sustainability</text>
+
+  <!-- Divider -->
+  <line x1="386" y1="70" x2="386" y2="455" stroke="#CCCCCC" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <!-- RIGHT SIDE: Lewin's Three Stages -->
+  <text x="605" y="86" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">Lewin's Three-Stage Change Model</text>
+  <text x="605" y="101" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#888888">Managing change in people practice</text>
+
+  <!-- Stage 1: Unfreeze -->
+  <rect x="405" y="112" width="370" height="98" fill="#FFFFFF" rx="8" stroke="#1A1A2E" stroke-width="2"/>
+  <rect x="405" y="112" width="370" height="28" fill="#1A1A2E" rx="8"/>
+  <rect x="405" y="126" width="370" height="14" fill="#1A1A2E"/>
+  <text x="590" y="131" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">Stage 1 — UNFREEZE</text>
+  <text x="420" y="157" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Challenge current beliefs. Prepare people for change.</text>
+  <text x="420" y="173" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">HR role: Communicate why change is necessary.</text>
+  <text x="420" y="189" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Consult employees. Address resistance early.</text>
+
+  <!-- Arrow down -->
+  <polygon points="590,218 580,228 600,228" fill="#E94560"/>
+  <line x1="590" y1="210" x2="590" y2="228" stroke="#E94560" stroke-width="2"/>
+
+  <!-- Stage 2: Change -->
+  <rect x="405" y="232" width="370" height="98" fill="#FFFFFF" rx="8" stroke="#16213E" stroke-width="2"/>
+  <rect x="405" y="232" width="370" height="28" fill="#16213E" rx="8"/>
+  <rect x="405" y="246" width="370" height="14" fill="#16213E"/>
+  <text x="590" y="251" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">Stage 2 — CHANGE</text>
+  <text x="420" y="277" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Implement new processes, structures, or behaviours.</text>
+  <text x="420" y="293" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">HR role: Provide training, coaching, and clear direction.</text>
+  <text x="420" y="309" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Address capability and motivation needs simultaneously.</text>
+
+  <!-- Arrow down -->
+  <polygon points="590,338 580,348 600,348" fill="#E94560"/>
+  <line x1="590" y1="330" x2="590" y2="348" stroke="#E94560" stroke-width="2"/>
+
+  <!-- Stage 3: Refreeze -->
+  <rect x="405" y="352" width="370" height="98" fill="#FFFFFF" rx="8" stroke="#E94560" stroke-width="2"/>
+  <rect x="405" y="352" width="370" height="28" fill="#E94560" rx="8"/>
+  <rect x="405" y="366" width="370" height="14" fill="#E94560"/>
+  <text x="590" y="371" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Stage 3 — REFREEZE</text>
+  <text x="420" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Embed new ways of working as the new normal.</text>
+  <text x="420" y="413" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">HR role: Update policies, objectives, reward structures.</text>
+  <text x="420" y="429" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Reinforce new behaviours until they become habit.</text>
+
+  <!-- Handy note -->
+  <rect x="20" y="416" width="340" height="34" fill="#1A1A2E" rx="6"/>
+  <text x="190" y="430" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#E94560" font-weight="700">Handy's Culture Types (AC 2.1)</text>
+  <text x="190" y="445" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9.5" fill="#FFFFFF">Power · Role · Task · Person</text>
+
+  <!-- Footer -->
+  <text x="400" y="470" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="10" fill="#999">cipdassignmentexamples.com</text>
+</svg>

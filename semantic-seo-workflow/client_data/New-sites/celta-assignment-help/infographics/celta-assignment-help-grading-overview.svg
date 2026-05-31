@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" role="img" aria-labelledby="celta-grade-title">
+  <title id="celta-grade-title">CELTA Assignment Overview: Four Written Assignments, Grading Distribution (Pass A ~3%, Pass B ~15–20%, Fail ~10%), and Assessment Standard</title>
+
+  <!-- Background -->
+  <rect width="800" height="580" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Cambridge CELTA: Four Written Assignments</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">All four must be passed. Cambridge Assessment English Level 5 RQF. No examinations.</text>
+
+  <!-- Assignment 1 card -->
+  <rect x="28" y="82" width="358" height="130" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="82" width="358" height="36" rx="8" fill="#2563EB"/>
+  <rect x="28" y="104" width="358" height="14" fill="#2563EB"/>
+  <text x="207" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">ASSIGNMENT 1 — FOCUS ON THE LEARNER</text>
+  <text x="44" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">REQUIRES</text>
+  <text x="44" y="147" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Learner profile · Error analysis (asterisk notation)</text>
+  <text x="44" y="161" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">L1 interference analysis · Published materials justification</text>
+  <line x1="44" y1="171" x2="370" y2="171" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="185" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Common refer: invented errors · materials not linked to error data</text>
+  <text x="44" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Real learner language samples required — not hypothetical examples</text>
+
+  <!-- Assignment 2 card -->
+  <rect x="414" y="82" width="358" height="130" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="414" y="82" width="358" height="36" rx="8" fill="#2563EB"/>
+  <rect x="414" y="104" width="358" height="14" fill="#2563EB"/>
+  <text x="593" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">ASSIGNMENT 2 — LANGUAGE-RELATED TASKS</text>
+  <text x="430" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">REQUIRES (most technically demanding)</text>
+  <text x="430" y="147" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">FMU+P: Form · Meaning · Use · Phonology (IPA)</text>
+  <text x="430" y="161" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Connected speech · CCQs with written justification</text>
+  <line x1="430" y1="171" x2="756" y2="171" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="430" y="185" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Common refer: no IPA · citation form only · CCQs contain target language</text>
+  <text x="430" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Phonology section most frequently under-addressed</text>
+
+  <!-- Assignment 3 card -->
+  <rect x="28" y="226" width="358" height="130" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="28" y="226" width="358" height="36" rx="8" fill="#7C3AED"/>
+  <rect x="28" y="248" width="358" height="14" fill="#7C3AED"/>
+  <text x="207" y="248" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">ASSIGNMENT 3 — SKILLS-RELATED TASK</text>
+  <text x="44" y="276" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">REQUIRES</text>
+  <text x="44" y="291" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Sub-skills named precisely · Schema theory (Bartlett, 1932)</text>
+  <text x="44" y="305" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Blocking vocabulary · Pre/while/post staging rationale</text>
+  <line x1="44" y1="315" x2="370" y2="315" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="329" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Common refer: staging described without theoretical justification</text>
+  <text x="44" y="344" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Gist task must precede detail task — not interchangeable</text>
+
+  <!-- Assignment 4 card -->
+  <rect x="414" y="226" width="358" height="130" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="414" y="226" width="358" height="36" rx="8" fill="#7C3AED"/>
+  <rect x="414" y="248" width="358" height="14" fill="#7C3AED"/>
+  <text x="593" y="248" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">ASSIGNMENT 4 — LESSONS FROM CLASSROOM</text>
+  <text x="430" y="276" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">REQUIRES (most commonly referred)</text>
+  <text x="430" y="291" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Schon (1983) · Kolb (1984) ELC — NOT Gibbs (1988)</text>
+  <text x="430" y="305" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Pattern across ≥2 TP lessons · ELT theory integration</text>
+  <line x1="430" y1="315" x2="756" y2="315" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="430" y="329" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Common refer: description instead of critical reflection</text>
+  <text x="430" y="344" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Gibbs Cycle is for CACHE/nursing — do NOT use for CELTA</text>
+
+  <!-- Grading distribution -->
+  <rect x="28" y="370" width="744" height="88" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="390" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">CELTA GRADE DISTRIBUTION</text>
+
+  <!-- Pass A bar -->
+  <rect x="44" y="398" width="30" height="16" rx="3" fill="#1B3A6B"/>
+  <text x="82" y="410" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1B3A6B">PASS A</text>
+  <text x="140" y="410" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">~3% of candidates · outstanding assignments + excellent TP grades</text>
+
+  <!-- Pass B bar -->
+  <rect x="44" y="420" width="60" height="16" rx="3" fill="#2563EB"/>
+  <text x="112" y="432" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#2563EB">PASS B</text>
+  <text x="166" y="432" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">~15–20% of candidates · consistently strong analysis across all assignments</text>
+
+  <!-- Pass bar -->
+  <rect x="44" y="442" width="180" height="16" rx="3" fill="#6B7280"/>
+  <text x="232" y="454" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#6B7280">PASS</text>
+  <text x="270" y="454" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">majority of candidates · meets all criteria at satisfactory level</text>
+
+  <!-- Fail note -->
+  <text x="500" y="432" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">FAIL ~10%</text>
+  <text x="560" y="432" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">certificate not awarded</text>
+
+  <!-- TP requirement banner -->
+  <rect x="28" y="470" width="744" height="30" rx="6" fill="#D97706"/>
+  <text x="400" y="490" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">All four assignments must pass · minimum 6 hours observed teaching practice · Cambridge Assessment English external moderation</text>
+
+  <!-- Individual assignment grades -->
+  <rect x="28" y="512" width="744" height="36" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="528" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Individual assignment grades: Satisfactory (pass) · Good (contributes to Pass B/A) · Refer (must resubmit)</text>
+  <text x="400" y="543" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#A8C4E0">Pass A overall requires consistent Good grades across assignments corroborated by TP observation grades</text>
+
+  <!-- Footer -->
+  <text x="400" y="570" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CELTA Assignment Help Service · Cambridge CELTA (Cambridge Assessment English) Level 5 RQF</text>
+</svg>

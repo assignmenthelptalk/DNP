@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="cache-hsc-title">
+  <title id="cache-hsc-title">CACHE Level 3 Health and Social Care: Key Legislation Applied to Practice — Care Act 2014, Mental Capacity Act 2005, Equality Act 2010, Human Rights Act 1998</title>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">CACHE Level 3 Health and Social Care: Key Legislation</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Legislation Must Be Applied to Practice — Not Simply Named — in All Written Portfolio Evidence</text>
+
+  <!-- Care Act 2014 -->
+  <rect x="28" y="82" width="362" height="210" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="82" width="362" height="36" rx="8" fill="#2563EB"/>
+  <rect x="28" y="104" width="362" height="14" fill="#2563EB"/>
+  <text x="209" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">CARE ACT 2014</text>
+  <text x="44" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">PRIMARY LEGISLATION FOR ADULT SOCIAL CARE IN ENGLAND</text>
+  <text x="44" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Wellbeing principle: duty to promote individual wellbeing</text>
+  <text x="44" y="163" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">S.42: safeguarding enquiry duty (reasonable cause to suspect abuse)</text>
+  <text x="44" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Personal budgets · Carers' rights · Eligibility criteria</text>
+  <line x1="44" y1="190" x2="374" y2="190" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="204" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">10 ADULT ABUSE CATEGORIES (Care Act 2014 Statutory Guidance):</text>
+  <text x="44" y="219" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Physical · Domestic violence · Sexual · Psychological/emotional</text>
+  <text x="44" y="233" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Financial/material · Modern slavery · Discriminatory</text>
+  <text x="44" y="247" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Organisational/institutional · Neglect/acts of omission · Self-neglect</text>
+  <text x="44" y="283" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Citation: (Care Act 2014, s.42) for safeguarding enquiry duty</text>
+
+  <!-- Mental Capacity Act 2005 -->
+  <rect x="410" y="82" width="362" height="210" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="410" y="82" width="362" height="36" rx="8" fill="#7C3AED"/>
+  <rect x="410" y="104" width="362" height="14" fill="#7C3AED"/>
+  <text x="591" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">MENTAL CAPACITY ACT 2005</text>
+  <text x="426" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">APPLIES TO PEOPLE AGED 16+ — FIVE STATUTORY PRINCIPLES</text>
+  <text x="426" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">1. A person must be assumed to have capacity unless established otherwise</text>
+  <text x="426" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">2. All practicable steps must be taken to support decision-making</text>
+  <text x="426" y="176" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">3. Making an unwise decision ≠ lack of capacity</text>
+  <text x="426" y="190" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">4. Decisions for those lacking capacity must be in best interests</text>
+  <text x="426" y="204" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">5. Decisions must be least restrictive of rights and freedom</text>
+  <line x1="426" y1="216" x2="756" y2="216" stroke="#DDD6FE" stroke-width="1"/>
+  <text x="426" y="230" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Two-stage capacity test: Is there a disturbance in mind or brain?</text>
+  <text x="426" y="244" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Does it cause inability to understand, retain, use or communicate?</text>
+  <text x="426" y="283" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">ALL FIVE PRINCIPLES must be stated — omitting any = referral risk</text>
+
+  <!-- Equality Act 2010 -->
+  <rect x="28" y="306" width="362" height="164" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="306" width="362" height="36" rx="8" fill="#2563EB"/>
+  <rect x="28" y="328" width="362" height="14" fill="#2563EB"/>
+  <text x="209" y="328" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">EQUALITY ACT 2010</text>
+  <text x="44" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">9 PROTECTED CHARACTERISTICS</text>
+  <text x="44" y="371" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Age · Disability · Gender reassignment · Marriage and civil partnership</text>
+  <text x="44" y="386" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Pregnancy and maternity · Race · Religion or belief · Sex · Sexual orientation</text>
+  <line x1="44" y1="396" x2="374" y2="396" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="410" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Direct discrimination: less favourable treatment because of characteristic</text>
+  <text x="44" y="424" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Indirect discrimination: provision/criterion/practice disadvantaging group</text>
+  <text x="44" y="460" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Applies in ALL practice interactions — must be applied, not just named</text>
+
+  <!-- Human Rights Act 1998 -->
+  <rect x="410" y="306" width="362" height="164" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="410" y="306" width="362" height="36" rx="8" fill="#7C3AED"/>
+  <rect x="410" y="328" width="362" height="14" fill="#7C3AED"/>
+  <text x="591" y="328" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">HUMAN RIGHTS ACT 1998</text>
+  <text x="426" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">KEY ARTICLES FOR H&amp;SC PRACTICE</text>
+  <text x="426" y="371" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Article 2: Right to life</text>
+  <text x="426" y="385" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Article 3: Prohibition of torture and inhuman/degrading treatment</text>
+  <text x="426" y="399" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Article 5: Right to liberty and security</text>
+  <text x="426" y="413" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Article 8: Right to private and family life</text>
+  <text x="426" y="427" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Article 14: Prohibition of discrimination</text>
+  <text x="426" y="460" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Cite specific Articles — not "human rights" generically</text>
+
+  <!-- Footer rule -->
+  <rect x="28" y="482" width="744" height="44" rx="8" fill="#1B3A6B"/>
+  <text x="400" y="500" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Citation format: (Care Act 2014, s.42) · (Mental Capacity Act 2005) · (Equality Act 2010) · (Human Rights Act 1998)</text>
+  <text x="400" y="518" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#A8C4E0">Apply the legislation to a specific practice scenario — naming an Act without explaining how it governs practice will not meet Level 3 criteria</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CACHE Assignment Help Service · NCFE CACHE Level 3 Health and Social Care (Adults and CYP Routes)</text>
+</svg>

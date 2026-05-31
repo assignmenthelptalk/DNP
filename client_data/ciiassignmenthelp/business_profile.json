@@ -1,0 +1,20 @@
+{
+  "client": "ciiassignmenthelp.com",
+  "built_at": "2026-03-15",
+  "source_context": "Academic assignment help and tutoring service for students pursuing CII (Chartered Insurance Institute) insurance qualifications — Certificate in Insurance, Diploma in Insurance, and Advanced Diploma in Insurance. Also serves non-UK and international students (Arabic, Indian market variants). Monetises through paid assignment writing assistance, exam preparation support, coursework help, and unit-specific tutoring.",
+  "central_entity": "CII Insurance Qualification Assignment",
+  "central_entity_full_definition": "A formal assessment task within a CII insurance qualification unit (Certificate in Insurance, Diploma in Insurance, or Advanced Diploma in Insurance), taking the form of written coursework, scenario-based MCQ exam, short-answer written exam, or case study work — required to pass a specific unit toward a recognised CII insurance qualification.",
+  "central_search_intent": "Getting expert help to complete, understand, and pass CII insurance qualification assignments and unit assessments",
+  "niche": "Professional qualification academic support — UK and international insurance sector (CII insurance pathway only — NOT financial planning pathway)",
+  "qualification_pathways_covered": [
+    "CII Certificate in Insurance (IF units + GR1, LM3, R05, international variants)",
+    "CII Diploma in Insurance (M05, M92, 530 core + M-series and P-series optional units)",
+    "CII Advanced Diploma in Insurance (820, 930, 960 core + 500/900-series optional units)"
+  ],
+  "student_markets": [
+    "UK insurance professionals",
+    "International students (non-UK English variants: WCE, WUE, W04)",
+    "Arabic-speaking markets (WCA, WUA, 590 Arabic)",
+    "Indian insurance market (IMU, IMP)"
+  ]
+}

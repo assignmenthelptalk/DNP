@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="hnd-engineering-title">
+  <title id="hnd-engineering-title">HND Engineering Assignment Help Routes: Project Management CPM EVM PRINCE2, Health Safety HSWA 1974 CDM 2015 Swiss Cheese Model, Advanced Engineering Science Mohr Circle Rankine Cycle, Mechanical Electrical Civil Routes IEng Pathway Written Analytical Sections Only</title>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F4F7FB" rx="14"/>
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">HND Engineering: Written Analytical Framework</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Written Analytical Sections Only · IEng Professional Pathway · Degree-Equivalent Engineering Analysis</text>
+
+  <!-- Scope banner -->
+  <rect x="28" y="82" width="744" height="26" rx="6" fill="#D97706"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">SERVICE SCOPE: Written analytical sections — H&amp;S legislative analysis, project management professional reports, engineering system critical evaluation</text>
+  <text x="400" y="107" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#FEF3C7">Calculations, structural design, laboratory work, and mathematical derivations are NOT within scope</text>
+
+  <!-- Cross-route units header -->
+  <rect x="28" y="122" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="137" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">CROSS-ROUTE UNITS — Apply Across All Engineering Routes at Level 5</text>
+
+  <!-- Project Management -->
+  <rect x="28" y="152" width="356" height="148" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="152" width="356" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="164" width="356" height="12" fill="#1B3A6B"/>
+  <text x="206" y="168" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">ENGINEERING PROJECT MANAGEMENT</text>
+  <text x="44" y="190" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#374151">Pass: CPM network diagram + risk register + stakeholder management</text>
+  <text x="44" y="204" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Merit: CPM float analysis + EVM metric interpretation (SPI/CPI) + mitigation justification</text>
+  <text x="44" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Distinction: EVM trend analysis → corrective actions + PRINCE2 methodology evaluation for context</text>
+  <line x1="44" y1="228" x2="372" y2="228" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="242" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#374151">EVM metrics:</text>
+  <text x="110" y="242" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">SPI = EV/PV (above 1.0 = ahead) · CPI = EV/AC (above 1.0 = under budget)</text>
+  <text x="44" y="256" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">PRINCE2: 7 principles / 7 themes / 7 processes → evaluate applicability for project scale + complexity</text>
+  <text x="44" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Critical path = zero-float activities → evaluate schedule resilience risks at Distinction</text>
+  <text x="44" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">APM Body of Knowledge (2019) 7th ed. — standard project management reference</text>
+
+  <!-- H&S -->
+  <rect x="416" y="152" width="356" height="148" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="416" y="152" width="356" height="24" rx="6" fill="#DC2626"/>
+  <rect x="416" y="164" width="356" height="12" fill="#DC2626"/>
+  <text x="594" y="168" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HEALTH, SAFETY AND RISK MANAGEMENT</text>
+  <text x="432" y="190" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#374151">Core legislation:</text>
+  <text x="432" y="204" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">HSWA 1974: reasonably practicable duty · MHSWR 1999: risk assessment + competent person</text>
+  <text x="432" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">CDM 2015 (Civil): Client / Principal Designer / Principal Contractor duty-holders</text>
+  <line x1="432" y1="226" x2="760" y2="226" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="432" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#374151">Accident causation models:</text>
+  <text x="432" y="254" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Heinrich's triangle (Bird revised): 1 serious : 10 minor : 30 property : 600 near misses</text>
+  <text x="432" y="268" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Swiss cheese model (Reason, 1990): holes align across defensive layers → accident</text>
+  <text x="432" y="282" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Distinction: evaluate H&amp;S system gaps vs "reasonably practicable" legislative standard</text>
+
+  <!-- Advanced Eng Science + Routes -->
+  <rect x="28" y="314" width="744" height="22" rx="4" fill="#7C3AED"/>
+  <text x="400" y="329" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">ADVANCED ENGINEERING SCIENCE + ROUTE-SPECIFIC UNITS</text>
+
+  <!-- Eng Science -->
+  <rect x="28" y="344" width="240" height="132" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <text x="44" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">ADVANCED ENG. SCIENCE (all routes)</text>
+  <text x="44" y="378" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Mohr's circle: principal stresses, max shear</text>
+  <text x="44" y="392" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">→ von Mises vs Tresca failure criterion</text>
+  <text x="44" y="406" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Rankine cycle: isentropic efficiency,</text>
+  <text x="44" y="420" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">back work ratio → reheat/regen eval.</text>
+  <text x="44" y="434" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Bernoulli: limitations for real flow</text>
+  <text x="44" y="450" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Distinction: critically evaluate model assumptions</text>
+  <text x="44" y="464" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Plane stress · linear elastic · perfect cycle</text>
+  <text x="44" y="470" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="7.5" font-weight="700" fill="#D97706">Same result · same calc · different written commentary = different grade</text>
+
+  <!-- Mechanical -->
+  <rect x="284" y="344" width="160" height="132" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="300" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1B3A6B">MECHANICAL</text>
+  <text x="300" y="377" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Advanced Materials: CES Edupack</text>
+  <text x="300" y="391" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">materials selection methodology</text>
+  <text x="300" y="405" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Manufacturing: Value stream</text>
+  <text x="300" y="419" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">mapping + OEE analysis</text>
+  <text x="300" y="433" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">DfM: tolerancing + lifecycle</text>
+  <text x="300" y="447" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">assessment</text>
+
+  <!-- Electrical -->
+  <rect x="460" y="344" width="160" height="132" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="476" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#2563EB">ELECTRICAL</text>
+  <text x="476" y="377" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Power Systems: 3-phase analysis</text>
+  <text x="476" y="391" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">+ power factor correction</text>
+  <text x="476" y="405" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Control: Bode plot (gain/phase</text>
+  <text x="476" y="419" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">margin) + PID Ziegler-Nichols</text>
+  <text x="476" y="433" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">→ evaluate Z-N limitations</text>
+  <text x="476" y="447" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">EMC analysis in PCB design</text>
+
+  <!-- Civil -->
+  <rect x="636" y="344" width="136" height="132" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <text x="652" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">CIVIL</text>
+  <text x="652" y="377" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Eurocode 2 (RC design)</text>
+  <text x="652" y="391" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Eurocode 3 (steel)</text>
+  <text x="652" y="405" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Bearing capacity: Terzaghi</text>
+  <text x="652" y="419" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Settlement: consolidation</text>
+  <text x="652" y="433" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Slope: Bishop's simplified</text>
+  <text x="652" y="447" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">→ evaluate assumptions</text>
+
+  <!-- IEng strip -->
+  <rect x="28" y="490" width="744" height="30" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="505" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">IEng PATHWAY: HND Engineering meets UK-SPEC educational base for IEng registration</text>
+  <text x="400" y="518" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#A8C4E0">IMechE (Mechanical) · IET (Electrical) · ICE (Civil) · Written analytical work = UK-SPEC competence evidence for IEng application</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HND Assignment Help Service · HND Engineering Written Analytical Framework — Level 5</text>
+</svg>

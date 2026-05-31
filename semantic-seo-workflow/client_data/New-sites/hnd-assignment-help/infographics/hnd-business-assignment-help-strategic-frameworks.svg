@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="100%" role="img" aria-labelledby="hnd-business-title">
+  <title id="hnd-business-title">HND Business Strategic Frameworks: PESTLE Porter Five Forces VRIO Value Chain Synthesis, Ansoff BCG Porter Generic Strategies, NPV IRR Modigliani Miller, Research Project Saunders Research Onion, Distinction Multi-Framework Synthesis Requirement</title>
+
+  <!-- Background -->
+  <rect width="800" height="640" fill="#F4F7FB" rx="14"/>
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">HND Business: Strategic Framework Synthesis Framework</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Level 5 Distinction = Integrated Strategic Analysis — NOT Four Separate Framework Applications</text>
+
+  <!-- Critical synthesis principle -->
+  <rect x="28" y="82" width="744" height="30" rx="6" fill="#7C3AED"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">DISTINCTION SYNTHESIS PRINCIPLE: One integrated strategic position — all frameworks feeding ONE coherent analysis</text>
+  <text x="400" y="109" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#E9D5FF">Merit = four good analytical sections · Distinction = four frameworks synthesised into a single professional strategic assessment</text>
+
+  <!-- Units header -->
+  <rect x="28" y="126" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="141" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">5 CORE UNITS — Key Strategic Frameworks and Distinction Synthesis Requirements</text>
+
+  <!-- Business Environment -->
+  <rect x="28" y="156" width="232" height="158" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="156" width="232" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="168" width="232" height="12" fill="#1B3A6B"/>
+  <text x="144" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">BUSINESS ENVIRONMENT</text>
+  <text x="44" y="193" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#374151">Pass: PESTLE + Porter's Five Forces applied</text>
+  <text x="44" y="207" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Merit: Analyse interaction between macro-env.</text>
+  <text x="44" y="221" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">and competitive forces · compare rivals</text>
+  <text x="44" y="235" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Distinction: Synthesise PESTLE + Porter's +</text>
+  <text x="44" y="249" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">VRIO → strategic position assessment</text>
+  <text x="44" y="263" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">+ Value Chain → Porter's Generic Strategies</text>
+  <text x="44" y="277" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">VRIO: Value · Rarity · Inimitability · Organisation</text>
+  <text x="44" y="291" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">→ sustainable competitive advantage eval.</text>
+  <text x="44" y="305" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Johnson et al. (2017) · Porter (1980)</text>
+
+  <!-- Managing People -->
+  <rect x="276" y="156" width="248" height="158" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="276" y="156" width="248" height="24" rx="6" fill="#2563EB"/>
+  <rect x="276" y="168" width="248" height="12" fill="#2563EB"/>
+  <text x="400" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">MANAGING PEOPLE</text>
+  <text x="292" y="193" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#374151">Pass: Harvard/Guest HRM models + Handy/Schein</text>
+  <text x="292" y="207" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Merit: Compare HRM frameworks · analyse culture</text>
+  <text x="292" y="221" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">vs leadership interaction</text>
+  <text x="292" y="235" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Distinction: Synthesise HRM + culture (Handy type</text>
+  <text x="292" y="249" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">→ Schein assumptions) + leadership model →</text>
+  <text x="292" y="263" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">professional HRM strategy recommendation</text>
+  <text x="292" y="277" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Transformational (Bass 1985) · Servant (Greenleaf 1977)</text>
+  <text x="292" y="291" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Distributed leadership evaluation required</text>
+  <text x="292" y="305" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Wahba and Bridwell (1976) Maslow limitation</text>
+
+  <!-- Financial Management -->
+  <rect x="540" y="156" width="232" height="158" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="540" y="156" width="232" height="24" rx="6" fill="#7C3AED"/>
+  <rect x="540" y="168" width="232" height="12" fill="#7C3AED"/>
+  <text x="656" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">FINANCIAL MANAGEMENT</text>
+  <text x="556" y="193" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#374151">Pass: NPV + IRR + payback period + ratios</text>
+  <text x="556" y="207" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Merit: Analyse when NPV &gt; IRR for decision;</text>
+  <text x="556" y="221" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">trend analysis vs benchmarks; justify financing</text>
+  <text x="556" y="235" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Distinction: Synthesise investment appraisal +</text>
+  <text x="556" y="249" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">capital structure → strategic financial rec.</text>
+  <text x="556" y="263" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Evaluate Modigliani-Miller assumptions</text>
+  <text x="556" y="277" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Cash conversion cycle strategic implications</text>
+  <text x="556" y="291" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Discount rate assumptions in NPV critically eval.</text>
+  <text x="556" y="305" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Conflicting NPV/IRR → justify NPV superiority</text>
+
+  <!-- Marketing Management (full width) -->
+  <rect x="28" y="328" width="356" height="90" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="328" width="356" height="22" rx="6" fill="#2563EB"/>
+  <rect x="28" y="340" width="356" height="10" fill="#2563EB"/>
+  <text x="206" y="343" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">MARKETING MANAGEMENT</text>
+  <text x="44" y="365" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Pass: Apply Ansoff + BCG + Porter's Generic to named org · Merit: Analyse BCG investment priorities + Ansoff risk · justify strategic direction</text>
+  <text x="44" y="379" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Distinction: Synthesise BCG portfolio → strategic investment + Ansoff (with risk eval.) + Porter's → coherent marketing strategy recommendation</text>
+  <text x="44" y="393" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Diversification (Ansoff Quadrant 4) must be justified with capability evidence — highest risk option, not just identified as available</text>
+  <text x="44" y="409" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Kotler and Keller (2016) Marketing Management — 15th ed.</text>
+
+  <!-- Research Project -->
+  <rect x="416" y="328" width="356" height="90" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <rect x="416" y="328" width="356" height="22" rx="6" fill="#D97706"/>
+  <rect x="416" y="340" width="356" height="10" fill="#D97706"/>
+  <text x="594" y="343" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">RESEARCH PROJECT (5,000–6,000w mandatory)</text>
+  <text x="432" y="365" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Aims/Objectives (SMART + academically justified) → Literature Review (10+ critically eval. academic sources) → Methodology</text>
+  <text x="432" y="379" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Saunders Research Onion: Positivism/Interpretivism → Deductive/Inductive → Quantitative/Qualitative/Mixed methods</text>
+  <text x="432" y="393" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Distinction: Literature review synthesises (not summarises) · methodology limitations critically eval. · conclusions linked to each aim</text>
+  <text x="432" y="409" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Saunders, Lewis and Thornhill (2019) Research Methods 8th ed. — mandatory methodology reference</text>
+
+  <!-- Synthesis vs sequential warning -->
+  <rect x="28" y="432" width="744" height="72" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="452" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#DC2626">MERIT vs DISTINCTION — The Strategic Synthesis Gap</text>
+  <text x="44" y="468" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Merit:</text>
+  <text x="90" y="468" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"PESTLE identifies economic uncertainty and technological disruption as key factors. Porter's Five Forces shows high buyer power and threat of new entrants. VRIO shows brand recognition is a valuable and rare resource."</text>
+  <text x="44" y="484" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">Distinction:</text>
+  <text x="100" y="484" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"The convergence of economic uncertainty (PESTLE) and high buyer power (Porter) creates a competitive environment where the organisation's brand recognition (VRIO: Valuable, Rare, partially Inimitable) provides only a temporary</text>
+  <text x="100" y="498" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">competitive buffer. A focused differentiation strategy (Porter's Generic) that leverages brand through the direct-to-consumer value chain activities (Value Chain) is the most defensible strategic position given these constraints."</text>
+
+  <!-- Footer -->
+  <text x="400" y="630" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HND Assignment Help Service · HND Business Strategic Framework Synthesis — Level 5</text>
+</svg>

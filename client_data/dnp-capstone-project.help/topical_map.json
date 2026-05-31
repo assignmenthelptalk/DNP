@@ -1,0 +1,721 @@
+{
+  "built_at": "2026-05-31",
+  "central_entity": "DNP Capstone Project",
+  "source_context": "Academic support service for registered nurses pursuing Doctor of Nursing Practice (DNP) degrees. Monetises through paid DNP capstone project guidance, PICOT question development, systematic literature review assistance, IRB proposal writing, implementation plan development, data analysis support, and final manuscript preparation.",
+  "central_search_intent": "Getting expert help to plan, write, and successfully complete a DNP capstone project from PICOT question to final manuscript",
+
+  "topical_border_definition": {
+    "inside_core": [
+      "DNP capstone project help — all components: PICOT question, literature review, theoretical framework, IRB proposal, implementation plan, data collection tools, evaluation plan, data analysis, final manuscript",
+      "DNP capstone project types: Quality Improvement (QI), Evidence-Based Practice (EBP) implementation, program evaluation, clinical practice guideline development, policy change initiative, educational program development",
+      "DNP specialisation track-specific capstone guidance: FNP, AGACNP, AGPCNP, PMHNP, PNP, NNP, WHNP, CNM, CRNA, CNL, Nurse Executive, Population Health, Nursing Informatics",
+      "DNP capstone proposal writing: chapter-by-chapter structure (background, significance, problem statement, PICOT, literature review, theoretical framework, methodology, IRB plan, evaluation plan, timeline, budget)",
+      "DNP capstone final project/manuscript writing: title, abstract, introduction, review of literature, methods, results, discussion, implications for practice, conclusion, appendices",
+      "PICOT question formulation for DNP projects: population, intervention, comparison, outcome, time elements for all project types",
+      "Systematic and scoping literature reviews for DNP: PRISMA framework, database search strategy, inclusion/exclusion criteria, evidence appraisal tools (JBI, CASP, GRADE)",
+      "Evidence-based practice frameworks for DNP: Iowa Model, PDSA cycle, PARIHS/i-PARIHS, ACE Star Model, Rosswurm & Larrabee Model, KTA Framework, ARCC Model, Johns Hopkins EBP Model",
+      "IRB proposal and ethics for DNP: QI vs research determination, minimal risk designation, HIPAA compliance, informed consent waiver, institutional review process",
+      "DNP Essentials alignment (AACN 2021 Essentials — Domains 1–10): how capstone addresses each domain",
+      "University-specific DNP capstone requirements: Capella, Walden, Grand Canyon (GCU), Chamberlain, Loyola, Vanderbilt, Johns Hopkins, Rush University, Touro, UIUC, OHSU, USF"
+    ],
+    "inside_outer": [
+      "AACN DNP Essentials (2021) — Domains 1–10 conceptual overview",
+      "Healthcare quality improvement frameworks: IHI Model for Improvement, Lean/Six Sigma in nursing, DMAIC process",
+      "Statistical analysis methods used in DNP projects: descriptive statistics, t-tests, chi-square, regression, ANCOVA, pre-post comparisons",
+      "Qualitative data methods for DNP: thematic analysis, content analysis, focus group data interpretation",
+      "APA 7th edition formatting for DNP manuscripts",
+      "Scholarly writing skills for nursing doctoral students",
+      "Clinical practice settings for DNP implementation: acute care, primary care, long-term care, community health, telehealth",
+      "DNP versus PhD in nursing — scope and purpose distinction",
+      "IRB process overview for nursing professionals",
+      "Dissemination strategies for DNP projects: poster presentations, podium presentations, journal submission"
+    ],
+    "outside_border_excluded": [
+      "PhD in nursing dissertation help — DIFFERENT degree, DIFFERENT methodology (primary research, not practice translation)",
+      "Master's thesis in nursing — DIFFERENT degree level, DIFFERENT scope",
+      "Clinical practicum and residency support — DIFFERENT program component from capstone project",
+      "NCLEX preparation and nursing licensure — DIFFERENT purpose entirely",
+      "General nursing homework help (undergraduate or graduate coursework) — DIFFERENT scope",
+      "Non-nursing doctoral capstone help (EdD, DBA, DPT, DSW) — DIFFERENT disciplines",
+      "Medical school research (MD, DO) — DIFFERENT profession",
+      "Grant writing for funded nursing research — DIFFERENT context from student capstone"
+    ],
+    "competitor_border_threat": "Many academic writing services conflate DNP capstone help with PhD dissertation help or general nursing homework help. Maintaining DNP-capstone-only specificity in all N-grams — 'DNP capstone project', 'DNP scholarly project', 'DNP final project', 'practice change project', 'PICOT for DNP' — is the competitive differentiator. Competitors who serve both PhD and DNP dilute their source context and cannot match DNP-specific EAV depth."
+  },
+
+  "topical_coverage_score": 5,
+  "topical_coverage_note": "Baseline score for a brand-new site. Target 70+ at 18 months by completing all Tier 1 Core pages and at least 8 Tier 2 track-specific pages.",
+
+  "core_section": {
+    "main_attribute": "DNP capstone project completion support — from PICOT question through final manuscript — across all DNP specialisation tracks and project types",
+    "derived_attributes": [
+      "Project component navigation (PICOT → Lit Review → Framework → Proposal → IRB → Implementation → Evaluation → Manuscript)",
+      "Project type differentiation (QI vs EBP vs Program Evaluation vs Policy vs Clinical Guideline vs Educational Program)",
+      "Specialisation track alignment (FNP, PMHNP, AGACNP, CRNA, CNL, Nurse Executive, Population Health, Informatics, Midwifery, Women's Health, Pediatric, Neonatal)",
+      "Institutional requirement alignment (university-specific DNP program formats and grading rubrics)",
+      "EBP framework selection and application (Iowa Model, PDSA, PARIHS, ACE Star, KTA, ARCC, Johns Hopkins)",
+      "IRB determination and ethics compliance for practice improvement projects"
+    ],
+
+    "tier_1_topics": [
+      {
+        "topic": "DNP Capstone Project Help (Pillar Page)",
+        "attribute_focus": "Comprehensive overview of all DNP capstone project help services across all tracks, all project types, and all components",
+        "macro_context": "Expert academic support for Doctor of Nursing Practice students needing help with every stage of their DNP capstone project — from PICOT question development through final manuscript submission",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: DNP Capstone Project. Attributes: degree level (doctoral, post-BSN or post-MSN entry), project scope (practice-focused, not primary research), components (PICOT question, literature review, theoretical framework, IRB proposal, implementation plan, evaluation plan, final manuscript), DNP tracks supported (13 specialisation tracks), project types (6 categories), credit hours (typically 6–14 credits across multiple semesters), assessment format (final project defense/presentation + scholarly manuscript). Must distinguish DNP capstone from PhD dissertation, explain the AACN Essentials alignment requirement, and address both post-BSN (typically 3+ years) and post-MSN (typically 2 years) pathways.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "DNP Capstone Project Help — Expert Support From PICOT Question to Final Manuscript",
+        "suggested_h2s": [
+          "What Is a DNP Capstone Project?",
+          "DNP Capstone vs PhD Dissertation: Key Differences",
+          "The 8 Core Components of a DNP Capstone Project",
+          "DNP Project Types: QI, EBP, Program Evaluation, Policy, Guideline, and Educational",
+          "DNP Specialisation Tracks We Support",
+          "How Our DNP Capstone Help Works: From Proposal to Defence",
+          "Post-BSN vs Post-MSN DNP Pathways: What Changes for Your Capstone",
+          "AACN DNP Essentials: How Your Capstone Demonstrates Each Domain"
+        ],
+        "contextual_border_question": "Which DNP capstone component do you need help with — proposal, literature review, IRB, implementation plan, or final manuscript?",
+        "supplementary_bridges_to": [
+          "DNP Capstone Proposal Help",
+          "DNP PICOT Question Help",
+          "DNP Literature Review Help",
+          "DNP IRB Proposal Help",
+          "DNP Implementation Plan Help",
+          "DNP Data Analysis Help",
+          "DNP Capstone Manuscript Help"
+        ]
+      },
+      {
+        "topic": "DNP Capstone Proposal Help",
+        "attribute_focus": "Writing the DNP capstone project proposal — all chapters from background/significance through methodology and evaluation plan",
+        "macro_context": "Getting expert help to write a complete, committee-approved DNP capstone project proposal that meets university rubric requirements and establishes a defensible methodology",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: DNP Capstone Proposal. Attributes: chapter structure (typically Chapters 1–3 or Sections 1–5 depending on university), Chapter 1 content (background of problem, significance to practice, problem statement, purpose statement, PICOT question, research/practice questions, scope and limitations), Chapter 2 content (theoretical/conceptual framework, systematic literature review, synthesis of evidence, gaps), Chapter 3 content (project design, setting and sample, intervention description, IRB determination, data collection tools, evaluation plan, statistical analysis plan, timeline, budget). Values: proposal length (typically 40–80 pages excluding references), APA 7th edition required, committee approval process (proposal defense), IRB submission timeline post-approval.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "DNP Capstone Project Proposal Help — Chapter-by-Chapter Expert Writing Support",
+        "suggested_h2s": [
+          "What Must a DNP Capstone Proposal Include?",
+          "Chapter 1: Background, Significance, and Problem Statement",
+          "Chapter 2: Theoretical Framework and Literature Review",
+          "Chapter 3: Methodology, IRB Plan, and Evaluation Design",
+          "How to Write a DNP Problem Statement That Passes Committee Review",
+          "Aligning Your DNP Proposal with AACN Essentials Domains",
+          "Common Reasons DNP Proposals Are Sent Back for Revision",
+          "From Proposal Approval to IRB Submission: What Happens Next"
+        ],
+        "contextual_border_question": "Which chapter of your DNP proposal are you working on — Chapter 1 (background/PICOT), Chapter 2 (framework/literature review), or Chapter 3 (methodology/evaluation)?",
+        "supplementary_bridges_to": [
+          "DNP PICOT Question Help",
+          "DNP Literature Review Help",
+          "DNP IRB Proposal Help",
+          "DNP Capstone Manuscript Help",
+          "DNP EBP Framework Help"
+        ]
+      },
+      {
+        "topic": "DNP PICOT Question Help",
+        "attribute_focus": "Developing a well-formed PICOT question for a DNP capstone project — all five elements and all project type variants",
+        "macro_context": "Expert help developing a precise, answerable PICOT question that defines the scope of a DNP capstone project and aligns with the chosen project type and clinical setting",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: PICOT Question for DNP Capstone. Attributes: PICOT elements (P=Population/Patient problem, I=Intervention, C=Comparison, O=Outcome, T=Time), PICOT variants by project type (PICOT for QI projects, PICo for qualitative/EBP — Population, phenomenon of Interest, Context), population specificity requirements (setting, age group, diagnosis, clinical role), measurable outcome requirements (quantitative: rate/score change; qualitative: experience/perception), time element (implementation period vs measurement window — typically 6–12 weeks for QI, 8–16 weeks for EBP), common DNP PICOT examples (sepsis bundle compliance, fall prevention, CAUTI rates, readmission reduction, medication reconciliation, mental health screening). Values: must be specific enough to be searchable in CINAHL/PubMed, must produce answerable question, must fit available clinical setting and timeline.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "DNP PICOT Question Help — Developing a Precise, Defensible Question for Your Capstone",
+        "suggested_h2s": [
+          "What Is a PICOT Question in a DNP Project?",
+          "Breaking Down the 5 PICOT Elements for DNP Students",
+          "PICOT vs PICo: Choosing the Right Framework for Your Project Type",
+          "How Specific Should Your DNP PICOT Population Be?",
+          "Writing Measurable Outcomes for Your PICOT: Examples by Clinical Area",
+          "Setting the Time Frame: How Long Should Your DNP Intervention Run?",
+          "20 DNP PICOT Question Examples Across Specialisation Tracks",
+          "How Your PICOT Question Shapes Your Literature Search Strategy"
+        ],
+        "contextual_border_question": "What is the clinical problem your DNP capstone is addressing — and which patient population or healthcare setting is involved?",
+        "supplementary_bridges_to": [
+          "DNP Literature Review Help",
+          "DNP Capstone Proposal Help",
+          "FNP DNP Capstone Help",
+          "PMHNP DNP Capstone Help",
+          "DNP Quality Improvement Project Help",
+          "DNP EBP Implementation Project Help"
+        ]
+      },
+      {
+        "topic": "DNP Literature Review Help",
+        "attribute_focus": "Conducting and writing a systematic or scoping literature review for a DNP capstone project — search strategy, evidence appraisal, synthesis, and presentation",
+        "macro_context": "Expert help planning, conducting, and writing a rigorous DNP capstone literature review — including database search strategy, PRISMA tracking, critical appraisal, evidence synthesis, and identifying practice gaps",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: DNP Capstone Literature Review. Attributes: review type (systematic vs scoping vs integrative — each with different PRISMA/PRISMA-ScR requirements), databases searched (CINAHL Complete, PubMed/MEDLINE, Cochrane Library, EMBASE, PsycINFO — specific to PICOT topic), MeSH and CINAHL headings vs keyword searching, boolean operators (AND/OR/NOT), date range filters (typically 5–10 years), inclusion/exclusion criteria (peer-reviewed, English language, adult/pediatric populations), evidence appraisal tools (JBI Critical Appraisal Checklist for RCTs/systematic reviews/cohort studies; CASP tools; GRADE framework for evidence quality ratings), evidence synthesis table construction (author, year, design, sample, intervention, outcomes, limitations, level of evidence), number of studies typically required for DNP projects (15–30 primary studies depending on topic), gap identification and rationale for practice change.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "DNP Capstone Literature Review Help — From Search Strategy to Evidence Synthesis",
+        "suggested_h2s": [
+          "What Type of Literature Review Does a DNP Capstone Require?",
+          "Choosing Your Databases: CINAHL, PubMed, Cochrane, and Beyond",
+          "Building Your Search Strategy: MeSH Terms, Boolean Operators, and Filters",
+          "PRISMA Flow Diagram: Tracking Your Search for the DNP Proposal",
+          "Critical Appraisal Tools for DNP Projects: JBI, CASP, and GRADE",
+          "Constructing Your Evidence Synthesis Table",
+          "How to Identify the Practice Gap That Justifies Your DNP Project",
+          "Integrating Your Literature Review into Chapter 2 of Your Proposal"
+        ],
+        "contextual_border_question": "What stage of your literature review are you at — search strategy, critical appraisal, synthesis table, or writing Chapter 2?",
+        "supplementary_bridges_to": [
+          "DNP PICOT Question Help",
+          "DNP Capstone Proposal Help",
+          "DNP EBP Framework Help",
+          "DNP Capstone Manuscript Help"
+        ]
+      },
+      {
+        "topic": "DNP IRB Proposal Help",
+        "attribute_focus": "Writing and submitting an IRB proposal for a DNP capstone project — QI vs research determination, protocol writing, risk classification, and consent documents",
+        "macro_context": "Expert help navigating the IRB process for a DNP capstone project — including determining whether the project qualifies as QI or human subjects research, completing the IRB application, and writing required ethics documents",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: IRB Proposal for DNP Capstone. Attributes: QI vs research determination (most DNP projects qualify as QI or program evaluation — NOT human subjects research — under 45 CFR 46, but determination must be documented), IRB review levels (exempt, expedited, full board — criteria for each), CITI training requirements (Human Subjects Research, GCP if applicable), IRB protocol components (project title, PI, purpose, design, participants, risks/benefits, privacy/confidentiality plan, data security, recruitment), HIPAA considerations (de-identification, limited data sets, business associate agreements), informed consent requirements vs waiver of consent criteria (QI projects frequently qualify for waiver), site-specific IRB vs university IRB process, dual IRB submissions when hospital and university both require review. Values: typical IRB timeline (exempt: 1–4 weeks; expedited: 4–8 weeks; full board: 6–12 weeks), common reasons for IRB revisions, importance of IRB approval before implementation begins.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "DNP IRB Proposal Help — Navigating Ethics Review for Your Capstone Project",
+        "suggested_h2s": [
+          "Does Your DNP Capstone Project Need IRB Approval?",
+          "QI vs Human Subjects Research: How IRBs Classify DNP Projects",
+          "Exempt, Expedited, or Full Board Review: Which Does Your Project Need?",
+          "Writing the IRB Protocol for a DNP Capstone: Section by Section",
+          "HIPAA Compliance in DNP Capstone Projects",
+          "Consent vs Waiver of Consent: When DNP Projects Qualify for Waiver",
+          "Hospital IRB and University IRB: Navigating Dual Review",
+          "How Long Does IRB Approval Take? Planning Your DNP Timeline"
+        ],
+        "contextual_border_question": "Has your university or clinical site already determined whether your DNP project needs IRB review — or are you still at the determination stage?",
+        "supplementary_bridges_to": [
+          "DNP Capstone Proposal Help",
+          "DNP Implementation Plan Help",
+          "DNP Quality Improvement Project Help",
+          "DNP EBP Implementation Project Help"
+        ]
+      },
+      {
+        "topic": "DNP Implementation Plan Help",
+        "attribute_focus": "Writing the DNP capstone implementation plan — intervention rollout, stakeholder engagement, change management, timeline, staff education, and fidelity monitoring",
+        "macro_context": "Expert help writing a detailed, evidence-based DNP capstone implementation plan that specifies how the practice change intervention will be introduced, monitored, and sustained in the clinical setting",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: DNP Capstone Implementation Plan. Attributes: implementation phases (pre-implementation: stakeholder analysis, needs assessment, staff education, policy draft; implementation: rollout schedule, champion identification, data collection protocol; post-implementation: sustainability plan, policy adoption), change management frameworks (Kotter's 8-Step Model, Lewin's Change Theory, Rogers' Diffusion of Innovations — selection must be justified), stakeholder mapping (sponsor, champion, frontline staff, IT, administration, patients/families), staff education plan (content, format, timing, return demonstration, competency verification), data collection protocol (who collects, what tool, how often, where stored), process vs outcome measures (process: adherence/compliance rates; outcome: patient safety metrics, clinical outcomes, satisfaction scores), fidelity monitoring strategies, timeline construction (Gantt chart format, 8–16 weeks typical), budget justification (materials, staff time, technology). Values: implementation fidelity is a scored rubric element at most universities — specific plans earn higher marks than vague ones.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "DNP Capstone Implementation Plan Help — From Stakeholder Buy-In to Sustainable Practice Change",
+        "suggested_h2s": [
+          "What Must a DNP Implementation Plan Include?",
+          "Choosing a Change Management Framework: Kotter, Lewin, or Rogers?",
+          "Stakeholder Analysis for Your DNP Capstone: Who Needs to Be On Board",
+          "Writing the Staff Education Plan for Your DNP Intervention",
+          "Process and Outcome Measures: Selecting the Right Data Points",
+          "Building a DNP Project Timeline: Gantt Chart and Milestone Planning",
+          "Fidelity Monitoring: Ensuring Your Intervention Is Delivered as Planned",
+          "Writing the Sustainability Plan: How to Show Practice Change Will Last"
+        ],
+        "contextual_border_question": "What type of DNP project are you implementing — quality improvement, EBP implementation, program evaluation, or policy change?",
+        "supplementary_bridges_to": [
+          "DNP IRB Proposal Help",
+          "DNP Data Analysis Help",
+          "DNP Capstone Proposal Help",
+          "DNP EBP Framework Help",
+          "DNP Quality Improvement Project Help"
+        ]
+      },
+      {
+        "topic": "DNP Data Analysis Help",
+        "attribute_focus": "Statistical and qualitative data analysis for DNP capstone projects — selecting the right methods, interpreting results, and presenting findings",
+        "macro_context": "Expert help selecting appropriate data analysis methods for a DNP capstone project, interpreting results correctly, and presenting findings in a way that answers the PICOT question and meets doctoral-level expectations",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: DNP Capstone Data Analysis. Attributes: analysis type by project design (pre-post comparison: paired t-test or Wilcoxon signed-rank; group comparison: independent t-test, Mann-Whitney U; categorical outcomes: chi-square, Fisher's exact; controlled comparison: ANCOVA; time series: interrupted time series analysis; qualitative: thematic analysis, content analysis), software tools (SPSS, Excel for basic QI, JASP for free option, NVivo for qualitative), sample size considerations for DNP QI projects (power calculation vs pragmatic sampling — most DNP projects use convenience samples with descriptive statistics), data presentation formats (tables, run charts, control charts using SPC methods, bar charts for pre-post), statistical significance vs clinical significance distinction (critical in DNP context — small p-value does not guarantee practice relevance), confidence intervals, limitations section requirements when sample size is small. Values: most DNP capstone data analysis is descriptive (frequencies, means, percentages) + one inferential test — not complex multivariate analysis. Overcomplication is a common student error.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "DNP Capstone Data Analysis Help — Choosing the Right Methods and Interpreting Your Findings",
+        "suggested_h2s": [
+          "What Level of Statistical Analysis Is Expected in a DNP Capstone?",
+          "Pre-Post Comparison Analysis for QI and EBP DNP Projects",
+          "Choosing Between Parametric and Non-Parametric Tests for Your DNP Data",
+          "Statistical Process Control Charts for DNP Quality Improvement Projects",
+          "Qualitative Data Analysis for DNP Projects: Thematic and Content Analysis",
+          "Statistical Significance vs Clinical Significance in DNP Practice Change",
+          "Presenting Your Data: Tables, Run Charts, and Figures for the DNP Manuscript",
+          "Interpreting Your Results: Writing the Findings Section of Your DNP Project"
+        ],
+        "contextual_border_question": "What is your outcome measure — a rate or percentage, a pre-post score change, or patient experience/perception data?",
+        "supplementary_bridges_to": [
+          "DNP Capstone Manuscript Help",
+          "DNP Implementation Plan Help",
+          "DNP Quality Improvement Project Help",
+          "DNP EBP Implementation Project Help",
+          "DNP Program Evaluation Project Help"
+        ]
+      },
+      {
+        "topic": "DNP Capstone Manuscript Help",
+        "attribute_focus": "Writing the final DNP capstone scholarly manuscript or final project report — all sections from title page and abstract through discussion, implications, conclusion, and appendices",
+        "macro_context": "Expert help writing a complete, polished DNP capstone final manuscript that meets doctoral-level scholarly writing standards, passes committee review, and satisfies AACN Essentials domain requirements",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: DNP Capstone Final Manuscript. Attributes: structure (Title Page, Abstract [250 words, structured or unstructured depending on university], Introduction, Review of Literature, Theoretical/Conceptual Framework, Methods, Results/Findings, Discussion, Implications for Practice, Limitations, Recommendations for Future Practice, Conclusion, References, Appendices), APA 7th edition requirements (running head removal for student papers, level headings, in-text citations, reference page format, table and figure labels), abstract components (background, purpose, methods, results, conclusions — keywords required), discussion section requirements (interpretation of findings relative to PICOT, connection to literature review, theoretical framework alignment, unexpected findings explanation), implications for practice (staff, policy, education, leadership — each domain addressed), dissemination options (poster vs oral presentation, publication in clinical nursing journals). Values: typical final manuscript length 60–120 pages excluding appendices; appendices typically include IRB approval letter, data collection tools, educational materials, consent documents, evidence tables.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "DNP Capstone Manuscript Help — Writing a Final Project Report That Passes Doctoral Review",
+        "suggested_h2s": [
+          "DNP Final Manuscript Structure: What Every Section Must Include",
+          "Writing the DNP Capstone Abstract: 250 Words That Frame Your Entire Project",
+          "Introduction and Background: Setting the Stage for Your Practice Change",
+          "Methods Section: Writing Up Your Implementation With Reproducible Detail",
+          "Results Section: Presenting Pre-Post Data, Tables, and Run Charts",
+          "Discussion Section: Interpreting Findings and Connecting Back to Literature",
+          "Implications for Practice, Education, Policy, and Leadership",
+          "APA 7th Edition Requirements for DNP Capstone Manuscripts"
+        ],
+        "contextual_border_question": "Which section of your DNP final manuscript are you working on — methods, results, discussion, or implications for practice?",
+        "supplementary_bridges_to": [
+          "DNP Data Analysis Help",
+          "DNP Capstone Proposal Help",
+          "DNP Literature Review Help",
+          "DNP EBP Framework Help"
+        ]
+      }
+    ],
+
+    "tier_2_topics": [
+      {
+        "pathway": "DNP Project Type-Specific Help",
+        "project_types": [
+          {
+            "topic": "DNP Quality Improvement Project Help",
+            "project_type": "Quality Improvement (QI)",
+            "macro_context": "Expert help designing, implementing, and documenting a DNP quality improvement capstone project using PDSA cycles or IHI Model for Improvement in a clinical setting",
+            "eav_depth_required": "Entity: DNP QI Capstone Project. Attributes: QI methodology (IHI Model for Improvement: aim statement, measures, changes; PDSA cycle structure; Lean waste identification; Six Sigma DMAIC), QI-specific PICOT adaptation (population = patient population in defined unit; intervention = quality bundle or protocol change; comparison = current standard or historical rate; outcome = measurable quality metric — e.g., CAUTI rate per 1000 catheter days, fall rate per 1000 patient days, 30-day readmission rate; time = measurement window), data sources for QI (existing EHR audit data, manual chart review, direct observation), IRB classification (almost always QI/exempt — not human subjects research), sustainability plan using PDSA re-run cycles, SPC chart types (P-chart for proportions, U-chart for rates, I-MR chart for individual measurements). Values: most hospital-based DNP QI projects use pre-existing quality data — no new data collection instrument required, which simplifies IRB.",
+            "suggested_h1": "DNP Quality Improvement Capstone Project Help — PDSA, IHI Model, and Clinical Outcome Metrics",
+            "suggested_h2s": [
+              "What Is a DNP Quality Improvement Capstone Project?",
+              "IHI Model for Improvement vs PDSA Cycle: Which Framework for Your QI Project?",
+              "Writing an AIM Statement for Your DNP QI Project",
+              "Selecting QI Process and Outcome Measures That Committees Approve",
+              "Using Existing EHR Data in Your DNP QI Project",
+              "Statistical Process Control Charts for DNP Quality Improvement",
+              "Does a DNP QI Project Need IRB Approval?",
+              "Examples of DNP Quality Improvement Projects by Clinical Specialty"
+            ],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "DNP Evidence-Based Practice Implementation Project Help",
+            "project_type": "Evidence-Based Practice (EBP) Implementation",
+            "macro_context": "Expert help designing and documenting a DNP EBP implementation capstone project — translating synthesised evidence into a sustainable clinical practice change using a recognised EBP framework",
+            "eav_depth_required": "Entity: DNP EBP Implementation Project. Attributes: EBP framework selection and justification (Iowa Model — trigger identification, practice question, evidence search, pilot, evaluate, disseminate; PARIHS/i-PARIHS — evidence, context, facilitation elements; Johns Hopkins EBP Model — PET process; ACE Star Model — discovery, evidence summary, translation, integration, evaluation), evidence synthesis requirement (systematic or integrative review of 15–30 studies minimum), pilot implementation design (unit or population-limited before site-wide rollout), outcome measurement (pre-post knowledge or practice assessment, patient outcome metrics), staff education component (content development, delivery method, competency return demonstration), policy/protocol document development, faculty advisor role vs clinical mentor role differentiation. Values: EBP projects differ from QI in that they require formal synthesis of published evidence as the primary driver of the intervention — not just internal quality data.",
+            "suggested_h1": "DNP EBP Implementation Project Help — Translating Evidence Into Sustainable Practice Change",
+            "suggested_h2s": [
+              "What Is a DNP Evidence-Based Practice Implementation Project?",
+              "Choosing an EBP Framework: Iowa Model, PARIHS, or Johns Hopkins?",
+              "How Many Studies Do You Need for a DNP EBP Literature Review?",
+              "Designing the Practice Change Intervention: From Evidence to Protocol",
+              "Staff Education as Part of Your DNP EBP Project",
+              "Measuring Outcomes After EBP Implementation: Pre-Post Comparison Design",
+              "DNP EBP Project vs Quality Improvement Project: Key Differences",
+              "Example DNP EBP Projects: Practice Guidelines Implemented in Clinical Settings"
+            ],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "DNP Program Evaluation Project Help",
+            "project_type": "Program Evaluation",
+            "macro_context": "Expert help designing and documenting a DNP program evaluation capstone project — systematically assessing an existing clinical program, health education initiative, or care delivery model against defined goals and outcomes",
+            "eav_depth_required": "Entity: DNP Program Evaluation Capstone. Attributes: evaluation framework options (Logic Model — inputs, activities, outputs, short/long-term outcomes; Donabedian Model — structure, process, outcomes; CIPP Model — context, input, process, product; RE-AIM Framework — reach, effectiveness, adoption, implementation, maintenance), evaluation questions formulation (structure/process/outcome alignment), stakeholder identification (program staff, beneficiaries, funders, administration), data sources (program records, patient satisfaction surveys, clinical outcome databases, staff competency assessments), mixed methods design possibility (quantitative outcome data + qualitative stakeholder interviews/focus groups), IRB considerations (program records review — usually exempt; surveys may need expedited), timeline (retrospective data + prospective survey: 8–16 weeks), dissemination to program leadership (executive summary + recommendations report). Values: program evaluation DNP projects are common in nursing education, community health, and administrative tracks.",
+            "suggested_h1": "DNP Program Evaluation Capstone Help — Logic Model, Donabedian Framework, and Outcome Assessment",
+            "suggested_h2s": [
+              "What Is a DNP Program Evaluation Capstone Project?",
+              "Choosing a Program Evaluation Framework: Logic Model vs Donabedian vs CIPP",
+              "Writing Evaluation Questions That Align With Program Goals",
+              "Data Sources for DNP Program Evaluation: Records, Surveys, and Interviews",
+              "Mixed Methods in DNP Program Evaluation: Combining Numbers and Narratives",
+              "IRB Requirements for Program Evaluation DNP Projects",
+              "Writing the Evaluation Report: Findings, Conclusions, and Recommendations",
+              "DNP Program Evaluation Examples: Nursing Education, Community Health, and Leadership"
+            ],
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "DNP Policy Change Project Help",
+            "project_type": "Policy Change Initiative",
+            "macro_context": "Expert help designing and documenting a DNP policy change capstone project — developing, advocating for, or evaluating a clinical, organisational, or healthcare policy change grounded in evidence",
+            "eav_depth_required": "Entity: DNP Policy Change Capstone. Attributes: policy change scope (unit-level protocol, department policy, organisational policy, state-level advocacy — DNP capstones typically unit or organisational level), policy development process (gap analysis, stakeholder analysis, evidence base, draft policy language, review process, approval pathway, implementation plan, evaluation metrics), policy analysis frameworks (Longest Policy Cycle, Kingdon's Streams Model, PDSA for policy testing), evidence integration (literature review supporting the policy change), stakeholder engagement (key informant interviews, focus groups, Delphi technique for consensus), policy document deliverables (policy draft, procedure document, educational tool, evaluation plan), dissemination (internal policy approval + presentation to leadership + possible external submission to professional organisations). Values: policy projects require strong political awareness of organisational approval processes — this component must be explicitly addressed in the proposal.",
+            "suggested_h1": "DNP Policy Change Capstone Help — Evidence-Based Policy Development and Advocacy",
+            "suggested_h2s": [
+              "What Is a DNP Policy Change Capstone Project?",
+              "Levels of Policy Change in DNP Capstones: Unit, Organisational, and State",
+              "Policy Analysis Frameworks for DNP Students: Longest Cycle and Kingdon's Streams",
+              "Building the Evidence Base for Your DNP Policy Change Proposal",
+              "Stakeholder Analysis and Engagement for Policy Change",
+              "Writing the Draft Policy Document as Your DNP Deliverable",
+              "Getting Policy Approved: Navigating Organisational Review Processes",
+              "Examples of DNP Policy Change Projects in Clinical and Healthcare Settings"
+            ],
+            "priority": "medium",
+            "coverage_status": "missing"
+          }
+        ]
+      },
+      {
+        "pathway": "DNP Specialisation Track-Specific Capstone Help",
+        "tracks": [
+          {
+            "topic": "FNP DNP Capstone Project Help",
+            "track": "Family Nurse Practitioner (FNP)",
+            "macro_context": "Expert help completing a DNP capstone project in the Family Nurse Practitioner track — focused on primary care practice improvement, chronic disease management, preventive care, or patient education for family populations across the lifespan",
+            "eav_depth_required": "Entity: FNP DNP Capstone. Attributes: clinical setting (primary care clinic, federally qualified health center, urgent care, rural health clinic), typical FNP capstone topics (hypertension management protocol, diabetes self-management education, childhood obesity screening, depression screening (PHQ-9) implementation, opioid prescribing guideline adherence, vaccine compliance improvement, chronic pain management, smoking cessation counselling, fall prevention in geriatric primary care), population focus (pediatric through geriatric — lifespan scope), outcome measures (HbA1c reduction, blood pressure control rates, preventive screening completion rates, PHQ-9 score improvement), data sources (EHR audit — Epic, Athena, eClinicalWorks), common EBP frameworks used (Iowa Model, PDSA). Values: FNP track is the largest DNP specialisation — most FNP programs require capstone during final 2 clinical semesters.",
+            "suggested_h1": "FNP DNP Capstone Project Help — Primary Care Practice Improvement From PICOT to Manuscript",
+            "suggested_h2s": [
+              "What Makes an FNP DNP Capstone Project Different From Other Tracks?",
+              "High-Value FNP Capstone Topics in Primary Care Practice",
+              "PICOT Questions for Family Nurse Practitioner Capstone Projects",
+              "Measuring Outcomes in Primary Care: EHR Audit Data for FNP Capstones",
+              "Common FNP Capstone Frameworks: Iowa Model and PDSA in Primary Care",
+              "FNP Capstone Manuscript: Writing for a Primary Care Audience"
+            ],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "PMHNP DNP Capstone Project Help",
+            "track": "Psychiatric-Mental Health Nurse Practitioner (PMHNP)",
+            "macro_context": "Expert help completing a DNP capstone project in the Psychiatric-Mental Health NP track — focused on mental health screening, evidence-based psychotherapy protocol implementation, psychotropic medication management, or mental health service access improvement",
+            "eav_depth_required": "Entity: PMHNP DNP Capstone. Attributes: clinical settings (inpatient psychiatric unit, community mental health center, outpatient behavioral health, correctional mental health, school-based mental health, integrated primary-behavioral care), typical PMHNP capstone topics (depression screening protocol using PHQ-9 in primary care, anxiety management using GAD-7 and brief CBT, PTSD screening using PCL-5, medication adherence in schizophrenia, suicide risk assessment protocol implementation, naloxone distribution for opioid use disorder, collaborative care model implementation, trauma-informed care training program), validated instruments (PHQ-9, GAD-7, PCL-5, AUDIT-C, CAGE-AID, Columbia Suicide Severity Rating Scale), outcome measures (symptom score reduction, medication adherence rates, crisis visit reduction, treatment engagement rates), IRB considerations (mental health populations are considered vulnerable — may require expedited or full board review even for QI).",
+            "suggested_h1": "PMHNP DNP Capstone Project Help — Mental Health Practice Improvement and Evidence-Based Protocols",
+            "suggested_h2s": [
+              "PMHNP DNP Capstone Topics: High-Impact Mental Health Practice Problems",
+              "Validated Instruments for PMHNP Capstone Outcome Measurement",
+              "PICOT Questions for Psychiatric-Mental Health DNP Projects",
+              "IRB Considerations for DNP Projects With Vulnerable Mental Health Populations",
+              "Evidence-Based Frameworks for PMHNP Practice Change Projects",
+              "PMHNP Capstone in Integrated Care vs Inpatient Settings: Key Differences"
+            ],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "AGACNP DNP Capstone Project Help",
+            "track": "Adult-Gerontology Acute Care NP (AGACNP)",
+            "macro_context": "Expert help completing a DNP capstone project in the Adult-Gerontology Acute Care NP track — focused on critical care protocols, hospital-acquired condition prevention, rapid response systems, or complex acute patient population management",
+            "eav_depth_required": "Entity: AGACNP DNP Capstone. Attributes: clinical settings (ICU, step-down unit, ED, telemetry, rapid response team, hospitalist service), typical AGACNP capstone topics (CLABSI bundle compliance, CAUTI prevention protocol, VAP prevention bundle, sepsis 3-hour bundle adherence, delirium prevention using ABCDEF bundle, early mobility protocol, pain/agitation/delirium (PAD) guideline implementation, pressure injury prevention, palliative care integration in ICU, transitions of care/discharge planning protocol, nurse-driven ventilator weaning protocol), outcome measures (infection rates per 1000 device days, ICU LOS, readmission rates, delirium incidence, mortality rates — must align with existing hospital quality tracking), data sources (hospital infection control data, NSQIP, NDNQI, EHR audit), IRB (almost always QI/exempt for hospital-acquired condition projects). Values: AGACNP capstones often align with existing hospital quality improvement initiatives — coordinating with quality department is a strategic advantage.",
+            "suggested_h1": "AGACNP DNP Capstone Project Help — Acute and Critical Care Practice Improvement",
+            "suggested_h2s": [
+              "AGACNP DNP Capstone Topics: High-Priority Acute Care Quality Problems",
+              "Measuring Hospital-Acquired Condition Rates in AGACNP Capstone Projects",
+              "PICOT Questions for Adult-Gerontology Acute Care DNP Projects",
+              "Aligning Your AGACNP Capstone With Hospital Quality Dashboards",
+              "Evidence-Based Bundles as DNP Capstone Interventions in Critical Care",
+              "AGACNP Capstone vs FNP Capstone: Different Settings, Different Metrics"
+            ],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "CRNA DNP Capstone Project Help",
+            "track": "Certified Registered Nurse Anesthetist (CRNA)",
+            "macro_context": "Expert help completing a DNP capstone project in the CRNA track — focused on anesthesia practice improvement, patient safety protocols, pain management, or perioperative care quality initiatives",
+            "eav_depth_required": "Entity: CRNA DNP Capstone. Attributes: clinical settings (operating room, procedure suite, labor and delivery, pain clinic, outpatient surgery center), typical CRNA capstone topics (PONV prevention protocol, enhanced recovery after surgery (ERAS) implementation, regional anesthesia utilisation for opioid reduction, multimodal analgesia protocol, safe patient positioning protocol, difficult airway management algorithm, post-anesthesia care unit (PACU) discharge criteria standardisation, oxygen therapy weaning protocol, blood pressure management during anesthesia), specific CRNA regulatory context (COA-accredited DNP programs require evidence-based practice project as capstone — not traditional dissertation), outcome measures (PONV incidence rates, opioid consumption in morphine milligram equivalents, PACU LOS, adverse event rates, pain scores using NRS/VAS), quality databases (NACOR — National Anesthesia Clinical Outcomes Registry). Values: CRNA programs are among the most demanding DNP programs with tight capstone timelines — proposals must be approved early in program.",
+            "suggested_h1": "CRNA DNP Capstone Project Help — Anesthesia Practice Improvement From Proposal to Manuscript",
+            "suggested_h2s": [
+              "DNP Capstone Requirements for CRNA Programs: COA Standards",
+              "High-Impact CRNA DNP Capstone Topics in Perioperative Practice",
+              "PICOT Questions for Nurse Anesthesia Practice Improvement Projects",
+              "Outcome Measures in CRNA DNP Capstones: PONV, Pain Scores, and Safety Metrics",
+              "ERAS Protocols as a DNP Capstone Intervention: Design and Evaluation",
+              "Writing the CRNA DNP Capstone Manuscript for a Perioperative Audience"
+            ],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "Nurse Executive DNP Capstone Project Help",
+            "track": "Nurse Executive / Healthcare Leadership",
+            "macro_context": "Expert help completing a DNP capstone project in the Nurse Executive or Healthcare Leadership track — focused on organisational systems change, leadership development programs, workforce retention initiatives, or healthcare operational quality improvement",
+            "eav_depth_required": "Entity: Nurse Executive DNP Capstone. Attributes: typical capstone scope (organisational systems level — nursing unit, service line, or hospital-wide rather than individual patient-level), common topics (nurse turnover/retention program evaluation, nurse residency program outcomes evaluation, shared governance model implementation, unit-based interprofessional rounding protocol, leadership development program for charge nurses, Magnet readiness assessment, nursing workforce scheduling optimisation, teamwork/communication training using TeamSTEPPS, compassion fatigue intervention program, nursing engagement survey-to-action improvement initiative), frameworks (Kotter's 8-Step Change Model, Lewin's Force Field Analysis, Kouzes and Posner's Leadership Model, Transformational Leadership Theory), outcome measures (turnover rate, nurse satisfaction/engagement scores using Press Ganey or NRC, HCAHPS scores, error rates, overtime hours), data sources (HR data, existing staff surveys, administrative dashboards). Values: leadership track capstones require explicit connection to organisational strategy and financial implications — cost-benefit analysis is often expected.",
+            "suggested_h1": "Nurse Executive DNP Capstone Help — Organisational Systems Change and Leadership Practice Projects",
+            "suggested_h2s": [
+              "What Is a Nurse Executive DNP Capstone Project?",
+              "High-Impact Leadership Track Capstone Topics in Healthcare Organisations",
+              "Using Kotter's Change Model in Your Nursing Leadership DNP Project",
+              "Measuring Outcomes in Nurse Executive Capstones: Retention, Engagement, and Safety",
+              "Writing the Cost-Benefit Analysis Section of a Nurse Executive DNP Project",
+              "Disseminating Your Nurse Executive DNP Project to Organisational Leadership"
+            ],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "Population Health DNP Capstone Project Help",
+            "track": "Population Health",
+            "macro_context": "Expert help completing a DNP capstone project in the Population Health track — focused on community health needs assessment, health disparity reduction, population-level screening and prevention, or community-based intervention design and evaluation",
+            "eav_depth_required": "Entity: Population Health DNP Capstone. Attributes: population health frameworks (Healthy People 2030 goals, social determinants of health (SDOH) model, Community Health Assessment using MAPP or CHIP framework, Triple Aim/Quadruple Aim), typical capstone topics (diabetes prevention program in underserved community, food insecurity screening and referral protocol, housing instability assessment in primary care using PRAPARE, vaccination campaign in rural population, teen pregnancy prevention program evaluation, opioid overdose response community training, LGBTQ+ health equity initiative, maternal mortality reduction in high-risk communities), data sources (census data, community health assessments, state health department data, clinic-level aggregate data), IRB considerations (community-based participatory research may require full board; community health assessment programs may qualify as QI), outcome measures (population-level rates: vaccination coverage, screening rates, chronic disease prevalence, health literacy scores). Values: population health capstones require clear community needs assessment section — often the most complex proposal chapter.",
+            "suggested_h1": "Population Health DNP Capstone Help — Community Needs Assessment, SDOH, and Health Equity Projects",
+            "suggested_h2s": [
+              "What Is a Population Health DNP Capstone Project?",
+              "Community Needs Assessment in DNP Population Health Projects",
+              "Social Determinants of Health as a Framework for Your DNP Capstone",
+              "PICOT Questions for Population-Level Health Improvement Projects",
+              "Using Healthy People 2030 Goals to Frame Your DNP Population Health Project",
+              "Measuring Population-Level Outcomes in a DNP Capstone Project"
+            ],
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "Nursing Informatics DNP Capstone Project Help",
+            "track": "Nursing Informatics",
+            "macro_context": "Expert help completing a DNP capstone project in the Nursing Informatics track — focused on EHR workflow optimisation, clinical decision support implementation, health data quality improvement, or technology-enabled care delivery enhancement",
+            "eav_depth_required": "Entity: Nursing Informatics DNP Capstone. Attributes: informatics frameworks (American Nursing Informatics Association (ANIA) standards, Staggers & Nelson Informatics Competency Model, Technology Acceptance Model (TAM), TIGER Informatics Competency Collaborative recommendations), typical capstone topics (clinical decision support (CDS) alert optimisation to reduce alert fatigue, EHR documentation burden reduction, telehealth implementation for chronic disease follow-up, patient portal engagement improvement, nursing documentation standardisation using NANDA-NIC-NOC terminologies, predictive analytics implementation for sepsis early warning, barcode medication administration compliance improvement, EHR-to-care transition communication tool implementation), technology evaluation frameworks (HIMSS Electronic Medical Record Adoption Model, SAFER guides for EHR safety), outcome measures (alert override rates, documentation time, portal activation/login rates, error rates, nurse satisfaction with technology), data sources (EHR system analytics, IT department logs, user satisfaction surveys — WAMMI, SUS). Values: informatics capstones require engagement with IT/IS departments and vendor representatives — stakeholder complexity is higher than clinical-only projects.",
+            "suggested_h1": "Nursing Informatics DNP Capstone Help — EHR Optimisation, Clinical Decision Support, and Health IT Projects",
+            "suggested_h2s": [
+              "What Is a Nursing Informatics DNP Capstone Project?",
+              "Common Nursing Informatics DNP Capstone Topics in EHR and Care Technology",
+              "Technology Acceptance Model and Informatics Frameworks for DNP Projects",
+              "Measuring Outcomes in Informatics DNP Capstones: Alert Rates, Documentation Time, Errors",
+              "Stakeholder Engagement in Informatics DNP Projects: IT, Clinical, and Vendor Partners",
+              "Clinical Decision Support Implementation as a DNP Capstone Intervention"
+            ],
+            "priority": "medium",
+            "coverage_status": "missing"
+          }
+        ]
+      }
+    ],
+
+    "macro_semantics": {
+      "site_wide_ngrams": [
+        "DNP capstone project",
+        "DNP scholarly project",
+        "DNP final project",
+        "DNP capstone help",
+        "Doctor of Nursing Practice capstone",
+        "PICOT question DNP",
+        "DNP project proposal",
+        "DNP literature review",
+        "DNP implementation plan",
+        "evidence-based practice DNP",
+        "DNP capstone manuscript",
+        "DNP IRB proposal",
+        "practice change project DNP"
+      ],
+      "question_formats": [
+        "What is a DNP capstone project?",
+        "How to write a DNP PICOT question?",
+        "What does a DNP capstone proposal include?",
+        "How long is a DNP capstone project?",
+        "What is the difference between a DNP capstone and a PhD dissertation?",
+        "How do I choose an EBP framework for my DNP project?",
+        "Does my DNP project need IRB approval?",
+        "How do I write the implementation plan for my DNP capstone?"
+      ],
+      "predicate_distributions": [
+        "develop", "design", "implement", "evaluate", "analyse", "synthesise",
+        "translate", "demonstrate", "apply", "complete", "submit", "defend",
+        "measure", "document", "align", "justify"
+      ],
+      "heading_vector_pattern": "H1: [DNP Capstone Component] Help — [Specific Action/Outcome Description] | H2: [What Is X?] | H2: [Component-specific sub-topic] | H2: [Common challenge or decision point] | H3: [Specific method, tool, or framework detail]",
+      "contextual_flow_rule": "Every page must establish DNP-specific context in H1 (not generic 'nursing research help'). Pages must move from definitional context (what is this component) → procedural context (how is it done in a DNP project) → evaluative context (how does a committee or faculty advisor assess it) — this mirrors how DNP students search: they first ask 'what is X', then 'how do I do X', then 'is my X good enough to pass'."
+    }
+  },
+
+  "outer_section": {
+    "purpose": "Propagate topical authority and trust signals to Core Section by establishing command of foundational DNP frameworks, evidence-based practice methodology, and nursing doctoral-level scholarly context",
+    "tier_1_topics": [
+      {
+        "topic": "DNP vs PhD in Nursing: Understanding the Difference",
+        "attribute_focus": "Distinguishing the Doctor of Nursing Practice (practice doctorate) from the Doctor of Philosophy in Nursing (research doctorate)",
+        "macro_context": "Clarifying what sets a DNP apart from a nursing PhD — and why this distinction defines the capstone project scope and methodology",
+        "eav_depth_required": "DNP = practice-focused, AACN 2004 Position Statement mandate, post-BSN or post-MSN entry, clinical practice hours requirement (1000 post-baccalaureate hours), capstone = practice change project or program evaluation; PhD = research-focused, generates new knowledge through primary research, produces dissertation with IRB-approved data collection, requires advanced research methods coursework. Must be specific about how the distinction affects capstone design.",
+        "priority": "high",
+        "coverage_status": "missing",
+        "bridge_to_core": "Positions the site's source context clearly — we help with DNP practice-focused capstone projects, NOT PhD research dissertations. Prevents misaligned traffic and reinforces DNP-specific N-grams."
+      },
+      {
+        "topic": "AACN DNP Essentials (2021): What Your Capstone Must Demonstrate",
+        "attribute_focus": "The ten AACN Domains of the 2021 Essentials for doctoral-level nursing and how each is addressed in a DNP capstone project",
+        "macro_context": "Understanding how the 2021 AACN Essentials framework shapes DNP capstone requirements and what faculty advisors look for in Essentials alignment sections",
+        "eav_depth_required": "2021 AACN Essentials 10 Domains: (1) Knowledge for Nursing Practice, (2) Person-Centred Care, (3) Population Health, (4) Scholarship for Nursing Practice, (5) Quality and Safety, (6) Interprofessional Partnerships, (7) Systems-Based Practice, (8) Informatics and Healthcare Technologies, (9) Professionalism, (10) Personal Professional and Leadership Development. Must explain which capstone components address which Domains, and how capstone narrative should reference Essentials explicitly.",
+        "priority": "high",
+        "coverage_status": "missing",
+        "bridge_to_core": "Directly supports DNP Capstone Proposal Help and DNP Capstone Manuscript Help pages — students need to map their capstone to AACN Essentials in both proposal and final manuscript."
+      },
+      {
+        "topic": "Evidence-Based Practice Frameworks for DNP Projects: Iowa Model, PARIHS, ACE Star, Johns Hopkins",
+        "attribute_focus": "Comparing and selecting from the major EBP frameworks used to guide DNP capstone projects",
+        "macro_context": "Understanding the differences between Iowa Model, PARIHS/i-PARIHS, ACE Star Model, Rosswurm & Larrabee, KTA Framework, ARCC Model, and Johns Hopkins EBP Model — and how to justify your selection for a DNP proposal",
+        "eav_depth_required": "Iowa Model (2017 revised): trigger identification → practice question → team assembly → evidence search and appraisal → pilot → implement → evaluate and sustain. PARIHS: Evidence (research + clinical experience + patient values), Context (culture, leadership, evaluation), Facilitation (purpose, role, skills). ACE Star: Knowledge Discovery → Evidence Summary → Translation → Integration → Evaluation. KTA (Knowledge-to-Action): knowledge creation cycle + action cycle (identify problem, adapt, assess barriers, tailor interventions, implement, evaluate, sustain). ARCC: evidence-based care environment + implementation of EBP. Must address how each framework maps to DNP proposal Chapter structure.",
+        "priority": "high",
+        "coverage_status": "missing",
+        "bridge_to_core": "Bridges directly to DNP Capstone Proposal Help (Chapter 2 theoretical framework section) and DNP EBP Implementation Project Help."
+      },
+      {
+        "topic": "PICOT Framework Explained for Nursing Practice",
+        "attribute_focus": "Defining the PICOT question framework, its elements, and how it structures clinical inquiry — foundational context for DNP PICOT Question Help page",
+        "macro_context": "Understanding what PICOT stands for and how it works as a framework for structuring nursing practice questions at the DNP level",
+        "eav_depth_required": "PICOT = Population/Problem, Intervention/Indicator, Comparison, Outcome, Time. Variants: PICO (no time), PICo (qualitative), SPIDER (S=Sample, P=Phenomenon of Interest, D=Design, E=Evaluation, R=Research type). Why PICOT matters for DNP: it defines the scope of the literature search, the intervention design, the outcome measures, and the evaluation plan in the capstone proposal. Common errors: too-broad populations (all adults vs adults 65+ with heart failure in outpatient clinic), unmeasurable outcomes (improve health vs reduce 30-day readmission rate by 15%).",
+        "priority": "medium",
+        "coverage_status": "missing",
+        "bridge_to_core": "Outer support page for DNP PICOT Question Help — establishes PICOT vocabulary before directing readers to the service-specific core page."
+      },
+      {
+        "topic": "Systematic Review vs Scoping Review vs Integrative Review: Which Does a DNP Project Need?",
+        "attribute_focus": "Distinguishing the three major literature review types used in DNP capstones and explaining which is appropriate for different project designs",
+        "macro_context": "Understanding the differences between systematic, scoping, and integrative reviews so DNP students can correctly identify and justify their literature review methodology",
+        "eav_depth_required": "Systematic review: narrow PICO question, protocol-driven, seeks to answer a specific clinical question about intervention efficacy, PRISMA 2020 reporting, Cochrane-level rigour. Scoping review: broad topic mapping, answers 'what is known about X', PRISMA-ScR reporting, suitable for DNP topics with limited primary research. Integrative review: includes both quantitative and qualitative studies, broader synthesis, appropriate for practice and theoretical topics. For most DNP capstones: integrative or scoping review is appropriate because the evidence base is usually mixed in quality and type. Full systematic reviews are rarely feasible within DNP timelines. Must specify minimum number of studies by review type.",
+        "priority": "medium",
+        "coverage_status": "missing",
+        "bridge_to_core": "Directly supports DNP Literature Review Help page — students use this page to understand review types before proceeding to the full service page."
+      },
+      {
+        "topic": "How to Write an IRB Protocol for Nursing Practice Projects",
+        "attribute_focus": "The structure and content of an IRB protocol document for practice improvement or program evaluation studies in nursing",
+        "macro_context": "A practical guide to writing an IRB protocol for a nursing practice project — covering each required section, common mistakes, and how to classify DNP projects correctly under federal regulations",
+        "eav_depth_required": "IRB protocol sections: project title, investigators, purpose and significance, design and methods, participant identification and recruitment, inclusion/exclusion criteria, data collection procedures, risks and benefits, privacy/confidentiality protections, data security plan, informed consent procedures, supporting documents. QI determination checklist (45 CFR 46 criteria: not generalizable knowledge → QI; involves human subjects for purposes of contributing to generalizable knowledge → research). Common DNP errors: submitting a QI project as exempt research when it qualifies for QI non-review determination; inadequate HIPAA section; missing data security plan.",
+        "priority": "medium",
+        "coverage_status": "missing",
+        "bridge_to_core": "Outer support for DNP IRB Proposal Help — bridges general IRB knowledge to the DNP-specific IRB page."
+      },
+      {
+        "topic": "Statistical Methods in DNP Capstone Data Analysis",
+        "attribute_focus": "An overview of statistical tests and data analysis approaches used in DNP capstone projects — pre-post comparisons, rates analysis, and SPC methods",
+        "macro_context": "Understanding which statistical methods are appropriate for DNP capstone data — covering the most common approaches for QI and EBP projects and when to use descriptive vs inferential statistics",
+        "eav_depth_required": "Descriptive statistics for DNP: frequencies, proportions, means, standard deviations, confidence intervals — sufficient for most small-sample QI projects. Pre-post inferential tests: paired t-test (continuous, normally distributed), Wilcoxon signed-rank (continuous, non-normal), McNemar test (categorical paired data). SPC methods: P-chart (for proportions: CAUTI rates, compliance percentages), U-chart (for rates per unit: infections per 1000 patient days), I-MR chart (individual measurements: patient satisfaction score per week). Software: SPSS (most university licenses), Excel (for basic charts and descriptive stats), JASP (free, user-friendly for students), R (advanced users). Must address why descriptive statistics are appropriate and defensible for small-sample DNP QI projects.",
+        "priority": "medium",
+        "coverage_status": "missing",
+        "bridge_to_core": "Outer support for DNP Data Analysis Help — builds statistical literacy context before directing readers to the DNP-specific data analysis service page."
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "APA 7th Edition for DNP Manuscripts: Common Formatting Requirements",
+        "attribute_focus": "APA 7th edition rules most relevant to DNP capstone proposals and final manuscripts",
+        "macro_context": "A practical APA 7th edition guide for DNP students — covering running head removal, level headings, in-text citations, reference list format, tables, and figures",
+        "eav_depth_required": "Student paper format in APA 7 (no running head), title page elements, abstract formatting (structured vs unstructured), Level 1–5 headings, in-text citation rules (author-date, direct quote with page number), DOI formatting, reference entries for journal articles, books, government reports, organizational websites, DOI vs URL. Common DNP-specific errors: using old APA 6 running head format, incorrect heading levels in proposal chapters, citation of clinical databases (UpToDate, ClinicalKey) without proper APA format.",
+        "priority": "low",
+        "coverage_status": "missing",
+        "bridge_to_core": "Supports DNP Capstone Manuscript Help and DNP Capstone Proposal Help pages."
+      },
+      {
+        "topic": "DNP Capstone Dissemination: Poster Presentations and Manuscript Submission",
+        "attribute_focus": "Strategies for disseminating DNP capstone findings — academic poster design, oral presentation, and submitting to nursing journals",
+        "macro_context": "How DNP graduates can disseminate their capstone project findings through conference posters, oral presentations, and peer-reviewed journal articles",
+        "eav_depth_required": "Poster format for nursing conferences (ANCC, AANP, Sigma Theta Tau International, specialty conferences): dimensions, section structure (background, PICOT, methods, findings, implications), visual hierarchy. Oral presentation structure (5–15 minute DNP project defense format). Journal submission targets for DNP EBP/QI manuscripts: JONA, Journal of Nursing Care Quality, Worldviews on Evidence-Based Nursing, American Journal of Nursing, specialty journals by track. Manuscript adaptation from capstone to journal article: condensing 80-page manuscript to 3500-word article, selecting target journal, cover letter, response to reviewers.",
+        "priority": "low",
+        "coverage_status": "missing",
+        "bridge_to_core": "Bridges to DNP Capstone Manuscript Help as a follow-on page for students who have completed their capstone and want to disseminate."
+      }
+    ],
+    "tier_3_topics": [],
+    "contextual_bridges": [
+      {
+        "from_node": "DNP vs PhD in Nursing",
+        "to_node": "DNP Capstone Project Help (Pillar Page)",
+        "bridge_type": "linked",
+        "anchor_text": "DNP capstone project help"
+      },
+      {
+        "from_node": "AACN DNP Essentials 2021",
+        "to_node": "DNP Capstone Proposal Help",
+        "bridge_type": "linked",
+        "anchor_text": "DNP capstone proposal and Essentials alignment"
+      },
+      {
+        "from_node": "EBP Frameworks Overview",
+        "to_node": "DNP EBP Implementation Project Help",
+        "bridge_type": "linked",
+        "anchor_text": "DNP EBP capstone project framework selection"
+      },
+      {
+        "from_node": "PICOT Framework Explained",
+        "to_node": "DNP PICOT Question Help",
+        "bridge_type": "linked",
+        "anchor_text": "DNP PICOT question help"
+      },
+      {
+        "from_node": "Systematic vs Scoping vs Integrative Review",
+        "to_node": "DNP Literature Review Help",
+        "bridge_type": "linked",
+        "anchor_text": "DNP capstone literature review help"
+      },
+      {
+        "from_node": "IRB Protocol Guide",
+        "to_node": "DNP IRB Proposal Help",
+        "bridge_type": "linked",
+        "anchor_text": "DNP IRB proposal writing help"
+      },
+      {
+        "from_node": "Statistical Methods in DNP",
+        "to_node": "DNP Data Analysis Help",
+        "bridge_type": "linked",
+        "anchor_text": "DNP capstone data analysis help"
+      }
+    ]
+  },
+
+  "coverage_gaps": [
+    {
+      "topic": "University-Specific DNP Capstone Format Pages",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "high",
+      "reason": "Students at Capella, Walden, GCU, Chamberlain, and other large DNP program providers search for university-specific capstone format guidance. These pages would be Tier 2 Core pages capturing high-intent, high-specificity queries like 'Capella University DNP capstone help' or 'Walden University DNP project help'. Each university has its own capstone template, chapter structure, and rubric requirements."
+    },
+    {
+      "topic": "CNM and WHNP Track Capstone Help Pages",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Certified Nurse Midwife and Women's Health NP tracks are identified in business profile but not yet represented in Tier 2 track pages. CNM DNP capstones focus on intrapartum care, perinatal outcomes, breastfeeding support, and maternal health disparities — distinct clinical context from FNP or AGACNP."
+    },
+    {
+      "topic": "Pediatric NP and Neonatal NP Track Capstone Help Pages",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "PNP and NNP tracks have distinct capstone topic areas (pediatric chronic disease, NICU protocols, developmental outcomes) that differ significantly from adult acute care tracks. Separate pages for each track needed."
+    },
+    {
+      "topic": "DNP Capstone Defense Preparation Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Students search for help preparing their proposal defense and final project defense presentations. This is a distinct component from manuscript writing — committee dynamics, slide deck structure, anticipated questions, and verbal defense strategy are all high-demand topics."
+    },
+    {
+      "topic": "DNP Capstone Timeline and Project Management",
+      "section": "outer",
+      "gap_type": "undefined",
+      "priority": "low",
+      "reason": "Students frequently search for guidance on realistic DNP capstone timelines and how to manage the project across semesters while working full-time. A practical outer page on DNP capstone project management would capture this intent and bridge to multiple core pages."
+    }
+  ],
+
+  "vastness_depth_momentum": {
+    "vastness_assessment": "Current map covers all 8 Tier 1 Core components, 4 project types, and 7 track-specific pages. Major gaps are university-specific pages, CNM/WHNP/PNP/NNP tracks, and defense preparation. Vastness at approximately 30% of full potential — sufficient to launch but requires systematic gap-filling.",
+    "depth_assessment": "EAV depth defined for all current Tier 1 and Tier 2 pages is high. Every page has specific entities, attributes, and values (framework names, instrument names, database names, regulatory citations) that go well beyond generic academic help content. Depth is the competitive differentiator — maintain this standard across all new pages.",
+    "momentum_recommendation": "Publish Tier 1 Core pages first (8 pages) in weeks 1–6. Publish Outer Section pages (7 pages) in weeks 7–10 to establish framework and foundational context. Then publish Tier 2 track-specific pages (7+ pages) in weeks 11–20. Target 2 pages per week to reach 22+ pages by month 5.",
+    "priority_recommendation": "depth",
+    "publication_sequence": [
+      "Weeks 1–2: DNP Capstone Project Help (Pillar Page) + DNP PICOT Question Help — establish central entity and highest-intent component page",
+      "Weeks 3–4: DNP Capstone Proposal Help + DNP Literature Review Help — address the most common early-stage help queries",
+      "Weeks 5–6: DNP IRB Proposal Help + DNP Implementation Plan Help — complete the proposal-stage components",
+      "Weeks 7–8: DNP Data Analysis Help + DNP Capstone Manuscript Help — complete the Tier 1 Core with late-stage help pages",
+      "Weeks 9–10: DNP vs PhD page + AACN Essentials page + EBP Frameworks page — launch Outer Section foundational pages",
+      "Weeks 11–12: PICOT Framework page + Systematic vs Scoping Review page + IRB Protocol Guide — complete Outer Section support pages",
+      "Weeks 13–14: FNP DNP Capstone Help + PMHNP DNP Capstone Help — highest-volume track pages first",
+      "Weeks 15–16: AGACNP DNP Capstone Help + CRNA DNP Capstone Help — acute care and anesthesia tracks",
+      "Weeks 17–18: Nurse Executive DNP Capstone Help + QI Project Help + EBP Project Help — leadership and project type pages",
+      "Weeks 19–20: Program Evaluation Help + Policy Change Help + Population Health Help + Informatics Help — complete remaining Tier 2 pages"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="100%" role="img" aria-labelledby="l7-infographic-title">
+  <title id="l7-infographic-title">CIPD Level 7 Advanced Diploma — Module Architecture: Core, HR Pathway, Specialist Electives</title>
+
+  <!-- Background -->
+  <rect width="800" height="640" fill="#F5F5F5" rx="12"/>
+
+  <!-- Header band -->
+  <rect x="0" y="0" width="800" height="76" fill="#1A1A2E" rx="12"/>
+  <rect x="0" y="56" width="800" height="20" fill="#1A1A2E"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">CIPD Level 7 Advanced Diploma in Strategic People Management</text>
+  <text x="400" y="48" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#E94560">Post-Graduate Standard · Leads to Chartered CIPD Membership (MCIPD)</text>
+  <text x="400" y="66" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">RQF Level 7 · Equivalent to Master's level · 5,000–7,500 words per unit · Academic referencing mandatory</text>
+
+  <!-- Column headers -->
+  <!-- Core -->
+  <rect x="20" y="86" width="235" height="36" fill="#1A1A2E" rx="6"/>
+  <text x="137" y="102" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">CORE UNITS</text>
+  <text x="137" y="117" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#E94560">All students — mandatory</text>
+
+  <!-- HR Pathway -->
+  <rect x="267" y="86" width="218" height="36" fill="#16213E" rx="6"/>
+  <text x="376" y="102" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">HR PATHWAY</text>
+  <text x="376" y="117" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#E94560">Strategic HR specialism</text>
+
+  <!-- Specialist Electives -->
+  <rect x="497" y="86" width="283" height="36" fill="#E94560" rx="6"/>
+  <text x="638" y="102" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">SPECIALIST ELECTIVES</text>
+  <text x="638" y="117" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">Choose 1–2 per programme design</text>
+
+  <!-- Core unit cards -->
+  <!-- 7CO01 -->
+  <rect x="20" y="132" width="235" height="70" fill="#FFFFFF" rx="6" stroke="#1A1A2E" stroke-width="2"/>
+  <text x="137" y="153" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E94560">7CO01</text>
+  <text x="137" y="170" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Work and Working Lives in a</text>
+  <text x="137" y="184" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Changing Business Environment</text>
+  <text x="137" y="196" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Megatrends · Gig economy · Strategic HR</text>
+
+  <!-- 7CO02 -->
+  <rect x="20" y="210" width="235" height="70" fill="#FFFFFF" rx="6" stroke="#1A1A2E" stroke-width="2"/>
+  <text x="137" y="231" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E94560">7CO02</text>
+  <text x="137" y="248" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">People Management and Development</text>
+  <text x="137" y="262" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Strategies for Performance</text>
+  <text x="137" y="274" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">HR architecture · Ulrich model · AMO theory</text>
+
+  <!-- 7CO03 -->
+  <rect x="20" y="288" width="235" height="70" fill="#FFFFFF" rx="6" stroke="#1A1A2E" stroke-width="2"/>
+  <text x="137" y="309" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E94560">7CO03</text>
+  <text x="137" y="326" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Personal Effectiveness, Ethics</text>
+  <text x="137" y="340" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">and Business Acumen</text>
+  <text x="137" y="352" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Board-level HR · Stakeholder management</text>
+
+  <!-- 7CO04 -->
+  <rect x="20" y="366" width="235" height="70" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="2"/>
+  <text x="137" y="387" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E94560">7CO04</text>
+  <text x="137" y="404" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Business Research in</text>
+  <text x="137" y="418" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">People Practice</text>
+  <text x="137" y="430" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#E94560">Extended research report · 8,000–10,000 words</text>
+
+  <!-- Assessment standard box for core -->
+  <rect x="20" y="448" width="235" height="82" fill="#1A1A2E" rx="6"/>
+  <text x="137" y="467" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#E94560">Assessment Standard</text>
+  <text x="137" y="484" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">Post-graduate depth required</text>
+  <text x="137" y="500" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">Min. 8–15 academic sources/unit</text>
+  <text x="137" y="516" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">Harvard referencing mandatory</text>
+
+  <!-- HR Pathway cards -->
+  <!-- 7HR01 -->
+  <rect x="267" y="132" width="218" height="70" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="2"/>
+  <text x="376" y="153" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A2E">7HR01</text>
+  <text x="376" y="170" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Strategic Employment Relations</text>
+  <text x="376" y="186" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Collective bargaining · Trade unions</text>
+  <text x="376" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">International employment relations</text>
+
+  <!-- 7HR02 -->
+  <rect x="267" y="210" width="218" height="70" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="2"/>
+  <text x="376" y="231" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A2E">7HR02</text>
+  <text x="376" y="248" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Resourcing and Talent Management</text>
+  <text x="376" y="263" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">to Sustain Success</text>
+  <text x="376" y="277" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Executive succession · Employer brand</text>
+
+  <!-- 7HR03 -->
+  <rect x="267" y="288" width="218" height="70" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="2"/>
+  <text x="376" y="309" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A2E">7HR03</text>
+  <text x="376" y="326" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Strategic Reward Management</text>
+  <text x="376" y="342" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Executive pay · Gender pay gap</text>
+  <text x="376" y="356" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">International reward strategy</text>
+
+  <!-- Comparison box L5 vs L7 -->
+  <rect x="267" y="376" width="218" height="154" fill="#16213E" rx="6"/>
+  <text x="376" y="397" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#E94560">Level 5 vs Level 7</text>
+  <text x="287" y="416" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Level 5:</text>
+  <text x="287" y="431" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">3,000–4,500 words/unit</text>
+  <text x="287" y="446" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">2–3 theory frameworks</text>
+  <text x="287" y="461" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">Informal referencing OK</text>
+  <line x1="287" y1="470" x2="465" y2="470" stroke="#E94560" stroke-width="1"/>
+  <text x="287" y="486" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Level 7:</text>
+  <text x="287" y="501" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">5,000–7,500 words/unit</text>
+  <text x="287" y="516" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">Synthesis across paradigms</text>
+  <text x="287" y="521" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#E94560">Harvard referencing mandatory</text>
+
+  <!-- Specialist Elective cards (stacked 2-column) -->
+  <!-- 7OS01 -->
+  <rect x="497" y="132" width="135" height="58" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="564" y="152" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">7OS01</text>
+  <text x="564" y="167" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2C2C2C">Advanced Employment Law</text>
+  <text x="564" y="181" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">in Practice</text>
+
+  <!-- 7OS02 -->
+  <rect x="643" y="132" width="137" height="58" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="711" y="152" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">7OS02</text>
+  <text x="711" y="167" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2C2C2C">Learning and Development</text>
+  <text x="711" y="181" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Practice</text>
+
+  <!-- 7OS03 -->
+  <rect x="497" y="198" width="135" height="58" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="564" y="218" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">7OS03</text>
+  <text x="564" y="233" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2C2C2C">Technology Enhanced</text>
+  <text x="564" y="247" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Learning</text>
+
+  <!-- 7OS04 -->
+  <rect x="643" y="198" width="137" height="58" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="711" y="218" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">7OS04</text>
+  <text x="711" y="233" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2C2C2C">Diversity and</text>
+  <text x="711" y="247" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Inclusion</text>
+
+  <!-- 7OS05 -->
+  <rect x="497" y="264" width="135" height="58" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="564" y="284" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">7OS05</text>
+  <text x="564" y="299" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2C2C2C">Wellbeing at</text>
+  <text x="564" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Work</text>
+
+  <!-- 7OS06 -->
+  <rect x="643" y="264" width="137" height="58" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="711" y="284" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">7OS06</text>
+  <text x="711" y="299" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2C2C2C">Leadership and Management</text>
+  <text x="711" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Development</text>
+
+  <!-- 7OS07 -->
+  <rect x="497" y="330" width="283" height="58" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="638" y="352" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">7OS07</text>
+  <text x="638" y="368" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Coaching and Mentoring</text>
+  <text x="638" y="381" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Organisational coaching programmes · Supervision</text>
+
+  <!-- Key academic sources box -->
+  <rect x="497" y="400" width="283" height="130" fill="#1A1A2E" rx="6"/>
+  <text x="638" y="420" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#E94560">Key Academic Journals</text>
+  <text x="517" y="439" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9.5" fill="#FFFFFF">· Human Resource Management Journal (HRMJ)</text>
+  <text x="517" y="455" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9.5" fill="#FFFFFF">· Intl. Journal of Human Resource Mgmt (IJHRM)</text>
+  <text x="517" y="471" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9.5" fill="#FFFFFF">· British Journal of Industrial Relations (BJIR)</text>
+  <text x="517" y="487" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9.5" fill="#FFFFFF">· Journal of Occupational &amp; Org. Psychology</text>
+  <text x="517" y="503" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9.5" fill="#FFFFFF">· Work, Employment and Society (WES)</text>
+  <text x="517" y="521" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Min. 8–15 sources per unit · Harvard / APA format</text>
+
+  <!-- Footer credential strip -->
+  <rect x="20" y="544" width="760" height="34" fill="#1A1A2E" rx="6"/>
+  <text x="400" y="565" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#FFFFFF">Completion leads to Chartered CIPD Membership (MCIPD) via professional experience and reflection pathway</text>
+
+  <!-- Footer -->
+  <text x="400" y="628" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="10" fill="#999">cipdassignmentexamples.com</text>
+</svg>

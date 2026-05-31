@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom E-commerce Development Kenya | M-Pesa, No WooCommerce | Tupate Studio</title>
+  <meta name="description" content="Custom e-commerce development for Kenyan businesses. No WooCommerce, no plugins. Direct M-Pesa Daraja API, mobile-first, fast. Built exactly for your products and customers.">
+  <link rel="canonical" href="https://tupate.studio/custom-ecommerce-development-kenya">
+</head>
+<body>
+<article>
+  <h1>Custom E-commerce Development in Kenya: A Store Built for Your Business, Not a Template</h1>
+
+  <p>Some Kenyan businesses have outgrown WooCommerce and Shopify templates. They need a store that works exactly like their business works — custom product catalogs with configurable pricing logic, checkout flows designed for Kenyan buyer behaviour, direct M-Pesa Daraja API integration without a third-party plugin that breaks every time WordPress updates, and connection to their existing inventory system or ERP. This page is for that business: one that is ready to invest in a purpose-built digital sales system rather than continuing to adapt a template that was never designed for Kenya's market, Kenya's payment infrastructure, or Kenya's mobile-dominant customers.</p>
+
+  <section class="main-content">
+    <h2>What Custom E-commerce Development Means Beyond WooCommerce</h2>
+    <p>Custom e-commerce development means a web application built from code — with no WordPress CMS underneath, no WooCommerce plugin, no Shopify template, and no third-party payment gateway plugin sitting between your store and your customers' M-Pesa accounts. Every feature of the store is built specifically for how your business operates. For a deeper comparison of custom-built vs WordPress approaches, see <a href="/custom-website-vs-wordpress-kenya">Custom-Built Website vs WordPress Kenya</a>.</p>
+
+    <p>In concrete terms, what custom e-commerce means for your Kenyan business:</p>
+
+    <p><strong>No WordPress CMS underneath:</strong> No plugin vulnerabilities creating automated hacking attack surfaces. No WordPress core update breaking your WooCommerce version. No WooCommerce version incompatibility breaking your M-Pesa payment plugin. No cascading failure chain where a security patch to one plugin creates a conflict with three others.</p>
+
+    <p><strong>No WooCommerce checkout flow:</strong> The WooCommerce checkout was designed for western e-commerce patterns — multi-step forms, card-first payment presentation, shipping address before billing address. Kenyan buyer behaviour is different: M-Pesa is the primary payment method and must be presented first, county-based shipping is the correct Kenya geography model, and guest checkout with no forced account creation is the standard expectation for Kenyan mobile shoppers. A custom checkout is designed for exactly this.</p>
+
+    <p><strong>No third-party M-Pesa plugin:</strong> WooCommerce M-Pesa plugins are third-party products that sit between your store and Safaricom's Daraja API. They add an intermediary layer that can break on WooCommerce version updates, introduce latency into payment processing, charge annual licence fees of Ksh 5,000–15,000, and create version conflicts that leave your checkout broken and unreachable until the plugin developer releases a patch. Direct Daraja API integration eliminates this entire risk category.</p>
+
+    <p><strong>No Shopify template:</strong> Shopify templates limit your brand identity to the constraints of whatever theme you purchased — column widths, header structure, product page layout — all determined by the theme developer's design decisions, not yours. Custom development means the design matches your brand identity precisely, because the code is written to produce your design, not to render a theme's interpretation of your content.</p>
+
+    <p><strong>No monthly platform fees:</strong> Shopify charges between USD 29 and USD 299/month (Ksh 3,800–39,000/month at current exchange rates) permanently, for as long as you operate the store. Custom-built stores have no platform subscription. You pay for the build once and for hosting separately at rates appropriate to your traffic level.</p>
+
+    <p>Who needs custom e-commerce: businesses with unique product structures that off-the-shelf plugins handle poorly — configurable products, subscription pricing, B2B pricing tiers, equipment rental models. High-volume stores with 1,000+ products where WooCommerce's performance at scale becomes a significant problem. Businesses that have been burned by WooCommerce's unreliability on their previous site and need a store they can trust. Businesses that need to integrate their online store with an existing ERP, POS system, or inventory management database.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Custom M-Pesa Daraja API Integration for Kenyan E-commerce</h2>
+    <!-- INFOGRAPHIC: daraja-api-architecture -->
+    <p>Direct Safaricom Daraja API integration is the technical centrepiece of every custom Kenyan e-commerce store Tupate Studio builds. It is the architecture that makes M-Pesa payments instant, reliable, and independent of any third-party plugin's continued functionality.</p>
+
+    <p>Tupate Studio implements the following Daraja API components for custom e-commerce:</p>
+
+    <p><strong>1. STK Push (Lipa Na M-Pesa Online):</strong> The customer reaches the payment step, enters their M-Pesa-registered phone number, and approves the transaction on their phone. The process: the store server sends an STK Push request to Safaricom's Daraja API with the customer's phone number, the amount, and a transaction reference. Safaricom sends a push notification to the customer's M-Pesa app within 1–3 seconds. The customer enters their M-Pesa PIN and approves. Safaricom sends a webhook callback to the store's HTTPS endpoint within 5–10 seconds confirming payment. The order is automatically confirmed and the customer's screen updates to show the order confirmation. No third-party intermediary. No polling delay. No redirecting the customer to an external payment page and hoping they return.</p>
+
+    <p><strong>2. C2B (Customer to Business) with IPN:</strong> The IPN (Instant Payment Notification) is a server-to-server communication triggered when a customer pays to your business Paybill number directly from their M-Pesa menu without going through the STK Push flow. Used as a fallback for customers who prefer to pay via Paybill rather than responding to an STK Push. The IPN endpoint on the store server receives confirmation and automatically matches the M-Pesa reference to the pending order.</p>
+
+    <p><strong>3. B2C (Business to Customer) for refunds:</strong> Enables programmatic refunds from your business M-Pesa account to a customer's phone — critical for automated returns and refund processing. When a customer is approved for a refund, the store admin triggers a B2C payment from the order management dashboard, and the refund is delivered to the customer's M-Pesa within minutes. No manual bank transfer process, no delay waiting for a finance officer to process a refund manually.</p>
+
+    <p><strong>4. Transaction Status Query API:</strong> Network issues occasionally prevent Safaricom's webhook callback from reaching the store server — particularly relevant for customers on slower 3G connections in Mombasa, Kisumu, or upcountry areas. The Transaction Status Query API allows the store to poll Safaricom directly for the status of any specific transaction, used as a fallback reconciliation mechanism when the primary webhook callback is not received within the expected window.</p>
+
+    <p><strong>5. Account Balance API:</strong> For store owners who want a reconciliation dashboard showing their business M-Pesa balance alongside their order payment records — useful for daily revenue reconciliation without logging into the M-Pesa portal separately.</p>
+
+    <p><strong>Integration architecture and reliability measures:</strong> All Daraja API development begins in Safaricom's sandbox environment with test credentials, allowing full end-to-end payment flow testing before any real transactions are processed. Idempotency handling prevents double-payment recording if Safaricom's servers send a duplicate callback for the same transaction — a known edge case in Daraja's production environment. Payment reconciliation automatically matches M-Pesa reference numbers to internal order IDs, flagging any unmatched payments for manual review. Failed payment handling presents the customer with a retry prompt and holds the order open for 10 minutes awaiting successful payment before releasing the reserved stock.</p>
+
+    <p><strong>Comparison with WooCommerce M-Pesa plugins:</strong> A third-party WooCommerce M-Pesa plugin adds an intermediary layer between your store and Daraja. That layer breaks when WooCommerce updates its checkout API. It polls for payment status on a timer (slow and unreliable) rather than receiving instant webhook callbacks. It charges Ksh 5,000–15,000 per year in licence fees. And when it breaks — which it does regularly — your checkout is down until the plugin developer releases a patch, which may take days. Direct Daraja integration eliminates all of these failure modes permanently.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Custom Product Catalog Architecture for Kenyan Businesses</h2>
+    <p>A custom product catalog handles the full spectrum of Kenyan business product structures that WooCommerce handles poorly — from simple single-product stores to complex B2B pricing tiers and rental management systems.</p>
+
+    <p><strong>Product types the custom catalog supports:</strong></p>
+
+    <p><strong>Simple products:</strong> Single SKU, single price, single stock level. Standard for food products from a Nairobi supplier, books from a Kenyan publisher, accessories from a Mombasa craft retailer. The most common product type — implemented cleanly without the unnecessary complexity WooCommerce adds.</p>
+
+    <p><strong>Variable products:</strong> Size, colour, material, capacity — each variant has its own price, SKU, and independent stock level. A Kenyan fashion retailer selling a dress in three sizes and four colours has 12 variants, each with its own inventory. The catalog manages each independently and hides sold-out variants from the product listing automatically.</p>
+
+    <p><strong>Configurable products:</strong> Customer-selected specifications determine the final price. An industrial equipment supplier in Nairobi's Industrial Area selling custom-fabricated components — the customer selects material type, dimensions, surface treatment, and quantity; the price calculates dynamically. A commercial printing business in Westlands where the customer selects paper size, paper weight, print run quantity, and finishing options to produce a final quote. WooCommerce plugin solutions for this use case are fragile and expensive; custom-built logic handles it precisely.</p>
+
+    <p><strong>Bundled products:</strong> Product packages at a combined price — electronics with extended warranty, hospitality packages combining accommodation with activities, office supply bundles at corporate pricing. Each bundle component tracks inventory independently.</p>
+
+    <p><strong>Subscription products:</strong> Weekly or monthly recurring delivery — produce boxes from a Nairobi organic farm, printed magazines from a Kenyan publisher, laundry service packages from a Nairobi hospitality supplier. Subscription billing integrates with M-Pesa recurring payment capabilities where Safaricom's API supports it, with manual renewal prompts via Africa's Talking SMS API for services requiring customer-initiated renewal.</p>
+
+    <p><strong>B2B pricing tiers:</strong> Customer-group-based pricing for wholesale buyers, retail buyers, and NGO procurement — the same product displayed at three different prices based on the logged-in customer's account type. A Nairobi distributor selling to retailers at wholesale prices and to the public at retail prices from the same catalog, without requiring two separate stores.</p>
+
+    <p><strong>Rental and hire products:</strong> Time-based pricing with an availability calendar — equipment hire from a Nairobi event supplier, venue hire from a Mombasa conference facility. The customer selects dates; the catalog checks availability and presents the price for the selected period. Confirmed bookings block those dates for other customers automatically.</p>
+
+    <p><strong>Inventory management:</strong> Real-time stock levels updated on every order. Low-stock alerts sent to the store admin via Africa's Talking SMS API and email when stock falls below a set threshold. Automatic hiding of completely sold-out products from listing pages. Pre-order capability for products awaiting restocking. Every inventory movement is logged with a timestamp.</p>
+
+    <p><strong>Product search and filtering:</strong> Built-in search returns results ranked by relevance, with filters by category, price range, brand, and custom attributes. A Kenyan spare parts supplier can configure filters by machine type, compatible brand, county availability, and price range — making a catalog of 5,000 parts navigable for customers who know exactly what they need.</p>
+
+    <p><strong>SEO-optimised category architecture:</strong> Each category page is a standalone SEO asset with its own title tag, meta description, H1, and introductory paragraph targeting a specific commercial query. A solar panel supplier's category for "Solar Panels Kenya" targets that commercial keyword independently, rather than producing a generic category URL with no SEO content.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Custom Checkout Flow Designed for Kenyan Buyer Behaviour</h2>
+    <p>Checkout is where e-commerce revenue is won or lost. Every additional step, every confusing field, every payment option presented in the wrong order, and every second of load time on a slow mobile connection costs completed orders. Tupate Studio designs checkout flows for the specific patterns of Kenyan mobile shoppers — not for western e-commerce conventions.</p>
+
+    <p>The Kenya-specific checkout requirements built into every Tupate Studio custom store:</p>
+
+    <p><strong>Mobile-first single-column layout:</strong> On mobile, all form fields are stacked in a single vertical column. No side-by-side field pairs, no two-column address forms that require horizontal scrolling on a 5-inch Tecno screen. Every input element is sized for finger operation — minimum 44px height for input fields. For further detail on mobile UX for Kenyan users, see <a href="/mobile-first-website-design-kenya">Mobile-First Website Design Kenya</a>.</p>
+
+    <p><strong>M-Pesa presented first:</strong> The payment method selection step presents M-Pesa STK Push as the first and default option, above card payment options. Kenyan mobile shoppers who see a card-first payment page interpret it as foreign or inaccessible. M-Pesa first signals that this store was built for Kenya.</p>
+
+    <p><strong>M-Pesa phone number auto-population:</strong> If the customer has an account on the store and their M-Pesa-registered number is saved to their profile, it pre-populates in the M-Pesa phone number field at checkout. One less field to fill in manually on a mobile keyboard.</p>
+
+    <p><strong>County-based shipping with real pricing:</strong> A dropdown of Kenya's 47 counties triggers automatic calculation of the shipping cost and delivery estimate. Nairobi customers see "Same-day delivery for orders placed before 2pm: Ksh 200." Mombasa customers see "Delivery 2–3 business days: Ksh 450." Upcountry customers see "Delivery via courier 3–5 business days: Ksh 600." Transparent, county-specific pricing at checkout eliminates the "surprise shipping cost" that drives cart abandonment.</p>
+
+    <p><strong>Guest checkout as default:</strong> Kenyan mobile shoppers abandon checkout at significantly higher rates when forced to create an account before purchasing. Guest checkout is presented as the primary path, with optional account creation offered after the order is confirmed — when the customer has already completed their purchase and is in a positive, receptive state.</p>
+
+    <p><strong>Persistent order summary:</strong> On mobile, the order summary — product, quantity, price, shipping, total — remains accessible throughout the checkout process via an expandable section. The customer never loses sight of what they are paying for.</p>
+
+    <p><strong>3-step progress indicator:</strong> Cart — Details — Payment. The customer sees how many steps remain and how close they are to completion. Removing checkout progress uncertainty reduces mid-process abandonment.</p>
+
+    <p><strong>WhatsApp fallback at every step:</strong> A persistent "Having trouble? WhatsApp us to place your order" link throughout the checkout flow acknowledges that Kenyan shoppers — especially for higher-value purchases — prefer human confirmation. A WhatsApp conversation closes more sales than a perfect checkout UI for certain product categories and price points.</p>
+
+    <p>Conversion data from Kenyan e-commerce: an optimised mobile checkout designed for Kenya achieves 15–25% checkout completion rates. An unoptimised WooCommerce checkout on a slow Kenyan server achieves 6–12%. At 100 checkout initiations per day, the difference between these rates is 9–13 additional completed sales per day — every day, indefinitely.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Admin Dashboard and Order Management for Kenyan Store Owners</h2>
+    <p>The admin side of a custom Kenyan e-commerce store must be usable every day by non-technical business owners and their staff — the store owner managing from their phone in Westlands, the warehouse team in Industrial Area marking orders packed, the customer service agent in Mombasa updating order status for coastal delivery customers.</p>
+
+    <p><strong>Order management:</strong> A central order dashboard shows all orders filterable by status (pending payment, payment confirmed, processing, packed, shipped, delivered, return requested, refunded), by date range, by customer, and by product. The store owner sees exactly where every order is in the fulfilment process without needing to understand any database or code.</p>
+
+    <p><strong>Order status updates with automatic SMS notifications:</strong> When a warehouse team member marks an order as shipped and enters the courier tracking number, the Africa's Talking SMS API automatically sends a dispatch notification to the customer's phone: "Your order #4821 from [Store Name] has been dispatched. Tracking: ABC123. Estimated delivery: Friday." Customer queries about order status drop immediately when proactive SMS notifications are in place.</p>
+
+    <p><strong>M-Pesa payment reconciliation:</strong> A dedicated reconciliation section lists all M-Pesa payments received, with automatic matching to their corresponding orders. Unmatched payments — where a customer paid the correct amount but used the wrong reference — are flagged for manual review rather than lost or ignored. This is the most common source of customer service problems on Kenyan e-commerce stores, and the custom dashboard resolves it systematically.</p>
+
+    <p><strong>Customer management:</strong> Full order history per customer. Contact details with one-tap WhatsApp link. Ability to issue manual refunds via the B2C API. Loyalty purchase tracking for stores that run repeat-buyer programmes. Notes field for customer service records.</p>
+
+    <p><strong>Product and inventory management:</strong> Add, edit, and delete products. Bulk price updates for promotions. Real-time stock level adjustments. Product visibility control — hide out-of-stock products from the public store while keeping them in the admin for restocking management.</p>
+
+    <p><strong>Sales reporting dashboard:</strong> Daily, weekly, and monthly revenue totals. Top-selling products by units and by revenue. County-level sales breakdown showing which parts of Kenya your orders come from — useful for logistics planning and targeted promotion. Average order value trend. This data is available on the admin's mobile browser, so the store owner can check daily revenue performance from anywhere without needing a laptop.</p>
+
+    <p><strong>Access levels:</strong> Store owner has full access to all functions. Sales staff can view and update order statuses but cannot modify products or access financial reports. Warehouse staff can view order details and mark items as packed or shipped but cannot access customer financial information. Each access level is configurable per the store's specific operational structure.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Performance and SEO Architecture of a Custom Kenyan Online Store</h2>
+    <p>A custom Kenyan online store outperforms WooCommerce on both Google rankings and conversion rates because the performance and SEO architecture is built into the code from the start — not added as a layer of optimisation plugins on top of a heavy platform.</p>
+
+    <p><strong>Page weight:</strong> Product pages on a custom Tupate Studio store load between 200KB and 500KB including product images, structured data, and all page elements. WooCommerce product pages with Elementor, a security plugin, an SEO plugin, and a caching plugin typically load 1.5–3MB for the same content. On Safaricom 4G, that 3MB WooCommerce page takes 1.6 seconds to download before rendering begins. The 400KB custom page takes 0.21 seconds. At 15 product page views per session, the cumulative load time difference across a shopping session is the deciding factor in whether the customer completes their purchase or abandons.</p>
+
+    <p><strong>Product schema markup:</strong> Tupate Studio implements Product, Offer, and AggregateRating schema in clean JSON-LD for every product page. This enables price, availability, and star rating information to appear directly in Google search results as rich snippets — increasing click-through rate from product keyword searches. WooCommerce schema is frequently handled by competing plugins that output conflicting structured data blocks, causing Google to ignore the schema entirely.</p>
+
+    <p><strong>Category page SEO:</strong> Custom e-commerce category pages have full control over the title tag, meta description, canonical URL, H1, and introductory SEO content paragraph — all set to target the specific commercial query for that category. A solar energy supplier's "Solar Panels Kenya" category page ranks for that query independently, not as a generic paginated archive URL.</p>
+
+    <p><strong>Clean URL structure:</strong> Product URLs follow the pattern <code>/products/[product-name-kenya]</code>. Category URLs follow <code>/category/[category-name-kenya]</code>. Not <code>/product_cat/electronics?sub=solar&page=2</code> — the URL parameter chains that WooCommerce generates by default and that create indexation problems without additional configuration.</p>
+
+    <p><strong>Core Web Vitals performance:</strong> Custom stores consistently achieve mobile Google PageSpeed scores of 85+ with no additional optimisation plugin required. This means passing LCP (&lt;2.5s), INP (&lt;200ms), and CLS (&lt;0.1) from launch — qualifying for Google's Page Experience ranking signal from the first day the store is indexed.</p>
+
+    <p><strong>Automated image optimisation pipeline:</strong> Images uploaded through the store admin are automatically compressed and converted to WebP format before being served to customers. A product photo uploaded as a 2MB JPEG from the store owner's Samsung Galaxy is served to customers as a 150KB WebP — at visually equivalent quality. No manual image optimisation workflow. No separate image compression tool. No performance degradation from staff uploading unoptimised product photos.</p>
+
+    <p><strong>Large catalog SEO management:</strong> XML sitemaps automatically include all product pages, category pages, and blog pages, and exclude cart, checkout, account, and search result pages from crawling. Canonical tags on product variant pages prevent duplicate content penalties from multiple URLs serving the same product with different parameter combinations.</p>
+  </section>
+
+  <div class="contextual-border">
+    <p>A custom e-commerce store built for the Kenyan market is the technical foundation. But Kenyan online shoppers can only buy from a store they can find — and finding it requires ranking on Google.co.ke for the commercial queries your customers type. Product page SEO, category page keyword targeting, local SEO for Nairobi-based stores serving the Nairobi market, and technical audit confirmation that every product and category page is correctly indexed: these are the SEO layers that drive traffic to the custom store and convert that traffic into M-Pesa payments. The SEO Services Kenya page covers Tupate Studio's approach to building that traffic engine on top of the custom store's technical foundation.</p>
+  </div>
+
+  <section class="supplementary">
+    <h2>SEO for Custom E-commerce Websites in Kenya</h2>
+    <p>Clean custom code gives your Kenyan online store an immediate SEO structural advantage over WooCommerce. The heading hierarchy is intentional and correct. The schema markup is implemented without conflicts. The URL structure is clean and keyword-relevant. Core Web Vitals pass on mobile from launch. These are the technical foundations that Google's crawlers confirm on the first visit — and they create a ranking environment where your content work produces results faster than it would on a WooCommerce site that requires technical optimisation before ranking work can begin.</p>
+
+    <p>Category pages are the primary SEO assets of a Kenyan e-commerce store. Each category page — "Solar Panels Kenya," "Industrial Generators Nairobi," "Men's Shoes Kenya" — is a standalone ranking target for a high-intent commercial query. Tupate Studio designs category pages with the SEO content, internal link structure, and product organisation to rank for these queries independently. Products within those categories inherit ranking authority from their category pages through internal link equity flow.</p>
+
+    <p>For the full technical specification of the Daraja API implementation — STK Push flows, C2B Paybill, B2C reversals, and IPN callback configuration — see our <a href="/mpesa-payment-integration">M-Pesa payment integration for websites</a> page. For complete ongoing e-commerce SEO strategy including keyword research, on-page optimisation, and technical monitoring, see <a href="/seo-services-kenya">SEO Services in Kenya</a>. For comparison with a general e-commerce development overview including platform options, see <a href="/ecommerce-website-development-kenya">E-commerce Website Development Kenya</a>. WhatsApp us today to discuss building your custom Kenyan online store.</p>
+  </section>
+
+  <section class="faq" itemscope itemtype="https://schema.org/FAQPage">
+    <h2>Frequently Asked Questions</h2>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">How is custom e-commerce different from WooCommerce in Kenya?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">Custom e-commerce is built from code — no WordPress CMS, no plugins. It is faster, more secure, and integrates M-Pesa directly via Safaricom's Daraja API without a third-party plugin that breaks on WordPress updates. WooCommerce requires ongoing plugin maintenance, is a common automated hacking target in Kenya, and produces slower page loads due to plugin overhead — all of which hurt your rankings and conversion rates.</p>
+      </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">How long does it take to build a custom e-commerce website in Kenya?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">3–6 weeks for a standard product store with up to 50 products. Larger catalogs (50–500 products) or complex business logic — subscription pricing, B2B pricing tiers, rental/hire models, ERP integration — take 6–10 weeks. The timeline starts after your product list, pricing structure, and content are provided to Tupate Studio. Call us today to discuss your timeline requirements.</p>
+      </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">Can the store be integrated with my existing inventory or POS system?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">Yes — Tupate Studio builds API integrations with POS systems and inventory management databases. The integration approach depends on whether your existing system has a published API or supports database-level integration. Tell us your system during the discovery call and we will confirm feasibility before providing a quote. Common Kenyan POS systems and ERP platforms have been integrated in previous projects.</p>
+      </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">What happens if M-Pesa has an outage and customers can't pay?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">Tupate Studio builds card payment fallback via Pesapal or Flutterwave, and a manual order capability where customers can WhatsApp their order details and pay via M-Pesa manually using a Paybill number, with payment confirmed by the store admin. M-Pesa outages on Safaricom's network are infrequent and typically brief, but your store never completely loses checkout capability during one.</p>
+      </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">Is a custom store more expensive than WooCommerce?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">The initial build cost is higher. But over 3 years, custom stores are comparable or cheaper when you remove WooCommerce plugin licence costs (Ksh 15,000–40,000/year), developer fix costs after update conflicts (Ksh 9,000–60,000/year), and hacking recovery costs. Custom stores also convert better — faster mobile load times mean more Kenyan mobile shoppers complete their purchases rather than abandoning at the slow-loading checkout page.</p>
+      </div>
+    </div>
+  </section>
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Service", "LocalBusiness"],
+  "name": "Custom E-commerce Development Kenya",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Tupate Studio",
+    "url": "https://tupate.studio"
+  },
+  "serviceType": "Custom E-commerce Development",
+  "areaServed": { "@type": "Country", "name": "Kenya" }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is custom e-commerce different from WooCommerce in Kenya?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom e-commerce is built from code — no WordPress CMS, no plugins. It integrates M-Pesa directly via Daraja API, loads faster on Kenyan mobile networks, and is not targeted by the automated WordPress hacking tools that affect WooCommerce stores."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a custom e-commerce website in Kenya?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3–6 weeks for a standard product store (up to 50 products). Larger catalogs or complex business logic such as subscription pricing, B2B tiers, or ERP integration take 6–10 weeks. Timeline starts after product list and content are provided."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the store be integrated with my existing inventory or POS system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — Tupate Studio builds API integrations with common POS systems and inventory databases. Tell us your system during the discovery call and we will confirm feasibility before quoting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if M-Pesa has an outage and customers can't pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tupate Studio builds card payment fallback via Pesapal or Flutterwave and a manual WhatsApp order capability. Your store never completely loses checkout during M-Pesa downtime."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a custom store more expensive than WooCommerce?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The build cost is higher. Over 3 years, custom stores are comparable or cheaper when you remove plugin costs, developer fix costs, and security incident costs. Custom stores also convert better due to faster mobile load times on Kenyan networks."
+      }
+    }
+  ]
+}
+</script>
+</body>
+</html>

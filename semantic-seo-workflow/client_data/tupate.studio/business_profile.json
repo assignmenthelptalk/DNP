@@ -1,0 +1,61 @@
+{
+  "client": "Tupae Studio",
+  "website": "https://tupae.studio",
+  "created_at": "2026-03-16",
+  "updated_at": "2026-03-16",
+  "source_context": "Web design and SEO agency monetizing through B2B client acquisition — builds custom-coded websites and provides SEO services for businesses in Kenya. Brand purpose: help Kenyan businesses establish and grow their digital presence to compete online, attract customers, and generate revenue through their website.",
+  "central_entity": "Business Website",
+  "central_entity_context": "The website as the primary digital asset of a Kenyan business — the entity that exists in every topic from creation to optimization to growth.",
+  "central_search_intent": "Professional website design and SEO services in Kenya that help businesses rank on Google, attract customers, and grow online",
+  "build_technology": {
+    "approach": "Custom-built websites — NOT WordPress. No CMS themes or page builders.",
+    "note": "All topical map content about website building must reflect custom development advantages: performance, security, speed, no plugin bloat, clean code — rather than WordPress/Elementor/WooCommerce workflows."
+  },
+  "service_pricing": {
+    "website_build": "Ksh 25,000 per site",
+    "monthly_retainer": "Ksh 5,000 per client/month",
+    "seo_package": "Ksh 8,000 per client/month",
+    "google_ads_management": "15% of ad spend"
+  },
+  "target_niches": [
+    "Industrial and machinery businesses (GossTech type) — highest priority: money, terrible websites, near-zero agency competition",
+    "Medical clinics and dentists",
+    "Law firms and accountants",
+    "Real estate agents",
+    "Restaurants and hotels (upcountry Kenya)",
+    "Schools and colleges"
+  ],
+  "market_context": {
+    "geography": "Kenya — primary markets: Nairobi, Mombasa, Kisumu, Nakuru; upcountry towns for hospitality",
+    "target_clients": "Kenyan SMEs across 6 defined niches — industrial, medical, legal, real estate, hospitality, education",
+    "language_context": "English (primary) + Swahili (secondary) — bilingual search behavior",
+    "local_factors": [
+      "M-Pesa payment integration (critical for e-commerce)",
+      "Safaricom ecosystem dominance",
+      "Google.co.ke search behavior",
+      "High mobile-first internet usage",
+      "Kenya Revenue Authority (KRA) digital compliance",
+      "Kenya ICT Authority standards",
+      "Nairobi CBD vs Westlands vs Industrial Area business hubs"
+    ]
+  },
+  "services": [
+    "Custom Website Design",
+    "Custom Website Development (non-WordPress)",
+    "Custom E-commerce Development",
+    "Search Engine Optimization (SEO)",
+    "Local SEO",
+    "Google Ads Management",
+    "Website Maintenance",
+    "Website Redesign"
+  ],
+  "topical_border_definition": "Everything from website conception, design, custom development, and SEO optimization for Kenyan businesses — including Kenya-specific digital factors (M-Pesa, mobile, local search). Outer edge includes broader digital marketing, branding, and Kenyan business growth context. Excluded: WordPress tutorials, page builder content, social media management as standalone, general business consulting, offline marketing, accounting, HR.",
+  "main_attribute": "Digital Presence",
+  "main_attribute_rationale": "Both core services (web design = creates digital presence, SEO = grows digital presence) serve the same unified outcome. This is the main attribute connecting source context to central entity for a web + SEO agency.",
+  "business_plan_notes": {
+    "starting_budget": "Ksh 35,000",
+    "launch_strategy": "Build 3 free demo sites per niche before approaching clients. Lead with demo link in WhatsApp/walk-in pitch. Close first client before running any paid marketing.",
+    "revenue_model": "Website builds are one-time; retainer (maintenance) and SEO packages are recurring MRR. Target: Ksh 60,000 MRR by Month 3.",
+    "month_6_projection": "Ksh 182,000/month from website builds + retainers + SEO packages combined."
+  }
+}

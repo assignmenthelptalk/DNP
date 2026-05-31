@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" role="img" aria-labelledby="l5-infographic-title">
+  <title id="l5-infographic-title">ATHE Level 5 Degree Top-Up Progression Pathway: Level 4 to Level 5 to University Degree</title>
+
+  <!-- Background -->
+  <rect width="800" height="480" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">ATHE Level 5: The Degree Top-Up Progression Pathway</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Extended Diploma (DipHE Equivalent) — Most Common ATHE Route to University Final Year</text>
+
+  <!-- Stage 1: Level 4 -->
+  <rect x="28" y="86" width="162" height="260" rx="10" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.5"/>
+  <rect x="28" y="86" width="162" height="38" rx="10" fill="#4B5563"/>
+  <rect x="28" y="110" width="162" height="14" fill="#4B5563"/>
+  <text x="109" y="110" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">ATHE LEVEL 4</text>
+  <text x="109" y="142" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#4B5563">Diploma</text>
+  <text x="109" y="157" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#6B7280">CertHE equivalent</text>
+  <text x="109" y="172" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#6B7280">Year 1 of degree</text>
+  <line x1="44" y1="184" x2="174" y2="184" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">ANALYTICAL LEVEL</text>
+  <text x="44" y="215" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Apply frameworks</text>
+  <text x="44" y="229" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">to scenarios with</text>
+  <text x="44" y="243" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">referenced support</text>
+  <line x1="44" y1="254" x2="174" y2="254" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">REFERENCING</text>
+  <text x="44" y="285" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Harvard required</text>
+  <text x="44" y="299" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Core texts + some</text>
+  <text x="44" y="313" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">wider reading</text>
+  <text x="44" y="332" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Subjects: Business Mgmt</text>
+  <text x="44" y="346" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Healthcare · Computing</text>
+  <text x="44" y="360" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Tourism &amp; Hospitality</text>
+
+  <!-- Arrow 1 -->
+  <polygon points="202,216 218,206 218,226" fill="#2563EB"/>
+  <line x1="190" y1="216" x2="218" y2="216" stroke="#2563EB" stroke-width="2.5"/>
+
+  <!-- Stage 2: Level 5 — highlighted -->
+  <rect x="222" y="86" width="168" height="260" rx="10" fill="#FFF8EC" stroke="#F5C97A" stroke-width="2.5"/>
+  <rect x="222" y="86" width="168" height="38" rx="10" fill="#D97706"/>
+  <rect x="222" y="110" width="168" height="14" fill="#D97706"/>
+  <text x="306" y="110" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">ATHE LEVEL 5</text>
+  <text x="306" y="142" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">Extended Diploma ★</text>
+  <text x="306" y="157" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#92400E">DipHE equivalent</text>
+  <text x="306" y="172" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#92400E">Year 2 of degree</text>
+  <line x1="238" y1="184" x2="374" y2="184" stroke="#FDE68A" stroke-width="1"/>
+  <text x="238" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">ANALYTICAL LEVEL</text>
+  <text x="238" y="215" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Independent critical</text>
+  <text x="238" y="229" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">evaluation + synthesis</text>
+  <text x="238" y="243" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">of multiple sources</text>
+  <line x1="238" y1="254" x2="374" y2="254" stroke="#FDE68A" stroke-width="1"/>
+  <text x="238" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">REFERENCING</text>
+  <text x="238" y="285" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">15–25 sources</text>
+  <text x="238" y="299" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Journals + textbooks</text>
+  <text x="238" y="313" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">+ policy documents</text>
+  <text x="238" y="332" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Subjects: Business Mgmt</text>
+  <text x="238" y="346" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Healthcare · Computing</text>
+  <text x="238" y="360" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Tourism &amp; Hospitality</text>
+
+  <!-- Arrow 2 (to degree top-up) -->
+  <polygon points="404,216 420,206 420,226" fill="#0D9488"/>
+  <line x1="390" y1="216" x2="420" y2="216" stroke="#0D9488" stroke-width="2.5"/>
+  <text x="407" y="200" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#0D9488">★ most</text>
+  <text x="407" y="212" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#0D9488">common</text>
+  <text x="407" y="224" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#0D9488">route</text>
+
+  <!-- Stage 3: Degree Top-Up -->
+  <rect x="424" y="86" width="162" height="260" rx="10" fill="#ECFDF5" stroke="#6EE7B7" stroke-width="1.5"/>
+  <rect x="424" y="86" width="162" height="38" rx="10" fill="#0D9488"/>
+  <rect x="424" y="110" width="162" height="14" fill="#0D9488"/>
+  <text x="505" y="110" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">DEGREE TOP-UP</text>
+  <text x="505" y="142" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#065F46">UK University</text>
+  <text x="505" y="157" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#065F46">Final Year (Year 3)</text>
+  <text x="505" y="172" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#065F46">BSc / BA entry</text>
+  <line x1="440" y1="184" x2="570" y2="184" stroke="#6EE7B7" stroke-width="1"/>
+  <text x="440" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">ENTRY BASIS</text>
+  <text x="440" y="215" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">ATHE Level 5</text>
+  <text x="440" y="229" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit &amp; Distinction</text>
+  <text x="440" y="243" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">strengthen application</text>
+  <line x1="440" y1="254" x2="570" y2="254" stroke="#6EE7B7" stroke-width="1"/>
+  <text x="440" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">DURATION</text>
+  <text x="440" y="285" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">1 year full-time</text>
+  <text x="440" y="299" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">2 years part-time</text>
+  <text x="440" y="314" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Post-92 universities</text>
+  <text x="440" y="329" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">most common</text>
+
+  <!-- Arrow 3 -->
+  <polygon points="600,216 616,206 616,226" fill="#7C3AED"/>
+  <line x1="586" y1="216" x2="616" y2="216" stroke="#7C3AED" stroke-width="2.5"/>
+
+  <!-- Stage 4: Bachelor's Degree -->
+  <rect x="620" y="86" width="152" height="260" rx="10" fill="#F5F3FF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="620" y="86" width="152" height="38" rx="10" fill="#7C3AED"/>
+  <rect x="620" y="110" width="152" height="14" fill="#7C3AED"/>
+  <text x="696" y="110" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">BACHELOR'S</text>
+  <text x="696" y="142" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#4C1D95">BSc / BA (Hons)</text>
+  <text x="696" y="157" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4C1D95">UK University Award</text>
+  <text x="696" y="172" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4C1D95">RQF Level 6</text>
+  <line x1="636" y1="184" x2="756" y2="184" stroke="#DDD6FE" stroke-width="1"/>
+  <text x="636" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">OUTCOME</text>
+  <text x="636" y="215" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Full honours degree</text>
+  <text x="636" y="229" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">FHEQ Level 6</text>
+  <text x="636" y="243" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">university-awarded</text>
+  <line x1="636" y1="254" x2="756" y2="254" stroke="#DDD6FE" stroke-width="1"/>
+  <text x="636" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">L5 GRADE MATTERS</text>
+  <text x="636" y="285" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Distinction at L5 =</text>
+  <text x="636" y="299" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">best evidence of</text>
+  <text x="636" y="313" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">degree readiness</text>
+
+  <!-- Bottom note -->
+  <rect x="28" y="362" width="744" height="76" rx="8" fill="#1B3A6B"/>
+  <text x="400" y="382" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Why Level 5 Grade Matters for Degree Progression</text>
+  <text x="400" y="400" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#E5E7EB">Merit and Distinction at Level 5 demonstrate independent research, critical evaluation, and synthesis — the same skills</text>
+  <text x="400" y="416" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#E5E7EB">assessed in final-year degree modules. Strong Level 5 performance directly evidences readiness for degree top-up study.</text>
+  <text x="400" y="432" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FCD34D">Distinction target: 15–25 sources · independent critical evaluation · synthesis · specific professional recommendations</text>
+
+  <!-- Footer -->
+  <text x="400" y="470" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">ATHE Assignment Help Service</text>
+</svg>

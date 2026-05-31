@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="100%" role="img" aria-labelledby="l6-infographic-title">
+  <title id="l6-infographic-title">ATHE Level 6 Research Project Structure: 8 Components from Research Question to Conclusions</title>
+
+  <!-- Background -->
+  <rect width="800" height="560" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">ATHE Level 6 Research Project: Structure and Assessment Components</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Business Management · Healthcare Management — Degree-Level Qualification (RQF Level 6)</text>
+
+  <!-- Flow: 8 steps in a 4×2 grid -->
+
+  <!-- Row 1 -->
+
+  <!-- Step 1 -->
+  <rect x="28" y="82" width="170" height="110" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="82" width="170" height="32" rx="8" fill="#2563EB"/>
+  <rect x="28" y="100" width="170" height="14" fill="#2563EB"/>
+  <text x="40" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">1. RESEARCH QUESTION</text>
+  <text x="38" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Clear, focused, and researchable</text>
+  <text x="38" y="144" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">question with stated rationale.</text>
+  <text x="38" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">✗ "A topic" is not a question.</text>
+  <text x="38" y="173" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Must be answerable by your method.</text>
+
+  <!-- Arrow right -->
+  <polygon points="208,136 222,128 222,144" fill="#2563EB"/>
+  <line x1="198" y1="136" x2="222" y2="136" stroke="#2563EB" stroke-width="2"/>
+
+  <!-- Step 2 -->
+  <rect x="226" y="82" width="170" height="110" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="226" y="82" width="170" height="32" rx="8" fill="#2563EB"/>
+  <rect x="226" y="100" width="170" height="14" fill="#2563EB"/>
+  <text x="238" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">2. LITERATURE REVIEW</text>
+  <text x="238" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Critical engagement with existing</text>
+  <text x="238" y="144" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">academic and professional literature.</text>
+  <text x="238" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">✗ Not a description of facts.</text>
+  <text x="238" y="173" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Identifies gaps the research fills.</text>
+
+  <!-- Arrow right -->
+  <polygon points="406,136 420,128 420,144" fill="#2563EB"/>
+  <line x1="396" y1="136" x2="420" y2="136" stroke="#2563EB" stroke-width="2"/>
+
+  <!-- Step 3 -->
+  <rect x="424" y="82" width="170" height="110" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="424" y="82" width="170" height="32" rx="8" fill="#2563EB"/>
+  <rect x="424" y="100" width="170" height="14" fill="#2563EB"/>
+  <text x="436" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">3. METHODOLOGY</text>
+  <text x="436" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Justify: qualitative / quantitative /</text>
+  <text x="436" y="144" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">mixed. Justify data collection</text>
+  <text x="436" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">method (interview, survey, etc.)</text>
+  <text x="436" y="173" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">✗ Not just describe — justify.</text>
+
+  <!-- Arrow right -->
+  <polygon points="604,136 618,128 618,144" fill="#2563EB"/>
+  <line x1="594" y1="136" x2="618" y2="136" stroke="#2563EB" stroke-width="2"/>
+
+  <!-- Step 4 -->
+  <rect x="622" y="82" width="150" height="110" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="622" y="82" width="150" height="32" rx="8" fill="#2563EB"/>
+  <rect x="622" y="100" width="150" height="14" fill="#2563EB"/>
+  <text x="634" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">4. DATA COLLECTION</text>
+  <text x="634" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Primary or secondary data</text>
+  <text x="634" y="144" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">gathered per the stated</text>
+  <text x="634" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">methodology design.</text>
+  <text x="634" y="173" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Ethical considerations noted.</text>
+
+  <!-- Down arrow from step 4 to step 5 -->
+  <polygon points="697,204 689,218 705,218" fill="#7C3AED"/>
+  <line x1="697" y1="192" x2="697" y2="218" stroke="#7C3AED" stroke-width="2"/>
+
+  <!-- Row 2 (right to left) -->
+
+  <!-- Step 5 -->
+  <rect x="622" y="222" width="150" height="110" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="622" y="222" width="150" height="32" rx="8" fill="#7C3AED"/>
+  <rect x="622" y="240" width="150" height="14" fill="#7C3AED"/>
+  <text x="634" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">5. DATA ANALYSIS</text>
+  <text x="634" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Thematic (qualitative) or</text>
+  <text x="634" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">descriptive/statistical (quant).</text>
+  <text x="634" y="299" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">✗ Don't present data without</text>
+  <text x="634" y="313" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">  analysis.</text>
+
+  <!-- Arrow left -->
+  <polygon points="608,276 594,268 594,284" fill="#7C3AED"/>
+  <line x1="608" y1="276" x2="622" y2="276" stroke="#7C3AED" stroke-width="2"/>
+
+  <!-- Step 6 -->
+  <rect x="424" y="222" width="170" height="110" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="424" y="222" width="170" height="32" rx="8" fill="#7C3AED"/>
+  <rect x="424" y="240" width="170" height="14" fill="#7C3AED"/>
+  <text x="436" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">6. FINDINGS</text>
+  <text x="436" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Systematic presentation of</text>
+  <text x="436" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">what the analysis revealed.</text>
+  <text x="436" y="299" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Structured around research</text>
+  <text x="436" y="313" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">question themes.</text>
+
+  <!-- Arrow left -->
+  <polygon points="410,276 396,268 396,284" fill="#7C3AED"/>
+  <line x1="410" y1="276" x2="424" y2="276" stroke="#7C3AED" stroke-width="2"/>
+
+  <!-- Step 7 -->
+  <rect x="226" y="222" width="170" height="110" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="226" y="222" width="170" height="32" rx="8" fill="#7C3AED"/>
+  <rect x="226" y="240" width="170" height="14" fill="#7C3AED"/>
+  <text x="238" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">7. DISCUSSION</text>
+  <text x="238" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Interpret findings against</text>
+  <text x="238" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">the literature review.</text>
+  <text x="238" y="299" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">What do results mean?</text>
+  <text x="238" y="313" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">How do they relate to theory?</text>
+
+  <!-- Arrow left -->
+  <polygon points="212,276 198,268 198,284" fill="#7C3AED"/>
+  <line x1="212" y1="276" x2="226" y2="276" stroke="#7C3AED" stroke-width="2"/>
+
+  <!-- Step 8 -->
+  <rect x="28" y="222" width="170" height="110" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="2"/>
+  <rect x="28" y="222" width="170" height="32" rx="8" fill="#D97706"/>
+  <rect x="28" y="240" width="170" height="14" fill="#D97706"/>
+  <text x="40" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">8. CONCLUSIONS + RECS</text>
+  <text x="38" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Evidence-based conclusions</text>
+  <text x="38" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">addressing the research question.</text>
+  <text x="38" y="299" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">Distinction: specific professional</text>
+  <text x="38" y="313" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#92400E">recommendations from findings.</text>
+
+  <!-- Grading note -->
+  <rect x="28" y="350" width="744" height="60" rx="8" fill="#1B3A6B"/>
+  <text x="400" y="370" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Research Project Grading: Same Pass / Merit / Distinction Framework</text>
+  <text x="400" y="388" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#E5E7EB">Distinction: methodological rigour · depth of analysis · original conclusions · evidence-based professional recommendations</text>
+  <text x="400" y="404" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#A8C4E0">Sources: 20–30+ including peer-reviewed journals · NHS policy documents · professional body publications</text>
+
+  <!-- Common errors -->
+  <rect x="28" y="424" width="744" height="90" rx="8" fill="#FEF2F2" stroke="#FECACA" stroke-width="1"/>
+  <text x="44" y="444" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#DC2626">MOST COMMON ERRORS IN LEVEL 6 RESEARCH PROJECTS</text>
+  <text x="44" y="460" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">✗ Topic chosen without a researchable question   ✗ Methodology described but not justified</text>
+  <text x="44" y="476" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">✗ Data presented without analysis   ✗ Literature review describes facts rather than engaging critically with theories</text>
+  <text x="44" y="492" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">✗ Conclusions do not address the research question   ✗ Recommendations absent or generic</text>
+
+  <!-- Footer -->
+  <text x="400" y="550" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">ATHE Assignment Help Service · ATHE Level 6 Diploma (RQF Level 6 — Degree-Level)</text>
+</svg>

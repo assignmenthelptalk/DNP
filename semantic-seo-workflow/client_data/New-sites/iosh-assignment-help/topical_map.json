@@ -1,0 +1,647 @@
+{
+  "built_at": "2026-04-11",
+  "central_entity": "IOSH assignment",
+  "source_context": "Professional qualification assignment help service — monetizes by providing IOSH Managing Safely project writing guidance, workplace risk assessment report support, hazard identification help, and module-specific coaching for candidates enrolled in IOSH (Institution of Occupational Safety and Health) qualifications, primarily IOSH Managing Safely — the world's most widely taken health and safety qualification with over 200,000 candidates annually",
+  "central_search_intent": "IOSH Managing Safely candidates seeking help to complete the IOSH Managing Safely project (workplace risk assessment report), understand the marking criteria, structure hazard identification and risk control sections, and achieve a pass or high score on the project component of their IOSH qualification",
+  "topical_border_definition": {
+    "inside_border": [
+      "IOSH qualifications — IOSH Managing Safely, IOSH Working Safely, IOSH Leading Safely, IOSH SHE Technician",
+      "IOSH Managing Safely project — the primary written assessment component: workplace risk assessment report",
+      "IOSH Managing Safely project marking criteria and scoring (marked out of 60, pass mark 36/60 — 60%)",
+      "IOSH Managing Safely project structure: hazard identification, risk assessment, risk control hierarchy, action plan, monitoring and review",
+      "IOSH Managing Safely test preparation — multiple choice question practice and module revision",
+      "IOSH Managing Safely module content — managing risk, assessing risk, controlling risk, understanding responsibilities, identifying hazards, investigating incidents, measuring performance",
+      "Risk assessment for IOSH project — likelihood and severity matrix, risk rating calculation",
+      "Hierarchy of control in IOSH Managing Safely — elimination, substitution, engineering controls, administrative controls, PPE",
+      "Workplace hazard identification for IOSH project — physical, chemical, biological, ergonomic, psychosocial hazard categories",
+      "IOSH Managing Safely project action plan — SMART objectives, timescales, responsible persons",
+      "IOSH Managing Safely project referral and resubmission — when projects are failed and how to resubmit",
+      "IOSH Managing Safely vs NEBOSH General Certificate — comparison and progression route",
+      "IOSH SHE Technician assessment — portfolio evidence and written assessment",
+      "IOSH approved training providers and course delivery formats (classroom, online, blended)",
+      "CPD requirements for IOSH Grad IOSH, Tech IOSH, CMIOSH, CFIOSH membership grades"
+    ],
+    "outside_border": [
+      "NEBOSH qualifications as primary topic (comparison and progression context only)",
+      "CITB and construction health and safety qualifications as primary topics",
+      "General health and safety management content not tied to IOSH assessment",
+      "ISO 45001 and occupational health management systems as primary topics",
+      "COSHH, RIDDOR, and UK H&S legislation as standalone topics — covered only in IOSH project context",
+      "IOSH professional membership criteria and career development beyond qualification context",
+      "Fire safety, manual handling, food safety qualifications as primary topics"
+    ],
+    "competitor_border_risk": "Competitors may expand into 'health and safety assignment help' or 'workplace risk assessment help' generically — defend topical border by going deeper on IOSH-specific Managing Safely project marking criteria, the 60-point scoring system, IOSH project section-by-section guidance, and IOSH module content alignment rather than broadening into generic H&S content"
+  },
+  "topical_coverage_score": 0,
+  "core_section": {
+    "main_attribute": "IOSH Managing Safely project completion and assessment criteria achievement",
+    "derived_attributes": [
+      "workplace risk assessment report writing for IOSH project",
+      "hazard identification section completion",
+      "risk rating and likelihood-severity matrix application",
+      "hierarchy of control and risk control measures section",
+      "IOSH project action plan writing",
+      "IOSH Managing Safely test preparation and module revision",
+      "IOSH project referral recovery and resubmission"
+    ],
+    "tier_1_topics": [
+      {
+        "topic": "IOSH Assignment Help",
+        "attribute_focus": "IOSH Managing Safely project and assessment completion — service overview",
+        "macro_context": "Candidates enrolled on IOSH Managing Safely courses who are struggling to complete the project (workplace risk assessment report), understand the marking criteria, structure the project correctly, or who have failed and need to resubmit",
+        "query_context_match": true,
+        "eav_depth_required": "Define IOSH as a professional body (Institution of Occupational Safety and Health — the world's largest health and safety membership organisation, founded 1945, Chartered body; IOSH qualifications are the most widely taken health and safety qualifications globally, particularly IOSH Managing Safely with 200,000+ candidates per year), connect to IOSH qualification structure (IOSH Working Safely — entry level, no project; IOSH Managing Safely — core qualification for managers and supervisors, involves a project and a test; IOSH Leading Safely — senior executive programme, no project; IOSH SHE Technician — technical practitioner route with portfolio), define the IOSH Managing Safely project in full (a workplace-based risk assessment report — candidates assess real hazards in their own workplace, rate risks using a likelihood × severity matrix, recommend control measures using the hierarchy of control, and produce an action plan with SMART objectives; marked out of 60, pass mark 36/60 — 60%), explain what IOSH Managing Safely assignment help includes, define IOSH's position relative to NEBOSH (IOSH Managing Safely is shorter and less academic — typically 3–4 days; NEBOSH General Certificate is 6 days of study plus exams; IOSH is the entry-level professional qualification, NEBOSH is the next step)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Assignment Help: Expert Guidance for the IOSH Managing Safely Project and Test",
+        "suggested_h2s": [
+          "What Is IOSH and What Qualifications Does It Offer?",
+          "What Is the IOSH Managing Safely Project and How Is It Assessed?",
+          "IOSH Managing Safely Project Marking Criteria: What Assessors Look For",
+          "IOSH Managing Safely Project vs Test: How Each Is Scored",
+          "Which IOSH Qualification Are You Studying?",
+          "What Does IOSH Assignment Help Include?",
+          "IOSH Managing Safely: How It Compares to NEBOSH"
+        ],
+        "contextual_border_question": "How does the IOSH Managing Safely project's requirement for candidates to assess real hazards in their own workplace — rather than answer academic questions — define the specific practical writing challenge that makes IOSH project help different from other qualification assignment support?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Help",
+          "IOSH Managing Safely Risk Assessment Help",
+          "IOSH Managing Safely Project Action Plan Help",
+          "IOSH Managing Safely Test Preparation",
+          "IOSH Managing Safely Project Marking Criteria Explained"
+        ]
+      },
+      {
+        "topic": "IOSH Managing Safely Project Help",
+        "attribute_focus": "project completion — the IOSH Managing Safely workplace risk assessment project",
+        "macro_context": "IOSH Managing Safely candidates who need help understanding how to structure, write, and present the IOSH Managing Safely project report — the written assessment component marked out of 60",
+        "query_context_match": true,
+        "eav_depth_required": "Define the IOSH Managing Safely project in full structural detail (the project is a workplace risk assessment report submitted by candidates after completing the taught course; it assesses the candidate's ability to apply course learning to their real workplace; sections typically include: workplace description and scope of assessment, hazard identification (identifying and categorising at least 5 significant workplace hazards), risk assessment (applying likelihood × severity matrix to rate each hazard's risk level), current control measures (identifying what controls are already in place), additional control measures recommended (using the hierarchy of control — elimination, substitution, engineering controls, administrative controls, PPE), action plan (SMART objectives for implementing recommended controls with responsible persons and timescales), and a reflection/monitoring section), define the marking criteria sections and point allocations (the project is marked out of 60 across criteria covering: hazard identification quality, risk assessment accuracy, control measure appropriateness, action plan specificity, overall presentation and application of learning), define the most common project failure reasons (hazards are too generic — 'slips and trips' without specific context; risk ratings not justified; control measures skip hierarchy levels; action plan lacks SMART objectives; hazards chosen from low-risk areas that don't demonstrate assessment capability), connect to word count and format expectations (typically 1500–3000 words of written content plus tables and matrices)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Project Help: How to Structure, Write, and Pass the Workplace Risk Assessment Report",
+        "suggested_h2s": [
+          "What Is the IOSH Managing Safely Project and What Does It Involve?",
+          "IOSH Managing Safely Project Structure: Sections and What Each Requires",
+          "How to Choose the Right Workplace Hazards for Your IOSH Project",
+          "How to Write the Risk Assessment Section of Your IOSH Project",
+          "How to Write the Control Measures Section of Your IOSH Managing Safely Project",
+          "IOSH Project Action Plan: What SMART Objectives Look Like",
+          "Common IOSH Managing Safely Project Mistakes and How to Avoid Them"
+        ],
+        "contextual_border_question": "How does selecting significant, specific workplace hazards that demonstrate genuine risk assessment capability — rather than choosing low-risk generic examples — define the quality difference between passing and high-scoring IOSH Managing Safely projects?",
+        "supplementary_bridges_to": [
+          "IOSH Assignment Help",
+          "IOSH Managing Safely Risk Assessment Help",
+          "IOSH Managing Safely Hazard Identification Help",
+          "IOSH Managing Safely Project Action Plan Help",
+          "IOSH Managing Safely Project Marking Criteria Explained"
+        ]
+      },
+      {
+        "topic": "IOSH Managing Safely Risk Assessment Help",
+        "attribute_focus": "project section — risk assessment: likelihood × severity matrix and risk rating",
+        "macro_context": "IOSH Managing Safely candidates who need help applying the likelihood and severity matrix correctly in their project, calculating risk ratings, and justifying their risk scores to assessors",
+        "query_context_match": true,
+        "eav_depth_required": "Define the IOSH Managing Safely risk assessment methodology (IOSH uses a likelihood × severity risk matrix — both likelihood and severity are rated on a scale, typically 1–3 or 1–5 depending on the provider's IOSH-approved course materials; risk rating = likelihood × severity score; risk ratings categorise hazards as low, medium, high, or very high risk), define likelihood in IOSH context (probability that the hazard will cause harm — factors include: frequency of exposure, number of people affected, existing control measures in place, historical incident data), define severity in IOSH context (potential consequences if harm occurs — from minor first aid to fatality; must consider worst credible outcome rather than typical outcome), define how to complete a risk matrix table for an IOSH project (one row per hazard; columns: hazard description, persons at risk, likelihood score, severity score, risk rating, current controls, residual risk after controls), connect to common risk assessment errors in IOSH projects (rating all hazards as 'high' without justification, not considering existing controls when rating residual risk, using identical ratings for all hazards showing lack of genuine assessment, underrating high-severity hazards to avoid needing extensive controls)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Risk Assessment Help: Likelihood and Severity Matrix, Risk Ratings, and Project Guidance",
+        "suggested_h2s": [
+          "How Does the IOSH Managing Safely Risk Matrix Work?",
+          "Likelihood Scoring in the IOSH Risk Assessment: What Each Level Means",
+          "Severity Scoring in the IOSH Risk Assessment: How to Rate Consequences",
+          "How to Calculate Risk Ratings for Your IOSH Managing Safely Project",
+          "How to Assess Residual Risk After Controls in Your IOSH Project",
+          "IOSH Risk Assessment Table: How to Structure It Correctly",
+          "Common IOSH Risk Assessment Errors That Cause Project Failure"
+        ],
+        "contextual_border_question": "How does assessing residual risk — the risk remaining after existing control measures are applied, rather than the uncontrolled hazard risk — define the analytical sophistication that separates a high-scoring IOSH project from a borderline pass?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Help",
+          "IOSH Managing Safely Hazard Identification Help",
+          "IOSH Hierarchy of Control for the Managing Safely Project",
+          "IOSH Assignment Help"
+        ]
+      },
+      {
+        "topic": "IOSH Managing Safely Hazard Identification Help",
+        "attribute_focus": "project section — hazard identification: categorising and evidencing workplace hazards",
+        "macro_context": "IOSH Managing Safely candidates who are unsure which hazards to include in their project, how many to identify, how to categorise them correctly, and how to describe them with sufficient specificity to score well",
+        "query_context_match": true,
+        "eav_depth_required": "Define hazard identification in the IOSH Managing Safely project context (candidates must identify real hazards from their own workplace — not textbook examples; hazards should be significant and specific, not generic; IOSH project marking rewards hazards that demonstrate the candidate has conducted a genuine workplace assessment rather than listing common hazards from training materials), define the IOSH hazard categories in detail (physical hazards: machinery, electricity, working at height, noise, vibration, temperature extremes; chemical hazards: substances hazardous to health — COSHH relevant, dust, fumes, solvents; biological hazards: bacteria, viruses, legionella, mould; ergonomic hazards: manual handling, display screen equipment — DSE, repetitive strain; psychosocial hazards: stress, violence and aggression, lone working; environmental hazards: fire, flooding, environmental damage), define what makes a well-described hazard in an IOSH project (specific location or activity — not 'manual handling' but 'manual lifting of 20kg stock boxes from floor level in the warehouse'; named substance or source; frequency and duration of exposure; persons at risk identified specifically), connect to the minimum number of hazards (most IOSH-approved assessors require at least 5 significant hazards; quality over quantity — 5 well-analysed hazards score better than 10 generic ones)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Hazard Identification Help: How to Choose, Categorise, and Describe Workplace Hazards in Your Project",
+        "suggested_h2s": [
+          "How Many Hazards Do You Need in Your IOSH Managing Safely Project?",
+          "IOSH Hazard Categories: Physical, Chemical, Biological, Ergonomic, and Psychosocial",
+          "How to Describe Hazards Specifically for Your IOSH Project",
+          "Which Workplace Hazards Score Best in the IOSH Managing Safely Project?",
+          "How to Identify Hazards You May Have Overlooked in Your Workplace",
+          "Common Hazard Identification Errors in IOSH Managing Safely Projects",
+          "How to Connect Hazard Identification to the Risk Assessment Section"
+        ],
+        "contextual_border_question": "How does describing hazards with specific workplace location, activity context, and named exposure detail — rather than listing generic hazard categories — define the hazard identification quality that IOSH assessors reward in the project marking criteria?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Help",
+          "IOSH Managing Safely Risk Assessment Help",
+          "IOSH Hierarchy of Control for the Managing Safely Project",
+          "IOSH Assignment Help"
+        ]
+      },
+      {
+        "topic": "IOSH Managing Safely Project Action Plan Help",
+        "attribute_focus": "project section — action plan: SMART objectives and implementation planning",
+        "macro_context": "IOSH Managing Safely candidates who need help writing the action plan section of their project — converting recommended control measures into SMART objectives with responsible persons, timescales, and monitoring arrangements",
+        "query_context_match": true,
+        "eav_depth_required": "Define the IOSH Managing Safely project action plan section (the action plan documents how the candidate's recommended additional control measures will be implemented in practice; it bridges the theoretical risk assessment with practical workplace change; typical format is a table with columns: recommended control measure, responsible person or role, target completion date, monitoring/review method, success indicator), define SMART objectives in IOSH project context (Specific — names the exact control to be implemented and where; Measurable — defines how implementation will be confirmed; Achievable — realistic within the organisation's resources and authority; Relevant — directly addresses the identified risk; Time-bound — has a specific completion date, not 'as soon as possible'), define what makes a high-scoring IOSH action plan (specific named roles rather than 'management'; realistic timescales — not all items completing on the same date; monitoring methods that are genuine — inspection schedules, training records, incident tracking — not 'review annually'; prioritisation of highest-risk hazards), connect to common action plan errors (identical timescales for all items suggesting the plan was not genuinely considered, no responsible person named, monitoring methods that are vague or non-existent, actions that are not connected to the specific hazards assessed)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Project Action Plan Help: How to Write SMART Objectives That Score High",
+        "suggested_h2s": [
+          "What Does the IOSH Managing Safely Project Action Plan Need to Include?",
+          "SMART Objectives for the IOSH Project Action Plan: What Each Element Means",
+          "How to Write Specific and Measurable IOSH Action Plan Entries",
+          "Who Should You Name as Responsible Person in Your IOSH Action Plan?",
+          "How to Set Realistic Timescales in Your IOSH Project Action Plan",
+          "Monitoring and Review in the IOSH Action Plan: What Assessors Want to See",
+          "Common IOSH Action Plan Errors and How to Fix Them"
+        ],
+        "contextual_border_question": "How does connecting each action plan entry directly to a specific assessed hazard with a named responsible role and a genuine monitoring mechanism — rather than producing a generic implementation table — define the practical realism that IOSH assessors reward in the action plan section?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Help",
+          "IOSH Managing Safely Risk Assessment Help",
+          "IOSH Hierarchy of Control for the Managing Safely Project",
+          "IOSH Assignment Help"
+        ]
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "IOSH Hierarchy of Control for the Managing Safely Project",
+        "attribute_focus": "project section — control measures: applying the hierarchy of control correctly",
+        "macro_context": "IOSH Managing Safely candidates who need to understand how to apply the hierarchy of control to recommend appropriate control measures in their project, and how to justify their choices at each hierarchy level",
+        "query_context_match": true,
+        "eav_depth_required": "Define the hierarchy of control in IOSH Managing Safely context (the framework for selecting and prioritising risk control measures — IOSH teaches this as a fundamental risk management principle; the hierarchy from most to least effective: 1. Elimination — remove the hazard entirely; 2. Substitution — replace with a less hazardous alternative; 3. Engineering controls — isolate people from the hazard through physical barriers, ventilation, guards; 4. Administrative controls — change how work is done — SOPs, training, supervision, permits to work; 5. Personal Protective Equipment (PPE) — last resort because it relies on correct use), connect to how IOSH projects are marked on control measures (assessors check that candidates understand the hierarchy — recommending PPE as the first control measure suggests the candidate has not applied the hierarchy; higher marks are awarded for recommending higher-level controls where practicable), define what 'reasonably practicable' means in IOSH context (control measures must be proportionate to the risk — candidates cannot recommend elimination for all hazards without considering whether it is practicable in the workplace), connect to common control measure errors in IOSH projects (recommending only PPE for all hazards; not distinguishing between existing controls and recommended additional controls; recommending controls that are not feasible in the described workplace context)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Hierarchy of Control: How to Apply Control Measures Correctly in Your Managing Safely Project",
+        "suggested_h2s": [
+          "What Is the Hierarchy of Control in IOSH Managing Safely?",
+          "Elimination and Substitution in the IOSH Project: When to Recommend Them",
+          "Engineering Controls in Your IOSH Managing Safely Project: Examples and Application",
+          "Administrative Controls in the IOSH Project: SOPs, Training, and Permits to Work",
+          "PPE in the IOSH Project: Why It Should Be Your Last Resort",
+          "How to Justify Your Control Measure Choices in the IOSH Managing Safely Project",
+          "Common Control Measure Errors That Reduce Your IOSH Project Score"
+        ],
+        "contextual_border_question": "How does demonstrating knowledge of the hierarchy by recommending higher-level controls (engineering or administrative) wherever practicable — and reserving PPE as a supplementary rather than primary measure — define the control measures section quality that IOSH assessors distinguish in the project marking criteria?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Help",
+          "IOSH Managing Safely Risk Assessment Help",
+          "IOSH Managing Safely Hazard Identification Help",
+          "IOSH Managing Safely Project Action Plan Help",
+          "IOSH Assignment Help"
+        ]
+      },
+      {
+        "topic": "IOSH Managing Safely Project Marking Criteria Explained",
+        "attribute_focus": "grading intelligence — understanding the IOSH Managing Safely project scoring system",
+        "macro_context": "IOSH Managing Safely candidates who want to understand exactly how the project is marked, what each section is worth, and what assessors are looking for to award maximum marks",
+        "query_context_match": true,
+        "eav_depth_required": "Define the IOSH Managing Safely project marking system (the project is marked out of 60; the pass mark is 36/60 — 60%; the project is marked by the IOSH-approved training provider's assessors against IOSH's published marking criteria; the marking criteria assess: quality and specificity of hazard identification, appropriateness and completeness of risk assessment, understanding and correct application of the hierarchy of control in control measure recommendations, quality and realism of the action plan including SMART objectives, overall quality of application of course learning to real workplace context), define how the marks are distributed across sections (typically: hazard identification section 15–20 marks; risk assessment matrix 15–20 marks; control measures and action plan 15–20 marks; overall quality and application 5–10 marks — exact distributions vary by IOSH-approved provider), define the distinction between passing and high-scoring projects (a pass project identifies generic hazards with basic risk assessments; a high-scoring project identifies specific significant hazards, demonstrates genuine risk assessment reasoning, applies the full hierarchy of control, produces a realistic implementable action plan, and shows genuine application of Managing Safely learning to the specific workplace context), connect to how marks are lost (deductions for: hazards that are trivial or not genuinely assessed; risk ratings that appear arbitrary; control measures that ignore the hierarchy; action plan objectives that lack SMART criteria)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Project Marking Criteria Explained: How Your Project Is Scored and What Gets Full Marks",
+        "suggested_h2s": [
+          "How Is the IOSH Managing Safely Project Marked?",
+          "IOSH Project Marking Out of 60: What Each Section Is Worth",
+          "What Does a Passing IOSH Project Look Like vs a High-Scoring One?",
+          "How IOSH Assessors Mark Hazard Identification",
+          "How IOSH Assessors Mark Risk Assessment and Control Measures",
+          "How IOSH Assessors Mark the Action Plan",
+          "How to Maximise Your IOSH Managing Safely Project Score"
+        ],
+        "contextual_border_question": "How does understanding that IOSH assessors mark each project section against specific quality indicators — rather than simply checking for the presence of required content — define the preparation difference between candidates who pass and those who score in the top quartile?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Help",
+          "IOSH Assignment Help",
+          "How to Achieve a High Score in the IOSH Managing Safely Project",
+          "IOSH Managing Safely Project Referral and Resubmission Guide"
+        ]
+      },
+      {
+        "topic": "IOSH Managing Safely Project Referral and Resubmission Guide",
+        "attribute_focus": "referral recovery — for candidates whose IOSH Managing Safely project was failed",
+        "macro_context": "IOSH Managing Safely candidates whose project has been failed (referred) and who need to understand what must change in their resubmission to meet the pass criteria",
+        "query_context_match": true,
+        "eav_depth_required": "Define IOSH Managing Safely project referral (a referred project is one that scored below 36/60 — 60% — or failed to meet minimum standards in one or more sections; IOSH-approved providers typically allow one resubmission; assessors must provide written feedback identifying which sections fell below standard), define the most common referral reasons (hazard identification too generic or insufficient — candidate listed common hazards without workplace-specific evidence; risk assessment matrix incomplete or ratings not justified; control measures defaulted to PPE only without applying hierarchy; action plan missing SMART objectives or not connected to assessed hazards; project copied or not based on candidate's actual workplace), define how to interpret assessor feedback for resubmission (feedback will identify specific sections and criteria — candidates must address each feedback point specifically, not rewrite the entire project; the most efficient resubmission strategy is: fix the identified gaps, strengthen the weakest sections, ensure all sections meet minimum marking criteria simultaneously), connect to the emotional context (a project referral is distressing but common — particularly for candidates who are not confident academic writers; it does not reflect poorly on professional competence and is recoverable with targeted improvement)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Project Referral: What It Means, How to Read Assessor Feedback, and How to Resubmit Successfully",
+        "suggested_h2s": [
+          "What Does an IOSH Managing Safely Project Referral Mean?",
+          "Why Do IOSH Managing Safely Projects Get Referred?",
+          "How to Read IOSH Assessor Feedback and Identify What Must Change",
+          "What Must Be Different in Your IOSH Project Resubmission",
+          "How to Fix a Referred IOSH Project Hazard Identification Section",
+          "How to Fix a Referred IOSH Project Risk Assessment or Action Plan",
+          "Can You Still Pass IOSH Managing Safely After a Project Referral?"
+        ],
+        "contextual_border_question": "How does targeting specific section gaps identified in assessor feedback — rather than rewriting the entire project — define the most efficient resubmission strategy for IOSH candidates who need to pass within the provider's resubmission deadline?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Help",
+          "IOSH Assignment Help",
+          "IOSH Managing Safely Project Marking Criteria Explained",
+          "IOSH Managing Safely Hazard Identification Help"
+        ]
+      },
+      {
+        "topic": "IOSH Managing Safely Test Preparation",
+        "attribute_focus": "test preparation — the IOSH Managing Safely multiple choice test",
+        "macro_context": "IOSH Managing Safely candidates who need help preparing for the multiple choice test that forms the second assessment component of the IOSH Managing Safely qualification",
+        "query_context_match": true,
+        "eav_depth_required": "Define the IOSH Managing Safely test (a closed-book multiple choice test taken at the end of the course; typically 30 questions; pass mark is approximately 45–60% depending on the provider; covers all eight IOSH Managing Safely modules: 1. Why manage safely, 2. Defining hazard and risk, 3. Identifying common hazards, 4. Assessing risk, 5. Controlling risk, 6. Understanding your responsibilities, 7. Investigating incidents, 8. Measuring performance), define each module's test content focus (Module 1: business case for health and safety — cost of accidents, legal duties, moral case; Module 2: hazard vs risk definitions, risk assessment terminology; Module 3: hazard categories — fire, manual handling, electricity, slips/trips, work at height, chemical, noise, radiation, stress; Module 4: risk assessment methodology — 5-step HSE process, likelihood × severity; Module 5: hierarchy of control, COSHH, manual handling regulations; Module 6: employers' and employees' legal duties — HASAWA 1974, Management of H&S at Work Regulations 1999; Module 7: incident investigation — root cause analysis, direct and indirect causes; Module 8: proactive and reactive monitoring — audits, inspections, near-miss reporting), define the most commonly tested concepts and examiner traps in each module",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Test Preparation: Module-by-Module Revision Guide and Practice Questions",
+        "suggested_h2s": [
+          "What Is the IOSH Managing Safely Test and How Is It Marked?",
+          "IOSH Managing Safely Module 1 to 8: What Each Test Section Covers",
+          "IOSH Managing Safely Test Revision: Key Definitions and Concepts",
+          "IOSH Managing Safely Practice Questions: What the Test Looks Like",
+          "Common IOSH Managing Safely Test Mistakes and How to Avoid Them",
+          "How to Revise for the IOSH Managing Safely Test in One Day",
+          "IOSH Managing Safely Test Pass Mark: What Score Do You Need?"
+        ],
+        "contextual_border_question": "How does understanding the distinction between a hazard (the potential to cause harm) and a risk (the likelihood and severity of harm being realised) — as the conceptual foundation of the entire IOSH Managing Safely syllabus — define the most important definition pair for candidates preparing for the multiple choice test?",
+        "supplementary_bridges_to": [
+          "IOSH Assignment Help",
+          "IOSH Managing Safely Project Help",
+          "IOSH Managing Safely Hazard Identification Help",
+          "IOSH Managing Safely Risk Assessment Help"
+        ]
+      },
+      {
+        "topic": "How to Achieve a High Score in the IOSH Managing Safely Project",
+        "attribute_focus": "high performance strategy — achieving above 80% in the IOSH project",
+        "macro_context": "IOSH Managing Safely candidates who are not content with simply passing the project and want to understand what it takes to score in the top band — typically relevant to candidates with H&S aspirations or those required by their employer to achieve a high grade",
+        "query_context_match": true,
+        "eav_depth_required": "Define what high-scoring IOSH projects have in common (hazards are significant and genuinely representative of real workplace risk — not chosen because they are easy to assess; risk ratings demonstrate genuine analytical reasoning with written justification rather than scores entered without explanation; control measure recommendations work through the full hierarchy — showing awareness that higher-level controls were considered even if not practicable; action plan is specific, prioritised, and realistic; overall the project reads as a genuine professional risk assessment, not a training exercise template), define the writing quality standard for high-scoring projects (professional business report tone; clear section headings that match IOSH criteria; concise and precise language; hazard descriptions include specific context — activities, locations, materials, and persons at risk named; no padding or repetition of course definitions), connect to the role of workplace specificity (assessors award higher marks when projects clearly relate to a real, specific workplace — a nursery, construction site, warehouse, office — rather than a generic unnamed 'workplace'), define the value of extending beyond minimum requirements (minimum: 5 hazards; high-scoring: 7–8 hazards with all sections complete; minimum action plan: 3–5 actions; high-scoring: one specific SMART action per recommended control measure)",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "How to Achieve a High Score in the IOSH Managing Safely Project: What Top-Scoring Projects Do Differently",
+        "suggested_h2s": [
+          "What Does a High-Scoring IOSH Managing Safely Project Look Like?",
+          "Hazard Identification Strategies That Score Well Above the Pass Mark",
+          "Risk Assessment Quality That Assessors Reward in the Top Band",
+          "Control Measures That Demonstrate Full Hierarchy Understanding",
+          "Action Plan Specificity in High-Scoring IOSH Projects",
+          "Writing Style and Presentation Tips for IOSH Project Top Scores",
+          "How Many Hazards Should You Include to Maximise Your IOSH Project Score?"
+        ],
+        "contextual_border_question": "How does the IOSH assessor's ability to distinguish between a candidate who applied Managing Safely learning genuinely to their workplace and one who completed a template exercise — define the single quality indicator that most reliably separates top-scoring projects from borderline passes?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Marking Criteria Explained",
+          "IOSH Managing Safely Project Help",
+          "IOSH Managing Safely Hazard Identification Help",
+          "IOSH Managing Safely Risk Assessment Help",
+          "IOSH Managing Safely Project Action Plan Help"
+        ]
+      },
+      {
+        "topic": "IOSH Managing Safely for Specific Industries",
+        "attribute_focus": "industry-specific project guidance — applying the project to different workplace sectors",
+        "macro_context": "IOSH Managing Safely candidates from specific industries (construction, healthcare, hospitality, retail, warehousing, office/DSE environments) who need help identifying relevant hazards and control measures specific to their sector",
+        "query_context_match": true,
+        "eav_depth_required": "Define the relevance of industry specificity in the IOSH project (assessors mark more favourably when hazards, risks, and controls are clearly appropriate to the named workplace — generic hazards that could apply to any industry suggest the candidate did not genuinely assess their workplace), provide sector-specific hazard examples for the most common IOSH Managing Safely candidate industries: construction (working at height, plant and machinery, manual handling of materials, noise — COSHH from concrete dust, silica; asbestos in older buildings); healthcare (manual handling of patients, needle-stick injuries, biological exposure, lone working, violence and aggression from patients); office/DSE (display screen equipment — DSE eye strain, musculoskeletal, workstation setup; electrical equipment, fire evacuation, stress and mental health); warehousing/logistics (forklift truck interaction with pedestrians, manual handling of heavy goods, racking collapse, loading bay hazards); hospitality (hot surfaces and burn risk, wet floors, chemical COSHH — cleaning products, noise in kitchens, violence from customers), connect to how to adapt the project structure to different industry regulatory contexts (construction — CDM Regulations; healthcare — CQC standards, COSHH, Manual Handling Operations Regulations; office — DSE Regulations 1992)",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "IOSH Managing Safely Project by Industry: Construction, Healthcare, Office, and Warehousing Guidance",
+        "suggested_h2s": [
+          "Why Industry-Specific Hazards Score Higher in the IOSH Managing Safely Project",
+          "IOSH Managing Safely Project Help for Construction Workers",
+          "IOSH Managing Safely Project Help for Healthcare and NHS Staff",
+          "IOSH Managing Safely Project Help for Office and DSE Environments",
+          "IOSH Managing Safely Project Help for Warehousing and Logistics",
+          "IOSH Managing Safely Project Help for Hospitality and Catering",
+          "How to Reflect Sector-Specific Legislation in Your IOSH Project"
+        ],
+        "contextual_border_question": "How does naming sector-specific hazards that reflect the regulatory framework governing the candidate's industry — such as CDM Regulations for construction or COSHH for chemical environments — define the workplace-contextualised depth that distinguishes a high-scoring IOSH project from a sector-generic assessment?",
+        "supplementary_bridges_to": [
+          "IOSH Managing Safely Project Help",
+          "IOSH Managing Safely Hazard Identification Help",
+          "IOSH Managing Safely Risk Assessment Help",
+          "IOSH Assignment Help"
+        ]
+      }
+    ],
+    "macro_semantics": {
+      "site_wide_ngrams": [
+        "IOSH Managing Safely project",
+        "IOSH assignment help",
+        "IOSH Managing Safely project help",
+        "IOSH project marking criteria",
+        "IOSH risk assessment project",
+        "IOSH project action plan",
+        "IOSH Managing Safely project referral",
+        "hierarchy of control IOSH",
+        "IOSH Managing Safely pass mark",
+        "IOSH project hazard identification"
+      ],
+      "question_formats": [
+        "How do you pass the IOSH Managing Safely project?",
+        "What does the IOSH Managing Safely project involve?",
+        "How is the IOSH Managing Safely project marked?",
+        "What hazards should I include in my IOSH project?",
+        "Why was my IOSH Managing Safely project failed and what do I do?"
+      ],
+      "predicate_distributions": [
+        "pass (pass the IOSH Managing Safely project)",
+        "complete (complete the IOSH Managing Safely project)",
+        "identify (identify hazards for the IOSH project)",
+        "assess (assess risk in the IOSH Managing Safely project)",
+        "score (score high in the IOSH Managing Safely project)",
+        "resubmit (resubmit a failed IOSH Managing Safely project)",
+        "apply (apply the hierarchy of control in the IOSH project)"
+      ],
+      "heading_vector_pattern": "H1 = [IOSH Managing Safely] + [Project Section / Assessment Type] + [Help/Guide/Explained] + [Outcome Qualifier]; H2 = What/How question openings (What Does X Require / How to X in the IOSH Project / Why X Matters for IOSH Scoring) or element-led headings (Hazard Identification in the IOSH Project / Risk Assessment Scoring in IOSH Managing Safely); H3 = Specific hazard categories, control hierarchy levels, scoring criteria elements, or industry-specific guidance points"
+    }
+  },
+  "outer_section": {
+    "tier_1_topics": [
+      {
+        "topic": "What Is IOSH Managing Safely? Course, Assessment, and What to Expect",
+        "attribute_focus": "IOSH Managing Safely as an entity — course overview and assessment structure",
+        "macro_context": "Professionals who have been asked by their employer to complete IOSH Managing Safely and want to understand what the course involves, how long it takes, and how it is assessed before they start",
+        "minor_attribute": "qualification overview and assessment structure",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "What Is IOSH Managing Safely? Course Content, Assessment, Duration, and What to Expect",
+        "contextual_bridge_to_core": "Course overview explains the project and test assessment components — bridges to IOSH Managing Safely Project Help and IOSH Managing Safely Test Preparation"
+      },
+      {
+        "topic": "IOSH Managing Safely vs NEBOSH General Certificate: Which Should You Take?",
+        "attribute_focus": "qualification comparison — IOSH Managing Safely vs NEBOSH General Certificate",
+        "macro_context": "Health and safety professionals or managers deciding between IOSH Managing Safely and the NEBOSH General Certificate as their next qualification",
+        "minor_attribute": "qualification comparison and career pathway selection",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely vs NEBOSH General Certificate: Which Health and Safety Qualification Should You Take?",
+        "contextual_bridge_to_core": "Candidates choosing IOSH over NEBOSH will need IOSH project help — bridges to IOSH Managing Safely Project Help and IOSH Assignment Help main page"
+      },
+      {
+        "topic": "IOSH Working Safely vs IOSH Managing Safely: What Is the Difference?",
+        "attribute_focus": "qualification comparison — IOSH Working Safely vs IOSH Managing Safely",
+        "macro_context": "Employees and managers deciding between IOSH Working Safely (employee-level) and IOSH Managing Safely (manager-level) qualifications",
+        "minor_attribute": "qualification selection within the IOSH portfolio",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Working Safely vs IOSH Managing Safely: Differences, Assessment, and Which Is Right for Your Role",
+        "contextual_bridge_to_core": "Candidates choosing IOSH Managing Safely will need project help — bridges to main IOSH Assignment Help and project help pages"
+      },
+      {
+        "topic": "IOSH Managing Safely Online: Is the Online Course as Good as Classroom?",
+        "attribute_focus": "course delivery comparison — online vs classroom IOSH Managing Safely",
+        "macro_context": "Candidates and employers deciding whether to complete IOSH Managing Safely online or through a classroom-based course, and whether the project assessment differs",
+        "minor_attribute": "course delivery format and assessment equivalence",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "IOSH Managing Safely Online: How the Online Course Compares to Classroom and Whether the Project Differs",
+        "contextual_bridge_to_core": "Online delivery discussion naturally bridges to IOSH Managing Safely project help — online candidates often have less immediate tutor access for project guidance"
+      },
+      {
+        "topic": "IOSH Managing Safely Pass Rate and How Difficult Is It?",
+        "attribute_focus": "course difficulty and outcome data",
+        "macro_context": "Candidates and employers researching how difficult IOSH Managing Safely is to pass and what percentage of candidates pass first time",
+        "minor_attribute": "qualification difficulty and outcome statistics",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "IOSH Managing Safely Pass Rate: How Difficult Is the Course and What Are the Chances of Passing?",
+        "contextual_bridge_to_core": "Pass rate discussion connects to project referral anxiety — bridges to IOSH Project Help and Referral and Resubmission pages"
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "UK Health and Safety Law for the IOSH Managing Safely Test",
+        "attribute_focus": "legal knowledge base — H&S legislation covered in IOSH module 6",
+        "macro_context": "IOSH Managing Safely candidates who need to understand the key UK health and safety legislation tested in module 6 (Understanding Your Responsibilities) for the multiple choice test",
+        "minor_attribute": "H&S legislative knowledge base",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "UK Health and Safety Law for IOSH Managing Safely: HASAWA, Management Regulations, and What the Test Covers",
+        "contextual_bridge_to_core": "H&S legislation knowledge bridges directly to IOSH Managing Safely Test Preparation and supports control measures section of the project"
+      },
+      {
+        "topic": "IOSH Managing Safely Incident Investigation for the Test",
+        "attribute_focus": "module knowledge — incident investigation (module 7) for test preparation",
+        "macro_context": "IOSH Managing Safely candidates preparing for the multiple choice test who need to understand the incident investigation content in module 7 — causes of incidents, investigation methodology, and reporting",
+        "minor_attribute": "incident investigation knowledge base for test",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Incident Investigation: Module 7 Revision Guide for the Test",
+        "contextual_bridge_to_core": "Incident investigation module bridges to IOSH Managing Safely Test Preparation and supports the monitoring and review section of the project"
+      },
+      {
+        "topic": "IOSH Managing Safely for Managers and Supervisors: Why Your Role Matters",
+        "attribute_focus": "audience context — managers and supervisors as the primary IOSH Managing Safely target group",
+        "macro_context": "Line managers, supervisors, and team leaders who have been required by their employer to take IOSH Managing Safely and who want to understand how the qualification applies to their managerial responsibilities",
+        "minor_attribute": "audience role context and qualification relevance",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "IOSH Managing Safely for Managers: How the Qualification Applies to Your Role and Responsibilities",
+        "contextual_bridge_to_core": "Management context discussion connects to the project's practical workplace application — bridges to IOSH Managing Safely Project Help"
+      },
+      {
+        "topic": "IOSH Academic Integrity: What IOSH Allows in the Managing Safely Project",
+        "attribute_focus": "academic integrity — IOSH's rules on project completion and legitimate support",
+        "macro_context": "Candidates who want to understand what constitutes legitimate help with the IOSH Managing Safely project versus academic malpractice under IOSH's assessment regulations",
+        "minor_attribute": "academic integrity and assessment compliance",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "IOSH Managing Safely Project: What Help Is Allowed and What Counts as Assessment Malpractice",
+        "contextual_bridge_to_core": "Trust signal page — resolves candidate concern and supports conversion on IOSH Assignment Help main page"
+      },
+      {
+        "topic": "IOSH SHE Technician Assessment Help",
+        "attribute_focus": "alternative IOSH qualification — IOSH SHE Technician portfolio and written assessment",
+        "macro_context": "Candidates enrolled in the IOSH SHE (Safety, Health and Environment) Technician qualification who need help with the portfolio evidence and written assessment components",
+        "minor_attribute": "IOSH SHE Technician assessment support",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "IOSH SHE Technician Assessment Help: Portfolio Evidence and Written Assessment Guidance",
+        "contextual_bridge_to_core": "IOSH SHE Technician is a natural progression from Managing Safely — bridges to IOSH Assignment Help main page and connects the broader IOSH qualification portfolio"
+      }
+    ],
+    "tier_3_topics": [
+      {
+        "topic": "Careers in Health and Safety: What Does IOSH Managing Safely Lead To?",
+        "attribute_focus": "career outcomes — post-IOSH qualification career options",
+        "macro_context": "IOSH Managing Safely holders and prospective candidates researching what career value the qualification provides and what progression routes it opens",
+        "minor_attribute": "career outcomes and qualification ROI",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "Careers in Health and Safety: What Does IOSH Managing Safely Lead To and What Comes Next?",
+        "contextual_bridge_to_core": "Career progression motivation connects to qualification achievement — bridges to IOSH vs NEBOSH comparison and IOSH Assignment Help"
+      },
+      {
+        "topic": "IOSH Membership Grades: Grad IOSH, Tech IOSH, CMIOSH, and CFIOSH Explained",
+        "attribute_focus": "professional membership — IOSH membership grades and CPD requirements",
+        "macro_context": "IOSH Managing Safely holders who want to understand how their qualification contributes to IOSH professional membership and what steps are required for Grad IOSH, Tech IOSH, and Chartered MIOSH",
+        "minor_attribute": "professional membership and CPD pathway",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "IOSH Membership Grades: Grad IOSH, Tech IOSH, CMIOSH, and CFIOSH — What Each Requires",
+        "contextual_bridge_to_core": "IOSH membership discussion connects to the value of passing IOSH qualifications with high scores — bridges to IOSH Managing Safely Project Help and high score strategy"
+      },
+      {
+        "topic": "What Is a Risk Assessment? A Practical Guide for IOSH Managing Safely Candidates",
+        "attribute_focus": "foundational knowledge — risk assessment as a concept for IOSH beginners",
+        "macro_context": "IOSH Managing Safely candidates who have never conducted a formal risk assessment before and need a foundational explanation before they begin the IOSH Managing Safely project",
+        "minor_attribute": "foundational H&S knowledge — risk assessment basics",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "What Is a Risk Assessment? A Practical Guide for IOSH Managing Safely Candidates and Workplace Managers",
+        "contextual_bridge_to_core": "Risk assessment fundamentals bridge directly to IOSH Managing Safely Risk Assessment Help and IOSH Managing Safely Project Help"
+      }
+    ],
+    "contextual_bridges": [
+      {
+        "from_node": "What Is IOSH Managing Safely? Course, Assessment, and What to Expect",
+        "to_node": "IOSH Managing Safely Project Help",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely project help",
+        "bridge_description": "Course overview explains the project assessment — readers directed to detailed project help"
+      },
+      {
+        "from_node": "IOSH Managing Safely vs NEBOSH General Certificate",
+        "to_node": "IOSH Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH assignment help",
+        "bridge_description": "Candidates choosing IOSH over NEBOSH need project-specific support — bridges to main service page"
+      },
+      {
+        "from_node": "IOSH Working Safely vs IOSH Managing Safely",
+        "to_node": "IOSH Managing Safely Project Help",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely project help",
+        "bridge_description": "Candidates choosing Managing Safely over Working Safely will face the project — bridges to project help"
+      },
+      {
+        "from_node": "IOSH Managing Safely Online",
+        "to_node": "IOSH Managing Safely Project Help",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely project help",
+        "bridge_description": "Online candidates have less tutor support for the project — bridges to project guidance"
+      },
+      {
+        "from_node": "IOSH Managing Safely Pass Rate and Difficulty",
+        "to_node": "IOSH Managing Safely Project Referral and Resubmission Guide",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely project referral",
+        "bridge_description": "Pass rate discussion includes referral rates — connects anxious candidates to referral recovery guidance"
+      },
+      {
+        "from_node": "UK Health and Safety Law for IOSH Test",
+        "to_node": "IOSH Managing Safely Test Preparation",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely test preparation",
+        "bridge_description": "Legislation knowledge is directly tested in module 6 — bridges to comprehensive test revision guide"
+      },
+      {
+        "from_node": "IOSH Managing Safely Incident Investigation",
+        "to_node": "IOSH Managing Safely Test Preparation",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely test preparation",
+        "bridge_description": "Module 7 incident investigation content is tested in the multiple choice exam — bridges to test revision hub"
+      },
+      {
+        "from_node": "IOSH Managing Safely for Managers and Supervisors",
+        "to_node": "IOSH Managing Safely Project Help",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely project help",
+        "bridge_description": "Manager audience context naturally connects to the workplace project which is managerially focused"
+      },
+      {
+        "from_node": "IOSH Academic Integrity",
+        "to_node": "IOSH Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH assignment help",
+        "bridge_description": "Integrity clarification resolves candidate concern — bridges to main service page to convert"
+      },
+      {
+        "from_node": "IOSH SHE Technician Assessment Help",
+        "to_node": "IOSH Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH assignment help",
+        "bridge_description": "SHE Technician candidates share the same assessment support need as Managing Safely candidates — cross-bridges to main service page"
+      },
+      {
+        "from_node": "What Is a Risk Assessment? A Practical Guide",
+        "to_node": "IOSH Managing Safely Risk Assessment Help",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely risk assessment help",
+        "bridge_description": "Foundational risk assessment knowledge bridges to IOSH-specific risk assessment application guidance"
+      },
+      {
+        "from_node": "Careers in Health and Safety",
+        "to_node": "IOSH Managing Safely vs NEBOSH General Certificate",
+        "bridge_type": "linked",
+        "anchor_text": "IOSH Managing Safely vs NEBOSH General Certificate",
+        "bridge_description": "Career progression discussion connects to qualification pathway choices — bridges to comparison page"
+      }
+    ]
+  },
+  "coverage_gaps": [
+    {
+      "topic": "IOSH Managing Safely Project Examples by Industry (construction, healthcare, office, warehouse)",
+      "section": "core",
+      "gap_type": "shallow_depth",
+      "priority": "high",
+      "reason": "Candidates consistently search for IOSH Managing Safely project examples specific to their industry. A dedicated page providing annotated worked example project extracts — hazard identification tables, risk matrix entries, and action plan rows — for the four highest-volume IOSH candidate industries (construction, healthcare, office/DSE, and warehousing) would be the highest-specificity content asset in the IOSH niche. No competitor provides worked examples at this level of sector-specific detail."
+    },
+    {
+      "topic": "IOSH Managing Safely Project Template: Downloadable Structure and Guidance",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "high",
+      "reason": "The second most common IOSH Managing Safely project search query is for a project template or structure guide. A page providing a detailed annotated structural template — with guidance on what each section must include to meet marking criteria — serves candidates at the point of beginning their project. This is an extremely high-conversion page because it captures candidates at the highest-intent moment."
+    },
+    {
+      "topic": "IOSH Managing Safely Project: DSE and Office Environment Complete Worked Example",
+      "section": "core",
+      "gap_type": "shallow_depth",
+      "priority": "medium",
+      "reason": "The office/DSE environment is the single most common workplace for IOSH Managing Safely candidates (white-collar managers and supervisors). A complete worked example project extract for an office environment — with at least 5 specific DSE and office hazards, completed risk matrix, hierarchy-of-control-based recommendations, and SMART action plan — would capture the highest-volume segment of IOSH project search demand with no equivalent competitor content."
+    },
+    {
+      "topic": "IOSH Managing Safely for International Candidates in the UK",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "A significant proportion of IOSH Managing Safely candidates in the UK are international workers — particularly in construction, healthcare, and hospitality sectors — for whom English is an additional language and UK health and safety legislation (HASAWA, Management Regulations) is unfamiliar. A targeted page addressing the project writing challenge for non-native English speakers, UK H&S law orientation, and the specific project requirements bridges this underserved high-need segment."
+    },
+    {
+      "topic": "IOSH Leading Safely: What the Senior Executive Programme Involves",
+      "section": "outer",
+      "gap_type": "undefined",
+      "priority": "low",
+      "reason": "IOSH Leading Safely is a half-day senior executive programme with no written project — but it has distinct search demand from C-suite and senior management audiences. A dedicated page covering the IOSH Leading Safely programme structure, audience, and what participation involves extends the outer section to the executive audience segment that does not take the managing safely project route."
+    },
+    {
+      "topic": "NEBOSH vs IOSH: Full Qualification and Career Comparison",
+      "section": "outer",
+      "gap_type": "disconnected",
+      "priority": "medium",
+      "reason": "The NEBOSH vs IOSH comparison is the highest-volume qualification comparison query in the H&S training niche. A dedicated deep-dive comparison page — covering assessment format, study time, cost, employer recognition, career value, and progression — captures decision-stage candidates and provides strong internal linking value to both the IOSH Managing Safely Project Help and the IOSH vs NEBOSH discovery content. Current competitor coverage of this comparison is superficial."
+    }
+  ],
+  "vastness_depth_momentum": {
+    "vastness_assessment": "The topical map covers the IOSH Managing Safely project at full section depth (5 Core Tier 1 pages covering project overview, risk assessment, hazard identification, action plan, and the main service hub) plus 6 Core Tier 2 pages covering hierarchy of control, marking criteria, referral recovery, test preparation, high-score strategy, and industry-specific guidance. Outer Section covers qualification discovery, comparisons, and contextual knowledge. The topical border is well-defined at IOSH project specificity — level-by-section coverage prevents border erosion by generic 'health and safety help' competitors. Two major gap assets identified: the project worked examples by industry (highest specificity) and the project template page (highest conversion intent).",
+    "depth_assessment": "The most important depth assets not yet built are: (1) the IOSH Managing Safely Project Examples by Industry page — no competitor provides worked example extracts at this sector-specific depth; this is the single highest-authority differentiator in the IOSH niche; (2) the IOSH Managing Safely Project Template page — captures candidates at the highest-intent research moment (about to start the project); (3) the Office/DSE Complete Worked Example — the majority of IOSH Managing Safely candidates are office-based managers; a complete worked example for this environment fills the largest volume gap. The industry-specific project page already in Core Tier 2 provides the framework — the gap pages deepen it to worked-example depth.",
+    "momentum_recommendation": "Publish the main IOSH overview and the five Core Tier 1 project-section-specific pages first (Phase 1 — weeks 1–3). Then grading intelligence, hierarchy of control, referral guide, and test preparation pages (Phase 2). Industry-specific and high-score strategy pages in Phase 3. Gap topic pages (worked examples, template, international candidates) in Phase 4. Outer Tier 1 discovery and comparison pages in Phase 5. Remaining outer and IOSH legislation knowledge pages in Phase 6. Aim for 2 pages per week minimum.",
+    "priority_recommendation": "Depth before vastness — the IOSH Managing Safely project niche has minimal specialist competition. Establish immediate authority with: (1) the IOSH Managing Safely Project Marking Criteria page — no competitor explains the 60-point scoring system at this depth; (2) the Hazard Identification Help page — hazard selection is the most common project failure reason and the most searched project-specific query; (3) the industry-specific project page for office/DSE environments — the majority of IOSH candidates are office managers and this page fills the highest-volume sector gap. These three pages will dominate the IOSH project help niche rapidly because no competitor addresses the Managing Safely project at section-by-section marking-criteria depth."
+  }
+}

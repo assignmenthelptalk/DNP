@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="hnc-engineering-title">
+  <title id="hnc-engineering-title">HNC Engineering Assignment Help Routes: Mechanical Electrical Electronic Civil, Engineering Science Stress Strain Thermodynamics, Electrical Principles Kirchhoff KCL KVL Thevenin Norton, Mathematics Calculus Statistics, Written Analytical Report Sections Only</title>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">HNC Engineering: Three Routes and Analytical Writing Framework</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Written Analytical Report Sections Only — Calculations, Derivations, and Lab Work Not Covered</text>
+
+  <!-- Service scope banner -->
+  <rect x="28" y="82" width="744" height="30" rx="6" fill="#D97706"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">SERVICE SCOPE: Written analytical commentary that meets Merit and Distinction criteria</text>
+  <text x="400" y="109" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#FEF3C7">Calculations, laboratory work, technical drawings, and mathematical derivations are NOT within scope</text>
+
+  <!-- Three route header -->
+  <rect x="28" y="126" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="141" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">THREE ENGINEERING ROUTES — Core Units and Written Report Requirements</text>
+
+  <!-- Mechanical -->
+  <rect x="28" y="156" width="232" height="160" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="156" width="232" height="26" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="170" width="232" height="12" fill="#1B3A6B"/>
+  <text x="144" y="172" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">MECHANICAL ENGINEERING</text>
+  <text x="44" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Engineering Science written sections:</text>
+  <text x="44" y="212" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Stress/strain: interpret results against</text>
+  <text x="44" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">material properties + safety factors</text>
+  <text x="44" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Thermodynamics: efficiency analysis +</text>
+  <text x="44" y="254" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Carnot departure interpretation</text>
+  <text x="44" y="268" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Fluid mechanics: flow regime + pipe</text>
+  <text x="44" y="282" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">sizing engineering implications</text>
+  <text x="44" y="308" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Apprentice / tradesperson audience</text>
+
+  <!-- Electrical/Electronic -->
+  <rect x="284" y="156" width="232" height="160" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="284" y="156" width="232" height="26" rx="6" fill="#2563EB"/>
+  <rect x="284" y="170" width="232" height="12" fill="#2563EB"/>
+  <text x="400" y="172" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">ELECTRICAL / ELECTRONIC</text>
+  <text x="300" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">E&amp;E Principles written sections:</text>
+  <text x="300" y="212" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">KCL/KVL: interpret current/voltage</text>
+  <text x="300" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">distribution against impedance values</text>
+  <text x="300" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Thevenin/Norton: explain analytical</text>
+  <text x="300" y="254" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">utility + evaluate limitations</text>
+  <text x="300" y="268" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">AC circuits: impedance, phase angle,</text>
+  <text x="300" y="282" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">power factor significance analysis</text>
+  <text x="300" y="308" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Thevenin limitations req. for Distinction</text>
+
+  <!-- Civil -->
+  <rect x="540" y="156" width="232" height="160" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="540" y="156" width="232" height="26" rx="6" fill="#7C3AED"/>
+  <rect x="540" y="170" width="232" height="12" fill="#7C3AED"/>
+  <text x="656" y="172" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">CIVIL ENGINEERING</text>
+  <text x="556" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Structural analysis written sections:</text>
+  <text x="556" y="212" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Bending moment / shear force:</text>
+  <text x="556" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">design implications + material selection</text>
+  <text x="556" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Materials testing: connect results to</text>
+  <text x="556" y="254" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">specification + building regulations</text>
+  <text x="556" y="268" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Site investigation: evaluate borehole</text>
+  <text x="556" y="282" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">strategy + geotechnical risk</text>
+  <text x="556" y="308" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Extended report writing in site units</text>
+
+  <!-- Maths strip -->
+  <rect x="28" y="330" width="744" height="64" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="350" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">MATHEMATICS FOR ENGINEERING — Interpretation Required at Merit and Distinction</text>
+  <text x="44" y="366" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Calculus: Pass = find stationary point · Merit = interpret as engineering maximum/minimum (peak stress, maximum efficiency operating point)</text>
+  <text x="44" y="381" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Statistics: Pass = calculate standard deviation · Merit = analyse process precision vs tolerance · Distinction = evaluate statistical methodology (sample size, assumptions, confidence)</text>
+
+  <!-- P/M/D writing pattern -->
+  <rect x="28" y="408" width="744" height="86" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="428" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">THE ENGINEERING ANALYTICAL WRITING PATTERN — Applied to Every Unit</text>
+  <text x="44" y="444" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Pass:</text>
+  <text x="100" y="444" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"The calculated stress value of 125 MPa exceeds the yield strength of 110 MPa."</text>
+  <text x="44" y="460" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#2563EB">Merit:</text>
+  <text x="100" y="460" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"The calculated stress exceeds yield strength by 14%, indicating plastic deformation will occur under the specified loading — a safety factor of 1.5 is required by BS EN 1993, which this design fails to achieve."</text>
+  <text x="44" y="476" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">Distinction:</text>
+  <text x="100" y="476" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"The von Mises criterion assumes isotropic material behaviour — this assumption is violated if the steel has directional grain from rolling, meaning the analysis underestimates shear stress. A biaxial stress state analysis would be more appropriate."</text>
+  <text x="44" y="488" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#D97706">Same calculation · different written commentary · three different grades</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HNC Assignment Help Service · HNC Engineering Written Analytical Framework</text>
+</svg>

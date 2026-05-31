@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="l7-infographic-title">
+  <title id="l7-infographic-title">ATHE Level 7 Strategic Management Frameworks: Key Theories and NHS Policy Documents Required for Distinction</title>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">ATHE Level 7 Key Frameworks — Strategic &amp; Healthcare Management</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Postgraduate-Equivalent CPD Diploma (RQF Level 7) — Distinction Requires Critical Evaluation, Not Just Application</text>
+
+  <!-- Route labels -->
+  <rect x="28" y="78" width="368" height="24" rx="6" fill="#1B3A6B"/>
+  <text x="212" y="95" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">STRATEGIC MANAGEMENT ROUTE</text>
+
+  <rect x="404" y="78" width="368" height="24" rx="6" fill="#DC2626"/>
+  <text x="588" y="95" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">HEALTHCARE MANAGEMENT ROUTE</text>
+
+  <!-- ── Strategic Management frameworks (4 cards, 2 rows) ── -->
+
+  <!-- Card SM1: Leadership -->
+  <rect x="28" y="110" width="176" height="148" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="110" width="176" height="32" rx="8" fill="#2563EB"/>
+  <rect x="28" y="128" width="176" height="14" fill="#2563EB"/>
+  <text x="116" y="128" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">STRATEGIC LEADERSHIP</text>
+  <text x="38" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">Bass (1985)</text>
+  <text x="38" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Transformational leadership</text>
+  <text x="38" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Burns (1978) — original TL/trans</text>
+  <text x="38" y="197" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Goleman (1995) emotional intel.</text>
+  <text x="38" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Greenleaf (1970) servant ldrshp</text>
+  <text x="38" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">★ Distinction: compare Bass vs</text>
+  <text x="38" y="239" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">  Burns + evaluate limitations</text>
+
+  <!-- Card SM2: Change -->
+  <rect x="220" y="110" width="176" height="148" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="220" y="110" width="176" height="32" rx="8" fill="#2563EB"/>
+  <rect x="220" y="128" width="176" height="14" fill="#2563EB"/>
+  <text x="308" y="128" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">LEADING CHANGE</text>
+  <text x="230" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">Kotter (1996)</text>
+  <text x="230" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">8-Step Change Model</text>
+  <text x="230" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Lewin (1951) — Unfreeze/</text>
+  <text x="230" y="197" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Change/Refreeze</text>
+  <text x="230" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">McKinsey 7S (readiness)</text>
+  <text x="230" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">★ Distinction: evaluate Kotter's</text>
+  <text x="230" y="239" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">  sequential assumptions vs Lewin</text>
+
+  <!-- Card SM3: Strategy -->
+  <rect x="28" y="268" width="176" height="148" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="268" width="176" height="32" rx="8" fill="#2563EB"/>
+  <rect x="28" y="286" width="176" height="14" fill="#2563EB"/>
+  <text x="116" y="286" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">STRATEGIC MANAGEMENT</text>
+  <text x="38" y="316" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">Porter (1980)</text>
+  <text x="38" y="329" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Generic Strategies: Cost</text>
+  <text x="38" y="342" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Leadership / Differentiation / Focus</text>
+  <text x="38" y="355" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">PESTLE — strategic risk/oppty</text>
+  <text x="38" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">SWOT — derive strategic choices</text>
+  <text x="38" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">★ Distinction: evaluate Porter's</text>
+  <text x="38" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">  assumptions vs RBV (Barney)</text>
+
+  <!-- Card SM4: HRM -->
+  <rect x="220" y="268" width="176" height="148" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="220" y="268" width="176" height="32" rx="8" fill="#2563EB"/>
+  <rect x="220" y="286" width="176" height="14" fill="#2563EB"/>
+  <text x="308" y="286" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">STRATEGIC HRM</text>
+  <text x="230" y="316" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">Ulrich (1997)</text>
+  <text x="230" y="329" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">HR Business Partner model:</text>
+  <text x="230" y="342" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Strat. Partner · Change Agent</text>
+  <text x="230" y="355" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Admin. Expert · Emp. Champion</text>
+  <text x="230" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Barney (1991) RBV — VRIN</text>
+  <text x="230" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">★ Distinction: link HR strategy</text>
+  <text x="230" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">  to organisational strategy</text>
+
+  <!-- ── Healthcare Management frameworks (4 cards, 2 rows) ── -->
+
+  <!-- Card HC1: NHS Policy -->
+  <rect x="412" y="110" width="176" height="148" rx="8" fill="#FEF2F2" stroke="#FECACA" stroke-width="1.5"/>
+  <rect x="412" y="110" width="176" height="32" rx="8" fill="#DC2626"/>
+  <rect x="412" y="128" width="176" height="14" fill="#DC2626"/>
+  <text x="500" y="128" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">NHS POLICY</text>
+  <text x="422" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#991B1B">NHS Long Term Plan (2019)</text>
+  <text x="422" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Prevention · Primary care ·</text>
+  <text x="422" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Mental health · Cancer · Digital</text>
+  <text x="422" y="197" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#991B1B">NHS People Plan (2020/21)</text>
+  <text x="422" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Workforce strategy — 4 themes</text>
+  <text x="422" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">★ Distinction: engage critically</text>
+  <text x="422" y="239" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">  — what has stalled and why?</text>
+
+  <!-- Card HC2: ICS + Governance -->
+  <rect x="604" y="110" width="168" height="148" rx="8" fill="#FEF2F2" stroke="#FECACA" stroke-width="1.5"/>
+  <rect x="604" y="110" width="168" height="32" rx="8" fill="#DC2626"/>
+  <rect x="604" y="128" width="168" height="14" fill="#DC2626"/>
+  <text x="688" y="128" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">ICS + GOVERNANCE</text>
+  <text x="614" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#991B1B">Integrated Care Systems</text>
+  <text x="614" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Health and Care Act 2022</text>
+  <text x="614" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Replace CCGs; NHS + LA +</text>
+  <text x="614" y="197" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">PCNs in single structure</text>
+  <text x="614" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">CQC Well-Led Framework</text>
+  <text x="614" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">★ Analyse ICS implications</text>
+  <text x="614" y="239" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">  for service delivery</text>
+
+  <!-- Card HC3: Leadership Model -->
+  <rect x="412" y="268" width="176" height="148" rx="8" fill="#FEF2F2" stroke="#FECACA" stroke-width="1.5"/>
+  <rect x="412" y="268" width="176" height="32" rx="8" fill="#DC2626"/>
+  <rect x="412" y="286" width="176" height="14" fill="#DC2626"/>
+  <text x="500" y="286" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">NHS LEADERSHIP MODEL</text>
+  <text x="422" y="316" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">NHS Leadership Academy</text>
+  <text x="422" y="329" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Healthcare Leadership Model</text>
+  <text x="422" y="342" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">9 dimensions: inspiring purpose</text>
+  <text x="422" y="355" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">leading with care · sharing vision</text>
+  <text x="422" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">holding to account · etc.</text>
+  <text x="422" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">★ Distinction: evaluate vs Bass</text>
+  <text x="422" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">  — don't just describe 9 dims.</text>
+
+  <!-- Card HC4: Clinical Governance + Safety -->
+  <rect x="604" y="268" width="168" height="148" rx="8" fill="#FEF2F2" stroke="#FECACA" stroke-width="1.5"/>
+  <rect x="604" y="268" width="168" height="32" rx="8" fill="#DC2626"/>
+  <rect x="604" y="286" width="168" height="14" fill="#DC2626"/>
+  <text x="688" y="286" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">CLINICAL GOVERNANCE</text>
+  <text x="614" y="316" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#991B1B">Scally &amp; Donaldson (1998)</text>
+  <text x="614" y="329" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">7 pillars: clinical effectiveness</text>
+  <text x="614" y="342" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">risk mgmt · audit · R&amp;D · educ.</text>
+  <text x="614" y="355" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">NHS Patient Safety Strategy (2019)</text>
+  <text x="614" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Duty of candour regulations</text>
+  <text x="614" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">★ Distinction: connect policy</text>
+  <text x="614" y="397" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">  to operational implications</text>
+
+  <!-- Referencing note -->
+  <rect x="28" y="430" width="744" height="60" rx="8" fill="#1B3A6B"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Level 7 Harvard Referencing: Source Quality Required for Distinction</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#E5E7EB">Strategic Mgmt journals: Strategic Management Journal · Harvard Business Review · Academy of Management Review</text>
+  <text x="400" y="484" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FCA5A5">Healthcare journals: BMJ · Health Policy · Journal of Health Services Research and Policy · NHS England publications</text>
+
+  <!-- Distinction rule -->
+  <rect x="28" y="502" width="744" height="52" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="400" y="522" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#92400E">Distinction Rule: Evaluate the framework — do not just apply it. Compare with alternatives. Make specific recommendations.</text>
+  <text x="400" y="540" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">"Describe Bass (1985)" = Pass · "Apply Bass to scenario" = Merit · "Evaluate Bass vs Burns, recommend approach for specific context" = Distinction</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">ATHE Assignment Help Service · ATHE Level 7 Diploma (RQF Level 7 — Postgraduate-Equivalent CPD)</text>
+</svg>

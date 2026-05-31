@@ -1,0 +1,636 @@
+{
+  "built_at": "2026-04-10",
+  "central_entity": "NEBOSH assignment",
+  "source_context": "Academic assignment help service — monetizes by providing NEBOSH assignment writing assistance, model answers, open book exam guidance, and unit-specific tutoring for students pursuing NEBOSH qualifications",
+  "central_search_intent": "Students seeking expert help to complete, understand, or pass NEBOSH assignment units and open book exams across all NEBOSH qualification levels",
+  "topical_border_definition": {
+    "inside_border": [
+      "NEBOSH qualifications (IGC, NGC, Diploma, Fire, Environmental, HSW, PSM, Construction)",
+      "NEBOSH assignment units (IG1, IG2, NG1, NG2, DN1, FC1, EC1, HSW1)",
+      "NEBOSH open book exams (OBE) and practical assessments",
+      "NEBOSH marking criteria, assessment guidance, word count requirements",
+      "NEBOSH model answers and sample assignments",
+      "NEBOSH exam preparation and revision strategies",
+      "Health and safety concepts as they relate directly to NEBOSH assignment content",
+      "Risk assessment frameworks within NEBOSH unit scope",
+      "NEBOSH qualification structure, registration, and grading"
+    ],
+    "outside_border": [
+      "Generic health and safety content unconnected to NEBOSH assignments",
+      "IOSH, CITB, ROSPA qualifications as primary topics (comparison context only)",
+      "General academic essay writing not NEBOSH-specific",
+      "Workplace safety legislation as standalone topics (only valid as NEBOSH unit context)",
+      "HR management, occupational psychology as independent topics"
+    ],
+    "competitor_border_risk": "Competitors may expand into 'health and safety assignment help' broadly — defend border by going deeper on NEBOSH unit-specific content rather than going broad into generic health and safety"
+  },
+  "topical_coverage_score": 0,
+  "core_section": {
+    "main_attribute": "assignment completion and guidance",
+    "derived_attributes": [
+      "unit-specific assignment help",
+      "open book exam answers",
+      "practical assessment support",
+      "model answer provision",
+      "marking criteria alignment",
+      "exam technique and structure"
+    ],
+    "tier_1_topics": [
+      {
+        "topic": "NEBOSH IGC Assignment Help",
+        "attribute_focus": "assignment completion — IGC qualification level",
+        "macro_context": "Students who enrolled in the NEBOSH International General Certificate seeking structured help to complete their IG1 written assignment and IG2 practical assessment",
+        "query_context_match": true,
+        "eav_depth_required": "Define IGC assignment structure (IG1 and IG2 units), connect to marking criteria (distinction/merit/pass thresholds), define what examiner expectation looks like per element, connect to real workplace scenario requirements, link common failure reasons",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH IGC Assignment Help: IG1 and IG2 Guidance From Certified Safety Professionals",
+        "suggested_h2s": [
+          "What Does the NEBOSH IGC Assignment Require?",
+          "NEBOSH IG1 Open Book Exam: Structure, Format, and Answer Strategy",
+          "NEBOSH IG2 Practical Assessment: How to Complete a Workplace Inspection",
+          "How Examiners Mark NEBOSH IGC Assignments",
+          "Common Reasons NEBOSH IGC Assignments Fail",
+          "NEBOSH IGC Assignment Word Count and Submission Requirements",
+          "How Our NEBOSH IGC Assignment Help Works"
+        ],
+        "contextual_border_question": "What health and safety management principles underpin the NEBOSH IGC qualification structure?",
+        "supplementary_bridges_to": [
+          "NEBOSH IGC Open Book Exam Questions and Answers",
+          "NEBOSH IG1 Assignment Model Answers",
+          "NEBOSH IG2 Risk Assessment Practical Help"
+        ]
+      },
+      {
+        "topic": "NEBOSH NGC Assignment Help",
+        "attribute_focus": "assignment completion — NGC qualification level (UK-focused)",
+        "macro_context": "UK-based students enrolled in the NEBOSH National General Certificate seeking help with NG1 open book exam and NG2 practical",
+        "query_context_match": true,
+        "eav_depth_required": "Define NGC structure (NG1, NG2), UK legislation context (HSWA 1974, COSHH, RIDDOR, Manual Handling Regulations), differentiate NGC vs IGC assignment requirements, marking band descriptors, NEBOSH NGC answer format expectations",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH NGC Assignment Help: Expert Support for NG1 and NG2 Units",
+        "suggested_h2s": [
+          "NEBOSH NGC vs IGC: Which Assignment Format Applies to You?",
+          "NEBOSH NG1 Open Book Exam: Question Types and Answer Depth",
+          "NEBOSH NG2 Practical Assessment: Completing the Workplace Observation",
+          "UK Legislation You Must Reference in NEBOSH NGC Assignments",
+          "NEBOSH NGC Marking Bands: What Distinction Looks Like",
+          "NG1 Assignment Word Count and Format Requirements",
+          "How We Help With NEBOSH NGC Assignment Completion"
+        ],
+        "contextual_border_question": "How does UK health and safety law shape the content requirements of the NEBOSH NGC assignment?",
+        "supplementary_bridges_to": [
+          "NEBOSH NGC NG1 Model Answers",
+          "UK Health and Safety Legislation for NEBOSH",
+          "NEBOSH NGC vs NEBOSH IGC Comparison"
+        ]
+      },
+      {
+        "topic": "NEBOSH Open Book Exam (OBE) Help",
+        "attribute_focus": "open book exam completion and answer strategy",
+        "macro_context": "Students who have a 24-hour window to complete NEBOSH OBE tasks and need structured help to produce passing or distinction-grade answers",
+        "query_context_match": true,
+        "eav_depth_required": "Define OBE format (24-hour window, task-based questions, command words), connect to marking criteria, explain command word types (identify, describe, explain, outline, justify, evaluate, assess), define distinction vs merit vs pass thresholds with examples, link to specific unit OBE requirements",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH Open Book Exam Help: How to Answer OBE Tasks and Achieve Distinction",
+        "suggested_h2s": [
+          "What Is the NEBOSH Open Book Exam Format?",
+          "NEBOSH OBE Command Words Explained: Identify, Describe, Explain, Evaluate",
+          "How Many Marks Do You Need to Pass the NEBOSH OBE?",
+          "NEBOSH OBE Answer Structure: Word Count, Depth, and Format",
+          "Common Mistakes in NEBOSH Open Book Exam Answers",
+          "NEBOSH OBE vs Traditional Exam: Key Differences for Candidates",
+          "How to Use the 24-Hour OBE Window Strategically"
+        ],
+        "contextual_border_question": "How do NEBOSH command words determine the depth and type of answer required in an OBE task?",
+        "supplementary_bridges_to": [
+          "NEBOSH IGC Assignment Help",
+          "NEBOSH NGC Assignment Help",
+          "NEBOSH OBE Sample Questions and Model Answers"
+        ]
+      },
+      {
+        "topic": "NEBOSH Diploma Assignment Help",
+        "attribute_focus": "assignment completion — Diploma level (advanced)",
+        "macro_context": "Professionals enrolled in the NEBOSH Diploma seeking expert help with advanced-level written assignments across DN1, DN2, and DN3 units",
+        "query_context_match": true,
+        "eav_depth_required": "Define Diploma unit structure (DN1, DN2, DN3), differentiate from certificate-level assignments in depth and scope, connect to IOSH Grad membership pathway, define assignment marking at Diploma level (academic referencing, critical analysis requirements), explain HSE management systems (ISO 45001, BS 45002) as content requirements",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH Diploma Assignment Help: Advanced Support for DN1, DN2, and DN3 Units",
+        "suggested_h2s": [
+          "NEBOSH Diploma Assignment Structure: What Each Unit Requires",
+          "NEBOSH Diploma DN1 Assignment: Health and Safety Management Systems",
+          "NEBOSH Diploma DN2 Assignment: Workplace Health and Safety Hazards",
+          "NEBOSH Diploma DN3 Assignment: Applied Health and Safety Project",
+          "Academic Referencing Requirements for NEBOSH Diploma Assignments",
+          "Critical Analysis vs Descriptive Answers in NEBOSH Diploma Work",
+          "NEBOSH Diploma vs NEBOSH Certificate: Assignment Complexity Compared"
+        ],
+        "contextual_border_question": "What management system frameworks are central to NEBOSH Diploma-level assignment content?",
+        "supplementary_bridges_to": [
+          "ISO 45001 Health and Safety Management System Overview",
+          "NEBOSH Diploma vs NEBOSH Certificate Comparison",
+          "NEBOSH Diploma Unit DN1 Model Answers"
+        ]
+      },
+      {
+        "topic": "NEBOSH Assignment Help Online",
+        "attribute_focus": "service delivery — online, remote expert guidance",
+        "macro_context": "Students globally searching for professional, online NEBOSH assignment help services they can trust",
+        "query_context_match": true,
+        "eav_depth_required": "Define what 'online NEBOSH assignment help' means (not contract cheating — guidance, model answers, tutoring, feedback on drafts), connect to plagiarism rules and NEBOSH academic integrity policy, explain how model answers differ from ghost-writing, define what a legitimate service provides vs an academic integrity risk",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH Assignment Help Online: Expert Guidance From Certified Health and Safety Professionals",
+        "suggested_h2s": [
+          "What Does NEBOSH Assignment Help Online Actually Include?",
+          "Is Getting NEBOSH Assignment Help Cheating?",
+          "How Online NEBOSH Assignment Support Works Step by Step",
+          "What Qualifications Do Our NEBOSH Assignment Experts Hold?",
+          "NEBOSH Assignment Help vs NEBOSH Tutoring: What Is the Difference?",
+          "How to Submit a NEBOSH Assignment: Portal, Format, and Deadline Rules",
+          "Turnaround Times and Pricing for NEBOSH Assignment Help"
+        ],
+        "contextual_border_question": "What does NEBOSH's academic integrity policy mean for students using assignment help services?",
+        "supplementary_bridges_to": [
+          "NEBOSH IGC Assignment Help",
+          "NEBOSH NGC Assignment Help",
+          "NEBOSH Diploma Assignment Help"
+        ]
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "NEBOSH IG1 Assignment Model Answers",
+        "attribute_focus": "model answer provision — IG1 unit",
+        "macro_context": "Students needing to see how a distinction-grade IG1 answer is structured for each task type",
+        "query_context_match": true,
+        "eav_depth_required": "Define IG1 task structure, provide task-by-task breakdown, connect command word to answer depth, show evidence of element references, demonstrate mark allocation awareness",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH IG1 Model Answers: How a Distinction-Grade Assignment Looks",
+        "suggested_h2s": [
+          "NEBOSH IG1 Task 1 Model Answer Example",
+          "NEBOSH IG1 Task 2: Identifying Hazards in a Workplace Scenario",
+          "How to Reference NEBOSH IGC Elements in IG1 Answers",
+          "IG1 Word Count Per Task: What the Marking Guidance Says",
+          "Why Most IG1 Assignments Score Merit Instead of Distinction"
+        ],
+        "contextual_border_question": "How does the IG1 marking scheme define sufficient depth for each element of the open book exam?",
+        "supplementary_bridges_to": [
+          "NEBOSH IGC Assignment Help",
+          "NEBOSH Open Book Exam Help"
+        ]
+      },
+      {
+        "topic": "NEBOSH IG2 Practical Assessment Help",
+        "attribute_focus": "practical assessment completion — IG2 unit",
+        "macro_context": "Students who need to conduct a workplace inspection for IG2 and need guidance on what to observe, record, and write",
+        "query_context_match": true,
+        "eav_depth_required": "Define IG2 structure (observation, risk assessment, report), connect to IG2 marking criteria (justification quality, prioritisation, management recommendations), define what 'suitable and sufficient' risk assessment means in IG2 context, connect to HSG65 and Plan-Do-Check-Act model as content references",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH IG2 Practical Assessment Help: Complete Your Workplace Inspection Report",
+        "suggested_h2s": [
+          "What Does the NEBOSH IG2 Practical Assessment Require?",
+          "How to Choose a Suitable Workplace for the IG2 Inspection",
+          "NEBOSH IG2 Risk Assessment Format: What Examiners Expect",
+          "IG2 Management Report: How to Write Recommendations That Score Marks",
+          "Common Reasons IG2 Practical Assessments Are Referred",
+          "IG2 Submission Deadline and Format Requirements"
+        ],
+        "contextual_border_question": "How does the NEBOSH IG2 connect workplace hazard identification to health and safety management principles?",
+        "supplementary_bridges_to": [
+          "NEBOSH IGC Assignment Help",
+          "Risk Assessment Frameworks in NEBOSH Assignments"
+        ]
+      },
+      {
+        "topic": "NEBOSH Assignment Marking Criteria Explained",
+        "attribute_focus": "marking criteria understanding",
+        "macro_context": "Students who want to understand exactly how their NEBOSH assignments will be graded",
+        "query_context_match": true,
+        "eav_depth_required": "Define NEBOSH grading bands (distinction/merit/pass/refer), connect each band to specific answer quality indicators, define command word expectations per band, reference NEBOSH examiner reports as authoritative sources, connect marking approach to specific unit types",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH Assignment Marking Criteria: How Your Work Is Graded and What Examiners Want",
+        "suggested_h2s": [
+          "NEBOSH Grading Bands: Pass, Merit, Distinction, and Refer Explained",
+          "What Do NEBOSH Examiners Look for in a Distinction Answer?",
+          "NEBOSH Command Words and Their Marking Implications",
+          "How NEBOSH Examiner Reports Reveal Marking Patterns",
+          "Why Answers Are Referred: The Most Common Marking Failures"
+        ],
+        "contextual_border_question": "How does NEBOSH's marking philosophy connect answer depth to the practical application of health and safety principles?",
+        "supplementary_bridges_to": [
+          "NEBOSH Open Book Exam Help",
+          "NEBOSH IG1 Assignment Model Answers"
+        ]
+      },
+      {
+        "topic": "NEBOSH Fire Certificate Assignment Help",
+        "attribute_focus": "assignment completion — Fire qualification",
+        "macro_context": "Students enrolled in the NEBOSH Certificate in Fire Safety seeking help with fire safety assignment units",
+        "query_context_match": true,
+        "eav_depth_required": "Define NEBOSH Fire Certificate unit structure (FC1, FC2), connect to UK fire safety legislation (Regulatory Reform (Fire Safety) Order 2005), define fire risk assessment process as assignment content requirement, connect to fire triangle, means of escape, detection systems as entity attributes",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "NEBOSH Fire Certificate Assignment Help: FC1 and FC2 Expert Guidance",
+        "suggested_h2s": [
+          "NEBOSH Fire Certificate Unit Structure: FC1 and FC2 Overview",
+          "Fire Safety Legislation You Must Reference in NEBOSH Fire Assignments",
+          "NEBOSH Fire Risk Assessment: What the Assignment Requires",
+          "FC1 Open Book Exam: Question Format and Answer Strategy",
+          "NEBOSH Fire Certificate vs NEBOSH IGC: Assignment Differences"
+        ],
+        "contextual_border_question": "How does UK fire safety legislation shape the content requirements of the NEBOSH Fire Certificate assignment?",
+        "supplementary_bridges_to": [
+          "NEBOSH Assignment Marking Criteria Explained",
+          "NEBOSH IGC Assignment Help"
+        ]
+      },
+      {
+        "topic": "NEBOSH Environmental Certificate Assignment Help",
+        "attribute_focus": "assignment completion — Environmental qualification",
+        "macro_context": "Students enrolled in NEBOSH Certificate in Environmental Management needing help with EC1 and practical assessment",
+        "query_context_match": true,
+        "eav_depth_required": "Define EC unit structure, connect to environmental legislation (Environmental Protection Act 1990, ISO 14001), define environmental aspects and impacts as assignment content, connect to environmental risk assessment requirements",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "NEBOSH Environmental Certificate Assignment Help: EC1 and Practical Assessment Guidance",
+        "suggested_h2s": [
+          "NEBOSH Environmental Certificate: What the Assignment Covers",
+          "Environmental Legislation for NEBOSH EC Assignments",
+          "NEBOSH Environmental Practical Assessment: Site Inspection Requirements",
+          "How to Write an Environmental Risk Assessment for NEBOSH EC"
+        ],
+        "contextual_border_question": "How does ISO 14001 connect to the environmental management themes assessed in NEBOSH EC assignments?",
+        "supplementary_bridges_to": [
+          "NEBOSH Assignment Marking Criteria Explained",
+          "NEBOSH Diploma Assignment Help"
+        ]
+      },
+      {
+        "topic": "NEBOSH Construction Certificate Assignment Help",
+        "attribute_focus": "assignment completion — Construction qualification",
+        "macro_context": "Construction industry workers studying the NEBOSH National Construction Certificate needing help with NC1 and NC2 units",
+        "query_context_match": true,
+        "eav_depth_required": "Define NC unit structure (NC1, NC2), connect to CDM Regulations 2015, construction-specific hazards (working at height, excavations, plant and equipment), define NEBOSH Construction practical assessment requirements",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "NEBOSH Construction Certificate Assignment Help: NC1 and NC2 Expert Support",
+        "suggested_h2s": [
+          "NEBOSH Construction Certificate Unit Structure Explained",
+          "CDM Regulations 2015 in NEBOSH Construction Assignments",
+          "NEBOSH Construction Hazards You Must Cover in NC Assignments",
+          "NC2 Practical Assessment: Construction Site Inspection Guidance"
+        ],
+        "contextual_border_question": "How do construction-specific regulations like CDM 2015 shape the required content depth of NEBOSH NC assignments?",
+        "supplementary_bridges_to": [
+          "NEBOSH NGC Assignment Help",
+          "NEBOSH Assignment Marking Criteria Explained"
+        ]
+      },
+      {
+        "topic": "How to Pass NEBOSH Assignment First Time",
+        "attribute_focus": "exam strategy and first-attempt success",
+        "macro_context": "Students who want to avoid referral and ensure their first submission meets passing or merit standard",
+        "query_context_match": true,
+        "eav_depth_required": "Define what causes referral (shallow answers, ignoring command words, missing element references), connect to distinction criteria, define preparation steps (practice questions, marking guidance review, examiner report analysis), time allocation strategy for OBE window",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "How to Pass Your NEBOSH Assignment First Time: Proven Strategies From Safety Professionals",
+        "suggested_h2s": [
+          "Why NEBOSH Assignments Are Referred and How to Avoid It",
+          "How to Read and Respond to NEBOSH Command Words Correctly",
+          "Using NEBOSH Examiner Reports to Predict What Markers Want",
+          "Time Management for the NEBOSH Open Book Exam Window",
+          "How to Structure a NEBOSH Answer for Maximum Marks",
+          "Checklist: Before You Submit Your NEBOSH Assignment"
+        ],
+        "contextual_border_question": "What study patterns and preparation habits distinguish students who achieve distinction from those who receive a referral?",
+        "supplementary_bridges_to": [
+          "NEBOSH Open Book Exam Help",
+          "NEBOSH Assignment Marking Criteria Explained"
+        ]
+      },
+      {
+        "topic": "NEBOSH Assignment Word Count Requirements",
+        "attribute_focus": "formatting and submission compliance",
+        "macro_context": "Students unsure about how long each section of their NEBOSH assignment needs to be",
+        "query_context_match": true,
+        "eav_depth_required": "Define word count guidance per unit and task (IG1, NG1, DN1 etc.), connect to examiner guidance on over-writing vs under-writing, define what happens when word count is exceeded or insufficient, connect to answer structure (heading usage, bullet points, paragraphs)",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "NEBOSH Assignment Word Count: What Each Unit Requires and How to Manage It",
+        "suggested_h2s": [
+          "NEBOSH IG1 Word Count Per Task",
+          "NEBOSH NG1 Open Book Exam Word Count Guidance",
+          "NEBOSH Diploma Assignment Word Count Requirements",
+          "Does Going Over the Word Count Affect Your NEBOSH Mark?",
+          "How to Write Concisely Without Losing Marks in NEBOSH Assignments"
+        ],
+        "contextual_border_question": "How does NEBOSH's approach to word count connect to the examiner's expectation for answer quality over quantity?",
+        "supplementary_bridges_to": [
+          "NEBOSH Assignment Marking Criteria Explained",
+          "How to Pass NEBOSH Assignment First Time"
+        ]
+      }
+    ],
+    "macro_semantics": {
+      "site_wide_ngrams": [
+        "NEBOSH assignment help",
+        "NEBOSH open book exam",
+        "NEBOSH marking criteria",
+        "certified safety professionals",
+        "distinction grade answers",
+        "NEBOSH examiner guidance",
+        "unit-specific help",
+        "workplace health and safety"
+      ],
+      "question_formats": [
+        "What does the NEBOSH [unit] assignment require?",
+        "How do NEBOSH examiners mark [unit] assignments?",
+        "What is the difference between [qualification A] and [qualification B]?",
+        "How do you write a [distinction/merit]-grade answer for NEBOSH?",
+        "Why are NEBOSH [unit] assignments referred?"
+      ],
+      "predicate_distributions": [
+        "complete (complete your NEBOSH assignment)",
+        "achieve (achieve distinction in NEBOSH)",
+        "pass (pass NEBOSH first time)",
+        "submit (submit your NEBOSH assignment)",
+        "understand (understand NEBOSH marking criteria)",
+        "structure (structure a NEBOSH answer)",
+        "score (score higher in NEBOSH OBE)"
+      ],
+      "heading_vector_pattern": "H1 = [NEBOSH Unit/Qualification] + [Assignment Help/Guidance] + [Expert Qualifier]; H2 = Action-oriented questions beginning with What/How/Why; H3 = Specific unit, element, or marking criterion level breakdowns"
+    }
+  },
+  "outer_section": {
+    "tier_1_topics": [
+      {
+        "topic": "What Is NEBOSH? Qualifications, Levels, and Recognition Explained",
+        "attribute_focus": "NEBOSH as an entity — definition and qualification structure",
+        "macro_context": "People researching NEBOSH qualifications before enrolling or deciding which level to study",
+        "minor_attribute": "qualification overview",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "What Is NEBOSH? A Complete Guide to NEBOSH Qualifications, Levels, and Global Recognition",
+        "contextual_bridge_to_core": "Each NEBOSH qualification level leads to different assignment requirements — links to qualification-specific assignment help pages"
+      },
+      {
+        "topic": "NEBOSH IGC vs NEBOSH NGC: Which Should You Study?",
+        "attribute_focus": "qualification comparison — IGC vs NGC",
+        "macro_context": "Prospective students deciding which NEBOSH certificate to take",
+        "minor_attribute": "qualification selection",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH IGC vs NEBOSH NGC: Key Differences, Assignments, and Which Is Right for You",
+        "contextual_bridge_to_core": "Qualification comparison links naturally to both IGC and NGC assignment help pages"
+      },
+      {
+        "topic": "NEBOSH Certificate vs NEBOSH Diploma: What Is the Difference?",
+        "attribute_focus": "qualification comparison — certificate vs diploma level",
+        "macro_context": "Health and safety professionals deciding between certificate and diploma study",
+        "minor_attribute": "qualification progression",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "NEBOSH Certificate vs NEBOSH Diploma: Assignment Complexity, Career Value, and What to Choose",
+        "contextual_bridge_to_core": "Comparison of assignment requirements at each level bridges directly to Diploma Assignment Help and IGC/NGC Assignment Help pages"
+      },
+      {
+        "topic": "NEBOSH Exam Dates, Registration, and Study Timeline",
+        "attribute_focus": "enrollment and examination scheduling",
+        "macro_context": "Students planning when to sit NEBOSH exams and how much time to allocate",
+        "minor_attribute": "qualification logistics",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "NEBOSH Exam Dates and Registration: How to Plan Your Study Timeline",
+        "contextual_bridge_to_core": "Exam date planning bridges to open book exam help and assignment submission guidance"
+      },
+      {
+        "topic": "NEBOSH Pass Rates and Statistics",
+        "attribute_focus": "qualification performance data",
+        "macro_context": "Students researching how difficult NEBOSH qualifications are before enrolling",
+        "minor_attribute": "qualification difficulty and outcomes",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "NEBOSH Pass Rates: What the Statistics Say About IGC, NGC, and Diploma Success",
+        "contextual_bridge_to_core": "Pass rate data links naturally to 'How to Pass NEBOSH Assignment First Time' and assignment help pages"
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "Health and Safety Management Systems: ISO 45001 Explained",
+        "attribute_focus": "ISO 45001 as a NEBOSH content framework",
+        "macro_context": "Students and professionals learning about OHSMS frameworks referenced in NEBOSH Diploma and IGC assignments",
+        "minor_attribute": "management systems knowledge",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "ISO 45001 Health and Safety Management System: What It Is and Why NEBOSH References It",
+        "contextual_bridge_to_core": "ISO 45001 knowledge connects directly to NEBOSH Diploma DN1 assignment content requirements"
+      },
+      {
+        "topic": "Risk Assessment in the Workplace: Types, Process, and Legal Requirements",
+        "attribute_focus": "risk assessment as a NEBOSH assignment content theme",
+        "macro_context": "Students who need foundational knowledge of risk assessment to complete NEBOSH IG2 and NG2 practical assessments",
+        "minor_attribute": "risk assessment methodology",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Workplace Risk Assessment: Types, Five Steps, and What NEBOSH Requires",
+        "contextual_bridge_to_core": "Risk assessment methodology bridges to IG2 and NG2 practical assessment help pages"
+      },
+      {
+        "topic": "UK Health and Safety Legislation for NEBOSH Students",
+        "attribute_focus": "legislation knowledge base for NGC assignments",
+        "macro_context": "UK-based NEBOSH NGC students who need to understand which laws to reference in NG1 answers",
+        "minor_attribute": "legislative framework",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "UK Health and Safety Legislation: A NEBOSH Student's Reference Guide",
+        "contextual_bridge_to_core": "Legislation knowledge is a prerequisite for NEBOSH NGC assignment answers — links to NGC Assignment Help"
+      },
+      {
+        "topic": "Common Workplace Hazards and How NEBOSH Categorises Them",
+        "attribute_focus": "hazard identification as NEBOSH content",
+        "macro_context": "Students learning to identify and classify hazards correctly for NEBOSH practical assessments",
+        "minor_attribute": "hazard classification knowledge",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Common Workplace Hazards: How NEBOSH Categorises Them and What Assessors Look For",
+        "contextual_bridge_to_core": "Hazard identification is a core element of IG2 and NG2 practical assessment content — links to practical assessment help pages"
+      },
+      {
+        "topic": "NEBOSH Courses Online: How to Study for NEBOSH Remotely",
+        "attribute_focus": "study method — online learning for NEBOSH",
+        "macro_context": "Prospective students deciding whether to study for NEBOSH online or through a classroom provider",
+        "minor_attribute": "learning format and provider selection",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "NEBOSH Online Courses: How Remote Study Works and What to Expect From Assignments",
+        "contextual_bridge_to_core": "Online study context connects directly to online NEBOSH assignment help — links to NEBOSH Assignment Help Online page"
+      }
+    ],
+    "tier_3_topics": [
+      {
+        "topic": "NEBOSH vs IOSH: Which Qualification Is Better for Your Career?",
+        "attribute_focus": "qualification comparison — NEBOSH vs competing bodies",
+        "macro_context": "Health and safety professionals comparing NEBOSH with IOSH Managing Safely for career development decisions",
+        "minor_attribute": "career context and qualification landscape",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "NEBOSH vs IOSH: Qualification Comparison, Career Value, and Which to Choose",
+        "contextual_bridge_to_core": "Choosing NEBOSH over IOSH leads to the need for NEBOSH assignment help — bridges to core section via qualification-specific pages"
+      },
+      {
+        "topic": "Career Paths After NEBOSH: Jobs, Salaries, and Progression",
+        "attribute_focus": "career outcomes of NEBOSH qualification",
+        "macro_context": "People considering NEBOSH who want to understand what roles the qualification unlocks",
+        "minor_attribute": "career outcomes and ROI",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "Careers After NEBOSH: Health and Safety Jobs, Salaries, and How Each Qualification Level Compares",
+        "contextual_bridge_to_core": "Career motivation for studying NEBOSH bridges to assignment help — students seeking career advancement need to pass their assignments"
+      },
+      {
+        "topic": "What Is Occupational Health and Safety? A Beginner's Guide",
+        "attribute_focus": "OHS foundational knowledge for new students",
+        "macro_context": "People brand new to health and safety who are considering studying NEBOSH",
+        "minor_attribute": "domain entry knowledge",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "What Is Occupational Health and Safety? Concepts, Law, and Why NEBOSH Is the Standard Qualification",
+        "contextual_bridge_to_core": "OHS introduction naturally funnels into NEBOSH qualification exploration and assignment help"
+      },
+      {
+        "topic": "How to Write a Health and Safety Policy for Beginners",
+        "attribute_focus": "health and safety documentation — policy writing",
+        "macro_context": "Students learning about health and safety policies as part of NEBOSH IGC or NGC unit content",
+        "minor_attribute": "H&S documentation knowledge",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "How to Write a Health and Safety Policy: What NEBOSH Teaches and What Employers Require",
+        "contextual_bridge_to_core": "Health and safety policy content is directly assessed in NEBOSH IGC and NGC units — bridges to assignment help with legislative reference requirements"
+      }
+    ],
+    "contextual_bridges": [
+      {
+        "from_node": "NEBOSH IGC vs NEBOSH NGC: Which Should You Study?",
+        "to_node": "NEBOSH IGC Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "NEBOSH IGC assignment help",
+        "bridge_description": "After comparing qualifications, readers choosing IGC are directed to IGC-specific assignment support"
+      },
+      {
+        "from_node": "NEBOSH IGC vs NEBOSH NGC: Which Should You Study?",
+        "to_node": "NEBOSH NGC Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "NEBOSH NGC assignment help",
+        "bridge_description": "After comparing qualifications, readers choosing NGC are directed to NGC-specific assignment support"
+      },
+      {
+        "from_node": "NEBOSH Pass Rates and Statistics",
+        "to_node": "How to Pass NEBOSH Assignment First Time",
+        "bridge_type": "linked",
+        "anchor_text": "how to pass your NEBOSH assignment first time",
+        "bridge_description": "Pass rate statistics create anxiety that is resolved by the strategy page"
+      },
+      {
+        "from_node": "Risk Assessment in the Workplace",
+        "to_node": "NEBOSH IG2 Practical Assessment Help",
+        "bridge_type": "linked",
+        "anchor_text": "NEBOSH IG2 practical assessment",
+        "bridge_description": "Foundational risk assessment knowledge connects directly to IG2 assessment requirements"
+      },
+      {
+        "from_node": "UK Health and Safety Legislation for NEBOSH Students",
+        "to_node": "NEBOSH NGC Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "NEBOSH NGC assignment",
+        "bridge_description": "Legislation knowledge is a prerequisite for NGC answers — natural bridge to assignment help"
+      },
+      {
+        "from_node": "ISO 45001 Health and Safety Management System",
+        "to_node": "NEBOSH Diploma Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "NEBOSH Diploma assignment help",
+        "bridge_description": "ISO 45001 is central to Diploma DN1 content — bridges to Diploma assignment support"
+      },
+      {
+        "from_node": "NEBOSH Courses Online",
+        "to_node": "NEBOSH Assignment Help Online",
+        "bridge_type": "linked",
+        "anchor_text": "NEBOSH assignment help online",
+        "bridge_description": "Online study context naturally leads to need for online assignment help"
+      },
+      {
+        "from_node": "What Is NEBOSH?",
+        "to_node": "NEBOSH IGC Assignment Help",
+        "bridge_type": "linkless",
+        "anchor_text": "",
+        "bridge_description": "Consistent mention of IGC as the most popular NEBOSH certificate across both pages creates topical proximity without explicit linking"
+      },
+      {
+        "from_node": "NEBOSH vs IOSH: Which Qualification Is Better?",
+        "to_node": "NEBOSH Open Book Exam Help",
+        "bridge_type": "linkless",
+        "anchor_text": "",
+        "bridge_description": "Both pages reference the OBE format as a differentiator of NEBOSH over IOSH — creates linkless contextual alignment"
+      }
+    ]
+  },
+  "coverage_gaps": [
+    {
+      "topic": "NEBOSH HSW (Health, Safety and Wellbeing) Certificate Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "NEBOSH HSW is a growing qualification for non-safety professionals and HR teams — not yet included in core section"
+    },
+    {
+      "topic": "NEBOSH PSM (Process Safety Management) Certificate Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "low",
+      "reason": "Niche qualification for oil, gas and chemical industries — low search volume but zero competition; worth adding at Tier 2"
+    },
+    {
+      "topic": "NEBOSH International Diploma vs NEBOSH National Diploma",
+      "section": "outer",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Students frequently confuse international and national diploma pathways — a comparison page bridges to Diploma assignment help"
+    },
+    {
+      "topic": "NEBOSH Examiner Reports Analysis",
+      "section": "core",
+      "gap_type": "shallow_depth",
+      "priority": "high",
+      "reason": "Examiner reports are the most authoritative source of marking intelligence — a dedicated analysis page creates unique value unavailable elsewhere and directly boosts Core Section authority"
+    },
+    {
+      "topic": "NEBOSH OBE Sample Questions With Worked Answers",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "high",
+      "reason": "Sample question + answer pages are high-intent, high-conversion assets that demonstrate expertise and capture transactional queries"
+    },
+    {
+      "topic": "NEBOSH Assignment Referral: What It Means and What to Do Next",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "high",
+      "reason": "Students who receive a referral are the highest-conversion audience for assignment help services — a dedicated page for this audience is missing"
+    }
+  ],
+  "vastness_depth_momentum": {
+    "vastness_assessment": "The topical map covers all major NEBOSH qualification types at Core Tier 1 (IGC, NGC, Diploma, OBE, Online). Outer section covers qualification discovery, legislation, and management systems. Gaps exist at PSM, HSW, and Diploma variant levels. Vastness is functional but not maximal — 6 gap topics identified that would extend the border.",
+    "depth_assessment": "Core Tier 1 topics have strong EAV depth defined (unit structure, marking criteria, command words, legislation). Tier 2 topics have sufficient depth definitions. The largest depth gap is the absence of Examiner Report analysis content — this is the most unique depth signal available in this niche and should be prioritised.",
+    "momentum_recommendation": "Publish Core Tier 1 and high-priority Tier 2 topics first (weeks 1-3). Move to Outer Tier 1 qualification comparison and discovery content (weeks 4-5). Fill gap topics identified in coverage_gaps (weeks 6-8). Aim for minimum 2 core section pages per week to maintain crawl prioritisation.",
+    "priority_recommendation": "Depth first, then Vastness. The market likely has many thin 'NEBOSH assignment help' pages. Differentiate by going deeper on unit-specific content (IG1 model answers, IG2 practical guidance, examiner report breakdowns) before expanding width. Once depth is established across Core Tier 1 and 2, expand Outer Section for historical data propagation."
+  }
+}

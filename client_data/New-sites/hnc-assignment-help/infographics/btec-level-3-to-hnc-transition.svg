@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" role="img" aria-labelledby="btec-hnc-transition-title">
+  <title id="btec-hnc-transition-title">BTEC Level 3 to HNC Level 4 Transition: RQF Level Comparison, Descriptive vs Analytical Writing Maslow Example, Harvard Referencing Format, Criterion Verbs Pass Merit Distinction, One Resubmission Policy</title>
+
+  <!-- Background -->
+  <rect width="800" height="620" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">BTEC Level 3 to HNC Level 4: The Writing Standard Gap</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">RQF Level 3 → Level 4 · Descriptive to Analytical · Harvard Referencing First Required · One Resubmission</text>
+
+  <!-- Level comparison header -->
+  <rect x="28" y="82" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">RQF LEVEL COMPARISON — What Changes Between BTEC Level 3 and HNC Level 4</text>
+
+  <!-- L3 column -->
+  <rect x="28" y="112" width="356" height="130" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="112" width="356" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="124" width="356" height="12" fill="#1B3A6B"/>
+  <text x="206" y="128" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">BTEC LEVEL 3 NATIONAL (RQF Level 3)</text>
+  <text x="44" y="152" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Pass: describe, identify, explain</text>
+  <text x="44" y="166" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit: analyse, compare → at Level 3 standard</text>
+  <text x="44" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Distinction: evaluate, judge → at Level 3 standard</text>
+  <text x="44" y="196" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Referencing: often not formally required</text>
+  <text x="44" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Multiple drafts / formative feedback cycles common</text>
+  <text x="44" y="227" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Level 3 Merit writing → typically achieves HNC Pass only</text>
+
+  <!-- L4 column -->
+  <rect x="416" y="112" width="356" height="130" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="416" y="112" width="356" height="24" rx="6" fill="#7C3AED"/>
+  <rect x="416" y="124" width="356" height="12" fill="#7C3AED"/>
+  <text x="594" y="128" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">HNC LEVEL 4 (RQF Level 4)</text>
+  <text x="432" y="152" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Pass: accurate academic framing + citations required</text>
+  <text x="432" y="166" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Merit: analysis grounded in academic literature</text>
+  <text x="432" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Distinction: critical eval + synthesis + independent judgement</text>
+  <text x="432" y="196" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Harvard referencing: mandatory (in-text + reference list)</text>
+  <text x="432" y="210" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">ONE resubmission per assignment — formal process</text>
+  <text x="432" y="227" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Same verbs — substantially higher cognitive demand</text>
+
+  <!-- Worked example header -->
+  <rect x="28" y="256" width="744" height="22" rx="4" fill="#D97706"/>
+  <text x="400" y="271" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">WORKED EXAMPLE — Same Theory (Maslow), Same Topic, Different Writing Levels</text>
+
+  <!-- Descriptive -->
+  <rect x="28" y="286" width="356" height="96" rx="6" fill="#FEF2F2" stroke="#FECACA" stroke-width="1.5"/>
+  <text x="44" y="304" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">DESCRIPTIVE — Achieves PASS at HNC (was Merit at Level 3)</text>
+  <text x="44" y="319" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">"Maslow's hierarchy has five levels. Lower needs must be</text>
+  <text x="44" y="333" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">met before higher ones become motivating. The employees</text>
+  <text x="44" y="347" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">in the case study are not having their esteem needs met.</text>
+  <text x="44" y="361" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">They are not receiving enough recognition for their work."</text>
+  <text x="44" y="376" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">No citation · No comparison · No limitation · No implication</text>
+
+  <!-- Analytical -->
+  <rect x="416" y="286" width="356" height="96" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="432" y="304" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#2563EB">ANALYTICAL — Achieves MERIT/DISTINCTION at HNC</text>
+  <text x="432" y="319" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">"Maslow (1943) proposes motivational sequencing where</text>
+  <text x="432" y="333" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">esteem needs — achievement, status, recognition — only</text>
+  <text x="432" y="347" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">motivate once lower-order needs are met. However, Wahba</text>
+  <text x="432" y="361" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">and Bridwell (1976) found limited empirical support for the</text>
+  <text x="432" y="375" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">hierarchy — suggesting a diagnostic approach is preferable."</text>
+  <text x="432" y="383" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="7.5" font-weight="700" fill="#2563EB">Cited · Applied · Limitation acknowledged · Implication drawn</text>
+
+  <!-- Harvard referencing strip -->
+  <rect x="28" y="396" width="744" height="68" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="414" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">HARVARD REFERENCING — Required From Level 4 · Not Taught at Level 3</text>
+  <text x="44" y="430" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">In-text: (Maslow, 1943) · With page: (Maslow, 1943: 372) · Two authors: (Kotler and Keller, 2016) · Three+: (Johnson et al., 2017)</text>
+  <text x="44" y="446" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Reference list: Kotler, P. and Keller, K. (2016). Marketing Management. 15th ed. Harlow: Pearson.</text>
+  <text x="44" y="456" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Common errors: no in-text citation · title used instead of author/year · missing edition · no reference list entry</text>
+
+  <!-- Criterion verbs comparison -->
+  <rect x="28" y="478" width="744" height="54" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="496" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">CRITERION VERBS — Same Words, Different Cognitive Demand at Level 3 vs Level 4</text>
+  <text x="44" y="512" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Analyse (L3 Merit): break into components, compare theories · Analyse (L4 Merit): compare + justify + cite + connect to professional implication</text>
+  <text x="44" y="524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Evaluate (L3 Distinction): make supported judgement · Evaluate (L4 Distinction): critically appraise limitations + synthesise perspectives + recommend with evidence</text>
+
+  <!-- Resubmission warning -->
+  <rect x="28" y="546" width="744" height="30" rx="6" fill="#DC2626"/>
+  <text x="400" y="561" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">ONE RESUBMISSION PER UNIT ASSIGNMENT — Referral = not meeting Pass criteria · Second Referral = unit fail</text>
+  <text x="400" y="572" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#FECACA">Meet ALL Pn criteria first — incomplete Pass sections prevent Merit/Distinction regardless of analytical quality</text>
+
+  <!-- Footer -->
+  <text x="400" y="612" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HNC Assignment Help Service · BTEC Level 3 to HNC Level 4 Transition Reference</text>
+</svg>

@@ -1,0 +1,38 @@
+{
+  "client": "dnp-capstone-project.help",
+  "built_at": "2026-05-31",
+  "source_context": "Academic support service for registered nurses pursuing Doctor of Nursing Practice (DNP) degrees — monetises through paid DNP capstone project guidance, PICOT question development, systematic literature review assistance, IRB proposal writing, implementation plan development, data analysis support, and final manuscript preparation. Serves students across all DNP specialisation tracks at both post-BSN and post-MSN entry pathways.",
+  "central_entity": "DNP Capstone Project",
+  "central_entity_full_definition": "A practice-focused doctoral scholarly project required to complete a Doctor of Nursing Practice degree, distinct from a PhD research dissertation. It applies evidence-based practice, quality improvement, or program evaluation methods to address a defined clinical or healthcare system problem. Typically structured around a PICOT question, systematic or scoping literature review, theoretical/conceptual framework, IRB proposal, implementation plan, outcome evaluation, and final scholarly manuscript or DNP portfolio — completed in a clinical practice setting with faculty advisor and clinical mentor oversight.",
+  "central_search_intent": "Getting expert help to plan, write, and successfully complete a DNP capstone project from PICOT question to final manuscript",
+  "niche": "Doctoral nursing academic support — DNP capstone project help only (NOT PhD dissertation, NOT master's thesis, NOT clinical practicum)",
+  "dnp_tracks_covered": [
+    "Family Nurse Practitioner (FNP)",
+    "Adult-Gerontology Acute Care NP (AGACNP)",
+    "Adult-Gerontology Primary Care NP (AGPCNP)",
+    "Psychiatric-Mental Health NP (PMHNP)",
+    "Pediatric NP (PNP) — Primary and Acute Care",
+    "Neonatal NP (NNP)",
+    "Women's Health NP (WHNP)",
+    "Certified Nurse Midwife (CNM)",
+    "Certified Registered Nurse Anesthetist (CRNA)",
+    "Clinical Nurse Leader (CNL)",
+    "Nurse Executive / Healthcare Leadership",
+    "Population Health",
+    "Nursing Informatics"
+  ],
+  "dnp_project_types_covered": [
+    "Quality Improvement (QI) Project",
+    "Evidence-Based Practice (EBP) Implementation Project",
+    "Program Evaluation Project",
+    "Clinical Practice Guideline Development",
+    "Policy Change Initiative",
+    "Educational Program Development"
+  ],
+  "student_markets": [
+    "US registered nurses in post-BSN DNP programs",
+    "US registered nurses in post-MSN DNP programs",
+    "International nurses in US-accredited DNP programs",
+    "Working nurses completing DNP capstone while employed full-time"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "client_name": "OT Assignment Help",
+  "website": "TBD (https://www.occupationtherapyassignment.help)",
+  "niche": "Academic assignment help for Occupational Therapy students",
+  "source_context": "Academic assignment help and tutoring service for students pursuing Occupational Therapy undergraduate (BSc), postgraduate (MSc/PgDip), and doctoral (OTD) degrees. Also serves OTA (Occupational Therapy Assistant) programme students. Monetises through paid assignment help, essay writing, coursework support, case study writing, reflective journals, literature reviews, and exam/viva preparation.",
+  "central_entity": "Occupational Therapy Assignment",
+  "target_audience": [
+    "BSc Occupational Therapy students (Years 1-3)",
+    "MSc/PgDip Occupational Therapy students",
+    "OTD (Occupational Therapy Doctorate) students",
+    "OTA (Occupational Therapy Assistant) students",
+    "International OT students studying in UK, USA, Australia, Canada",
+    "Students on practice placement struggling with reflective journals"
+  ],
+  "monetisation": [
+    "Paid assignment writing and editing",
+    "Case study help",
+    "Literature review writing",
+    "Research proposal assistance",
+    "Reflective journal/practice placement report help",
+    "Viva voce preparation",
+    "Activity analysis assignment help"
+  ],
+  "built_at": "2026-03-23"
+}

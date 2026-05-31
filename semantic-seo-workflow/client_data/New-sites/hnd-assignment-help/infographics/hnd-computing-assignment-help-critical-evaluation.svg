@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="hnd-computing-title">
+  <title id="hnd-computing-title">HND Computing Critical Evaluation Standard: TOGAF Zachman Enterprise Architecture, OSPF BGP SDN Zero Trust Security, SAFe DevOps Microservices Monolithic Trade-Off, Professional Practice Research Project IEEE Harvard Referencing</title>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F4F7FB" rx="14"/>
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">HND Computing: Degree-Equivalent Critical Evaluation Framework</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Level 5 = Evaluate Against Enterprise Standards · Trade-Off Analysis · Professional Recommendations with Limitations</text>
+
+  <!-- Critical standard banner -->
+  <rect x="28" y="82" width="744" height="30" rx="6" fill="#DC2626"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">HNC Level 4: justify WHY you chose X over Y → HND Level 5: critically evaluate whether X meets enterprise standards and what X sacrifices</text>
+  <text x="400" y="109" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#FECACA">Pass = correct implementation · Merit = trade-off analysis · Distinction = evaluation against enterprise standard + limitations + professional recommendation</text>
+
+  <!-- 4 units header -->
+  <rect x="28" y="126" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="141" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">4 CORE UNITS — Enterprise-Level Frameworks and Distinction Evaluation Criteria</text>
+
+  <!-- Systems Analysis -->
+  <rect x="28" y="156" width="178" height="180" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="156" width="178" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="168" width="178" height="12" fill="#1B3A6B"/>
+  <text x="117" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#FFFFFF">SYSTEMS ANALYSIS</text>
+  <text x="44" y="192" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#374151">Enterprise frameworks:</text>
+  <text x="44" y="206" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">TOGAF ADM phases (8)</text>
+  <text x="44" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Zachman 6×6 matrix</text>
+  <text x="44" y="234" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Advanced UML: component,</text>
+  <text x="44" y="248" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">deployment, activity diagrams</text>
+  <line x1="44" y1="256" x2="196" y2="256" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Distinction eval.:</text>
+  <text x="44" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Architecture vs strategic obj.</text>
+  <text x="44" y="298" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Security + scalability limits</text>
+  <text x="44" y="312" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Alternatives considered</text>
+  <text x="44" y="326" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">TOGAF: which ADM phases critical for context?</text>
+
+  <!-- Networking -->
+  <rect x="220" y="156" width="178" height="180" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="220" y="156" width="178" height="24" rx="6" fill="#2563EB"/>
+  <rect x="220" y="168" width="178" height="12" fill="#2563EB"/>
+  <text x="309" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#FFFFFF">NETWORKING</text>
+  <text x="236" y="192" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#374151">Enterprise protocols:</text>
+  <text x="236" y="206" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">OSPF (intra-domain, link-state)</text>
+  <text x="236" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">BGP (inter-domain, path-vector)</text>
+  <text x="236" y="234" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">MPLS + SDN (control/data plane)</text>
+  <text x="236" y="248" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Zero-trust: never trust, always verify</text>
+  <line x1="236" y1="256" x2="388" y2="256" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="236" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Distinction eval.:</text>
+  <text x="236" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Zero-trust: implementation reqs</text>
+  <text x="236" y="298" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">SDN vs MPLS trade-off for scale</text>
+  <text x="236" y="312" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">SIEM vs threat model eval.</text>
+  <text x="236" y="326" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">CIA triad: Confidentiality/Integrity/Availability</text>
+
+  <!-- Software Engineering -->
+  <rect x="412" y="156" width="178" height="180" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="412" y="156" width="178" height="24" rx="6" fill="#1B3A6B"/>
+  <rect x="412" y="168" width="178" height="12" fill="#1B3A6B"/>
+  <text x="501" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#FFFFFF">SOFTWARE ENGINEERING</text>
+  <text x="428" y="192" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#374151">Enterprise methodologies:</text>
+  <text x="428" y="206" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">SAFe (Agile Release Trains, PI planning)</text>
+  <text x="428" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">DevOps CI/CD (cultural + tooling)</text>
+  <text x="428" y="234" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Microservices vs monolithic</text>
+  <text x="428" y="248" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">TDD / BDD / ISTQB levels</text>
+  <line x1="428" y1="256" x2="580" y2="256" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="428" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Distinction eval.:</text>
+  <text x="428" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">SAFe vs Scrum: overhead vs agility</text>
+  <text x="428" y="298" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Microservices: Saga / CQRS complexity</text>
+  <text x="428" y="312" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">DevOps adoption prerequisites</text>
+  <text x="428" y="326" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Technical debt implications of decomposition</text>
+
+  <!-- Professional Practice -->
+  <rect x="604" y="156" width="168" height="180" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="604" y="156" width="168" height="24" rx="6" fill="#7C3AED"/>
+  <rect x="604" y="168" width="168" height="12" fill="#7C3AED"/>
+  <text x="688" y="171" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#FFFFFF">PROFESSIONAL PRACTICE</text>
+  <text x="620" y="192" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#374151">Research project:</text>
+  <text x="620" y="206" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Specific, bounded research Q</text>
+  <text x="620" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">IEEE Xplore + ACM Digital Library</text>
+  <text x="620" y="234" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Experimental / case study /</text>
+  <text x="620" y="248" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">systematic lit. review</text>
+  <line x1="620" y1="256" x2="762" y2="256" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="620" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Distinction eval.:</text>
+  <text x="620" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Literature synthesises state</text>
+  <text x="620" y="298" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">of knowledge — not summaries</text>
+  <text x="620" y="312" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Methodology limitations eval.</text>
+  <text x="620" y="326" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">IEEE ref: [1] in-text numbered list</text>
+
+  <!-- Trade-off example -->
+  <rect x="28" y="350" width="744" height="76" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">DISTINCTION RECOMMENDATION PATTERN — Specific Trade-Off Analysis</text>
+  <text x="44" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">Merit level:</text>
+  <text x="120" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"Microservices would improve scalability for this system and allow independent deployment of services."</text>
+  <text x="44" y="400" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">Distinction level:</text>
+  <text x="130" y="400" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"Microservices for the payment service reduces deployment risk (independent releases) at the cost of distributed transaction complexity requiring</text>
+  <text x="130" y="414" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">the Saga pattern — a trade-off appropriate here given the high release frequency and low transaction complexity relative to a full banking context."</text>
+
+  <!-- HNC vs HND transition strip -->
+  <rect x="28" y="440" width="744" height="30" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="455" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HNC Level 4: "Why star over ring?" → HND Level 5: "Does this enterprise architecture meet zero-trust and SDN scalability requirements for an org of this complexity?"</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#A8C4E0">Sommerville (2016) · Tanenbaum &amp; Wetherall (2011) · Academic sources: IEEE Xplore · ACM Digital Library</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HND Assignment Help Service · HND Computing Critical Evaluation Framework — Level 5</text>
+</svg>

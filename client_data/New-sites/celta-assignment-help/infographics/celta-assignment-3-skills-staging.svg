@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" role="img" aria-labelledby="celta-skills-title">
+  <title id="celta-skills-title">CELTA Assignment 3 Skills-Related Task: Pre-Task, While-Task, Post-Task Staging with Schema Theory, Blocking Vocabulary, and Reading and Listening Sub-Skills</title>
+
+  <!-- Background -->
+  <rect width="800" height="580" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">CELTA Assignment 3: Skills Lesson Staging</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Pre-Task · While-Task · Post-Task — Each Phase Requires Theoretical Justification</text>
+
+  <!-- Sub-skills header -->
+  <rect x="28" y="82" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">SUB-SKILLS — Must be named precisely in every while-task analysis (not generic "reading" or "listening")</text>
+
+  <!-- Reading sub-skills -->
+  <rect x="28" y="112" width="358" height="72" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">READING SUB-SKILLS</text>
+  <text x="44" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Skimming — rapid read for overall gist/main idea</text>
+  <text x="44" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Scanning — searching for specific information (name, date, number)</text>
+  <text x="44" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Reading for detail — careful comprehensive reading · Reading for inference — implied meaning</text>
+
+  <!-- Listening sub-skills -->
+  <rect x="414" y="112" width="358" height="72" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="430" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">LISTENING SUB-SKILLS</text>
+  <text x="430" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Listening for gist — first listen for overall topic/context</text>
+  <text x="430" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Listening for specific information — selective listening for particular facts</text>
+  <text x="430" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Listening for detail — careful comprehensive listening · Inference — implied meaning</text>
+
+  <!-- PRE-TASK -->
+  <rect x="28" y="198" width="232" height="170" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="198" width="232" height="34" rx="8" fill="#2563EB"/>
+  <rect x="28" y="218" width="232" height="14" fill="#2563EB"/>
+  <text x="144" y="219" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">PRE-TASK</text>
+  <text x="44" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">SCHEMA ACTIVATION (Bartlett, 1932)</text>
+  <text x="44" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Activate learners' background knowledge</text>
+  <text x="44" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">relevant to the TEXT — not generic topic</text>
+  <line x1="44" y1="283" x2="250" y2="283" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="297" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">BLOCKING VOCABULARY ONLY</text>
+  <text x="44" y="311" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Pre-teach ONLY items that would prevent</text>
+  <text x="44" y="325" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">while-task completion if unknown</text>
+  <text x="44" y="339" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Do NOT pre-teach inferrable words</text>
+  <text x="44" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Justify each blocking item in Assignment 3</text>
+
+  <!-- WHILE-TASK -->
+  <rect x="284" y="198" width="232" height="170" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="284" y="198" width="232" height="34" rx="8" fill="#2563EB"/>
+  <rect x="284" y="218" width="232" height="14" fill="#2563EB"/>
+  <text x="400" y="219" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">WHILE-TASK</text>
+  <text x="300" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">GIST FIRST — THEN DETAIL</text>
+  <text x="300" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Task 1: Gist (skimming/listening for gist)</text>
+  <text x="300" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Task 2: Specific info (scanning)</text>
+  <text x="300" y="288" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Task 3: Detail (reading/listening for detail)</text>
+  <text x="300" y="302" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Task 4: Inference (where text supports it)</text>
+  <line x1="300" y1="312" x2="506" y2="312" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="300" y="326" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Gist establishes overall frame before detail</text>
+  <text x="300" y="340" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Mirrors authentic reading/listening behaviour</text>
+  <text x="300" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Detail before gist = criterion failure</text>
+
+  <!-- POST-TASK -->
+  <rect x="540" y="198" width="232" height="170" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="540" y="198" width="232" height="34" rx="8" fill="#2563EB"/>
+  <rect x="540" y="218" width="232" height="14" fill="#2563EB"/>
+  <text x="656" y="219" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">POST-TASK</text>
+  <text x="556" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">RECEPTIVE → PRODUCTIVE</text>
+  <text x="556" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Extend text into speaking or writing</text>
+  <text x="556" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Discussion of ideas/opinions from text</text>
+  <text x="556" y="288" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Writing task using text as genre model</text>
+  <line x1="556" y1="298" x2="762" y2="298" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="556" y="312" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">JUSTIFY THE CONNECTION</text>
+  <text x="556" y="326" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Explain what learners carry from the</text>
+  <text x="556" y="340" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">text into the productive task</text>
+  <text x="556" y="354" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Post-task disconnected from text = referral risk</text>
+
+  <!-- Top-down / Bottom-up theory panel -->
+  <rect x="28" y="382" width="744" height="76" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="400" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">TOP-DOWN vs BOTTOM-UP PROCESSING — Theoretical Rationale for Pre-Task</text>
+  <text x="44" y="416" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">TOP-DOWN: meaning-driven — background knowledge, context, genre expectations → predicts and interprets incoming text. Fast and efficient.</text>
+  <text x="44" y="431" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">BOTTOM-UP: text-driven — phoneme by phoneme, word by word decoding. Slower and more cognitively demanding. L2 learners over-rely on bottom-up.</text>
+  <text x="44" y="448" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Schema theory (Bartlett, 1932): comprehension = active reconstruction from text + existing knowledge. Pre-task activates schema → supports top-down processing during while-task.</text>
+
+  <!-- Warning banner -->
+  <rect x="28" y="470" width="744" height="30" rx="6" fill="#DC2626"/>
+  <text x="400" y="490" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Common refer: describing what happens in each phase without explaining why — theoretical justification is required at every stage</text>
+
+  <!-- Footer -->
+  <text x="400" y="568" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CELTA Assignment Help Service · Cambridge CELTA Assignment 3 — Skills-Related Task</text>
+</svg>

@@ -1,0 +1,833 @@
+{
+  "built_at": "2026-03-23",
+  "central_entity": "Occupational Therapy Assignment",
+  "source_context": "Academic assignment help and tutoring service for students pursuing Occupational Therapy degrees (BSc, MSc/PgDip, OTD) and OTA programmes. Monetises through paid assignment writing, case study help, literature reviews, reflective journals, research proposals, and viva preparation.",
+  "central_search_intent": "Getting expert help to complete, understand, and pass Occupational Therapy assignments, coursework, and academic assessments",
+
+  "topical_border_definition": {
+    "inside_core": [
+      "OT-specific assignment types: case studies, activity analysis, reflective practice, literature reviews, research proposals, evidence-based practice essays, practice placement journals",
+      "OT theoretical models and frameworks as assignment subjects: MOHO, CMOP-E, PEOP, OPM(A), Kawa Model, OTPF, OTIPM",
+      "OT practice areas covered in coursework: paediatric OT, mental health OT, physical rehabilitation OT, neurological OT, geriatric OT, community OT, school-based OT, hand therapy, workplace ergonomics",
+      "OT assessment tools as assignment content: COPM, AMPS, MOHOST, FIM, Barthel Index, REEF, Beery VMI, Sensory Profile, IADL assessments",
+      "OT intervention approaches in assignments: biomechanical, neurodevelopmental, sensory integration, cognitive-behavioural, client-centred, occupation-based",
+      "Clinical reasoning types in OT assignments: procedural, conditional, narrative, interactive, pragmatic",
+      "OT qualification levels and programme stages: Level 4 (Year 1), Level 5 (Year 2), Level 6 (Year 3), postgraduate Level 7",
+      "Condition-specific OT assignment topics: stroke, cerebral palsy, autism spectrum disorder, dementia, spinal cord injury, TBI, mental health conditions, hand injuries",
+      "OT professional standards and ethics as assignment context: RCOT standards, HCPC proficiency standards, professional identity, duty of care",
+      "Fieldwork and practice placement academic requirements: reflective journals, supervision notes, competency frameworks, sign-off documentation"
+    ],
+    "inside_outer": [
+      "Occupational science foundations: occupation as a concept, occupational justice, occupational deprivation, occupational identity",
+      "Anatomy and physiology as it underpins OT practice: neuroanatomy for stroke rehab, biomechanics for hand therapy, developmental milestones for paediatrics",
+      "Disability studies and social model of disability: CRPD, inclusive practice, ableism, lived experience of disability",
+      "Healthcare system context: NHS structure, integrated care systems, multidisciplinary team roles, commissioning in OT",
+      "Evidence-based practice methodology: systematic reviews, RCTs, qualitative research, mixed methods in OT research",
+      "Professional development in OT: CPD requirements, RCOT membership, HCPC registration, re-validation",
+      "Assistive technology categories relevant to OT: AAC devices, environmental controls, wheelchairs, orthotics, ADL aids",
+      "Global OT context: WFOT standards, OT in developing countries, international practice differences"
+    ],
+    "outside_border_excluded": [
+      "Physiotherapy assignment help — DIFFERENT profession, DIFFERENT scope of practice",
+      "Nursing assignment help — overlaps but DIFFERENT qualification pathway and competencies",
+      "Social work assignment help — adjacent discipline but DIFFERENT regulatory framework",
+      "Medical/clinical psychology assignment help",
+      "Speech and language therapy assignment help",
+      "General healthcare essay writing with no OT-specific angle",
+      "Non-academic OT content (job boards, CPD training, patient resources)"
+    ],
+    "competitor_border_threat": "Generic 'healthcare assignment help' services cover OT alongside nursing and physiotherapy without OT-specific depth. Maintaining OT-exclusive vocabulary (MOHO, COPM, RCOT, occupational justice, activity analysis) in all N-grams is the primary competitive advantage. Any dilution into general allied health content loses topical specificity."
+  },
+
+  "topical_coverage_score": 0,
+  "topical_coverage_note": "New website — zero coverage baseline. Target 60+ at 12 months, 80+ at 24 months across full OT assignment topical border.",
+
+  "core_section": {
+    "main_attribute": "Assignment completion and academic success within Occupational Therapy degree programmes",
+    "derived_attributes": [
+      "Programme level navigation (Level 4 → Level 5 → Level 6 → Level 7 postgraduate)",
+      "Assignment type mastery (case study, reflective essay, literature review, activity analysis, research proposal)",
+      "OT model and theory comprehension for written assignments (MOHO, CMOP-E, OTPF, Kawa)",
+      "Practice area–specific assignment support (paediatrics, mental health, neurological, physical rehab, community)",
+      "Condition-specific case study writing (stroke, autism, dementia, CP, SCI, hand injury)",
+      "Assessment tool documentation in assignments (COPM, AMPS, FIM, MOHOST, Barthel)",
+      "Clinical reasoning articulation in written work",
+      "Fieldwork/placement reflective journal and portfolio support"
+    ],
+
+    "tier_1_topics": [
+      {
+        "topic": "Occupational Therapy Assignment Help (Pillar Page)",
+        "attribute_focus": "Overview of all OT assignment help services across all degree levels and assignment types",
+        "macro_context": "Professional academic support for Occupational Therapy students needing help with all types of assignments, coursework, and assessments across BSc, MSc, and OTD levels",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: Occupational Therapy academic assignment. Attributes: qualification level (BSc Level 4-6, MSc Level 7, OTD), assignment types (case study, reflective essay, literature review, activity analysis, research proposal, practice placement journal, viva), marking criteria (Harvard referencing, RCOT standards, evidence-based practice integration, theoretical model application), word counts (1,500–12,000 words depending on level and type), submission formats. Values: specific marking rubric points for each assignment type, model application requirements, clinical reasoning integration. Must define the OT assignment landscape clearly and explain how support differs by level and type.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Occupational Therapy Assignment Help — Expert Support for BSc, MSc and OTD Students",
+        "suggested_h2s": [
+          "What Is an Occupational Therapy Assignment?",
+          "Types of OT Assignments: Case Studies, Reflective Essays, Literature Reviews and More",
+          "BSc Occupational Therapy Assignments: Year 1 to Year 3",
+          "MSc and Postgraduate OT Assignments",
+          "OT Assignment Marking Criteria: What Examiners Look For",
+          "How to Apply OT Models (MOHO, CMOP-E, OTPF) in Assignments",
+          "Practice Placement and Fieldwork Assignment Support",
+          "How Our Occupational Therapy Assignment Help Service Works"
+        ],
+        "contextual_border_question": "Which type of Occupational Therapy assignment are you working on — a case study, reflective essay, literature review, or practice placement journal?",
+        "supplementary_bridges_to": [
+          "OT Case Study Assignment Help",
+          "OT Reflective Essay Help",
+          "OT Literature Review Help",
+          "Activity Analysis Assignment Help",
+          "OT Research Proposal Help"
+        ]
+      },
+      {
+        "topic": "Occupational Therapy Case Study Assignment Help",
+        "attribute_focus": "Writing OT case studies with clinical reasoning, assessment documentation, and intervention planning",
+        "macro_context": "Expert help writing Occupational Therapy case study assignments that demonstrate assessment, clinical reasoning, goal setting, and evidence-based intervention planning",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: OT case study assignment. Attributes: case study structure (background, occupational profile, standardised assessment results, clinical reasoning, goal setting, intervention plan, outcome evaluation), assessment tools required (COPM, AMPS, MOHOST, FIM, Barthel, standardised vs non-standardised), OT models (MOHO, CMOP-E, OTPF, Kawa), clinical reasoning types (procedural, conditional, narrative, interactive, pragmatic), SMART goal format, intervention approaches, evidence sources. Values: word count ranges (2,000–5,000), assessment tool score interpretation, goal format examples, intervention frequency/duration parameters.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Occupational Therapy Case Study Assignment Help — From Assessment to Intervention",
+        "suggested_h2s": [
+          "What Is an OT Case Study Assignment?",
+          "Structure of an Occupational Therapy Case Study",
+          "Writing the Occupational Profile Section",
+          "Documenting Standardised Assessments: COPM, AMPS, and MOHOST",
+          "Applying MOHO or CMOP-E to a Case Study",
+          "Clinical Reasoning in OT Case Studies",
+          "Setting SMART Goals in OT Assignments",
+          "Evidence-Based Intervention Planning for OT Case Studies"
+        ],
+        "contextual_border_question": "Which client population does your OT case study focus on — adult physical rehab, mental health, paediatrics, or older adults?",
+        "supplementary_bridges_to": [
+          "MOHO Assignment Help",
+          "COPM Assessment Tool in Assignments",
+          "Clinical Reasoning in OT Assignments",
+          "Stroke OT Case Study Help",
+          "Mental Health OT Case Study Help"
+        ]
+      },
+      {
+        "topic": "Occupational Therapy Reflective Essay and Reflective Practice Assignment Help",
+        "attribute_focus": "Reflective writing for OT placements, using structured models (Gibbs, Schon, Johns) and professional standards",
+        "macro_context": "Academic support for Occupational Therapy students writing reflective essays and practice placement reflective journals that meet HCPC and RCOT standards",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: OT reflective essay/journal. Attributes: reflective models (Gibbs Reflective Cycle, Schon Reflection-in-Action/on-Action, Johns Model of Structured Reflection, Kolb Experiential Learning Cycle), HCPC Standards of Proficiency referenced, RCOT professional standards, placement types (acute, community, paediatric, mental health, specialist), word count (1,000–3,000), assessment criteria (critical self-reflection, professional identity, learning objectives, supervision engagement). Values: specific HCPC standard codes relevant to OT (e.g., 10.1 professional relationships, 10.2 scope of practice), example reflective journal entry structures, common placement scenarios (first visit assessment, MDT meeting, discharge planning).",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Occupational Therapy Reflective Essay Help — Practice Placement Journals and Reflective Writing",
+        "suggested_h2s": [
+          "What Is Reflective Practice in Occupational Therapy?",
+          "Reflective Models for OT Assignments: Gibbs, Schon, and Johns",
+          "HCPC Standards of Proficiency and Reflective Writing",
+          "How to Structure an OT Reflective Journal Entry",
+          "Reflective Writing for Practice Placement: What Supervisors Want to See",
+          "Common Placement Scenarios for OT Reflective Essays",
+          "Linking Theory to Practice in Reflective OT Assignments",
+          "Professional Identity and Development in OT Reflective Essays"
+        ],
+        "contextual_border_question": "Is your reflective assignment for a specific practice placement (acute, community, mental health, paediatric) or a standalone academic module?",
+        "supplementary_bridges_to": [
+          "OT Practice Placement Assignment Help",
+          "HCPC Standards in OT Assignments",
+          "Professional Identity in OT Essays",
+          "Gibbs Reflective Cycle OT Assignment"
+        ]
+      },
+      {
+        "topic": "Occupational Therapy Literature Review Assignment Help",
+        "attribute_focus": "Writing systematic and narrative literature reviews on OT intervention effectiveness and evidence base",
+        "macro_context": "Expert support for OT students writing literature reviews that critically evaluate evidence for occupational therapy interventions, assessments, and theoretical frameworks",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: OT literature review. Attributes: review types (systematic, scoping, narrative, integrative), PICO/PICOS framework, OT-specific databases (AJOT, BJOT, Cochrane OT, OTseeker, CINAHL, PubMed), quality appraisal tools (CASP checklist, PEDro scale, McMaster evidence guidelines), OT intervention areas covered (sensory integration, constraint-induced movement therapy, cognitive rehabilitation, IADL retraining), referencing style (Harvard, APA), word count (2,500–8,000). Values: search string construction examples for OT topics, CASP appraisal completion examples, synthesis methods for OT evidence, hierarchy of evidence for OT research.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Occupational Therapy Literature Review Help — Evidence-Based Assignments for OT Students",
+        "suggested_h2s": [
+          "What Is an Occupational Therapy Literature Review?",
+          "Systematic vs Narrative Literature Reviews in OT",
+          "PICO Framework for OT Research Questions",
+          "Best Databases for Occupational Therapy Research",
+          "Quality Appraisal Tools in OT Literature Reviews: CASP and PEDro",
+          "Synthesising OT Evidence: From Studies to Argument",
+          "Common OT Literature Review Topics: Sensory Integration, CIMT, Cognitive Rehab",
+          "Harvard and APA Referencing in OT Literature Reviews"
+        ],
+        "contextual_border_question": "Is your literature review focused on a specific OT intervention, assessment tool, or client population?",
+        "supplementary_bridges_to": [
+          "Evidence-Based Practice in OT Assignments",
+          "OT Research Methods Assignment Help",
+          "Sensory Integration Assignment Help",
+          "Cognitive Rehabilitation OT Assignment Help"
+        ]
+      },
+      {
+        "topic": "Activity Analysis Assignment Help for Occupational Therapy Students",
+        "attribute_focus": "Breaking down activities using OT frameworks: physical, cognitive, social, sensory, and occupational demands",
+        "macro_context": "Specialist help for OT students completing activity analysis assignments that evaluate the demands and therapeutic potential of occupations",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: activity analysis in OT. Attributes: analysis frameworks (OTPF activity demands, OTIPM, MOHO occupational analysis), demand categories (objects and properties, space demands, social demands, sequencing, timing, required actions, required body functions, required body structures), occupation categories (ADL, IADL, rest/sleep, education, work, play, leisure, social participation), grading and adapting activities (therapeutic grading continuum, adaptation principles), linking activity demands to client factors. Values: completed activity analysis template examples (cooking, dressing, handwriting), specific body function codes, grading examples for different client populations (upper limb weakness, cognitive impairment, paediatric development).",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Activity Analysis Assignment Help — Occupational Therapy Student Guide",
+        "suggested_h2s": [
+          "What Is Activity Analysis in Occupational Therapy?",
+          "OTPF Activity Demands Framework Explained",
+          "How to Complete an OT Activity Analysis Assignment",
+          "Analysing Physical, Cognitive, and Sensory Demands",
+          "Grading and Adapting Activities in OT Assignments",
+          "Linking Activity Analysis to Client Factors and Goals",
+          "Activity Analysis Examples: Cooking, Dressing, and Handwriting",
+          "Common Mistakes in OT Activity Analysis Assignments"
+        ],
+        "contextual_border_question": "Which occupation or activity is your analysis assignment focused on, and for which client population?",
+        "supplementary_bridges_to": [
+          "OTPF Assignment Help",
+          "ADL Assessment in OT Assignments",
+          "Grading and Adapting Occupation OT",
+          "OT Case Study Assignment Help"
+        ]
+      },
+      {
+        "topic": "Occupational Therapy Research Proposal and Dissertation Help",
+        "attribute_focus": "Writing OT research proposals and dissertations using qualitative, quantitative, and mixed methods",
+        "macro_context": "Expert academic support for OT students at Level 6 and Level 7 writing research proposals, dissertation chapters, and evidence-based capstone projects",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: OT research proposal/dissertation. Attributes: research methodology (qualitative — phenomenology, grounded theory, IPA; quantitative — RCT, cohort, cross-sectional; mixed methods), research designs common in OT (case study research, participatory action research, single-case experimental design), ethics approvals (NHS REC, university ethics, HCPC research standards), OT research frameworks (occupational science paradigm, client-centred research), data collection methods (COPM as outcome measure, observation, interview, survey), data analysis (thematic analysis, statistical analysis, systematic search). Values: typical dissertation word counts (Level 6: 8,000–12,000; Level 7: 15,000–25,000), proposal structure (background, aim, methodology, ethics, timeline), PRISMA checklist for systematic reviews, COREQ for qualitative reporting.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Occupational Therapy Dissertation and Research Proposal Help — BSc and MSc Support",
+        "suggested_h2s": [
+          "OT Dissertation Structure: Chapter by Chapter Guide",
+          "Choosing a Research Methodology for Your OT Dissertation",
+          "Qualitative Research in Occupational Therapy: IPA, Phenomenology, and Grounded Theory",
+          "Quantitative and Mixed Methods OT Dissertations",
+          "Ethics Applications for OT Student Research",
+          "OT Research Proposal: How to Write Aims, Objectives, and Rationale",
+          "Using COPM and Standardised Measures as Outcome Measures",
+          "Common OT Dissertation Topics at BSc and MSc Level"
+        ],
+        "contextual_border_question": "Is your research at BSc (Level 6) or MSc (Level 7) level, and is it a proposal or a full dissertation?",
+        "supplementary_bridges_to": [
+          "OT Literature Review Help",
+          "Evidence-Based Practice in OT",
+          "OT Ethics in Academic Assignments",
+          "Qualitative Research Methods OT"
+        ]
+      }
+    ],
+
+    "tier_2_topics": [
+      {
+        "topic": "MOHO (Model of Human Occupation) Assignment Help",
+        "attribute_focus": "Applying MOHO constructs — volition, habituation, performance capacity, environment — to OT assignments and case studies",
+        "macro_context": "Help applying the Model of Human Occupation correctly in case studies, essays, and reflective assignments",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: MOHO. Attributes: constructs (volition, habituation, performance capacity, environment), sub-concepts (personal causation, values, interests, roles, habits, skills, occupational identity, occupational competence, occupational adaptation), MOHO-based assessments (MOHOST, OPHI-II, OCAIRS, WRI, OSA), MOHO process model (occupational engagement, client-centred reasoning), application across populations. Values: construct definitions with clinical examples, assessment scoring interpretation for each MOHO tool, case vignette application examples, common student errors in MOHO application (confusing volition and habituation, misapplying environment concepts).",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "MOHO Assignment Help — Applying the Model of Human Occupation in OT Essays and Case Studies",
+        "suggested_h2s": [
+          "What Is MOHO? A Student's Guide to the Model of Human Occupation",
+          "MOHO Core Constructs: Volition, Habituation, and Performance Capacity",
+          "The MOHO Environment: Physical, Social, and Occupational",
+          "MOHO-Based Assessments: MOHOST, OPHI-II, and OCAIRS",
+          "Applying MOHO to a Case Study: Step-by-Step",
+          "MOHO and Occupational Identity: Using It in Reflective Essays",
+          "Common Mistakes When Applying MOHO in OT Assignments"
+        ],
+        "contextual_border_question": "Are you applying MOHO in a case study, a theoretical essay, or as an assessment framework?",
+        "supplementary_bridges_to": ["OT Case Study Assignment Help", "MOHOST Assessment in OT Assignments", "OT Model Comparison Essays"]
+      },
+      {
+        "topic": "CMOP-E (Canadian Model of Occupational Performance and Engagement) Assignment Help",
+        "attribute_focus": "Applying CMOP-E person-environment-occupation triangle and spirituality construct to OT academic work",
+        "macro_context": "Academic support for OT students applying the Canadian Model of Occupational Performance and Engagement in assignments",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: CMOP-E. Attributes: components (person with cognitive/affective/physical performance, environment with physical/social/cultural/institutional elements, occupation with self-care/productivity/leisure), spirituality as central construct, client-centred practice philosophy, COPM as linked assessment, Canadian Practice Process Framework (CPPF) as process guide. Values: spirituality component explanation for student assignments, environment component breakdown with assignment examples, COPM scoring and interpretation for academic writing, comparison with MOHO for model comparison essays.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CMOP-E Assignment Help — Applying the Canadian Model of Occupational Performance in OT",
+        "suggested_h2s": [
+          "What Is CMOP-E? Components and Purpose Explained",
+          "Person, Environment, and Occupation in CMOP-E Assignments",
+          "The Spirituality Construct: What It Means for OT Students",
+          "COPM and CMOP-E: Using the Canadian Occupational Performance Measure",
+          "Applying CMOP-E to Case Studies and Client Scenarios",
+          "CMOP-E vs MOHO: Choosing the Right Model for Your Assignment"
+        ],
+        "contextual_border_question": "Is your assignment asking you to apply CMOP-E to a specific case or compare it with another OT model?",
+        "supplementary_bridges_to": ["MOHO Assignment Help", "COPM Assessment in OT Assignments", "OT Model Comparison Essays", "OT Case Study Assignment Help"]
+      },
+      {
+        "topic": "OTPF (Occupational Therapy Practice Framework) Assignment Help",
+        "attribute_focus": "Applying AOTA's OTPF-4 domains, process, and occupation categories in US-based OT degree assignments",
+        "macro_context": "Help for OT students in the USA applying the Occupational Therapy Practice Framework (OTPF-4) in case studies, activity analysis, and evidence-based assignments",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: OTPF (4th Edition). Attributes: domain components (occupations, client factors, performance skills, performance patterns, context/environment), process components (evaluation, intervention, targeting outcomes), occupation categories (ADL, IADL, rest/sleep, education, work, play, leisure, social participation), intervention types (preparatory, purposeful activity, occupation-based activity, education and training, advocacy, self-advocacy), outcome measures. Values: specific domain definitions, performance skills taxonomy (motor, process, social interaction), context types (cultural, personal, physical, social, temporal, virtual), OTPF application in activity analysis templates.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "OTPF Assignment Help — Occupational Therapy Practice Framework for US OT Students",
+        "suggested_h2s": [
+          "What Is the OTPF-4? Domain and Process Explained",
+          "OTPF Occupations: ADL, IADL, Work, Play, and Leisure",
+          "Performance Skills in OTPF Assignments",
+          "Context and Environment in the OTPF",
+          "Using OTPF in Activity Analysis Assignments",
+          "OTPF Intervention Types for OT Case Studies"
+        ],
+        "contextual_border_question": "Are you applying OTPF-4 to an activity analysis, case study, or theoretical assignment?",
+        "supplementary_bridges_to": ["Activity Analysis Assignment Help", "OT Case Study Assignment Help", "MOHO Assignment Help"]
+      },
+      {
+        "topic": "Mental Health Occupational Therapy Assignment Help",
+        "attribute_focus": "OT mental health practice areas: recovery model, psychosocial rehab, community mental health, inpatient assessment",
+        "macro_context": "Specialist academic help for OT students writing assignments on mental health occupational therapy interventions, assessments, and recovery-focused approaches",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: mental health OT assignment. Attributes: mental health settings (acute inpatient, community mental health team, forensic, CAMHS, eating disorders, substance misuse), OT mental health approaches (recovery model, psychosocial rehabilitation, sensory modulation, Kawa Model application, occupational formulation), mental health OT assessments (MOHOST, Model of Human Occupation Screening Tool, OCAIRS, Volitional Questionnaire, Occupational Self Assessment), diagnostic groups (schizophrenia, bipolar disorder, depression, anxiety, personality disorder, PTSD, eating disorders), OT interventions (activity groups, supported employment, social inclusion, ADL rehabilitation, cognitive remediation). Values: recovery model principles in academic writing, specific MOHOST domain scoring examples, occupational formulation structure, common mental health OT case study scenarios.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Mental Health Occupational Therapy Assignment Help — Recovery, Assessment, and Intervention",
+        "suggested_h2s": [
+          "OT in Mental Health: Settings and Roles",
+          "The Recovery Model in Mental Health OT Assignments",
+          "Mental Health OT Assessments: MOHOST, OCAIRS, and OSA",
+          "Occupational Formulation in Mental Health OT",
+          "Sensory Modulation and Sensory Rooms in Mental Health OT",
+          "Mental Health OT Case Study: Writing Schizophrenia, Depression, and Bipolar Assignments",
+          "Psychosocial Rehabilitation and OT: Assignment Guidance"
+        ],
+        "contextual_border_question": "Is your mental health OT assignment focused on a specific diagnostic group, setting, or intervention approach?",
+        "supplementary_bridges_to": ["MOHO Assignment Help", "OT Case Study Assignment Help", "Kawa Model Assignment Help", "Psychosocial Rehabilitation OT"]
+      },
+      {
+        "topic": "Paediatric Occupational Therapy Assignment Help",
+        "attribute_focus": "OT with children: developmental frames, school-based OT, sensory processing, handwriting, autism, CP",
+        "macro_context": "Expert help for OT students writing paediatric OT assignments covering child development, sensory integration, school-based practice, and condition-specific interventions",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: paediatric OT assignment. Attributes: developmental frameworks (developmental milestones, NDT/Bobath in paediatrics, DIR/Floortime), paediatric OT settings (school, early intervention, community, NICU, hospital), paediatric OT assessments (Beery VMI, Sensory Profile 2, BOT-2, PEDI, WeeFIM, MABC-2, CAPE), paediatric conditions (autism spectrum disorder, cerebral palsy, developmental coordination disorder, ADHD, sensory processing disorder, Down syndrome, spina bifida), interventions (sensory integration therapy, handwriting programmes [HWT], Cognitive Orientation to Occupational Performance [CO-OP], constraint-induced movement therapy for paediatrics). Values: Sensory Profile 2 quadrant interpretation, MABC-2 percentile interpretation, CO-OP cognitive strategy examples, handwriting analysis criteria for OT assignments.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Paediatric Occupational Therapy Assignment Help — Children's OT for BSc and MSc Students",
+        "suggested_h2s": [
+          "Paediatric OT: Roles, Settings, and Practice Areas",
+          "Child Development Frameworks in OT Assignments",
+          "Paediatric OT Assessments: Sensory Profile, MABC-2, and Beery VMI",
+          "Autism and OT: Assignment Guidance for ASD Case Studies",
+          "Cerebral Palsy OT Assignments: Assessment and Intervention",
+          "Sensory Integration in Paediatric OT Assignments",
+          "School-Based OT: Handwriting, Fine Motor, and IADL Assignments",
+          "CO-OP Approach in Paediatric OT Case Studies"
+        ],
+        "contextual_border_question": "Is your paediatric OT assignment focused on a specific condition (e.g., autism, CP, DCD), setting, or assessment tool?",
+        "supplementary_bridges_to": ["Sensory Integration OT Assignment Help", "Autism OT Case Study Help", "OT Assessment Tools Assignments", "School-Based OT Assignment Help"]
+      },
+      {
+        "topic": "Neurological Rehabilitation Occupational Therapy Assignment Help",
+        "attribute_focus": "OT in neurological conditions: stroke, TBI, MS, Parkinson's, spinal cord injury — assessment and rehab approaches",
+        "macro_context": "Help for OT students writing assignments on neurological occupational therapy, including stroke rehab, TBI management, and progressive neurological conditions",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: neurological OT assignment. Attributes: neurological conditions covered (stroke, TBI, MS, Parkinson's disease, motor neurone disease, spinal cord injury, acquired brain injury), OT neurological assessments (FIM, Barthel Index, Fugl-Meyer, ARAT, COTNAB, Rivermead, CMSA), neurological OT intervention approaches (task-specific training, constraint-induced movement therapy, mirror therapy, mental practice, compensatory strategies, environmental modification, assistive technology prescription), settings (acute neurology ward, inpatient rehabilitation, community neuro team, outpatients), motor learning principles in OT. Values: FIM/Barthel scoring interpretation for assignments, task-specific training principles and evidence, CIMT protocol parameters (intensity, restraint, massed practice), compensatory vs restorative approach comparison for assignment essays.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Neurological Occupational Therapy Assignment Help — Stroke, TBI, and Neurorehabilitation",
+        "suggested_h2s": [
+          "OT in Neurology: Conditions, Settings, and Roles",
+          "Stroke OT Assignments: Assessment, Goal Setting, and Intervention",
+          "TBI Occupational Therapy: Cognitive and Physical Rehabilitation",
+          "Neurological OT Assessments: FIM, Barthel, and Fugl-Meyer",
+          "Constraint-Induced Movement Therapy in OT Assignments",
+          "Parkinson's Disease and OT: Writing Case Studies and Essays",
+          "Spinal Cord Injury OT: Level of Injury, Goals, and Assistive Technology",
+          "Motor Learning Principles in Neurological OT Assignments"
+        ],
+        "contextual_border_question": "Is your neurological OT assignment focused on a specific condition, assessment tool, or intervention approach?",
+        "supplementary_bridges_to": ["Stroke OT Case Study Help", "OT Assistive Technology Assignments", "FIM and Barthel in OT Assignments", "OT Literature Review Help"]
+      },
+      {
+        "topic": "Clinical Reasoning in Occupational Therapy Assignments",
+        "attribute_focus": "Explaining and demonstrating procedural, conditional, narrative, interactive, and pragmatic reasoning in OT written work",
+        "macro_context": "Help for OT students articulating clinical reasoning processes in assignments, case studies, and reflective essays",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: clinical reasoning in OT. Attributes: reasoning types (procedural — what to do; conditional — who is the whole person; narrative — understanding the client's story; interactive — therapeutic relationship in-session; pragmatic — what is actually feasible; ethical — right vs wrong; scientific — evidence application; generalisative — past cases applied), reasoning development stages (novice to expert continuum), clinical reasoning and OT models (how MOHO informs conditional reasoning, how CMOP-E informs narrative reasoning), articulating reasoning in written assignments (explicit reasoning statements, showing thinking vs stating facts). Values: examples of each reasoning type in written sentences, common student errors (describing what was done vs why), assessment criteria for clinical reasoning in OT essays, clinical reasoning template for case study assignments.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Clinical Reasoning in Occupational Therapy Assignments — How to Explain Your Thinking",
+        "suggested_h2s": [
+          "What Is Clinical Reasoning in Occupational Therapy?",
+          "Types of Clinical Reasoning in OT: Procedural, Conditional, Narrative and More",
+          "How to Articulate Clinical Reasoning in Written OT Assignments",
+          "Clinical Reasoning and OT Models: MOHO, CMOP-E, and the Reasoning Connection",
+          "Developing Clinical Reasoning from Student to Practitioner",
+          "Common Errors in Writing About Clinical Reasoning",
+          "Clinical Reasoning in OT Case Studies: A Worked Example"
+        ],
+        "contextual_border_question": "Is your assignment asking you to demonstrate reasoning in a case study, or to critically analyse the concept of clinical reasoning itself?",
+        "supplementary_bridges_to": ["OT Case Study Assignment Help", "MOHO Assignment Help", "OT Reflective Essay Help", "Evidence-Based Practice in OT"]
+      },
+      {
+        "topic": "Evidence-Based Practice in Occupational Therapy Assignments",
+        "attribute_focus": "Integrating research evidence, clinical expertise, and client values in OT academic writing",
+        "macro_context": "Academic support for OT students demonstrating evidence-based practice in assignments, with correct hierarchy of evidence and critical appraisal",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: evidence-based practice in OT. Attributes: EBP definition (integration of best available evidence + clinical expertise + client values/preferences), hierarchy of evidence (systematic reviews > RCTs > cohort studies > case studies > expert opinion), critical appraisal tools (CASP, PEDro, McMaster Occupational Therapy Evidence-Based Practice Guidelines), OT-specific evidence resources (OTseeker, AOTA Evidence-Based Practice Resources, Cochrane Reviews), evidence levels for common OT interventions (sensory integration — contested; CIMT — strong; cognitive rehab — moderate; ADL training — strong), applying EBP in assignment arguments. Values: CASP appraisal checklist completion examples for OT studies, PEDro score interpretation, constructing an EBP argument paragraph structure, common OT interventions with current evidence level.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Evidence-Based Practice in OT Assignments — Critical Appraisal and Research Integration",
+        "suggested_h2s": [
+          "What Is Evidence-Based Practice in Occupational Therapy?",
+          "Hierarchy of Evidence in OT Academic Assignments",
+          "Critical Appraisal Tools for OT Students: CASP and PEDro",
+          "Best Databases and Resources for OT Evidence",
+          "How to Integrate Evidence in OT Essays and Case Studies",
+          "Current Evidence for Common OT Interventions"
+        ],
+        "contextual_border_question": "Is your assignment focused on applying EBP to a specific OT intervention, or explaining the EBP process itself?",
+        "supplementary_bridges_to": ["OT Literature Review Help", "OT Research Proposal Help", "Clinical Reasoning in OT Assignments"]
+      },
+      {
+        "topic": "Occupational Therapy Practice Placement and Fieldwork Assignment Help",
+        "attribute_focus": "Supporting students completing reflective portfolios, competency documentation, and fieldwork educator evaluations",
+        "macro_context": "Help for OT students completing practice placement academic requirements: reflective journals, supervision records, competency assessments, and professional development portfolios",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: OT practice placement academic requirements. Attributes: placement types (acute hospital, community OT, mental health, paediatric, specialist, elective), competency frameworks (RCOT practice placement competency framework, HCPC standards of proficiency mapping, AHP placement assessment tools), reflective journal requirements (weekly entries, critical incident analysis, supervision records), portfolio components (student self-assessment, clinical educator sign-off, objective evidence of achievement), fieldwork-specific assignments (interprofessional learning logs, service evaluation mini-projects, client-centred planning documentation). Values: HCPC standard codes and what evidence satisfies each, critical incident analysis structure (event > reaction > reflection > learning), supervision record format, pass/fail competency criteria interpretation.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "OT Practice Placement Help — Reflective Journals, Portfolios, and Competency Documentation",
+        "suggested_h2s": [
+          "Understanding OT Practice Placement Academic Requirements",
+          "OT Placement Reflective Journal: What to Write and How",
+          "Mapping Evidence to HCPC Standards of Proficiency",
+          "Competency Frameworks for OT Placements: RCOT and University Requirements",
+          "Critical Incident Analysis for Placement Portfolios",
+          "Working with Your Fieldwork Educator: Documentation and Supervision Records",
+          "Failing a Placement? Academic Support for Students at Risk"
+        ],
+        "contextual_border_question": "Which placement type are you on, and is your difficulty with the reflective writing, competency mapping, or a specific portfolio component?",
+        "supplementary_bridges_to": ["OT Reflective Essay Help", "HCPC Standards in OT Assignments", "OT Professional Identity Essays", "OT Case Study Assignment Help"]
+      },
+      {
+        "topic": "Condition-Specific OT Assignment Help: Stroke",
+        "attribute_focus": "Writing case studies, literature reviews, and essays on occupational therapy for stroke survivors",
+        "macro_context": "Help for OT students completing stroke-related assignments including post-stroke assessment, intervention planning, and neurorehabilitation evidence",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: stroke OT assignment. Attributes: stroke types (ischaemic, haemorrhagic, TIA), stroke consequences relevant to OT (hemiplegia, neglect, aphasia, dysphagia, cognitive changes, fatigue, emotional lability), OT stroke assessments (FIM, Barthel, AMPS, Rivermead ADL, COPM post-stroke, MoCA for cognition, DASH for upper limb), OT stroke interventions (task-specific training, CIMT, bilateral training, ADL retraining, driving rehabilitation, home modification, fatigue management, work rehabilitation), evidence for stroke OT interventions, acute vs subacute vs community phase considerations. Values: Barthel Index and FIM score ranges and clinical interpretation, CIMT intensity protocol (3-6 hrs/day, 2 weeks), specific ADL goals for stroke case studies, evidence levels for key stroke OT interventions.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Stroke Occupational Therapy Assignment Help — Case Studies and Evidence-Based Essays",
+        "suggested_h2s": [
+          "Occupational Therapy After Stroke: Overview for Student Assignments",
+          "Stroke OT Assessments: Barthel Index, FIM, and AMPS",
+          "Upper Limb Rehabilitation OT Assignments: CIMT and Task-Specific Training",
+          "ADL Retraining After Stroke: Writing OT Intervention Plans",
+          "Cognitive and Perceptual OT After Stroke",
+          "Stroke OT in Acute, Inpatient Rehab, and Community Settings",
+          "Evidence for Stroke OT: Current Research for Literature Reviews"
+        ],
+        "contextual_border_question": "Is your stroke OT assignment a case study, a literature review on a specific intervention, or a reflective essay?",
+        "supplementary_bridges_to": ["Neurological OT Assignment Help", "OT Case Study Assignment Help", "FIM and Barthel in OT Assignments", "CIMT Evidence in OT Literature Reviews"]
+      },
+      {
+        "topic": "Condition-Specific OT Assignment Help: Autism Spectrum Disorder",
+        "attribute_focus": "OT for autistic children and adults: sensory processing, daily living skills, school-based OT, social participation",
+        "macro_context": "Specialist help for OT students writing assignments on autism and occupational therapy, covering sensory integration, daily living skills, and evidence-based interventions",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: autism OT assignment. Attributes: autism characteristics relevant to OT (sensory processing differences, motor coordination challenges, IADL difficulties, social communication differences, restricted/repetitive behaviours), OT autism assessments (Sensory Profile 2, MABC-2 for motor, Vineland Adaptive Behaviour Scales, CAPE, PEEDs, Autism Spectrum Rating Scales), OT autism interventions (Ayres Sensory Integration — ASI, JASPER, DIR/Floortime, social skills groups, visual supports, self-regulation programmes, CO-OP for motor learning, IADL skill training), sensory diet concept, neurodiversity-affirming practice, NICE guidelines for autism. Values: ASI vs sensory-based activities distinction (fidelity criteria), sensory diet construction in assignment contexts, NICE autism guidelines relevant to OT student assignments, neurodiversity-affirming language standards.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Autism Occupational Therapy Assignment Help — Sensory Integration, ADL, and School-Based OT",
+        "suggested_h2s": [
+          "OT and Autism: Understanding the Role for Student Assignments",
+          "Sensory Processing and Autism in OT Assignments",
+          "Ayres Sensory Integration: Evidence and Application in OT Essays",
+          "Autism OT Assessments: Sensory Profile 2 and MABC-2",
+          "Daily Living Skills OT for Autistic Children and Adults",
+          "Neurodiversity-Affirming Practice in OT Assignments",
+          "School-Based OT for Autistic Students: Case Studies and Evidence"
+        ],
+        "contextual_border_question": "Is your autism OT assignment for a paediatric or adult population, and does it focus on sensory, motor, ADL, or social participation?",
+        "supplementary_bridges_to": ["Paediatric OT Assignment Help", "Sensory Integration OT Assignment Help", "School-Based OT Assignment Help", "OT Case Study Assignment Help"]
+      },
+      {
+        "topic": "Condition-Specific OT Assignment Help: Dementia",
+        "attribute_focus": "OT for people with dementia: meaningful occupation, carer support, environmental modification, cognitive assessment",
+        "macro_context": "Academic help for OT students writing assignments on dementia occupational therapy — cognitive assessment, occupation-based intervention, and ethical considerations",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: dementia OT assignment. Attributes: dementia types (Alzheimer's, vascular, Lewy body, frontotemporal), OT dementia approach (meaningful occupation focus, strength-based, occupation-based cognitive stimulation), dementia OT assessments (MoCA, MMSE, AMPS for functional assessment, COPM with carer proxy, Kitchen Task Assessment, Allen Cognitive Level Screen), dementia OT interventions (reminiscence, life history work, environmental modification, carer education, ADL adaptation, sensory stimulation, assistive technology for dementia), NICE dementia guidelines relevant to OT, ethical considerations (consent and capacity, best interests decision-making, Mental Capacity Act), end-of-life OT. Values: MoCA/MMSE score ranges and their OT implications, Allen Cognitive Levels 1-6 and functional implications, environmental modification principles for dementia (contrast, lighting, signage, navigation), NICE dementia guideline recommendations for cognitive stimulation.",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Dementia Occupational Therapy Assignment Help — Assessment, Intervention, and Ethics",
+        "suggested_h2s": [
+          "OT and Dementia: The Role of Meaningful Occupation",
+          "Dementia OT Assessments: MoCA, AMPS, and Allen Cognitive Levels",
+          "Environmental Modification for Dementia in OT Assignments",
+          "Occupation-Based Cognitive Stimulation in OT Essays",
+          "Carer Support and Education in Dementia OT Assignments",
+          "Ethical Issues in Dementia OT: Consent, Capacity, and Best Interests",
+          "NICE Guidelines for Dementia: What OT Students Need to Know"
+        ],
+        "contextual_border_question": "Is your dementia OT assignment focused on early-stage, moderate, or advanced dementia, and in which setting?",
+        "supplementary_bridges_to": ["Geriatric OT Assignment Help", "OT Ethics in Assignments", "OT Case Study Assignment Help", "Environmental Modification OT Assignments"]
+      },
+      {
+        "topic": "OT Assessment Tools in Assignments — COPM, AMPS, FIM, Barthel, MOHOST",
+        "attribute_focus": "Using and interpreting standardised OT assessment tools correctly in academic assignments",
+        "macro_context": "Help for OT students explaining, applying, and interpreting standardised occupational therapy assessment tools in case studies and academic essays",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: OT standardised assessment tools. Attributes: tool categories (performance-based, self-report, proxy-report, observational, screening), tool-specific details: COPM (client-centred, 10-point importance/performance/satisfaction scales, problem identification process), AMPS (observational motor and process skill quality, cross-diagnostic), MOHOST (6 sections, rating scale, mental health focus), FIM (18 items, 7-point scale, admission/discharge comparison), Barthel Index (10 ADL items, 0/5/10/15 scoring), MAS, DASH, standardised vs non-standardised distinction, psychometric properties (validity, reliability, sensitivity, specificity), cultural considerations in assessment. Values: COPM scoring procedure step-by-step, AMPS observation setup requirements, FIM total score ranges and functional independence levels, Barthel total score interpretation (0-20 = total dependence; 100 = independent), how to cite assessment tools in academic work.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "OT Assessment Tools in Assignments — COPM, AMPS, FIM, Barthel, and MOHOST Explained",
+        "suggested_h2s": [
+          "Standardised vs Non-Standardised Assessments in OT Assignments",
+          "COPM: How to Use and Score the Canadian Occupational Performance Measure",
+          "AMPS: Assessment of Motor and Process Skills in Academic Writing",
+          "FIM and Barthel Index: Scoring and Interpretation for OT Assignments",
+          "MOHOST: Using the Model of Human Occupation Screening Tool",
+          "Psychometric Properties: Validity and Reliability in OT Assessment Assignments",
+          "Cultural Considerations in OT Assessment: What to Address in Essays"
+        ],
+        "contextual_border_question": "Are you needing to explain a specific assessment tool, compare multiple tools, or use one in a case study?",
+        "supplementary_bridges_to": ["OT Case Study Assignment Help", "MOHO Assignment Help", "CMOP-E Assignment Help", "Neurological OT Assignment Help"]
+      }
+    ],
+
+    "macro_semantics": {
+      "site_wide_ngrams": [
+        "occupational therapy assignment",
+        "OT assignment help",
+        "occupational therapy student",
+        "practice placement",
+        "clinical reasoning",
+        "evidence-based practice",
+        "occupational therapy case study",
+        "OT model",
+        "reflective practice",
+        "HCPC standards",
+        "RCOT",
+        "activity analysis",
+        "intervention planning",
+        "standardised assessment",
+        "therapeutic occupation"
+      ],
+      "question_formats": [
+        "What is [OT concept] and how is it used in assignments?",
+        "How do I apply [OT model] to a case study?",
+        "How to write [OT assignment type] at [BSc/MSc] level?",
+        "What assessments should I use for [condition] in OT?",
+        "What is the difference between [OT concept A] and [OT concept B]?",
+        "How do I demonstrate clinical reasoning in an OT assignment?",
+        "What does [HCPC standard / RCOT principle] mean for my assignment?"
+      ],
+      "predicate_distributions": [
+        "apply (apply MOHO to...)",
+        "demonstrate (demonstrate clinical reasoning...)",
+        "explain (explain the rationale for...)",
+        "critically evaluate (critically evaluate the evidence for...)",
+        "analyse (analyse the occupational performance...)",
+        "justify (justify the selection of...)",
+        "integrate (integrate theory and practice...)",
+        "document (document the assessment findings...)"
+      ],
+      "heading_vector_pattern": "H1: [Condition/Model/Assignment Type] + 'Occupational Therapy Assignment Help'; H2: 'What Is [X]?' then attribute-specific headings; H3: specific values, scoring, and application examples. Headings answer; they do not introduce."
+    }
+  },
+
+  "outer_section": {
+    "tier_1_topics": [
+      {
+        "topic": "Occupational Science and Occupation as a Concept",
+        "attribute_focus": "Foundations of occupational science: occupation defined, occupational justice, occupational identity, occupational deprivation",
+        "macro_context": "Understanding occupational science concepts that underpin OT theoretical work and appear in Level 4-7 foundational assignments",
+        "query_context_match": true,
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "Occupational Science for OT Students — Understanding Occupation, Identity, and Justice",
+        "contextual_bridge_to_core": "Occupational science concepts are the foundational vocabulary tested in Tier 1 OT essays; this outer page builds definitional depth that strengthens core OT assignment pages via linkless co-occurrence and linked contextual bridges."
+      },
+      {
+        "topic": "HCPC Standards of Proficiency for Occupational Therapists",
+        "attribute_focus": "HCPC proficiency standards relevant to OT student assignments: professional autonomy, safety, communication, assessment, intervention",
+        "macro_context": "Understanding and referencing HCPC Standards of Proficiency in OT academic work and practice placement portfolios",
+        "query_context_match": true,
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "HCPC Standards of Proficiency for OT Students — What They Mean for Assignments",
+        "contextual_bridge_to_core": "Directly referenced in reflective essays and placement portfolios (Core Section Tier 1); provides definitional depth for proficiency standards that appear across multiple core pages."
+      },
+      {
+        "topic": "RCOT (Royal College of Occupational Therapists) Professional Standards",
+        "attribute_focus": "RCOT professional standards, ethical principles, and professional identity documents for OT student academic work",
+        "macro_context": "Overview of RCOT standards and professional guidance relevant to OT assignments in UK programmes",
+        "query_context_match": true,
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "RCOT Standards and Professional Practice for OT Students — Assignment Reference Guide",
+        "contextual_bridge_to_core": "Provides definitional context for professional practice standards cited across reflective essays, placement portfolios, and ethics assignments."
+      },
+      {
+        "topic": "Anatomy and Physiology for Occupational Therapy Students",
+        "attribute_focus": "Neuroanatomy for stroke rehab assignments, biomechanics for hand therapy, developmental anatomy for paediatric OT",
+        "macro_context": "Anatomy and physiology content specifically relevant to OT assignment contexts — not general A&P but OT-application focused",
+        "query_context_match": true,
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Anatomy and Physiology for OT Students — What You Need for Assignments",
+        "contextual_bridge_to_core": "Provides foundational body structure and function knowledge that feeds into neurological OT, hand therapy, and paediatric OT core assignment pages."
+      },
+      {
+        "topic": "Social Model of Disability and OT Practice",
+        "attribute_focus": "Social vs medical model, CRPD, ableism, inclusive practice — as they appear in OT critical analysis assignments",
+        "macro_context": "Understanding disability models for OT assignment critical analysis and reflection on professional practice values",
+        "query_context_match": true,
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Social Model of Disability for OT Students — Critical Analysis in Assignments",
+        "contextual_bridge_to_core": "Foundational for critical analysis essays and mental health OT assignments that address oppression, power, and enablement."
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "Kawa Model in Occupational Therapy Assignments",
+        "attribute_focus": "Applying the Kawa (River) Model in mental health OT and cross-cultural practice assignments",
+        "macro_context": "Help applying the Kawa Model as an OT frame of reference in mental health and culturally diverse practice assignments",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "Bridges to mental health OT case study pages and model comparison essays in Core Section."
+      },
+      {
+        "topic": "Sensory Integration Theory and Ayres Sensory Integration in OT",
+        "attribute_focus": "Theoretical basis of sensory integration for OT assignments on paediatric practice and sensory processing",
+        "macro_context": "Explaining sensory integration theory and Ayres SI approach for OT student assignments",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "Bridges to paediatric OT and autism OT Core Section tier-2 pages."
+      },
+      {
+        "topic": "NHS Structure and Occupational Therapy Service Delivery",
+        "attribute_focus": "How OT services are commissioned and delivered in NHS, ICS, and social care settings",
+        "macro_context": "Understanding NHS and healthcare system context for OT assignment writing on service delivery and professional practice",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "Provides healthcare system context for practice placement and clinical reasoning assignments."
+      },
+      {
+        "topic": "Multidisciplinary and Interprofessional Practice in OT Assignments",
+        "attribute_focus": "MDT/IPT roles, interprofessional learning requirements, collaborative practice in OT academic work",
+        "macro_context": "Understanding interprofessional practice concepts for OT assignments on MDT working, collaborative reasoning, and placement learning",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "Bridges to practice placement portfolios and clinical reasoning essays in Core Section."
+      },
+      {
+        "topic": "OT Ethics and Professional Identity in Academic Assignments",
+        "attribute_focus": "Ethical frameworks, professional values, moral distress, and professional identity development for OT essay writing",
+        "macro_context": "Help for OT students writing about ethics, professional values, and identity in academic assignments",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "Supports reflective essays, dementia OT ethics sections, and professional development assignments in Core Section."
+      },
+      {
+        "topic": "Assistive Technology and Environmental Modification in OT Assignments",
+        "attribute_focus": "AT categories, home modification, equipment prescription principles as OT assignment topics",
+        "macro_context": "Help for OT students writing about assistive technology, home adaptation, and environmental modification in assignments",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "Bridges to neurological OT, dementia OT, and spinal cord injury OT pages in Core Section."
+      },
+      {
+        "topic": "OT Career Pathways and Professional Development",
+        "attribute_focus": "OT specialisms, career routes, RCOT membership, Band 5-8 NHS progression, CPD frameworks",
+        "macro_context": "Understanding OT career pathways and professional development for student essays on professional identity and development",
+        "coverage_status": "missing",
+        "priority": "low",
+        "contextual_bridge_to_core": "Outer trust-building content; supports professional development reflection components in practice placement assignments."
+      },
+      {
+        "topic": "Global and Cultural Context of Occupational Therapy",
+        "attribute_focus": "WFOT standards, OT in Global South, cross-cultural practice, occupational justice in international contexts",
+        "macro_context": "International OT context for student assignments on global practice, occupational justice, and cultural competence",
+        "coverage_status": "missing",
+        "priority": "low",
+        "contextual_bridge_to_core": "Bridges to occupational science outer page and mental health OT core pages via occupational justice context."
+      }
+    ],
+    "tier_3_topics": [
+      {
+        "topic": "What Is Occupational Therapy? A Student's Guide",
+        "attribute_focus": "OT profession definition, scope of practice, and how it differs from physiotherapy and nursing",
+        "macro_context": "Foundational guide for students new to OT explaining the profession before embarking on degree-level assignments",
+        "coverage_status": "missing",
+        "priority": "high",
+        "contextual_bridge_to_core": "Topmost-funnel outer page that captures informational intent and redirects to assignment-specific core pages."
+      },
+      {
+        "topic": "How to Reference in OT Assignments: Harvard and APA Guide",
+        "attribute_focus": "Referencing OT journals (BJOT, AJOT), grey literature (NICE, RCOT, HCPC), and OT model sources",
+        "macro_context": "Referencing and citation guidance specifically for Occupational Therapy students using Harvard and APA styles",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "High-volume informational query that bridges to all core assignment type pages; supplementary content links to literature review and dissertation help."
+      },
+      {
+        "topic": "Common OT Assignment Mistakes and How to Avoid Them",
+        "attribute_focus": "Typical errors in OT case studies, literature reviews, and reflective essays and how to correct them",
+        "macro_context": "Troubleshooting guide for OT students struggling with common assignment weaknesses at BSc and MSc level",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "Bridges to all Tier 1 core assignment type pages via 'how to fix' anchor text patterns."
+      },
+      {
+        "topic": "OT Degree Programme Overview: BSc, MSc, and OTD",
+        "attribute_focus": "Structure of OT degree programmes in UK, USA, Australia and Canada — modules, placements, assessment types by year",
+        "macro_context": "Programme navigation content for prospective and current OT students understanding what assignments they will face",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "contextual_bridge_to_core": "Bridges to assignment level-specific core pages and practice placement core pages."
+      }
+    ],
+    "contextual_bridges": [
+      {
+        "from_node": "Occupational Science and Occupation as a Concept (Outer T1)",
+        "to_node": "Occupational Therapy Assignment Help — Pillar Page (Core T1)",
+        "bridge_type": "linked",
+        "anchor_text": "occupational therapy assignment help",
+        "bridge_description": "Occupational science definitions in supplementary content link to pillar page for students who need help applying these concepts in academic assignments."
+      },
+      {
+        "from_node": "HCPC Standards of Proficiency (Outer T1)",
+        "to_node": "OT Practice Placement and Fieldwork Assignment Help (Core T2)",
+        "bridge_type": "linked",
+        "anchor_text": "practice placement portfolio and competency documentation",
+        "bridge_description": "HCPC standards page links to placement portfolio help for students needing to map evidence against proficiency standards."
+      },
+      {
+        "from_node": "Social Model of Disability (Outer T1)",
+        "to_node": "Mental Health OT Assignment Help (Core T2)",
+        "bridge_type": "linked",
+        "anchor_text": "mental health occupational therapy assignment help",
+        "bridge_description": "Disability model content bridges to mental health OT assignments where social model critique is a common essay component."
+      },
+      {
+        "from_node": "Sensory Integration Theory (Outer T2)",
+        "to_node": "Paediatric OT Assignment Help (Core T2)",
+        "bridge_type": "linked",
+        "anchor_text": "paediatric occupational therapy assignment help",
+        "bridge_description": "SI theory outer page links to paediatric OT help for students applying ASI in child OT case studies."
+      },
+      {
+        "from_node": "Sensory Integration Theory (Outer T2)",
+        "to_node": "Autism OT Assignment Help (Core T2)",
+        "bridge_type": "linked",
+        "anchor_text": "autism occupational therapy assignment",
+        "bridge_description": "Sensory integration theory page bridges to autism OT assignment help via supplementary content on ASI in ASD practice."
+      },
+      {
+        "from_node": "Kawa Model (Outer T2)",
+        "to_node": "Mental Health OT Assignment Help (Core T2)",
+        "bridge_type": "linkless",
+        "anchor_text": null,
+        "bridge_description": "Kawa Model content references mental health OT settings consistently, building linkless topical proximity between the outer page and the mental health OT core page."
+      },
+      {
+        "from_node": "Assistive Technology and Environmental Modification (Outer T2)",
+        "to_node": "Neurological OT Assignment Help (Core T2)",
+        "bridge_type": "linked",
+        "anchor_text": "neurological occupational therapy assignment help",
+        "bridge_description": "AT/modification outer page links to neurological OT help where assistive technology prescription is a core assignment component."
+      },
+      {
+        "from_node": "What Is Occupational Therapy? (Outer T3)",
+        "to_node": "Occupational Therapy Assignment Help — Pillar Page (Core T1)",
+        "bridge_type": "linked",
+        "anchor_text": "get occupational therapy assignment help",
+        "bridge_description": "Top-of-funnel informational page redirects educational visitors toward the core assignment help pillar via a direct CTA link."
+      },
+      {
+        "from_node": "How to Reference in OT Assignments (Outer T3)",
+        "to_node": "OT Literature Review Assignment Help (Core T1)",
+        "bridge_type": "linked",
+        "anchor_text": "occupational therapy literature review help",
+        "bridge_description": "Referencing guide supplementary content bridges to literature review help for students building citation skills."
+      },
+      {
+        "from_node": "Common OT Assignment Mistakes (Outer T3)",
+        "to_node": "Clinical Reasoning in OT Assignments (Core T2)",
+        "bridge_type": "linked",
+        "anchor_text": "clinical reasoning in occupational therapy assignments",
+        "bridge_description": "Common mistakes page links to clinical reasoning help as one of the most frequently cited student weaknesses."
+      }
+    ]
+  },
+
+  "coverage_gaps": [
+    {
+      "topic": "Hand Therapy OT Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Hand therapy is a distinct OT speciality with its own assessment tools (DASH, Purdue Pegboard, grip strength), conditions (Dupuytren's, flexor tendon repair, Colles fracture, trigger finger), and splinting principles. Students writing hand therapy assignments need speciality-specific content not covered by generic neurological OT pages."
+    },
+    {
+      "topic": "Geriatric and Older Adults OT Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Older adults OT includes distinct content: falls prevention (HOME FAST, Otago programme), continence and OT, moving and handling, care home OT, frailty assessments — separate from dementia OT which is condition-specific."
+    },
+    {
+      "topic": "Workplace Ergonomics and Vocational Rehabilitation OT Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Vocational rehabilitation and ergonomics is a growing OT speciality tested in Level 6-7 assignments, covering workstation assessment, return-to-work planning, functional capacity evaluation, and employer liaison."
+    },
+    {
+      "topic": "OT Model Comparison Essays (MOHO vs CMOP-E vs OTPF vs Kawa)",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "high",
+      "reason": "Model comparison is one of the most common OT assignment question types at Level 5-6. A dedicated page comparing two or three models with guidance on selecting the best model for a given case is a high-priority coverage gap."
+    },
+    {
+      "topic": "Community Occupational Therapy Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Community OT is a distinct practice setting tested in many placements and assignments — covering DFG applications, home modification, telehealth OT, community mental health teams, and self-management support."
+    },
+    {
+      "topic": "Spinal Cord Injury OT Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "SCI is a high-complexity OT assignment area with specific classification (ASIA/ISNCSCI levels), equipment prescription parameters (power vs manual wheelchair, splinting for tetraplegia), and independence goal frameworks."
+    },
+    {
+      "topic": "Palliative Care and End of Life OT Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "low",
+      "reason": "Palliative OT is increasingly assessed at Level 6-7 — covering meaningful occupation at end of life, fatigue management, energy conservation, and legacy work — requires a dedicated page."
+    },
+    {
+      "topic": "International OT Students: US (OTD), Australian (BOT), and Canadian (MOT) Programme Differences",
+      "section": "outer",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Assignment requirements differ significantly between UK (BSc/MSc RCOT/HCPC framework), US (OTPF/ACOTE framework), Australian (OTBA framework), and Canadian (CAOT framework) programmes. A page addressing this for international students is a key outer section gap."
+    }
+  ],
+
+  "vastness_depth_momentum": {
+    "vastness_assessment": "The topical map currently maps 6 Tier 1 Core topics, 11 Tier 2 Core topics, 5 Tier 1 Outer topics, 8 Tier 2 Outer topics, and 4 Tier 3 Outer topics — totalling approximately 34 planned pages. Coverage gaps identify a further 8 high-priority missing nodes. At launch, vastness is sufficient for initial topical authority signals but will need expansion to 60+ pages within 12 months to compete with established assignment help sites.",
+    "depth_assessment": "Depth is well-defined at the schema level — each tier-1 and tier-2 topic has EAV requirements specified at sufficient granularity (specific score ranges, assessment criteria, clinical values). The critical depth risk is in content execution: OT assignment help pages that mention models and assessments without defining their scoring systems, constructs, and clinical values will fail coverage checks. Every page must include numerical values, specific sub-constructs, and worked examples.",
+    "momentum_recommendation": "Recommended publication sequence: (1) Pillar page + 4 Tier 1 Core pages in Month 1; (2) All 11 Tier 2 Core pages across Months 2-4; (3) Tier 1 Outer pages in Month 3 simultaneously with Tier 2 Core; (4) Tier 2-3 Outer pages in Months 5-8; (5) Coverage gap pages in Months 9-12. Target: 2 new pages per week minimum for first 6 months.",
+    "priority_recommendation": "DEPTH first, then MOMENTUM. For a new site with zero historical data, publishing shallow OT content quickly will not build topical authority — it will accumulate poor session quality signals. Each page must pass full EAV depth review before publication. Prioritise the top 10 pages (pillar + Tier 1 Core + MOHO + CMOP-E + Clinical Reasoning) and publish them at full depth before scaling to Tier 2."
+  }
+}

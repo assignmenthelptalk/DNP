@@ -1,0 +1,741 @@
+{
+  "built_at": "2026-04-10",
+  "central_entity": "BTEC assignment",
+  "source_context": "Academic assignment help service — monetizes by providing BTEC assignment writing assistance, model answers, unit-specific grade criteria guidance, and merit/distinction tutoring for students pursuing BTEC qualifications at Level 2, Level 3 (National), Level 4 (HNC), and Level 5 (HND)",
+  "central_search_intent": "Students seeking expert help to complete BTEC assignments, meet Pearson grading criteria, and achieve merit or distinction grades across all BTEC qualification levels and subjects",
+  "topical_border_definition": {
+    "inside_border": [
+      "BTEC qualifications (First/Level 2, National/Level 3, HNC/Level 4, HND/Level 5)",
+      "BTEC assignment units across all subject areas",
+      "BTEC grading criteria (Pass, Merit, Distinction, Distinction*)",
+      "Pearson BTEC assignment brief interpretation and evidence requirements",
+      "BTEC internal and external assessment methods",
+      "BTEC merit and distinction criteria achievement strategies",
+      "Unit-specific BTEC assignment help (Business, H&SC, Engineering, IT, Sport, Public Services, Art, Construction, Travel, Media, Childcare)",
+      "BTEC assignment resubmission and referral guidance",
+      "BTEC assignment word count, format, and submission compliance",
+      "BTEC grade descriptors and marking band alignment"
+    ],
+    "outside_border": [
+      "General A-Level or GCSE revision (unless directly comparing to BTEC)",
+      "University degree-level assignments (valid only as HND progression context)",
+      "NVQ, CACHE, City & Guilds as primary topics (comparison context only)",
+      "Generic academic essay writing not tied to BTEC criteria",
+      "Subject knowledge content without connection to BTEC assignment requirements"
+    ],
+    "competitor_border_risk": "Competitors may broaden into 'assignment help UK' or 'coursework help' generically — defend topical border by going deeper on Pearson BTEC-specific criteria, unit codes, and grade descriptor language rather than expanding into generic academic writing"
+  },
+  "topical_coverage_score": 0,
+  "core_section": {
+    "main_attribute": "assignment completion and grade criteria achievement",
+    "derived_attributes": [
+      "unit-specific assignment guidance",
+      "merit and distinction criteria alignment",
+      "assignment brief interpretation",
+      "evidence requirement fulfillment",
+      "grade descriptor matching",
+      "resubmission and referral support",
+      "assignment structure and format compliance"
+    ],
+    "tier_1_topics": [
+      {
+        "topic": "BTEC Assignment Help",
+        "attribute_focus": "assignment completion — all BTEC levels, service overview",
+        "macro_context": "Students across all BTEC levels (National, HNC, HND) searching for professional help to complete assignments and achieve passing or distinction grades",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC assessment model (assignment-based, internal vs external), connect to grading bands (Pass/Merit/Distinction/Distinction*), define what 'assignment help' means in BTEC context (not contract cheating — criteria guidance, model answers, evidence structure advice), explain Pearson marking approach, differentiate help types by level (Level 3 vs HND depth expectations), address academic malpractice policy",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC Assignment Help: Expert Guidance for Pass, Merit, and Distinction Grades",
+        "suggested_h2s": [
+          "What Is BTEC Assignment Help and How Does It Work?",
+          "BTEC Grading Criteria Explained: Pass, Merit, Distinction, and Distinction*",
+          "How Our BTEC Assignment Support Differs From Academic Malpractice",
+          "Which BTEC Level Do You Need Help With?",
+          "BTEC Assignment Help for National, HNC, and HND Students",
+          "How Pearson Marks BTEC Assignments: Internal and External Assessment",
+          "What Happens If You Fail a BTEC Assignment?"
+        ],
+        "contextual_border_question": "How does BTEC's criterion-referenced grading system shape what students need to include in every assignment?",
+        "supplementary_bridges_to": [
+          "BTEC National Assignment Help",
+          "BTEC HNC Assignment Help",
+          "BTEC HND Assignment Help",
+          "BTEC Grading Criteria Explained"
+        ]
+      },
+      {
+        "topic": "BTEC National Assignment Help",
+        "attribute_focus": "assignment completion — Level 3 National qualification",
+        "macro_context": "College students studying BTEC Level 3 National (equivalent to A-Levels) who need help completing unit assignments to accumulate credits toward their qualification",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC National structure (Extended Diploma, Diploma, Foundation Diploma, Award), connect to 90-credit/180-credit structures, define internal vs external assessment split (some units externally assessed by Pearson since 2016 reforms), explain unit credit values, define UCAS tariff points (D*D*D* = 168 points), connect grading to university entry requirements, differentiate Extended Diploma from A-Level equivalence",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC National Assignment Help: Level 3 Unit Guidance for Pass, Merit, and Distinction",
+        "suggested_h2s": [
+          "What Is the BTEC Level 3 National and How Is It Assessed?",
+          "BTEC National Internal Assessment: How Unit Assignments Are Marked",
+          "BTEC National External Assessment: Which Units Have Pearson-Set Exams?",
+          "BTEC National Grading: How Pass, Merit, and Distinction Are Calculated",
+          "BTEC National UCAS Points: What Grades Are Worth for University Entry",
+          "BTEC National Extended Diploma vs A-Levels: Key Differences",
+          "How We Help With BTEC National Unit Assignments"
+        ],
+        "contextual_border_question": "How do BTEC National UCAS tariff points connect the assignment grading system to university admissions outcomes?",
+        "supplementary_bridges_to": [
+          "BTEC Assignment Grading Criteria Explained",
+          "BTEC vs A-Level: Which Is Right for You?",
+          "BTEC Business Assignment Help",
+          "BTEC Health and Social Care Assignment Help"
+        ]
+      },
+      {
+        "topic": "BTEC HNC Assignment Help",
+        "attribute_focus": "assignment completion — Level 4 Higher National Certificate",
+        "macro_context": "Students enrolled in a BTEC HNC (Level 4, equivalent to first year of university) who need help with higher-level academic assignments requiring critical analysis and independent research",
+        "query_context_match": true,
+        "eav_depth_required": "Define HNC structure (120 credits, Level 4), connect to Pearson BTEC Higher National grading (Pass/Merit/Distinction at unit and qualification level), explain academic referencing requirements (Harvard, APA), define what 'higher-level thinking' means in HNC assignments (analysis, evaluation, synthesis vs description), connect HNC to progression routes (top-up degree, HND), explain distinction portfolio requirements",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC HNC Assignment Help: Level 4 Higher National Certificate Guidance From Academic Experts",
+        "suggested_h2s": [
+          "What Does a BTEC HNC Assignment Require at Level 4?",
+          "BTEC HNC Grading: How Pass, Merit, and Distinction Are Assessed",
+          "Academic Referencing in BTEC HNC Assignments: Harvard and APA Explained",
+          "Critical Analysis vs Description: What BTEC HNC Distinction Looks Like",
+          "BTEC HNC vs HND: Assignment Complexity and Level Differences",
+          "How to Progress From BTEC HNC to a University Top-Up Degree",
+          "How We Help BTEC HNC Students Achieve Distinction"
+        ],
+        "contextual_border_question": "How does Level 4 critical thinking expectation in BTEC HNC assignments connect to academic standards required for university top-up degree progression?",
+        "supplementary_bridges_to": [
+          "BTEC HND Assignment Help",
+          "BTEC Assignment Grading Criteria Explained",
+          "BTEC HNC Business Assignment Help"
+        ]
+      },
+      {
+        "topic": "BTEC HND Assignment Help",
+        "attribute_focus": "assignment completion — Level 5 Higher National Diploma",
+        "macro_context": "Students enrolled in a BTEC HND (Level 5, equivalent to second year of university) who need help with complex, research-driven assignments requiring independent academic judgement",
+        "query_context_match": true,
+        "eav_depth_required": "Define HND structure (240 credits total including HNC stage, Level 5 units), connect to Pearson BTEC Higher National qualification grading at Level 5, define dissertation/major project requirements in some HND programmes, explain distinction-level expectations (independent evaluation, critical synthesis, professional practice application), connect HND to graduate-level top-up degrees (1 year to full honours degree), reference professional body recognition where applicable (CIPD, CIMA, ICE)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC HND Assignment Help: Level 5 Higher National Diploma Expert Guidance",
+        "suggested_h2s": [
+          "What Does a BTEC HND Assignment Require at Level 5?",
+          "BTEC HND Grading: How Pearson Assesses Higher National Diploma Work",
+          "BTEC HND Major Project and Research Assignment Support",
+          "Distinction-Level HND Assignments: What Independent Evaluation Means",
+          "BTEC HND to Degree Top-Up: How Your Grade Affects University Entry",
+          "Professional Body Recognition of BTEC HND Qualifications",
+          "How We Help BTEC HND Students Achieve Distinction"
+        ],
+        "contextual_border_question": "How do professional body recognition standards for BTEC HND qualifications shape the evidence and depth requirements in Level 5 assignments?",
+        "supplementary_bridges_to": [
+          "BTEC HNC Assignment Help",
+          "BTEC Assignment Grading Criteria Explained",
+          "BTEC HND Business Assignment Help"
+        ]
+      },
+      {
+        "topic": "BTEC Business Assignment Help",
+        "attribute_focus": "assignment completion — Business as most popular BTEC subject",
+        "macro_context": "Students enrolled in BTEC Business at Level 3 National or Level 4/5 Higher National seeking help with business unit assignments involving case studies, reports, and business plans",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC Business unit types (business environment, finance, marketing, HR, entrepreneurship, strategy), connect to common assignment formats (business reports, presentations, case study analyses, business plans), define merit/distinction criteria in business context (application to real businesses, evaluation of strategic options, justified recommendations), reference common BTEC Business units by code (Unit 1 Business and the Business Environment, Unit 2 Marketing Processes, Unit 3 Human Resource Management, Unit 7 Business Decision Making)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC Business Assignment Help: Unit-by-Unit Guidance for National, HNC, and HND",
+        "suggested_h2s": [
+          "BTEC Business Unit Structure: What Each Level Covers",
+          "BTEC Business Unit 1 Assignment Help: Business and the Business Environment",
+          "BTEC Business Marketing Assignment Help: Unit 2 and Beyond",
+          "BTEC Business Finance Assignment Help: Unit 3 Financial Forecasting",
+          "How to Write a BTEC Business Report for Merit and Distinction",
+          "BTEC Business Case Study Assignments: How to Analyse and Evaluate",
+          "BTEC HND Business Assignment Help: Unit-Specific Level 5 Guidance"
+        ],
+        "contextual_border_question": "How do real-world business case study applications distinguish distinction-grade BTEC Business assignments from pass-level work?",
+        "supplementary_bridges_to": [
+          "BTEC National Assignment Help",
+          "BTEC HNC Assignment Help",
+          "BTEC HND Assignment Help",
+          "BTEC Assignment Grading Criteria Explained"
+        ]
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "BTEC Health and Social Care Assignment Help",
+        "attribute_focus": "assignment completion — Health and Social Care subject",
+        "macro_context": "Students enrolled in BTEC Health and Social Care (National or HNC/HND) needing help with care-based unit assignments including safeguarding, communication, anatomy, and service user support",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC Health and Social Care unit structure at Level 3 and Level 5, connect to key unit content (anatomy and physiology, human lifespan, safeguarding, mental health, care values, communication in care settings), define assignment types (case studies, reflective journals, care plans, research reports), connect merit/distinction criteria to application of theory in practice context",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC Health and Social Care Assignment Help: Unit Guidance for National and Higher National Students",
+        "suggested_h2s": [
+          "BTEC Health and Social Care Unit Structure: National and HND Overview",
+          "BTEC Health and Social Care Unit 1: Human Lifespan Development Assignment Help",
+          "BTEC Health and Social Care Safeguarding Assignment Help",
+          "How to Write a BTEC Health and Social Care Case Study for Distinction",
+          "Reflective Practice in BTEC H&SC Assignments: What Merit and Distinction Requires",
+          "BTEC Health and Social Care Anatomy and Physiology Assignment Help"
+        ],
+        "contextual_border_question": "How does the application of care theory to real or simulated service user scenarios determine the grade level in BTEC Health and Social Care assignments?",
+        "supplementary_bridges_to": [
+          "BTEC National Assignment Help",
+          "BTEC Assignment Grading Criteria Explained"
+        ]
+      },
+      {
+        "topic": "BTEC Engineering Assignment Help",
+        "attribute_focus": "assignment completion — Engineering subject",
+        "macro_context": "Students enrolled in BTEC Engineering at Level 3 National or HNC/HND needing help with technical assignments covering mechanical, electrical, civil, and manufacturing engineering units",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC Engineering unit types (engineering principles, mathematics for engineering, mechanical and electrical science, project design), connect to assignment formats (technical reports, design specifications, lab reports, CAD drawings with written justification), define merit/distinction in engineering context (mathematical accuracy, evaluation of design choices, safety and compliance analysis), reference professional body alignment (IET, IMechE)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC Engineering Assignment Help: Technical Unit Guidance for National, HNC, and HND",
+        "suggested_h2s": [
+          "BTEC Engineering Unit Structure: What National and HND Cover",
+          "BTEC Engineering Principles Assignment Help: Mathematics and Science Units",
+          "BTEC Mechanical Engineering Assignment Help: Design and Analysis",
+          "BTEC Electrical Engineering Assignment Help: Circuit Analysis and Systems",
+          "How to Write a BTEC Engineering Technical Report for Distinction",
+          "BTEC HND Engineering Assignment Help: Level 5 Project and Research Units"
+        ],
+        "contextual_border_question": "How does technical accuracy and design evaluation differentiate distinction-level from pass-level BTEC Engineering assignment work?",
+        "supplementary_bridges_to": [
+          "BTEC HNC Assignment Help",
+          "BTEC HND Assignment Help",
+          "BTEC Assignment Grading Criteria Explained"
+        ]
+      },
+      {
+        "topic": "BTEC IT Assignment Help",
+        "attribute_focus": "assignment completion — Information Technology subject",
+        "macro_context": "Students enrolled in BTEC IT (Computing, Networking, Software Development) at Level 3 or HNC/HND needing help with technical and analytical IT assignments",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC IT unit types (networking, programming, database design, cybersecurity, systems analysis, cloud computing), connect to assignment formats (system designs, programming portfolios, network diagrams with justification, security audits), define distinction criteria in IT context (evaluation of system design choices, security risk analysis, justification of technology selection), reference industry certifications that align with BTEC IT units (CompTIA, Cisco fundamentals)",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC IT Assignment Help: Computing, Networking, and Software Development Unit Guidance",
+        "suggested_h2s": [
+          "BTEC IT Unit Structure: National and Higher National Overview",
+          "BTEC IT Networking Assignment Help: Systems and Infrastructure Units",
+          "BTEC IT Programming Assignment Help: Software Development Units",
+          "BTEC IT Cybersecurity Assignment Help",
+          "How to Write a BTEC IT System Design Report for Distinction",
+          "BTEC HND Computing Assignment Help: Level 5 Research and Development Units"
+        ],
+        "contextual_border_question": "How does the evaluation of system design decisions and security implications define distinction-grade work in BTEC IT assignments?",
+        "supplementary_bridges_to": [
+          "BTEC HNC Assignment Help",
+          "BTEC National Assignment Help",
+          "BTEC Assignment Grading Criteria Explained"
+        ]
+      },
+      {
+        "topic": "BTEC Sport Assignment Help",
+        "attribute_focus": "assignment completion — Sport and Exercise Science subject",
+        "macro_context": "Students enrolled in BTEC Sport at Level 3 National or HNC/HND needing help with sport science, coaching, and exercise physiology assignments",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC Sport unit types (anatomy and physiology, fitness testing, coaching, sports psychology, nutrition, performance analysis), connect to assignment formats (fitness reports, coaching observation reflections, performance analysis case studies, physiology essays), define distinction criteria in sport context (application of physiology to real athlete performance, evidence-based coaching recommendations, statistical performance analysis)",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "BTEC Sport Assignment Help: Anatomy, Coaching, and Exercise Science Unit Guidance",
+        "suggested_h2s": [
+          "BTEC Sport Unit Structure: National and Higher National Overview",
+          "BTEC Sport Anatomy and Physiology Assignment Help",
+          "BTEC Sport Coaching Assignment Help: Observation and Reflection Units",
+          "BTEC Sport Psychology Assignment Help",
+          "How to Write a BTEC Sport Performance Analysis Report for Distinction",
+          "BTEC HND Sport Assignment Help: Level 5 Research and Application"
+        ],
+        "contextual_border_question": "How does applying exercise physiology theory to specific athlete or sport performance contexts define merit and distinction-grade BTEC Sport assignments?",
+        "supplementary_bridges_to": [
+          "BTEC National Assignment Help",
+          "BTEC Assignment Grading Criteria Explained"
+        ]
+      },
+      {
+        "topic": "BTEC Public Services Assignment Help",
+        "attribute_focus": "assignment completion — Public Services subject",
+        "macro_context": "Students enrolled in BTEC Public Services at Level 3 National seeking help with assignments on police, military, fire service, and local government topics",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC Public Services unit types (government, citizenship, teamwork, physical fitness, crime and its effects, discipline), connect to assignment formats (essays, case studies, personal development logs, public service research reports), define distinction criteria in public services context (evaluation of government policy, analysis of public service structures, critical reflection on discipline and leadership)",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "BTEC Public Services Assignment Help: Unit Guidance for Level 3 National Students",
+        "suggested_h2s": [
+          "BTEC Public Services Unit Structure: What the National Covers",
+          "BTEC Public Services Government and Politics Assignment Help",
+          "BTEC Public Services Citizenship and Diversity Assignment Help",
+          "BTEC Public Services Crime and Its Effects Assignment Help",
+          "How to Write a Distinction-Grade BTEC Public Services Essay",
+          "BTEC Public Services Personal Development Log: What Distinction Requires"
+        ],
+        "contextual_border_question": "How does critical evaluation of government policy and public service structures define distinction-level work in BTEC Public Services assignments?",
+        "supplementary_bridges_to": [
+          "BTEC National Assignment Help",
+          "BTEC Assignment Grading Criteria Explained"
+        ]
+      },
+      {
+        "topic": "BTEC Assignment Grading Criteria Explained",
+        "attribute_focus": "grading system — P/M/D criteria interpretation",
+        "macro_context": "Students who need to understand exactly what Pass, Merit, and Distinction criteria mean in their specific unit assignment brief",
+        "query_context_match": true,
+        "eav_depth_required": "Define Pearson BTEC criterion-referenced grading (Pass = minimum competency, Merit = extended application, Distinction = evaluation and synthesis), define command verbs used in BTEC criteria (describe, explain, analyse, evaluate, assess, justify, compare), connect each command verb to the expected depth of response, explain how ALL pass criteria must be met before merit criteria can apply, define distinction* at qualification level (not unit level), reference Pearson's internal verification process",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC Assignment Grading Criteria Explained: What Pass, Merit, and Distinction Actually Mean",
+        "suggested_h2s": [
+          "How Pearson's Criterion-Referenced Grading Works in BTEC",
+          "BTEC Command Verbs: Describe, Explain, Analyse, Evaluate, Assess, Justify",
+          "Why You Must Meet All Pass Criteria Before Attempting Merit",
+          "What Does Distinction Look Like? Evidence of Evaluation and Synthesis",
+          "BTEC Distinction* Explained: Qualification-Level Grade vs Unit Grade",
+          "How Internal Verification Affects Your BTEC Assignment Mark",
+          "Common Grading Mistakes BTEC Students Make"
+        ],
+        "contextual_border_question": "How does Pearson's criterion-referenced approach to BTEC grading differ from the mark-scheme model used in A-Level and GCSE assessments?",
+        "supplementary_bridges_to": [
+          "BTEC Assignment Help",
+          "How to Achieve Distinction in BTEC Assignments",
+          "BTEC Assignment Resubmission Guide"
+        ]
+      },
+      {
+        "topic": "How to Achieve Distinction in BTEC Assignments",
+        "attribute_focus": "grade optimisation — distinction achievement strategy",
+        "macro_context": "BTEC students who are passing but want to reach distinction grade across their units",
+        "query_context_match": true,
+        "eav_depth_required": "Define the gap between merit and distinction (evaluation vs analysis, synthesis vs application, independent judgement vs guided responses), connect to specific command verbs that trigger distinction criteria, provide structure frameworks for distinction-level answers (point-evidence-explain-evaluate), define what 'independent thinking' means in Pearson's assessment language, connect to real BTEC unit examples across different subjects",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "How to Achieve Distinction in BTEC Assignments: Strategies That Actually Work",
+        "suggested_h2s": [
+          "What Is the Difference Between Merit and Distinction in BTEC?",
+          "How to Structure a BTEC Distinction-Level Answer",
+          "Evaluating vs Analysing: The Most Important Skill for BTEC Distinction",
+          "How to Show Independent Thinking in BTEC Assignments",
+          "Distinction Criteria by Subject: Business, H&SC, Engineering, IT",
+          "Common Reasons BTEC Students Stay at Merit and How to Break Through"
+        ],
+        "contextual_border_question": "How does Pearson's definition of independent evaluation connect to what assessors look for when deciding between merit and distinction in BTEC unit marking?",
+        "supplementary_bridges_to": [
+          "BTEC Assignment Grading Criteria Explained",
+          "BTEC Assignment Help"
+        ]
+      },
+      {
+        "topic": "BTEC Assignment Resubmission Guide",
+        "attribute_focus": "resubmission and referral recovery",
+        "macro_context": "Students whose BTEC assignment has been referred (failed) and who need to understand the resubmission rules and how to improve their work",
+        "query_context_match": true,
+        "eav_depth_required": "Define Pearson BTEC resubmission policy (one resubmission opportunity per unit, must be within same academic year, tutor feedback is not allowed to be prescriptive), connect to what a 'referral' means vs a 'fail', define what tutors can and cannot say in feedback, explain late resubmission consequences, connect to internal appeals process, define what a student must do differently between first submission and resubmission",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC Assignment Resubmission: Rules, Rights, and How to Improve a Referred Grade",
+        "suggested_h2s": [
+          "What Does 'Referred' Mean in BTEC? Resubmission vs Fail Explained",
+          "BTEC Resubmission Rules: What Pearson Allows and What It Doesn't",
+          "What Your Tutor Can and Cannot Tell You Before Resubmission",
+          "How to Interpret BTEC Referral Feedback and Improve Your Work",
+          "BTEC Late Resubmission: What Happens If You Miss the Deadline",
+          "BTEC Internal Appeals Process: When and How to Use It"
+        ],
+        "contextual_border_question": "How do Pearson's restrictions on tutor feedback in the resubmission process create the specific type of independent rework that assessors expect?",
+        "supplementary_bridges_to": [
+          "BTEC Assignment Grading Criteria Explained",
+          "BTEC Assignment Help"
+        ]
+      },
+      {
+        "topic": "BTEC Assignment Brief: How to Read and Interpret It",
+        "attribute_focus": "assignment brief interpretation",
+        "macro_context": "Students who struggle to understand what their BTEC assignment brief is actually asking them to do",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC assignment brief structure (unit introduction, assessment criteria grid, scenario/context, task instructions, evidence requirements, word count/format guidance), connect to how command verbs map to grade criteria within the brief, define what 'evidence' means in different subject contexts (written report, observation record, portfolio, presentation), explain how to identify which criteria each task is targeting",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "How to Read a BTEC Assignment Brief: Understanding Criteria, Tasks, and What Is Expected",
+        "suggested_h2s": [
+          "What Is a BTEC Assignment Brief and What Does It Contain?",
+          "How to Match Assignment Tasks to Pass, Merit, and Distinction Criteria",
+          "BTEC Command Verbs in Assignment Briefs: What Each One Asks For",
+          "What Counts as Evidence in a BTEC Assignment?",
+          "How to Identify Word Count and Format Requirements in a BTEC Brief",
+          "Why Students Misread BTEC Briefs and How to Avoid Common Mistakes"
+        ],
+        "contextual_border_question": "How does understanding the grading criteria grid within a BTEC assignment brief connect to planning and structuring a distinction-level response?",
+        "supplementary_bridges_to": [
+          "BTEC Assignment Grading Criteria Explained",
+          "How to Achieve Distinction in BTEC Assignments"
+        ]
+      },
+      {
+        "topic": "BTEC Childcare and Early Years Assignment Help",
+        "attribute_focus": "assignment completion — Childcare/Early Years subject",
+        "macro_context": "Students enrolled in BTEC Children's Play, Learning and Development or Early Years Education needing help with observation, reflective, and child development assignments",
+        "query_context_match": true,
+        "eav_depth_required": "Define BTEC Childcare unit types (child development theories, safeguarding, play and learning, communication, legislation in early years), connect to assignment formats (child observation records, reflective accounts, case studies, policy analysis), define distinction criteria in childcare context (critical evaluation of child development theories, application to practice, safeguarding policy analysis)",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "BTEC Childcare Assignment Help: Early Years, Child Development, and Safeguarding Unit Guidance",
+        "suggested_h2s": [
+          "BTEC Childcare Unit Structure: National and Higher National Overview",
+          "BTEC Child Development Assignment Help: Theory and Observation Units",
+          "BTEC Childcare Safeguarding Assignment Help",
+          "How to Write a BTEC Child Observation Record for Distinction",
+          "BTEC Early Years Reflective Practice Assignment Help"
+        ],
+        "contextual_border_question": "How does evaluating child development theory against observed practice define distinction-grade work in BTEC Childcare assignments?",
+        "supplementary_bridges_to": [
+          "BTEC National Assignment Help",
+          "BTEC Health and Social Care Assignment Help"
+        ]
+      }
+    ],
+    "macro_semantics": {
+      "site_wide_ngrams": [
+        "BTEC assignment help",
+        "merit and distinction criteria",
+        "Pearson grading criteria",
+        "BTEC National assignment",
+        "BTEC Higher National",
+        "HNC and HND assignment",
+        "unit-specific guidance",
+        "criterion-referenced grading",
+        "distinction-grade answers",
+        "assignment brief interpretation"
+      ],
+      "question_formats": [
+        "What does the BTEC [unit/subject] assignment require?",
+        "How do you achieve distinction in BTEC [subject]?",
+        "What is the difference between merit and distinction in BTEC?",
+        "How does BTEC [level] grading work?",
+        "Why was my BTEC assignment referred and what do I do?"
+      ],
+      "predicate_distributions": [
+        "achieve (achieve distinction in BTEC)",
+        "meet (meet the BTEC criteria)",
+        "complete (complete your BTEC assignment)",
+        "interpret (interpret the assignment brief)",
+        "structure (structure a BTEC distinction answer)",
+        "resubmit (resubmit a referred BTEC assignment)",
+        "evaluate (evaluate the evidence in BTEC work)"
+      ],
+      "heading_vector_pattern": "H1 = [BTEC Subject/Level] + [Assignment Help/Guidance] + [Grade-Level Qualifier]; H2 = Question-led or outcome-led openings (What Does X Require / How to Achieve X / Why Does X Happen); H3 = Specific unit codes, criteria designators (P1/M1/D1), or subject-specific sub-topics"
+    }
+  },
+  "outer_section": {
+    "tier_1_topics": [
+      {
+        "topic": "What Is BTEC? Qualifications, Levels, and How They Work",
+        "attribute_focus": "BTEC as an entity — qualification overview and structure",
+        "macro_context": "Prospective students and parents researching what BTEC qualifications are before choosing whether to study one",
+        "minor_attribute": "qualification overview and brand identity",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "What Is BTEC? A Complete Guide to Qualifications, Levels, and How BTEC Assessment Works",
+        "contextual_bridge_to_core": "Explaining how BTEC assessment is assignment-based bridges directly to all assignment help pages — links to BTEC Assignment Help main page"
+      },
+      {
+        "topic": "BTEC vs A-Level: Which Is Right for You?",
+        "attribute_focus": "qualification comparison — BTEC vs A-Level",
+        "macro_context": "Year 11 students and parents deciding between BTEC and A-Level study routes",
+        "minor_attribute": "qualification selection and comparison",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC vs A-Level: Key Differences, University Recognition, and Which Suits Your Learning Style",
+        "contextual_bridge_to_core": "Students choosing BTEC will need assignment help — comparison page bridges to BTEC National Assignment Help and subject-specific pages"
+      },
+      {
+        "topic": "BTEC Grading System Explained: Pass, Merit, Distinction, and D*",
+        "attribute_focus": "grading system overview",
+        "macro_context": "Students who are new to BTEC and want to understand how the grading system works from the start",
+        "minor_attribute": "grading and qualification outcomes",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC Grading System: Pass, Merit, Distinction, and Distinction* Fully Explained",
+        "contextual_bridge_to_core": "Grading system overview leads naturally to detailed grading criteria page and assignment help — links to BTEC Assignment Grading Criteria Explained"
+      },
+      {
+        "topic": "BTEC UCAS Points: What Your Grades Are Worth for University",
+        "attribute_focus": "UCAS tariff and university entry from BTEC",
+        "macro_context": "BTEC National students who want to understand how their grades translate into university entry points",
+        "minor_attribute": "university progression outcomes",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC UCAS Points 2024: How Every Grade Combination Translates for University Entry",
+        "contextual_bridge_to_core": "UCAS point motivation drives students to achieve higher grades — bridges to How to Achieve Distinction and BTEC National Assignment Help"
+      },
+      {
+        "topic": "BTEC Subjects List: Every BTEC Course and What It Covers",
+        "attribute_focus": "qualification breadth — subject range",
+        "macro_context": "Students and parents exploring what BTEC subjects are available and what each course involves",
+        "minor_attribute": "subject range and course content",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "BTEC Subjects List: Every Available BTEC Course and What Each One Covers",
+        "contextual_bridge_to_core": "Subject overview page links to every subject-specific assignment help page — high internal linking value for subject cluster pages"
+      }
+    ],
+    "tier_2_topics": [
+      {
+        "topic": "BTEC vs NVQ: What Is the Difference?",
+        "attribute_focus": "qualification comparison — BTEC vs NVQ",
+        "macro_context": "Adults or career changers comparing vocational qualification routes",
+        "minor_attribute": "qualification landscape comparison",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "BTEC vs NVQ: How They Differ in Assessment, Grading, and Career Outcomes",
+        "contextual_bridge_to_core": "BTEC vs NVQ comparison highlights BTEC's assignment-based nature — bridges to BTEC Assignment Help main page"
+      },
+      {
+        "topic": "BTEC Higher National: HNC and HND Explained",
+        "attribute_focus": "Higher National qualification overview (Level 4/5)",
+        "macro_context": "Post-school students or adults considering Higher National study as an alternative to university",
+        "minor_attribute": "Higher National qualification discovery",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "BTEC Higher National Certificate and Diploma: HNC and HND Fully Explained",
+        "contextual_bridge_to_core": "HNC/HND overview bridges to HNC Assignment Help and HND Assignment Help pages"
+      },
+      {
+        "topic": "How BTEC Internal Assessment Works: Centres, Tutors, and Verification",
+        "attribute_focus": "assessment process — internal quality assurance",
+        "macro_context": "Students who want to understand how their BTEC work is assessed and quality-checked by their college and Pearson",
+        "minor_attribute": "assessment process and quality assurance",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "How BTEC Internal Assessment Works: Tutors, Internal Verification, and Pearson Standards",
+        "contextual_bridge_to_core": "Understanding internal assessment connects to assignment grading criteria and resubmission rules — bridges to grading criteria page"
+      },
+      {
+        "topic": "BTEC External Assessment: Which Units Have Pearson-Set Exams?",
+        "attribute_focus": "external assessment — Pearson-set tasks",
+        "macro_context": "BTEC National students who are surprised to find some units have externally-set assessments rather than internally-marked assignments",
+        "minor_attribute": "assessment type variation",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "BTEC External Assessment Explained: Which Units Have Pearson-Set Tasks and How to Prepare",
+        "contextual_bridge_to_core": "External assessment awareness links to exam preparation and assignment strategy content — bridges to How to Achieve Distinction"
+      },
+      {
+        "topic": "Academic Referencing for BTEC HNC and HND Students",
+        "attribute_focus": "academic referencing skills for Higher National level",
+        "macro_context": "HNC and HND students who are new to academic referencing and need to meet citation requirements for higher-level assignments",
+        "minor_attribute": "academic skills for Higher National",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Academic Referencing for BTEC HNC and HND: Harvard, APA, and What Your Assignment Requires",
+        "contextual_bridge_to_core": "Referencing skills bridge directly to HNC and HND assignment help — links to both Higher National assignment pages"
+      },
+      {
+        "topic": "BTEC Academic Malpractice Policy: What Students Must Know",
+        "attribute_focus": "academic integrity and malpractice rules",
+        "macro_context": "Students who want to understand what constitutes academic malpractice in BTEC and where the line is for using assignment help",
+        "minor_attribute": "academic integrity and compliance",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "BTEC Academic Malpractice: What It Is, What Pearson Allows, and How to Stay Compliant",
+        "contextual_bridge_to_core": "Academic integrity context supports the legitimacy framing on the BTEC Assignment Help main page — critical trust-building content"
+      }
+    ],
+    "tier_3_topics": [
+      {
+        "topic": "What Universities Accept BTEC Qualifications?",
+        "attribute_focus": "university entry with BTEC",
+        "macro_context": "BTEC National students researching which universities accept BTEC for admission and whether there are Russell Group restrictions",
+        "minor_attribute": "university acceptance and progression",
+        "coverage_status": "missing",
+        "priority": "medium",
+        "suggested_h1": "Universities That Accept BTEC: Russell Group, Top 50, and Entry Requirements Explained",
+        "contextual_bridge_to_core": "University entry motivation connects to achieving better grades — bridges to UCAS points page and BTEC National Assignment Help"
+      },
+      {
+        "topic": "BTEC Construction and the Built Environment Assignment Help",
+        "attribute_focus": "assignment completion — Construction subject",
+        "macro_context": "Students enrolled in BTEC Construction at Level 3 or HNC/HND needing help with technical construction unit assignments",
+        "minor_attribute": "subject-specific assignment help — construction",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "BTEC Construction Assignment Help: Level 3, HNC, and HND Unit Guidance",
+        "contextual_bridge_to_core": "Construction assignment help bridges to BTEC Engineering Assignment Help and National Assignment Help"
+      },
+      {
+        "topic": "BTEC Art and Design Assignment Help",
+        "attribute_focus": "assignment completion — Art and Design subject",
+        "macro_context": "Students enrolled in BTEC Art and Design at Level 3 needing help with portfolio development, written assignments, and critical studies",
+        "minor_attribute": "subject-specific assignment help — creative arts",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "BTEC Art and Design Assignment Help: Portfolio, Critical Studies, and Unit Guidance",
+        "contextual_bridge_to_core": "Art and Design assignment help bridges to BTEC National Assignment Help and Grading Criteria page"
+      },
+      {
+        "topic": "BTEC Travel and Tourism Assignment Help",
+        "attribute_focus": "assignment completion — Travel and Tourism subject",
+        "macro_context": "Students enrolled in BTEC Travel and Tourism at Level 3 needing help with tourism sector analysis, destination research, and customer service unit assignments",
+        "minor_attribute": "subject-specific assignment help — travel and tourism",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "BTEC Travel and Tourism Assignment Help: Destination Research, Sector Analysis, and Unit Guidance",
+        "contextual_bridge_to_core": "Travel and Tourism assignment help bridges to BTEC National Assignment Help and BTEC Business Assignment Help"
+      },
+      {
+        "topic": "Careers After BTEC: What You Can Do With a BTEC Qualification",
+        "attribute_focus": "career outcomes — post-qualification options",
+        "macro_context": "Students considering BTEC who want to understand what career or study paths the qualification opens",
+        "minor_attribute": "career outcomes and ROI",
+        "coverage_status": "missing",
+        "priority": "low",
+        "suggested_h1": "Careers After BTEC: University, Apprenticeships, and Employment Options by Subject",
+        "contextual_bridge_to_core": "Career motivation for performing well in BTEC bridges to assignment achievement pages — connects to UCAS points page and distinction achievement strategy"
+      }
+    ],
+    "contextual_bridges": [
+      {
+        "from_node": "What Is BTEC? Qualifications, Levels, and How They Work",
+        "to_node": "BTEC Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC assignment help",
+        "bridge_description": "Qualification overview explains BTEC is assignment-based — readers are directed to assignment support service"
+      },
+      {
+        "from_node": "BTEC vs A-Level: Which Is Right for You?",
+        "to_node": "BTEC National Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC National assignment help",
+        "bridge_description": "After choosing BTEC, students land on National Assignment Help as the primary entry-level service page"
+      },
+      {
+        "from_node": "BTEC UCAS Points: What Your Grades Are Worth for University",
+        "to_node": "How to Achieve Distinction in BTEC Assignments",
+        "bridge_type": "linked",
+        "anchor_text": "how to achieve distinction in BTEC",
+        "bridge_description": "UCAS point motivation (higher grades = better university options) leads directly to distinction strategy page"
+      },
+      {
+        "from_node": "BTEC Grading System Explained",
+        "to_node": "BTEC Assignment Grading Criteria Explained",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC assignment grading criteria",
+        "bridge_description": "High-level grading overview links to deep grading criteria interpretation page — progressive depth"
+      },
+      {
+        "from_node": "BTEC Academic Malpractice Policy",
+        "to_node": "BTEC Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC assignment help",
+        "bridge_description": "Malpractice policy clarification builds trust — directly bridges to service page to resolve student concern"
+      },
+      {
+        "from_node": "Academic Referencing for BTEC HNC and HND Students",
+        "to_node": "BTEC HNC Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC HNC assignment help",
+        "bridge_description": "Referencing skill is a prerequisite for HNC-level work — bridges to HNC assignment help for students who need more comprehensive support"
+      },
+      {
+        "from_node": "Academic Referencing for BTEC HNC and HND Students",
+        "to_node": "BTEC HND Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC HND assignment help",
+        "bridge_description": "Same referencing page bridges to HND for Level 5 students"
+      },
+      {
+        "from_node": "BTEC Subjects List",
+        "to_node": "BTEC Business Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC Business assignment help",
+        "bridge_description": "Subjects list page links to every subject-specific assignment help page — high internal linking hub"
+      },
+      {
+        "from_node": "BTEC Subjects List",
+        "to_node": "BTEC Health and Social Care Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC Health and Social Care assignment help",
+        "bridge_description": "Subjects list page links to H&SC assignment help — maintains subject cluster cohesion"
+      },
+      {
+        "from_node": "BTEC Higher National: HNC and HND Explained",
+        "to_node": "BTEC HNC Assignment Help",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC HNC assignment help",
+        "bridge_description": "Higher National overview leads students who choose HNC to the HNC-specific assignment support page"
+      },
+      {
+        "from_node": "BTEC External Assessment: Which Units Have Pearson-Set Exams?",
+        "to_node": "BTEC Assignment Grading Criteria Explained",
+        "bridge_type": "linkless",
+        "anchor_text": "",
+        "bridge_description": "Both pages reference Pearson's assessment standards — consistent mention of criterion-referenced grading creates linkless topical proximity"
+      },
+      {
+        "from_node": "What Universities Accept BTEC Qualifications?",
+        "to_node": "BTEC UCAS Points",
+        "bridge_type": "linked",
+        "anchor_text": "BTEC UCAS points",
+        "bridge_description": "University acceptance discussion requires explanation of how grades translate to UCAS points"
+      }
+    ]
+  },
+  "coverage_gaps": [
+    {
+      "topic": "BTEC Media Production Assignment Help",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "low",
+      "reason": "BTEC Media is a significant subject track but not yet included — adds subject cluster width"
+    },
+    {
+      "topic": "BTEC Uniformed Public Services vs BTEC Public Services: What Is the Difference?",
+      "section": "outer",
+      "gap_type": "undefined",
+      "priority": "low",
+      "reason": "Students frequently confuse these two closely related qualifications — a clarification page would capture highly specific search intent"
+    },
+    {
+      "topic": "BTEC Assignment Help for Mature Students and Career Changers",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "Mature students returning to education for BTEC HNC/HND are a significant and underserved audience with different assignment concerns (academic writing re-entry, referencing from scratch)"
+    },
+    {
+      "topic": "BTEC Internal Verification Appeal: What to Do If Your Grade Seems Wrong",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "high",
+      "reason": "Students who believe their BTEC work was incorrectly marked are high-intent for assignment help — this page captures them at a critical trust-building moment"
+    },
+    {
+      "topic": "Pearson BTEC Examiner Feedback Reports Analysis",
+      "section": "core",
+      "gap_type": "shallow_depth",
+      "priority": "high",
+      "reason": "Pearson publishes annual feedback reports for externally-assessed units — analysing these creates unique, authoritative content that cannot be replicated by competitors without the same research depth"
+    },
+    {
+      "topic": "BTEC Assignment Help for International Students in the UK",
+      "section": "core",
+      "gap_type": "undefined",
+      "priority": "medium",
+      "reason": "International students studying BTEC HNC/HND in UK colleges face English language and cultural context challenges specific to BTEC assignment writing — a targeted page captures this underserved segment"
+    }
+  ],
+  "vastness_depth_momentum": {
+    "vastness_assessment": "The topical map covers all major BTEC levels at Core Tier 1 (National, HNC, HND) and the top 5 BTEC subjects at Tier 2 (Business, H&SC, Engineering, IT, Sport). Outer section covers qualification discovery, grading, university progression, and academic process. Six gap topics identified that extend the border — particularly missing are Media, mature student segment, and internal verification appeal content.",
+    "depth_assessment": "Core Tier 1 topics have strong EAV depth defined (unit structures, grading criteria, command verbs, qualification outcomes). The most significant depth gap is the absence of Pearson Examiner Feedback Report analysis — this would be the highest-uniqueness asset in the niche. BTEC Resubmission Guide and Assignment Brief Interpretation pages are critical depth assets that most competitors lack.",
+    "momentum_recommendation": "Publish Core Tier 1 service pages first (BTEC Assignment Help, National, HNC, HND, Business — weeks 1-2). Then high-priority Tier 2 grading and strategy pages (weeks 3-4). Then Outer Tier 1 qualification discovery and UCAS pages (weeks 5-6). Then subject cluster Tier 2 pages (weeks 7-10). Aim for 2-3 pages per week minimum for crawl frequency.",
+    "priority_recommendation": "Depth before Vastness. Most competitors have thin 'BTEC assignment help' pages with no unit-specific or criteria-specific depth. Differentiate by: (1) unit code level specificity in Core Tier 2 subject pages, (2) Pearson-language alignment in grading criteria content, (3) resubmission rules and academic integrity content that builds trust. Once Core depth is established, expand Outer Section for historical data propagation to core pages."
+  }
+}

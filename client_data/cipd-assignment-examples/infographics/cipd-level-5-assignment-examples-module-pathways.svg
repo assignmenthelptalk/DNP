@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" role="img" aria-labelledby="l5-infographic-title">
+  <title id="l5-infographic-title">CIPD Level 5 Associate Diploma — Module Structure by Pathway</title>
+
+  <!-- Background -->
+  <rect width="800" height="620" fill="#F5F5F5" rx="12"/>
+
+  <!-- Header band -->
+  <rect x="0" y="0" width="800" height="72" fill="#1A1A2E" rx="12"/>
+  <rect x="0" y="52" width="800" height="20" fill="#1A1A2E"/>
+
+  <!-- Header text -->
+  <text x="400" y="30" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">CIPD Level 5 Associate Diploma in People Management</text>
+  <text x="400" y="55" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#E94560">Module Structure by Pathway</text>
+
+  <!-- Column headers -->
+  <!-- Core -->
+  <rect x="20" y="82" width="175" height="36" fill="#1A1A2E" rx="6"/>
+  <text x="107" y="105" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">CORE UNITS</text>
+
+  <!-- HR Pathway -->
+  <rect x="207" y="82" width="175" height="36" fill="#16213E" rx="6"/>
+  <text x="294" y="98" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">PEOPLE MANAGEMENT</text>
+  <text x="294" y="113" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#E94560">HR Pathway</text>
+
+  <!-- L&D Pathway -->
+  <rect x="394" y="82" width="175" height="36" fill="#16213E" rx="6"/>
+  <text x="481" y="98" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">PEOPLE DEVELOPMENT</text>
+  <text x="481" y="113" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#E94560">L&amp;D Pathway</text>
+
+  <!-- Specialist -->
+  <rect x="581" y="82" width="199" height="36" fill="#E94560" rx="6"/>
+  <text x="680" y="98" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">SPECIALIST</text>
+  <text x="680" y="113" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#FFFFFF">Electives</text>
+
+  <!-- Mandatory badge -->
+  <rect x="20" y="124" width="175" height="20" fill="#2C2C2C" rx="4"/>
+  <text x="107" y="138" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#F5F5F5">ALL STUDENTS — MANDATORY</text>
+
+  <!-- Core unit cards -->
+  <!-- 5CO01 -->
+  <rect x="20" y="150" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#1A1A2E" stroke-width="1.5"/>
+  <text x="107" y="169" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">5CO01</text>
+  <text x="107" y="185" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Organisational Performance</text>
+  <text x="107" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">and Culture in Practice</text>
+  <text x="107" y="210" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Core</text>
+
+  <!-- 5CO02 -->
+  <rect x="20" y="224" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#1A1A2E" stroke-width="1.5"/>
+  <text x="107" y="243" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">5CO02</text>
+  <text x="107" y="259" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Evidence-Based</text>
+  <text x="107" y="272" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Practice</text>
+  <text x="107" y="284" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Core</text>
+
+  <!-- 5CO03 -->
+  <rect x="20" y="298" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#1A1A2E" stroke-width="1.5"/>
+  <text x="107" y="317" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E94560">5CO03</text>
+  <text x="107" y="333" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Professional Behaviours</text>
+  <text x="107" y="346" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">and Valuing People</text>
+  <text x="107" y="358" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Core</text>
+
+  <!-- HR Pathway cards -->
+  <!-- 5HR01 -->
+  <rect x="207" y="150" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="1.5"/>
+  <text x="294" y="169" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">5HR01</text>
+  <text x="294" y="185" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Employment Relationship</text>
+  <text x="294" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Management</text>
+  <text x="294" y="210" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">HR Pathway</text>
+
+  <!-- 5HR02 -->
+  <rect x="207" y="224" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="1.5"/>
+  <text x="294" y="243" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">5HR02</text>
+  <text x="294" y="259" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Talent Management and</text>
+  <text x="294" y="272" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Workforce Planning</text>
+  <text x="294" y="284" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">HR Pathway</text>
+
+  <!-- 5HR03 -->
+  <rect x="207" y="298" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="1.5"/>
+  <text x="294" y="317" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">5HR03</text>
+  <text x="294" y="333" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Reward for Performance</text>
+  <text x="294" y="346" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">and Contribution</text>
+  <text x="294" y="358" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">HR Pathway</text>
+
+  <!-- L&D Pathway cards -->
+  <!-- 5LD01 -->
+  <rect x="394" y="150" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="1.5"/>
+  <text x="481" y="169" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">5LD01</text>
+  <text x="481" y="185" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Learning and Development</text>
+  <text x="481" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Essentials</text>
+  <text x="481" y="210" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">L&amp;D Pathway</text>
+
+  <!-- 5LD02 -->
+  <rect x="394" y="224" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="1.5"/>
+  <text x="481" y="243" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">5LD02</text>
+  <text x="481" y="259" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Identifying Learning and</text>
+  <text x="481" y="272" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Development Needs</text>
+  <text x="481" y="284" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">L&amp;D Pathway</text>
+
+  <!-- 5LD03 -->
+  <rect x="394" y="298" width="175" height="66" fill="#FFFFFF" rx="6" stroke="#16213E" stroke-width="1.5"/>
+  <text x="481" y="317" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">5LD03</text>
+  <text x="481" y="333" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">L&amp;D Facilitation</text>
+  <text x="481" y="346" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Skills</text>
+  <text x="481" y="358" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">L&amp;D Pathway</text>
+
+  <!-- Specialist elective cards -->
+  <!-- 5OS01 -->
+  <rect x="581" y="150" width="199" height="54" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="680" y="170" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#E94560">5OS01</text>
+  <text x="680" y="185" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Specialist Employment Law</text>
+  <text x="680" y="197" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Specialist Elective</text>
+
+  <!-- 5OS02 -->
+  <rect x="581" y="212" width="199" height="54" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="680" y="232" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#E94560">5OS02</text>
+  <text x="680" y="247" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Advances in Digital L&amp;D</text>
+  <text x="680" y="259" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Specialist Elective</text>
+
+  <!-- 5OS03 -->
+  <rect x="581" y="274" width="199" height="54" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="680" y="294" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#E94560">5OS03</text>
+  <text x="680" y="309" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">L&amp;D Design to Create Value</text>
+  <text x="680" y="321" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Specialist Elective</text>
+
+  <!-- 5OS04 -->
+  <rect x="581" y="336" width="199" height="54" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="680" y="356" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#E94560">5OS04</text>
+  <text x="680" y="371" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Wellbeing at Work</text>
+  <text x="680" y="383" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Specialist Elective</text>
+
+  <!-- 5OS05 -->
+  <rect x="581" y="398" width="199" height="54" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="680" y="418" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#E94560">5OS05</text>
+  <text x="680" y="433" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Diversity and Inclusion</text>
+  <text x="680" y="445" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Specialist Elective</text>
+
+  <!-- 5OS06 -->
+  <rect x="581" y="460" width="199" height="54" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="680" y="480" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#E94560">5OS06</text>
+  <text x="680" y="495" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Leadership and Management</text>
+  <text x="680" y="507" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Specialist Elective</text>
+
+  <!-- 5OS07 -->
+  <rect x="581" y="522" width="199" height="54" fill="#FFFFFF" rx="6" stroke="#E94560" stroke-width="1.5"/>
+  <text x="680" y="542" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#E94560">5OS07</text>
+  <text x="680" y="557" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Innovative Learning Content</text>
+  <text x="680" y="569" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Specialist Elective</text>
+
+  <!-- Legend / footer area -->
+  <rect x="20" y="390" width="549" height="34" fill="#1A1A2E" rx="6"/>
+  <text x="284" y="408" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#FFFFFF">Min. 120 credits · 12–18 months part-time · Awards Associate CIPD Membership (Assoc CIPD)</text>
+
+  <!-- Word count note -->
+  <rect x="20" y="432" width="549" height="26" fill="#FFFFFF" rx="4" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="294" y="449" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">Assignment word count: 3,000–4,500 words per unit · Pass/Merit grading · No examinations</text>
+
+  <rect x="20" y="466" width="549" height="26" fill="#FFFFFF" rx="4" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="294" y="483" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#2C2C2C">RQF Level 5 · Equivalent to second-year undergraduate · UK, UAE, Saudi Arabia, Ireland, Qatar</text>
+
+  <!-- Footer -->
+  <text x="400" y="608" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="10" fill="#999">cipdassignmentexamples.com</text>
+</svg>

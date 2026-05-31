@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="celta-fmup-title">
+  <title id="celta-fmup-title">CELTA Assignment 2 FMU+P Framework: Form, Meaning, Use, and Phonology Analysis with Used To Worked Example, IPA Transcription, and CCQ Rules</title>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">CELTA Assignment 2: FMU+P Framework</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Worked Example: "used to + infinitive" — Form · Meaning · Use · Phonology · CCQs</text>
+
+  <!-- Column headers -->
+  <rect x="28" y="78" width="178" height="28" rx="6" fill="#2563EB"/>
+  <text x="117" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">FORM</text>
+
+  <rect x="214" y="78" width="178" height="28" rx="6" fill="#2563EB"/>
+  <text x="303" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">MEANING</text>
+
+  <rect x="400" y="78" width="178" height="28" rx="6" fill="#7C3AED"/>
+  <text x="489" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">USE</text>
+
+  <rect x="586" y="78" width="186" height="28" rx="6" fill="#7C3AED"/>
+  <text x="679" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">PHONOLOGY</text>
+
+  <!-- Form panel -->
+  <rect x="28" y="114" width="178" height="200" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="44" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">AFFIRMATIVE</text>
+  <text x="44" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">S + used to + bare inf.</text>
+  <text x="44" y="159" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">He used to play football.</text>
+  <line x1="44" y1="168" x2="196" y2="168" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="181" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">NEGATIVE</text>
+  <text x="44" y="195" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">S + didn't use to + bare inf.</text>
+  <text x="44" y="208" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#DC2626">Note: use to (no -d) in neg/int</text>
+  <line x1="44" y1="217" x2="196" y2="217" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="230" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">INTERROGATIVE</text>
+  <text x="44" y="244" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Did + S + use to + bare inf.?</text>
+  <text x="44" y="257" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">Did he use to play?</text>
+  <line x1="44" y1="266" x2="196" y2="266" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="280" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">*didn't used to = FORM ERROR</text>
+  <text x="44" y="293" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">did carries past tense marking</text>
+  <text x="44" y="306" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">Notation: S=subject, inf=infinitive</text>
+
+  <!-- Meaning panel -->
+  <rect x="214" y="114" width="178" height="200" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="230" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#1D4ED8">FOUR MEANING COMPONENTS</text>
+  <text x="230" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">1. Past habit/state existed</text>
+  <text x="230" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">2. Over a period (not once)</text>
+  <text x="230" y="176" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">3. No longer exists now</text>
+  <text x="230" y="190" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">4. Present contrast implied</text>
+  <line x1="230" y1="200" x2="382" y2="200" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="230" y="214" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">FALSE FRIEND TRIO</text>
+  <text x="230" y="228" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">used to + inf → past habit</text>
+  <text x="230" y="242" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">be used to + gerund → accustomed</text>
+  <text x="230" y="256" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">get used to + gerund → become accustomed</text>
+  <line x1="230" y1="266" x2="382" y2="266" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="230" y="280" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">vs simple past: He lived in London</text>
+  <text x="230" y="293" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">(no present contrast implied)</text>
+  <text x="230" y="306" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#374151">He used to live → implies change</text>
+
+  <!-- Use panel -->
+  <rect x="400" y="114" width="178" height="200" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <text x="416" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">REGISTER</text>
+  <text x="416" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Informal spoken · personal narrative</text>
+  <text x="416" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Not used in formal academic writing</text>
+  <line x1="416" y1="170" x2="568" y2="170" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="416" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">TYPICAL CO-TEXT</text>
+  <text x="416" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">when I was young · back then</text>
+  <text x="416" y="212" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">in those days · as a child</text>
+  <line x1="416" y1="222" x2="568" y2="222" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="416" y="236" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">CONTRASTIVE USE</text>
+  <text x="416" y="250" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Choose over simple past when:</text>
+  <text x="416" y="264" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">emphasising present change</text>
+  <line x1="416" y1="274" x2="568" y2="274" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="416" y="288" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">TYPICAL VERBS</text>
+  <text x="416" y="302" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">live · work · play · believe · like</text>
+  <text x="416" y="315" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">activity + state verbs; not momentary events</text>
+
+  <!-- Phonology panel -->
+  <rect x="586" y="114" width="186" height="200" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <text x="602" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">IPA TRANSCRIPTION</text>
+  <text x="602" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Citation form: /juːzd tuː/</text>
+  <text x="602" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Connected speech: /ˈjuːstə/</text>
+  <line x1="602" y1="172" x2="762" y2="172" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="602" y="186" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">CONNECTED SPEECH FEATURES</text>
+  <text x="602" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Elision: /d/ omitted before /t/</text>
+  <text x="602" y="214" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Weak form: /tuː/ → /tə/</text>
+  <line x1="602" y1="224" x2="762" y2="224" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="602" y="238" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#7C3AED">STRESS</text>
+  <text x="602" y="252" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">ˈ = primary stress (before syllable)</text>
+  <text x="602" y="266" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">ˌ = secondary stress</text>
+  <line x1="602" y1="276" x2="762" y2="276" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="602" y="290" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Assimilation: ten boys /tem bɔɪz/</text>
+  <text x="602" y="304" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Linking: far away /fɑːrəweɪ/</text>
+  <text x="602" y="318" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Citation form only = REFER risk</text>
+
+  <!-- CCQ section -->
+  <rect x="28" y="328" width="744" height="130" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">CCQ RULES AND WORKED SEQUENCE — "He used to play football every weekend"</text>
+
+  <!-- CCQ rules -->
+  <text x="44" y="365" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">4 RULES:</text>
+  <text x="44" y="379" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">1. No target language in the CCQ</text>
+  <text x="44" y="393" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">2. Yes/no or short-phrase answer only</text>
+  <text x="44" y="407" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">3. Checks meaning — not form or grammar labels</text>
+  <text x="44" y="421" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">4. Sequence: general → specific meaning</text>
+  <text x="44" y="445" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#DC2626">INVALID: "Is 'used to' for past habits?" — contains target language</text>
+
+  <!-- CCQ sequence -->
+  <text x="300" y="365" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">CCQ SEQUENCE:</text>
+  <text x="300" y="381" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">CCQ 1: "Does he play football now?" → No (present non-existence)</text>
+  <text x="300" y="396" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">CCQ 2: "Did he play in the past?" → Yes (past existence)</text>
+  <text x="300" y="411" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">CCQ 3: "Did he play once or regularly?" → Regularly (habitual)</text>
+  <text x="300" y="426" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">CCQ 4: "Did something change?" → Yes (present contrast)</text>
+  <text x="300" y="445" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#2563EB">Pass A: each CCQ justified in writing — what it checks and why sequenced there</text>
+
+  <!-- Warning -->
+  <rect x="28" y="470" width="744" height="30" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="490" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">The phonology section earns or loses the most marks in Assignment 2 — both citation form AND connected speech form are required</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CELTA Assignment Help Service · Cambridge CELTA Assignment 2 — Language-Related Tasks</text>
+</svg>

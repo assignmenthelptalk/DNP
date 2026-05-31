@@ -1,0 +1,738 @@
+{
+  "built_at": "2026-03-18",
+  "client": "Tupate Studio",
+  "central_entity": "Business Website",
+  "central_entity_synonyms": [
+    "business website", "professional website", "company website", "Kenyan business website",
+    "corporate website", "custom website", "responsive website", "mobile website",
+    "e-commerce website", "online store", "web application", "digital presence",
+    "website design Kenya", "custom-built website", "SEO website"
+  ],
+  "pages": [
+    {
+      "id": "01",
+      "title": "Website Design for Businesses in Kenya",
+      "url_slug": "/website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Digital Presence — creation of a professional business website",
+      "commercial_intent": "high",
+      "central_entity_synonyms": ["website design Kenya", "professional business website", "Kenyan business website"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "SEO Services in Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" },
+        { "anchor": "Local SEO for Kenyan businesses", "target": "/local-seo-kenya", "section": "supplementary_content" },
+        { "anchor": "E-commerce website development Kenya", "target": "/ecommerce-website-development-kenya", "section": "supplementary_content" },
+        { "anchor": "mobile-first website design", "target": "/mobile-first-website-design-kenya", "section": "main_content" },
+        { "anchor": "technical SEO audit", "target": "/technical-seo-audit-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "SEO Services in Kenya",
+      "url_slug": "/seo-services-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Digital Presence — growing search visibility for Kenyan businesses",
+      "commercial_intent": "high",
+      "central_entity_synonyms": ["SEO services Kenya", "search visibility Kenya", "Google rankings Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "Local SEO for Kenyan businesses", "target": "/local-seo-kenya", "section": "supplementary_content" },
+        { "anchor": "Technical SEO Audit Kenya", "target": "/technical-seo-audit-kenya", "section": "supplementary_content" },
+        { "anchor": "Google Business Profile optimization Kenya", "target": "/google-business-profile-optimisation-kenya", "section": "supplementary_content", "note": "SLUG MISMATCH — brief used /google-business-profile-kenya" },
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "main_content" },
+        { "anchor": "mobile-first website design", "target": "/mobile-first-website-design-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "E-commerce Website Development Kenya",
+      "url_slug": "/ecommerce-website-development-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Digital Presence — creating revenue-generating online stores for Kenyan businesses",
+      "commercial_intent": "high",
+      "central_entity_synonyms": ["e-commerce website Kenya", "online store Kenya", "M-Pesa online store"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "SEO Services in Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" },
+        { "anchor": "Custom E-commerce Development Kenya", "target": "/custom-ecommerce-development-kenya", "section": "supplementary_content" },
+        { "anchor": "mobile-first website design Kenya", "target": "/mobile-first-website-design-kenya", "section": "main_content" },
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "main_content" },
+        { "anchor": "Technical SEO Audit Kenya", "target": "/technical-seo-audit-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Local SEO for Kenyan Businesses",
+      "url_slug": "/local-seo-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Digital Presence — dominating local search results in Kenyan cities and counties",
+      "commercial_intent": "high",
+      "central_entity_synonyms": ["local SEO Kenya", "local search Kenya", "Google Maps ranking Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "SEO Services in Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" },
+        { "anchor": "Technical SEO Audit Kenya", "target": "/technical-seo-audit-kenya", "section": "supplementary_content" },
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "Google Business Profile optimization Kenya", "target": "/google-business-profile-optimisation-kenya", "section": "main_content", "note": "SLUG MISMATCH — brief used /google-business-profile-kenya" }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Business Website Redesign Kenya",
+      "url_slug": "/website-redesign-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Digital Presence — upgrading outdated websites to modern, high-performing business websites",
+      "commercial_intent": "high",
+      "central_entity_synonyms": ["website redesign Kenya", "modernise business website", "SEO-safe redesign"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "Technical SEO Audit Kenya", "target": "/technical-seo-audit-kenya", "section": "supplementary_content" },
+        { "anchor": "Mobile-First Website Design Kenya", "target": "/mobile-first-website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "main_content" },
+        { "anchor": "SEO Services in Kenya", "target": "/seo-services-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Corporate Website Design for Established Kenyan Businesses",
+      "url_slug": "/corporate-website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Corporate website requirements for established Kenyan companies",
+      "commercial_intent": "high",
+      "central_entity_synonyms": ["corporate website Kenya", "professional website Kenya", "enterprise website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" },
+        { "anchor": "technical SEO Kenya", "target": "/technical-seo-audit-kenya", "section": "supplementary_content", "note": "ANCHOR MISMATCH — should use 'Technical SEO Audit Kenya'" }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Custom-Built Website vs WordPress for Kenyan Businesses",
+      "url_slug": "/custom-built-website-vs-wordpress-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Comparison between custom development and WordPress platforms",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["custom website Kenya", "WordPress alternative Kenya", "custom-built vs WordPress"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "custom web development Kenya", "target": "/custom-web-development-kenya", "section": "main_content" },
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "website maintenance services Kenya", "target": "/website-maintenance-services-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Custom E-commerce Development for Kenyan Businesses",
+      "url_slug": "/custom-ecommerce-development-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Custom e-commerce platform development with M-Pesa integration",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["custom e-commerce Kenya", "bespoke online store Kenya", "tailored online shop Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "M-Pesa payment integration", "target": "/mpesa-payment-integration-websites", "section": "main_content" },
+        { "anchor": "custom web development Kenya", "target": "/custom-web-development-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Mobile-First Website Design for Kenyan Businesses",
+      "url_slug": "/mobile-first-website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Mobile-optimized website design for Kenya's mobile-dominant internet",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["mobile-first website Kenya", "mobile-optimised website Kenya", "responsive website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "website speed optimisation Kenya", "target": "/website-speed-optimisation-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Technical SEO Audit for Kenyan Websites",
+      "url_slug": "/technical-seo-audit-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Technical SEO evaluation and optimization service",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["technical SEO audit Kenya", "website audit Kenya", "SEO health check Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "website speed optimisation Kenya", "target": "/website-speed-optimisation-kenya", "section": "main_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "On-Page SEO Services for Kenyan Websites",
+      "url_slug": "/on-page-seo-services-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "On-page optimization service for keyword relevance",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["on-page SEO Kenya", "page optimisation Kenya", "content SEO Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "SEO keyword research Kenya", "target": "/seo-keyword-research-kenya", "section": "main_content" },
+        { "anchor": "technical SEO Kenya", "target": "/technical-seo-audit-kenya", "section": "main_content", "note": "ANCHOR MISMATCH" }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Google Business Profile Optimisation for Kenyan Businesses",
+      "url_slug": "/google-business-profile-optimisation-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Local search presence optimization via Google Business Profile",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["Google Business Profile Kenya", "GBP optimisation Kenya", "Google Maps listing Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Website Speed Optimisation for Kenyan Websites",
+      "url_slug": "/website-speed-optimisation-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Performance optimization for Kenya's mobile-dominant, lower-bandwidth network",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["website speed Kenya", "fast website Kenya", "page speed optimisation Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "technical SEO Kenya", "target": "/technical-seo-audit-kenya", "section": "main_content", "note": "ANCHOR MISMATCH" }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "SEO Keyword Research for Kenyan Businesses",
+      "url_slug": "/seo-keyword-research-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Search keyword discovery and analysis service",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["keyword research Kenya", "SEO keywords Kenya", "search term analysis Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "on-page SEO services Kenya", "target": "/on-page-seo-services-kenya", "section": "main_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Custom Web Development for Kenyan Businesses",
+      "url_slug": "/custom-web-development-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Bespoke web application development service",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["custom web development Kenya", "web application Kenya", "bespoke website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "custom e-commerce development Kenya", "target": "/custom-ecommerce-development-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Website Maintenance Services for Kenyan Websites",
+      "url_slug": "/website-maintenance-services-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Ongoing website upkeep, updates, and security service",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["website maintenance Kenya", "website upkeep Kenya", "website management Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "website speed optimisation Kenya", "target": "/website-speed-optimisation-kenya", "section": "main_content" },
+        { "anchor": "technical SEO Kenya", "target": "/technical-seo-audit-kenya", "section": "main_content", "note": "ANCHOR MISMATCH" }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Landing Page Design for Kenyan Businesses",
+      "url_slug": "/landing-page-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Conversion-focused single-page design for campaigns",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["landing page Kenya", "conversion page Kenya", "sales page Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "conversion rate optimization Kenya", "target": "/conversion-rate-optimization-kenya", "section": "main_content", "note": "BROKEN LINK — page does not exist in site map" }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Content Strategy for Kenyan Business Websites",
+      "url_slug": "/content-strategy-kenyan-websites",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Content planning and editorial strategy for websites",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["content strategy Kenya", "website content plan Kenya", "editorial strategy Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "content marketing Kenya", "target": "/content-marketing-kenya", "section": "main_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Industrial Machinery and Equipment Website Design for Kenya",
+      "url_slug": "/industrial-machinery-website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "B2B industrial sector website requirements",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["industrial website Kenya", "machinery website Kenya", "B2B website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "B2B website design Kenya", "target": "/b2b-website-design-kenya", "section": "supplementary_content", "note": "BROKEN LINK — page does not exist in site map" }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Medical Clinic and Dental Practice Website Design for Kenya",
+      "url_slug": "/medical-clinic-dental-website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Healthcare sector website requirements",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["medical website Kenya", "clinic website Kenya", "healthcare website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "healthcare website design Kenya", "target": "/healthcare-website-design-kenya", "section": "supplementary_content", "note": "BROKEN LINK — page does not exist in site map" }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Law Firm and Accountancy Website Design for Kenya",
+      "url_slug": "/law-firm-accountancy-website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Professional services (legal, accounting) website requirements",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["law firm website Kenya", "accountancy website Kenya", "professional services website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "professional services website design Kenya", "target": "/professional-services-website-design-kenya", "section": "supplementary_content", "note": "BROKEN LINK — page does not exist in site map" }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Real Estate Website Design for Kenya",
+      "url_slug": "/real-estate-website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Real estate property listing system design",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["real estate website Kenya", "property website Kenya", "property listing website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Restaurant and Hotel Website Design for Kenya",
+      "url_slug": "/restaurant-hotel-website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Hospitality sector website with booking system",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["restaurant website Kenya", "hotel website Kenya", "hospitality website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "hospitality website design Kenya", "target": "/hospitality-website-design-kenya", "section": "supplementary_content", "note": "BROKEN LINK — page does not exist in site map" }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "School and College Website Design for Kenya",
+      "url_slug": "/school-college-website-design-kenya",
+      "topical_map_section": "core",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Business Website (Kenya)",
+      "attribute_focus": "Educational institution website requirements",
+      "commercial_intent": "medium",
+      "central_entity_synonyms": ["school website Kenya", "college website Kenya", "educational website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "educational website design Kenya", "target": "/educational-website-design-kenya", "section": "supplementary_content", "note": "BROKEN LINK — page does not exist in site map" }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "M-Pesa Payment Integration for Kenyan Websites",
+      "url_slug": "/mpesa-payment-integration-websites",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "M-Pesa Payment Integration",
+      "attribute_focus": "M-Pesa payment system integration for e-commerce",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["M-Pesa integration Kenya", "mobile payment website Kenya", "Daraja API integration"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "custom e-commerce development Kenya", "target": "/custom-ecommerce-development-kenya", "section": "supplementary_content" },
+        { "anchor": "e-commerce website development Kenya", "target": "/ecommerce-website-development-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Digital Marketing Services for Kenya",
+      "url_slug": "/digital-marketing-services-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "Digital Marketing",
+      "attribute_focus": "Broader digital marketing services context",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["digital marketing Kenya", "online marketing Kenya", "marketing services Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "main_content" },
+        { "anchor": "content marketing Kenya", "target": "/content-marketing-kenya", "section": "main_content" },
+        { "anchor": "Google Ads Kenya", "target": "/google-ads-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Online Business Growth Strategies for Kenya",
+      "url_slug": "/online-business-growth-strategies-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_1",
+      "primary_entity": "Business Growth (Kenya)",
+      "attribute_focus": "Business outcome and growth strategy context",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["online business growth Kenya", "digital business growth Kenya", "grow business online Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "main_content" },
+        { "anchor": "digital marketing services Kenya", "target": "/digital-marketing-services-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Domain Registration for Kenyan Businesses",
+      "url_slug": "/domain-registration-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Domain Name",
+      "attribute_focus": "Domain registration infrastructure",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["domain registration Kenya", "business domain Kenya", ".co.ke domain"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "web hosting Kenya", "target": "/web-hosting-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Web Hosting for Kenyan Websites",
+      "url_slug": "/web-hosting-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Web Hosting",
+      "attribute_focus": "Server infrastructure and hosting services",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["web hosting Kenya", "website hosting Kenya", "hosting services Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "domain registration Kenya", "target": "/domain-registration-kenya", "section": "main_content" },
+        { "anchor": "Kenya Data Protection Act compliance", "target": "/kenya-data-protection-act-website-compliance", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Google Ads for Kenyan Businesses",
+      "url_slug": "/google-ads-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Google Ads (Kenya)",
+      "attribute_focus": "Paid search advertising complement to organic SEO",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["Google Ads Kenya", "PPC Kenya", "paid search Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" },
+        { "anchor": "landing page design Kenya", "target": "/landing-page-design-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Content Marketing for Kenya",
+      "url_slug": "/content-marketing-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Content Marketing",
+      "attribute_focus": "Blog and article content strategy",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["content marketing Kenya", "blog marketing Kenya", "content creation Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" },
+        { "anchor": "content strategy Kenya", "target": "/content-strategy-kenyan-websites", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Branding and Logo Design for Kenya",
+      "url_slug": "/branding-logo-design-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Brand Identity",
+      "attribute_focus": "Visual identity and brand foundation",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["branding Kenya", "logo design Kenya", "brand identity Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Website Analytics and Reporting for Kenyan Websites",
+      "url_slug": "/website-analytics-reporting-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Website Analytics",
+      "attribute_focus": "Measurement, analytics, and performance reporting",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["website analytics Kenya", "Google Analytics Kenya", "website reporting Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "SEO services Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" }
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Kenya E-commerce Market Overview",
+      "url_slug": "/kenya-ecommerce-market-overview",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Kenya E-commerce Market",
+      "attribute_focus": "E-commerce market context for Kenyan businesses",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["Kenya e-commerce market", "online retail Kenya", "Kenya online shopping"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "e-commerce website development Kenya", "target": "/ecommerce-website-development-kenya", "section": "supplementary_content" },
+        { "anchor": "custom e-commerce development Kenya", "target": "/custom-ecommerce-development-kenya", "section": "supplementary_content" },
+        { "anchor": "M-Pesa payment integration for websites", "target": "/mpesa-payment-integration-websites", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Kenya's Digital Economy and ICT Landscape",
+      "url_slug": "/kenya-digital-economy-ict-landscape",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Kenya Digital Economy",
+      "attribute_focus": "Kenya's digital economy context",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["Kenya digital economy", "Kenya ICT", "Kenya internet landscape"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "SEO Services in Kenya", "target": "/seo-services-kenya", "section": "supplementary_content" },
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "M-Pesa payment integration for websites", "target": "/mpesa-payment-integration-websites", "section": "main_content" },
+        { "anchor": "Kenya Data Protection Act compliance", "target": "/kenya-data-protection-act-website-compliance", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "36",
+      "title": "SME Digital Adoption in Kenya",
+      "url_slug": "/sme-digital-adoption-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "SME Digital Adoption",
+      "attribute_focus": "SME-specific digital opportunity context",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["SME digital Kenya", "small business digital adoption Kenya", "SME online Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "Google Business Profile optimisation Kenya", "target": "/google-business-profile-optimisation-kenya", "section": "main_content" },
+        { "anchor": "online business growth Kenya", "target": "/online-business-growth-strategies-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Kenya Data Protection Act and Website Compliance",
+      "url_slug": "/kenya-data-protection-act-website-compliance",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Kenya Data Protection Act",
+      "attribute_focus": "Legal compliance requirements for Kenyan business websites",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["Kenya data protection", "KDPA compliance", "website privacy Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "website analytics Kenya", "target": "/website-analytics-reporting-kenya", "section": "main_content" }
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Social Media Marketing Integration for Kenyan Businesses",
+      "url_slug": "/social-media-marketing-integration-kenya",
+      "topical_map_section": "outer",
+      "topical_map_tier": "tier_2",
+      "primary_entity": "Social Media Marketing",
+      "attribute_focus": "Social media as a digital marketing channel connected to the business website",
+      "commercial_intent": "low",
+      "central_entity_synonyms": ["social media marketing Kenya", "social media integration Kenya", "social media website Kenya"],
+      "status": "planned",
+      "outgoing_links": [
+        { "anchor": "website design Kenya", "target": "/website-design-kenya", "section": "supplementary_content" },
+        { "anchor": "digital marketing services Kenya", "target": "/digital-marketing-services-kenya", "section": "main_content" },
+        { "anchor": "landing page design Kenya", "target": "/landing-page-design-kenya", "section": "main_content" }
+      ]
+    }
+  ],
+  "incoming_link_counts": {
+    "/website-design-kenya": 34,
+    "/seo-services-kenya": 15,
+    "/ecommerce-website-development-kenya": 3,
+    "/local-seo-kenya": 2,
+    "/website-redesign-kenya": 0,
+    "/corporate-website-design-kenya": 0,
+    "/custom-built-website-vs-wordpress-kenya": 0,
+    "/custom-ecommerce-development-kenya": 5,
+    "/mobile-first-website-design-kenya": 4,
+    "/technical-seo-audit-kenya": 9,
+    "/on-page-seo-services-kenya": 1,
+    "/google-business-profile-optimisation-kenya": 3,
+    "/website-speed-optimisation-kenya": 3,
+    "/seo-keyword-research-kenya": 1,
+    "/custom-web-development-kenya": 2,
+    "/website-maintenance-services-kenya": 1,
+    "/landing-page-design-kenya": 2,
+    "/content-strategy-kenyan-websites": 1,
+    "/industrial-machinery-website-design-kenya": 0,
+    "/medical-clinic-dental-website-design-kenya": 0,
+    "/law-firm-accountancy-website-design-kenya": 0,
+    "/real-estate-website-design-kenya": 0,
+    "/restaurant-hotel-website-design-kenya": 0,
+    "/school-college-website-design-kenya": 0,
+    "/mpesa-payment-integration-websites": 3,
+    "/digital-marketing-services-kenya": 2,
+    "/online-business-growth-strategies-kenya": 1,
+    "/domain-registration-kenya": 1,
+    "/web-hosting-kenya": 1,
+    "/google-ads-kenya": 1,
+    "/content-marketing-kenya": 2,
+    "/branding-logo-design-kenya": 0,
+    "/website-analytics-reporting-kenya": 1,
+    "/kenya-ecommerce-market-overview": 0,
+    "/kenya-digital-economy-ict-landscape": 0,
+    "/sme-digital-adoption-kenya": 0,
+    "/kenya-data-protection-act-website-compliance": 2,
+    "/social-media-marketing-integration-kenya": 0
+  },
+  "orphan_pages": [
+    { "slug": "/website-redesign-kenya", "section": "core", "tier": "tier_1", "severity": "CRITICAL" },
+    { "slug": "/corporate-website-design-kenya", "section": "core", "tier": "tier_1", "severity": "CRITICAL" },
+    { "slug": "/custom-built-website-vs-wordpress-kenya", "section": "core", "tier": "tier_2", "severity": "HIGH" },
+    { "slug": "/industrial-machinery-website-design-kenya", "section": "core", "tier": "tier_2", "severity": "HIGH" },
+    { "slug": "/medical-clinic-dental-website-design-kenya", "section": "core", "tier": "tier_2", "severity": "HIGH" },
+    { "slug": "/law-firm-accountancy-website-design-kenya", "section": "core", "tier": "tier_2", "severity": "HIGH" },
+    { "slug": "/real-estate-website-design-kenya", "section": "core", "tier": "tier_2", "severity": "HIGH" },
+    { "slug": "/restaurant-hotel-website-design-kenya", "section": "core", "tier": "tier_2", "severity": "HIGH" },
+    { "slug": "/school-college-website-design-kenya", "section": "core", "tier": "tier_2", "severity": "HIGH" },
+    { "slug": "/branding-logo-design-kenya", "section": "outer", "tier": "tier_2", "severity": "MEDIUM" },
+    { "slug": "/kenya-ecommerce-market-overview", "section": "outer", "tier": "tier_2", "severity": "MEDIUM" },
+    { "slug": "/kenya-digital-economy-ict-landscape", "section": "outer", "tier": "tier_2", "severity": "MEDIUM" },
+    { "slug": "/sme-digital-adoption-kenya", "section": "outer", "tier": "tier_2", "severity": "MEDIUM" },
+    { "slug": "/social-media-marketing-integration-kenya", "section": "outer", "tier": "tier_2", "severity": "MEDIUM" }
+  ],
+  "broken_links": [
+    { "source": "/landing-page-design-kenya", "broken_target": "/conversion-rate-optimization-kenya", "anchor": "conversion rate optimization Kenya" },
+    { "source": "/industrial-machinery-website-design-kenya", "broken_target": "/b2b-website-design-kenya", "anchor": "B2B website design Kenya" },
+    { "source": "/medical-clinic-dental-website-design-kenya", "broken_target": "/healthcare-website-design-kenya", "anchor": "healthcare website design Kenya" },
+    { "source": "/law-firm-accountancy-website-design-kenya", "broken_target": "/professional-services-website-design-kenya", "anchor": "professional services website design Kenya" },
+    { "source": "/restaurant-hotel-website-design-kenya", "broken_target": "/hospitality-website-design-kenya", "anchor": "hospitality website design Kenya" },
+    { "source": "/school-college-website-design-kenya", "broken_target": "/educational-website-design-kenya", "anchor": "educational website design Kenya" }
+  ],
+  "slug_mismatches": [
+    {
+      "issue": "Briefs 02 and 04 reference /google-business-profile-kenya but actual page slug is /google-business-profile-optimisation-kenya",
+      "affected_pages": ["/seo-services-kenya", "/local-seo-kenya"],
+      "fix": "Update anchor destination to /google-business-profile-optimisation-kenya in both briefs"
+    }
+  ],
+  "anchor_overcrowding_warnings": [
+    {
+      "anchor": "website design Kenya",
+      "target": "/website-design-kenya",
+      "count": 34,
+      "issue": "Same anchor used by 34 pages → over-optimization. Synonym variation required across Outer Section especially.",
+      "recommended_action": "Outer Section pages (25-38) should vary anchor: use 'professional website Kenya', 'Kenyan business website', 'custom-built website Kenya', 'digital presence Kenya' as alternatives"
+    },
+    {
+      "anchor": "SEO services Kenya",
+      "target": "/seo-services-kenya",
+      "count": 10,
+      "issue": "Borderline — 10+ pages using same anchor. Vary with: 'SEO Services in Kenya', 'Kenya SEO', 'search visibility Kenya', 'Google rankings Kenya'"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" role="img" aria-labelledby="cache-l2-title">
+  <title id="cache-l2-title">CACHE Level 2 to Level 3 Progression: What Changes in Academic Standard, Harvard Referencing, and Assessment Criteria</title>
+
+  <!-- Background -->
+  <rect width="800" height="580" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">CACHE Level 2 → Level 3: The Academic Step-Up</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">What Changes When Progressing from NCFE CACHE Level 2 to Level 3</text>
+
+  <!-- Column headers -->
+  <rect x="28" y="82" width="358" height="36" rx="8" fill="#4B5563"/>
+  <text x="207" y="106" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">NCFE CACHE — LEVEL 2</text>
+
+  <rect x="414" y="82" width="358" height="36" rx="8" fill="#2563EB"/>
+  <text x="593" y="106" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">NCFE CACHE — LEVEL 3</text>
+
+  <!-- Arrow between headers -->
+  <polygon points="396,100 412,92 412,108" fill="#D97706"/>
+  <line x1="386" y1="100" x2="412" y2="100" stroke="#D97706" stroke-width="2.5"/>
+
+  <!-- Row 1: Writing Standard -->
+  <text x="28" y="136" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">ASSESSMENT CRITERIA VERBS</text>
+  <rect x="28" y="144" width="358" height="58" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">identify · describe · outline · state · list · name</text>
+  <text x="44" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Descriptive standard — what it is, not why or how.</text>
+  <text x="44" y="194" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">Typical length: 200–600 words per task</text>
+
+  <rect x="414" y="144" width="358" height="58" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="430" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">explain (Pass) · analyse (Merit) · evaluate (Distinction)</text>
+  <text x="430" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Analytical standard — cause/effect, theory-applied, judgement.</text>
+  <text x="430" y="194" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2563EB">Typical length: 800–2,500 words per task</text>
+
+  <!-- Row 2: Harvard Referencing -->
+  <text x="28" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">HARVARD REFERENCING</text>
+  <rect x="28" y="228" width="358" height="58" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Not required. No in-text citations needed.</text>
+  <text x="44" y="262" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Subject knowledge and correct terminology sufficient.</text>
+  <text x="44" y="278" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#6B7280">No reference list required.</text>
+
+  <rect x="414" y="228" width="358" height="58" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="430" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Mandatory from first unit. (Author, Year) in text.</text>
+  <text x="430" y="262" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">(Author, Year: page) for direct quotes.</text>
+  <text x="430" y="278" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">Missing = referral risk regardless of content quality</text>
+
+  <!-- Row 3: Child Development Theory -->
+  <text x="28" y="304" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">CHILD DEVELOPMENT THEORY (Early Years)</text>
+  <rect x="28" y="312" width="358" height="58" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="330" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Not required. Milestones described without citation.</text>
+  <text x="44" y="346" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Naming a theorist is optional, not assessed.</text>
+  <text x="44" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#6B7280">Descriptive developmental milestones sufficient.</text>
+
+  <rect x="414" y="312" width="358" height="58" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="430" y="330" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">8 theorists required: Piaget, Vygotsky, Bowlby, Bruner,</text>
+  <text x="430" y="346" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Bronfenbrenner, Erikson, Skinner, Bandura — each cited.</text>
+  <text x="430" y="362" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">Framework + year + specific concept required per citation</text>
+
+  <!-- Row 4: EYE Status -->
+  <text x="28" y="388" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">QUALIFICATION OUTCOME</text>
+  <rect x="28" y="396" width="358" height="54" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="414" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Counts in staff:child ratios at lower rate.</text>
+  <text x="44" y="430" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Does NOT award Early Years Educator status.</text>
+  <text x="44" y="446" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">No EYE status at Level 2.</text>
+
+  <rect x="414" y="396" width="358" height="54" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="430" y="414" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Level 3 Diploma → Early Years Educator (EYE) status.</text>
+  <text x="430" y="430" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Required for higher staff:child ratio compliance.</text>
+  <text x="430" y="446" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2563EB">Certificate only — no EYE status (Diploma required)</text>
+
+  <!-- Warning banner -->
+  <rect x="28" y="462" width="744" height="30" rx="6" fill="#D97706"/>
+  <text x="400" y="482" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Most common Level 3 referral cause: Approaching Level 3 with Level 2 strategies — no Harvard referencing in first submitted unit</text>
+
+  <!-- Footer note -->
+  <rect x="28" y="504" width="744" height="36" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Prepare before starting Level 3: Learn Harvard referencing format · Read EYFS 2021 · Familiarise with 8 theorists and frameworks</text>
+  <text x="400" y="535" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#A8C4E0">Both levels: no examinations · portfolio evidence only · referral on specific criteria only · resubmission of targeted evidence</text>
+
+  <!-- Footer -->
+  <text x="400" y="568" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CACHE Assignment Help Service · NCFE CACHE Level 2 and Level 3 (Early Years and Health and Social Care)</text>
+</svg>

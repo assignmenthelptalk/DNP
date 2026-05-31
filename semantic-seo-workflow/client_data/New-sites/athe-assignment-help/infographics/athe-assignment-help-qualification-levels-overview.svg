@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" role="img" aria-labelledby="infographic-title-hub">
+  <title id="infographic-title-hub">ATHE Qualification Levels Overview: Level 3 to Level 7 with Degree Equivalency and Grading</title>
+
+  <!-- Background -->
+  <rect width="800" height="620" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header bar -->
+  <rect width="800" height="70" fill="#1B3A6B" rx="14"/>
+  <rect y="56" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">ATHE Qualification Levels: RQF Overview</text>
+  <text x="400" y="54" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#A8C4E0">Awards for Training and Higher Education — Ofqual-Regulated — Coursework Only — Pass / Merit / Distinction</text>
+
+  <!-- Column headers -->
+  <text x="60"  y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">LEVEL</text>
+  <text x="130" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">QUALIFICATION</text>
+  <text x="310" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">DEGREE EQUIV.</text>
+  <text x="450" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">SUBJECTS</text>
+  <text x="660" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">DISTINCTION REQUIRES</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="107" x2="770" y2="107" stroke="#C8D8EC" stroke-width="1.5"/>
+
+  <!-- ── Row 1: Level 3 ── -->
+  <rect x="30" y="115" width="740" height="82" rx="8" fill="#FFFFFF" stroke="#D8E6F3" stroke-width="1"/>
+  <!-- Level badge -->
+  <rect x="42" y="126" width="46" height="46" rx="8" fill="#2563EB"/>
+  <text x="65" y="144" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">L3</text>
+  <text x="65" y="160" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#BAD4F7">RQF</text>
+  <!-- Qualification -->
+  <text x="102" y="143" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">Extended Diploma</text>
+  <text x="102" y="159" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">A-Level equivalent · UCAS tariff</text>
+  <!-- Equiv -->
+  <text x="302" y="143" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#2563EB">A-Level</text>
+  <text x="302" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">Pre-degree</text>
+  <!-- Subjects -->
+  <text x="442" y="136" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Business Management</text>
+  <text x="442" y="151" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Healthcare / Health &amp; Social Care</text>
+  <text x="442" y="166" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Tourism &amp; Hospitality</text>
+  <!-- Distinction -->
+  <text x="652" y="143" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Evaluation + reasoned</text>
+  <text x="652" y="157" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">recommendations</text>
+
+  <!-- ── Row 2: Level 4 ── -->
+  <rect x="30" y="207" width="740" height="82" rx="8" fill="#FFFFFF" stroke="#D8E6F3" stroke-width="1"/>
+  <rect x="42" y="218" width="46" height="46" rx="8" fill="#0D9488"/>
+  <text x="65" y="236" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">L4</text>
+  <text x="65" y="252" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#99E6E0">RQF</text>
+  <text x="102" y="235" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">Diploma</text>
+  <text x="102" y="251" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">Harvard referencing required from here</text>
+  <text x="302" y="235" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#0D9488">CertHE</text>
+  <text x="302" y="250" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">Year 1 of degree</text>
+  <text x="442" y="228" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Business Management · Healthcare Mgmt</text>
+  <text x="442" y="243" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Computing · Tourism &amp; Hospitality</text>
+  <text x="652" y="235" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Critical evaluation +</text>
+  <text x="652" y="249" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">synthesis + recommendations</text>
+
+  <!-- ── Row 3: Level 5 ── -->
+  <rect x="30" y="299" width="740" height="82" rx="8" fill="#FFF8EC" stroke="#F5C97A" stroke-width="1.5"/>
+  <rect x="42" y="310" width="46" height="46" rx="8" fill="#D97706"/>
+  <text x="65" y="328" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">L5</text>
+  <text x="65" y="344" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#FDE68A">RQF</text>
+  <text x="102" y="327" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">Extended Diploma</text>
+  <text x="102" y="343" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#92400E">★ Most popular — degree top-up route</text>
+  <text x="302" y="327" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#D97706">DipHE</text>
+  <text x="302" y="342" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">Year 2 of degree</text>
+  <text x="442" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Business Management · Healthcare Mgmt</text>
+  <text x="442" y="335" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Computing · Tourism &amp; Hospitality</text>
+  <text x="652" y="327" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Independent critical evaluation</text>
+  <text x="652" y="341" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">+ synthesis (15–25 sources)</text>
+
+  <!-- ── Row 4: Level 6 ── -->
+  <rect x="30" y="391" width="740" height="82" rx="8" fill="#FFFFFF" stroke="#D8E6F3" stroke-width="1"/>
+  <rect x="42" y="402" width="46" height="46" rx="8" fill="#7C3AED"/>
+  <text x="65" y="420" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">L6</text>
+  <text x="65" y="436" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DDD6FE">RQF</text>
+  <text x="102" y="419" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">Diploma</text>
+  <text x="102" y="435" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">Includes research project component</text>
+  <text x="302" y="419" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#7C3AED">Bachelor's</text>
+  <text x="302" y="434" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">Degree-level (RQF 6)</text>
+  <text x="442" y="412" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Business Management</text>
+  <text x="442" y="427" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Healthcare Management</text>
+  <text x="652" y="419" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Original analytical thinking</text>
+  <text x="652" y="433" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">+ research project rigour</text>
+
+  <!-- ── Row 5: Level 7 ── -->
+  <rect x="30" y="483" width="740" height="82" rx="8" fill="#FFFFFF" stroke="#D8E6F3" stroke-width="1"/>
+  <rect x="42" y="494" width="46" height="46" rx="8" fill="#DC2626"/>
+  <text x="65" y="512" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">L7</text>
+  <text x="65" y="528" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#FCA5A5">RQF</text>
+  <text x="102" y="511" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">Diploma</text>
+  <text x="102" y="527" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">Strategic Management / Healthcare Mgmt</text>
+  <text x="302" y="511" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#DC2626">Postgrad.</text>
+  <text x="302" y="526" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4A6080">Masters-equiv. (CPD)</text>
+  <text x="442" y="504" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Strategic Management</text>
+  <text x="442" y="519" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Healthcare Management</text>
+  <text x="652" y="511" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Strategic synthesis + eval.</text>
+  <text x="652" y="525" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">of frameworks + recommendations</text>
+
+  <!-- Grade band legend -->
+  <rect x="30" y="578" width="180" height="26" rx="6" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1"/>
+  <text x="120" y="595" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#3730A3">Pass · Merit · Distinction — all levels</text>
+
+  <rect x="220" y="578" width="340" height="26" rx="6" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1"/>
+  <text x="390" y="595" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#92400E">★ Level 5 = most common ATHE degree top-up entry qualification</text>
+
+  <!-- Footer -->
+  <text x="400" y="617" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">ATHE Assignment Help Service · athe-assignment-help.co.uk</text>
+</svg>

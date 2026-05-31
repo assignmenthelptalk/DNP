@@ -1,0 +1,996 @@
+{
+  "built_at": "2026-03-15",
+  "central_entity": "CII Insurance Qualification Assignment",
+  "source_context": "Academic assignment help and tutoring service for students pursuing CII insurance qualifications (Certificate, Diploma, Advanced Diploma in Insurance). Also serves non-UK/Arabic/Indian market students. Monetises through paid assignment help, exam prep, and unit tutoring.",
+  "central_search_intent": "Getting expert help to complete, understand, and pass CII insurance qualification assignments and unit assessments",
+
+  "topical_border_definition": {
+    "inside_core": [
+      "CII Certificate in Insurance — all IF units (IF1–IF11), GR1, LM3, R05, international variants (WCE, WCA, WUE, WUA, W04, IMU, IMP)",
+      "CII Diploma in Insurance — core units (M05, M92, 530) and all optional M-series/P-series units (M21, P61, P62, P63, P64, M66, M67, M80, M81, M85, M86, M90, M91, M93, M94, M96, M97, M98)",
+      "CII Advanced Diploma in Insurance — core units (820, 930, 960 + shared M92, 530, M05) and all optional units (590, 545, 990, 991, 992, 993, 994, 995, 996, 997)",
+      "CII assessment types for insurance pathway: scenario-based MCQ, written exams, short-answer, coursework",
+      "Unit-specific subject matter required to complete each assignment: insurance law, underwriting, claims, broking, risk management, reinsurance, marine, aviation, cargo, liability, property, motor, life and disability, PMI, London market, Takaful"
+    ],
+    "inside_outer": [
+      "Six principles of insurance law (utmost good faith, insurable interest, indemnity, subrogation, contribution, proximate cause)",
+      "UK insurance regulatory framework (FCA, PRA, IDD — Insurance Distribution Directive)",
+      "Lloyd's of London structure and London Market operations",
+      "Reinsurance fundamentals (proportional, non-proportional, facultative, treaty)",
+      "Risk management frameworks and principles (ERM, ISO 31000)",
+      "Insurance career pathways (underwriter, broker, claims handler, risk manager, loss adjuster)",
+      "CII membership grades (ACII, FCII) and CPD requirements",
+      "International insurance markets (Gulf, Indian, global reinsurance)",
+      "Takaful and Islamic insurance principles",
+      "Marine, aviation, and cargo insurance market context"
+    ],
+    "outside_border_excluded": [
+      "CII Financial Planning pathway (R01–R07, AF1–AF8, J-units, CF-units) — DIFFERENT qualification, DIFFERENT source context, DIFFERENT students",
+      "Non-CII academic qualifications (ACCA, CIMA, CFA, CISI, LIBF)",
+      "Consumer-facing insurance product comparisons",
+      "University degree assignment help",
+      "General financial advice content"
+    ],
+    "competitor_border_threat": "Financial planning CII qualifications are an adjacent but DIFFERENT source context — do not mix. Competitors serving both pathways dilute source context. Maintaining insurance-only specificity in all N-grams is a competitive advantage."
+  },
+
+  "topical_coverage_score": 10,
+  "topical_coverage_note": "Estimated baseline for a new site. Target 75+ at 18 months across the insurance qualification topical border.",
+
+  "core_section": {
+    "main_attribute": "Assignment completion and academic success within CII insurance qualification units",
+    "derived_attributes": [
+      "Qualification level navigation (Certificate → Diploma → Advanced Diploma)",
+      "Unit-specific subject comprehension (insurance law, underwriting, claims, broking, risk, reinsurance, specialist classes)",
+      "Assessment type mastery (scenario MCQ, short-answer written, coursework, case study)",
+      "Marking criteria alignment",
+      "International student support (non-UK, Arabic, Indian variants)"
+    ],
+
+    "tier_1_topics": [
+      {
+        "topic": "CII Assignment Help (Pillar Page)",
+        "attribute_focus": "Overview of all assignment help services across all three CII insurance qualification levels",
+        "macro_context": "Professional academic support for CII insurance qualification students needing help with assignments, coursework, and exam preparation across Certificate, Diploma, and Advanced Diploma levels",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: CII insurance qualification assignment. Attributes: qualification level (Certificate/Diploma/Advanced Diploma), assessment types (MCQ, written, scenario-based, coursework), credits per unit (15 credits Certificate, 20–30 credits Diploma, 25–50 credits Advanced Diploma), pass mark benchmarks, enrolment windows, support for international students (non-UK and Arabic variants). Must define the three-level pathway clearly, explain how units connect across levels, and address the service offering for each.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CII Assignment Help — Expert Support for Certificate, Diploma and Advanced Diploma in Insurance",
+        "suggested_h2s": [
+          "What Is a CII Insurance Qualification Assignment?",
+          "CII Certificate in Insurance: IF Units Explained",
+          "CII Diploma in Insurance: Core and Optional Modules",
+          "CII Advanced Diploma in Insurance: Strategic and Specialist Units",
+          "CII Assessment Types: MCQ, Written Exam, and Coursework",
+          "International CII Students: Non-UK and Arabic Variants",
+          "How Our CII Assignment Help Service Works"
+        ],
+        "contextual_border_question": "Which CII insurance qualification level are you studying — Certificate, Diploma, or Advanced Diploma?",
+        "supplementary_bridges_to": ["CII Certificate in Insurance Help", "CII Diploma in Insurance Help", "CII Advanced Diploma in Insurance Help"]
+      },
+      {
+        "topic": "CII Certificate in Insurance Assignment Help",
+        "attribute_focus": "All IF-series units and related Certificate-level units (GR1, LM3, R05, international variants)",
+        "macro_context": "Getting expert help with CII Certificate in Insurance assignments — scenario-based MCQ exams across IF1–IF11 and specialist units",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: Certificate in Insurance. Attributes: qualification level (RQF Level 3), credits (typically 15 credits per unit), assessment method (MCQ — standard and scenario-based), units available (IF1–IF11, GR1, R05, LM3, international variants WCE/WCA/WUE/WUA/W04, IMU/IMP). Values: minimum credits for award vs certificate, exam format details, available study paths, how IF units combine for the Certificate. Must connect each unit to the insurance disciplines it assesses.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CII Certificate in Insurance Assignment Help — IF Units and All Modules",
+        "suggested_h2s": [
+          "What Is the CII Certificate in Insurance?",
+          "CII Certificate in Insurance: Unit List and Credits",
+          "How CII Certificate Exams Work: MCQ and Scenario-Based Questions",
+          "Core IF Units: IF1 to IF11 Explained",
+          "Specialist Certificate Units: GR1, LM3 and R05",
+          "International Certificate in Insurance: Non-UK and Arabic Variants",
+          "How to Choose Your CII Certificate Units"
+        ],
+        "contextual_border_question": "Which IF unit or Certificate in Insurance module do you need help with?",
+        "supplementary_bridges_to": ["IF1 Help", "IF3 Help", "IF4 Help", "M05 Help", "LM3 Help", "GR1 Help"]
+      },
+      {
+        "topic": "CII Diploma in Insurance Assignment Help",
+        "attribute_focus": "All Diploma in Insurance units — three compulsory core units (M05, M92, 530) plus 18 optional specialist units",
+        "macro_context": "Getting expert help with CII Diploma in Insurance assignments — core modules in insurance law, business, and economics plus specialist optional units",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: Diploma in Insurance. Attributes: qualification level (RQF Level 4/6), core units (M05 Insurance Law — 25 credits, M92 Insurance Business and Finance — 25 credits, 530 Economics and Business — 30 credits), optional units (18 available at Level 4), total credits required, assessment methods per unit. Values: M05 known as the toughest unit (extensive case law), 530 as the most strategic, M92 as the financial and business foundation. Connect the core three to the optional specialist choices.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CII Diploma in Insurance Assignment Help — Core and Optional Module Support",
+        "suggested_h2s": [
+          "What Is the CII Diploma in Insurance?",
+          "CII Diploma Core Units: M05, M92 and 530",
+          "M05 Insurance Law: Why It Is the Hardest CII Unit",
+          "M92 Insurance Business and Finance: What to Expect",
+          "530 Economics and Business: The Strategic Foundation",
+          "CII Diploma Optional Units: Choosing Your Specialisation",
+          "Diploma in Insurance vs Advanced Diploma: The Pathway Explained"
+        ],
+        "contextual_border_question": "Are you working on a Diploma core unit (M05, M92, 530) or one of the optional specialist modules?",
+        "supplementary_bridges_to": ["M05 Help", "M92 Help", "530 Help", "M80 Help", "M81 Help", "M85 Help", "M97 Help"]
+      },
+      {
+        "topic": "CII Advanced Diploma in Insurance Assignment Help",
+        "attribute_focus": "All Advanced Diploma units — three strategic core units (820, 930, 960) plus 10 specialist optional units at Level 6–7",
+        "macro_context": "Getting expert help with CII Advanced Diploma in Insurance — the highest-level CII insurance qualification, requiring strategic analysis and senior industry expertise",
+        "query_context_match": true,
+        "eav_depth_required": "Entity: Advanced Diploma in Insurance. Attributes: qualification level (RQF Level 6–7), core units (820 Advanced Claims, 930 Advanced Insurance Broking, 960 Advanced Underwriting — all 30 credits Level 6), shared core units from Diploma (M92, 530, M05), optional units (590 Takaful, 545 Marketing, 990–997 series at Level 6–7, some at 50 credits), total credits required. Values: 991/993/994 are Level 7 units at 50 credits (highest weight), ACII eligibility upon completion. Must position this as senior professional development, not entry-level study.",
+        "coverage_status": "missing",
+        "priority": "high",
+        "suggested_h1": "CII Advanced Diploma in Insurance Assignment Help — Strategic Module Support",
+        "suggested_h2s": [
+          "What Is the CII Advanced Diploma in Insurance?",
+          "Advanced Diploma Core Units: 820, 930 and 960",
+          "820 Advanced Claims: Exam Format and Key Topics",
+          "930 Advanced Insurance Broking: What the Assignment Covers",
+          "960 Advanced Underwriting: Strategic Analysis Required",
+          "Advanced Diploma Optional Units: Level 6 and Level 7 Choices",
+          "Advanced Diploma in Insurance and ACII Status"
+        ],
+        "contextual_border_question": "Which Advanced Diploma unit are you working on — a core unit (820, 930, 960) or a specialist optional?",
+        "supplementary_bridges_to": ["820 Help", "930 Help", "960 Help", "991 Help", "992 Help", "993 Help", "990 Help"]
+      }
+    ],
+
+    "tier_2_topics": [
+
+      {
+        "pathway": "CII Certificate in Insurance — IF Units",
+        "units": [
+          {
+            "topic": "IF1 Assignment Help — Insurance, Legal and Regulatory",
+            "unit_code": "IF1",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF1 MCQ exam on insurance law principles, UK financial regulation, and FCA rules applicable to insurance distribution",
+            "eav_depth_required": "Entity: IF1. Attributes: MCQ assessment, 15 credits, Level 3. Syllabus: six principles of insurance law (utmost good faith, insurable interest, indemnity, subrogation, contribution, proximate cause), contract law fundamentals, FCA regulatory framework for insurance, ICOBS (Insurance Conduct of Business Sourcebook), Insurance Distribution Directive (IDD), Lloyd's market overview, types of insurance intermediaries. Values: specific ICOBS rules, IDD implementation requirements, FCA authorisation categories. Connect each legal principle to practical insurance exam scenarios.",
+            "suggested_h1": "IF1 Assignment Help — Insurance, Legal and Regulatory MCQ Exam Support",
+            "suggested_h2s": ["What Does IF1 Cover?", "The Six Principles of Insurance in IF1", "FCA Regulation of Insurance: ICOBS and IDD", "IF1 MCQ Exam Format and Scenario Questions", "IF1 Pass Tips and Common Mistakes"],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF2 Assignment Help — General Insurance Business",
+            "unit_code": "IF2",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF2 exam on how the general insurance market operates — market participants, products, and business practices",
+            "eav_depth_required": "Entity: IF2. Syllabus: insurance market structure (direct insurers, Lloyd's syndicates, brokers, MGAs, reinsurers), policy documentation (proposal form, cover note, policy, schedule, endorsement, certificate), premium calculation, underwriting cycle, catastrophe insurance and pooling, reinsurance basics, Lloyd's syndicate structure. Values: Lloyd's capacity structure, policy documentation sequence, underwriting profit/loss cycle factors.",
+            "suggested_h1": "IF2 Assignment Help — General Insurance Business MCQ Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF3 Assignment Help — Insurance Underwriting Process",
+            "unit_code": "IF3",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF3 MCQ exam on how underwriters assess risk, set terms, and manage policy conditions",
+            "eav_depth_required": "Entity: IF3. Syllabus: underwriting objectives (profitability, spread of risk, selection), risk assessment factors (moral hazard, physical hazard, rating factors), policy terms (excesses — compulsory/voluntary/franchise, conditions precedent, exclusions, warranties), non-disclosure and misrepresentation (Consumer Insurance Act 2012, Insurance Act 2015), renewal underwriting, mid-term adjustments, survey reports, underwriting authorities.",
+            "suggested_h1": "IF3 Assignment Help — Insurance Underwriting Process MCQ Exam",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF4 Assignment Help — Insurance Claims Handling Process",
+            "unit_code": "IF4",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF4 exam on how insurance claims are notified, investigated, and settled",
+            "eav_depth_required": "Entity: IF4. Syllabus: FNOL (first notification of loss), claims investigation (appointed representatives, loss adjusters, forensic investigators), fraud indicators and detection, salvage and subrogation in practice, settlement methods (cash, repair, replacement, reinstatement), total loss vs partial loss, third-party claims handling, complaints in claims context (FCA rules, FOS referral), reserving.",
+            "suggested_h1": "IF4 Assignment Help — Insurance Claims Handling Process MCQ Exam",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF5 Assignment Help — Motor Insurance Products",
+            "unit_code": "IF5",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF5 exam on motor insurance products, compulsory cover, and specialist motor policies",
+            "eav_depth_required": "Entity: IF5. Syllabus: Road Traffic Act 1988 (compulsory third party liability), motor policy types (TPO, TPFT, comprehensive), rating factors (age, occupation, vehicle type/value, usage, claims history, telematics), certificate of motor insurance (legal document), MID (Motor Insurance Database), MIB (Motor Insurers Bureau for uninsured/untraced drivers), fleet insurance, classic car, motor trade, green card scheme.",
+            "suggested_h1": "IF5 Assignment Help — Motor Insurance Products MCQ Exam Support",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF6 Assignment Help — Household Insurance Products",
+            "unit_code": "IF6",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF6 exam on buildings and contents insurance, sums insured, and non-standard household risks",
+            "eav_depth_required": "Entity: IF6. Syllabus: buildings insurance (reinstatement cost vs market value, sum insured adequacy, average clause, subsidence vs settlement), contents insurance (new for old, bedroom rated, all risks extension), standard perils (fire, lightning, explosion, earthquake, storm, flood, escape of water, theft, malicious damage), exclusions (wear and tear, gradual deterioration), landlord insurance, unoccupied property, high-value homes, legal expenses and home emergency add-ons.",
+            "suggested_h1": "IF6 Assignment Help — Household Insurance Products MCQ Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF7 Assignment Help — Healthcare Insurance Products",
+            "unit_code": "IF7",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF7 exam on private medical insurance, health cash plans, and healthcare product structures",
+            "eav_depth_required": "Entity: IF7. Syllabus: PMI underwriting methods (moratorium vs full medical underwriting, continued personal medical exclusions — CPMEs), PMI benefit levels (in-patient, day-patient, out-patient limits, hospital lists), health cash plans vs PMI distinction, international PMI, group healthcare schemes, dental insurance, critical illness as a healthcare product, income protection interaction with healthcare, NHS vs private treatment interface.",
+            "suggested_h1": "IF7 Assignment Help — Healthcare Insurance Products MCQ Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF8 Assignment Help — Packaged Commercial Insurances",
+            "unit_code": "IF8",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF8 exam on commercial package policies for SMEs and the key business insurance covers",
+            "eav_depth_required": "Entity: IF8. Syllabus: commercial combined policies (buildings, contents, business interruption, money, goods in transit, employers liability, public liability, legal expenses), compulsory insurance (Employers Liability — Employers Liability Act 1969, £5M minimum limit; motor), business interruption (indemnity period, basis of cover — gross profit vs revenue, declaration linked), SME package insurance, professional indemnity basics for commercial packages.",
+            "suggested_h1": "IF8 Assignment Help — Packaged Commercial Insurances MCQ Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF9 Assignment Help — Customer Service in Insurance",
+            "unit_code": "IF9",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF9 exam on customer service standards, complaints handling, and treating customers fairly in insurance",
+            "eav_depth_required": "Entity: IF9. Syllabus: FCA consumer protection principles (TCF, Consumer Duty 2023), customer communication standards in insurance, complaints handling process (8-week rule, FOS referral, FOS jurisdiction), vulnerable customers, data protection (GDPR in insurance context), customer journey in insurance, service standards for brokers and insurers.",
+            "suggested_h1": "IF9 Assignment Help — Customer Service in Insurance MCQ Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF10 Assignment Help — Insurance Broking Fundamentals",
+            "unit_code": "IF10",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF10 exam on the insurance broking function, broker responsibilities, and market placement",
+            "eav_depth_required": "Entity: IF10. Syllabus: insurance broker role and duties (agent of insured, duties of care, IDD requirements), market placement process, client needs analysis and fact-find, risk presentation to insurers, broker remuneration (brokerage, fees, profit commissions), broker regulatory obligations (FCA authorisation, client money rules, professional indemnity requirements), Lloyd's broker status, e-trading vs traditional placement.",
+            "suggested_h1": "IF10 Assignment Help — Insurance Broking Fundamentals MCQ Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IF11 Assignment Help — Introduction to Risk Management",
+            "unit_code": "IF11",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the IF11 exam on risk management principles, risk identification, and risk treatment options",
+            "eav_depth_required": "Entity: IF11. Syllabus: risk management process (identify, assess, treat, monitor), risk categorisation (pure vs speculative, financial vs non-financial, insurable vs non-insurable), risk treatment options (avoid, reduce, transfer, retain/accept — TARA framework), risk registers, ERM (enterprise risk management), risk appetite and tolerance, business continuity planning, insurance as a risk transfer mechanism.",
+            "suggested_h1": "IF11 Assignment Help — Introduction to Risk Management MCQ Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "GR1 Assignment Help — Group Risk",
+            "unit_code": "GR1",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the GR1 exam on group risk insurance products — group life, group income protection, and group critical illness",
+            "eav_depth_required": "Entity: GR1. Syllabus: group life assurance (death in service, free cover limit, nominated beneficiaries, discretionary trust), group income protection (benefit levels, deferred periods, benefit periods, rehabilitation provisions, claims management), group critical illness (cover categories, age limits, claim definitions), group private medical insurance, employer motivations for group schemes, auto-enrolment interaction with group life, group underwriting (experience rating, risk factors).",
+            "suggested_h1": "GR1 Assignment Help — Group Risk MCQ Exam Support",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "LM3 Assignment Help — London Market Underwriting Principles",
+            "unit_code": "LM3",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for the LM3 exam on how the Lloyd's and London insurance market operates — unique processes, participants, and market practices",
+            "eav_depth_required": "Entity: LM3. Syllabus: Lloyd's structure (Council of Lloyd's, members/Names, syndicates, managing agents, members' agents, capital providers), Lloyd's underwriting process (slip, broker presentation, lead and follow underwriters, written lines, signing down), Lloyd's policy signing (Lloyd's Policy Signing Office), central fund, Lloyd's financial security (Chain of Security), London company market alongside Lloyd's, International Insurance Company of Hannover, London processing centres.",
+            "suggested_h1": "LM3 Assignment Help — London Market Underwriting Principles MCQ Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "R05 Assignment Help — Financial Protection (Certificate Level)",
+            "unit_code": "R05",
+            "level": 3,
+            "credits": 15,
+            "assessment_type": "MCQ exam (scenario-based)",
+            "macro_context": "Preparing for R05 at Certificate in Insurance level — covering life and protection insurance products from an insurance rather than financial planning perspective",
+            "eav_depth_required": "Entity: R05 at Certificate level. Syllabus: term assurance types (level, decreasing, increasing), whole of life, critical illness (ABI definitions, partial payments, survival period), income protection (own/any occupation, deferred periods, benefit basis), business protection (key person, shareholder, relevant life policy), group protection basics, underwriting for protection products. Note: R05 appears in BOTH Certificate in Insurance and Diploma in Regulated Financial Planning — the insurance context here is distinct from the financial planning context.",
+            "suggested_h1": "R05 Assignment Help — Financial Protection at Certificate in Insurance Level",
+            "priority": "medium",
+            "coverage_status": "missing"
+          }
+        ]
+      },
+
+      {
+        "pathway": "CII Certificate in Insurance — International Variants",
+        "units": [
+          {
+            "topic": "WCE / WCA Assignment Help — Insurance Claims Handling (Non-UK)",
+            "unit_codes": ["WCE", "WCA"],
+            "assessment_type": "MCQ exam",
+            "macro_context": "Preparing for non-UK (WCE) and Arabic (WCA) variants of the insurance claims handling exam for students outside the UK",
+            "eav_depth_required": "Entity: WCE/WCA. Connects to same core claims subject matter as IF4 but adapted for non-UK regulatory contexts. WCA is the Arabic-language version. Identify which regulatory framework differences exist vs UK. Bridge to IF4 content contextually.",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "WUE / WUA Assignment Help — Insurance Underwriting (Non-UK)",
+            "unit_codes": ["WUE", "WUA"],
+            "assessment_type": "MCQ exam",
+            "macro_context": "Preparing for non-UK (WUE) and Arabic (WUA) variants of the insurance underwriting exam",
+            "eav_depth_required": "Entity: WUE/WUA. Same core underwriting subject matter as IF3 adapted for non-UK contexts. WUA is Arabic-language. Bridge to IF3 content contextually.",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "IMU / IMP Assignment Help — Motor Insurance (India)",
+            "unit_codes": ["IMU", "IMP"],
+            "assessment_type": "MCQ exam",
+            "macro_context": "Preparing for India-specific motor insurance CII units — IMU (Motor Insurance Claims and Underwriting) and IMP (Motor Insurance Products and Policies)",
+            "eav_depth_required": "Entity: IMU/IMP. India motor insurance regulatory framework (IRDAI), third party motor insurance requirements under Motor Vehicles Act, Own Damage cover, India-specific motor rating factors, India motor claims process differences from UK. Connect to IF4/IF5 subject matter with India context overlay.",
+            "priority": "medium",
+            "coverage_status": "missing"
+          }
+        ]
+      },
+
+      {
+        "pathway": "CII Diploma in Insurance — Core Units",
+        "units": [
+          {
+            "topic": "M05 Assignment Help — Insurance Law",
+            "unit_code": "M05",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M05 assignments on UK insurance law — the most academically demanding core Diploma unit requiring deep knowledge of case law",
+            "eav_depth_required": "Entity: M05. Critical framing: known as 'the toughest CII unit' due to extensive case law requirements. Attributes: 25 credits, Level 4, written exam, shared between Diploma and Advanced Diploma. Syllabus: contract law in insurance (offer, acceptance, consideration, capacity, legality), insurance contract formation, duty of utmost good faith at depth (Consumer Insurance Act 2012, Insurance Act 2015 business reforms), warranties and conditions (s.10 Insurance Act 2015 — breach of warranty suspends cover rather than terminating), subrogation case law (Castellain v Preston, Simpson v Thomson), contribution (North British & Mercantile Insurance v London, Liverpool and Globe Insurance), insurable interest case law (Macaura v Northern Assurance, Lucena v Craufurd), proximate cause (Leyland Shipping v Norwich Union, Wayne Tank v Employers Liability). Values: specific case names and holdings are REQUIRED — not optional. This unit cannot be covered by mentioning concepts; specific case law values are the depth.",
+            "suggested_h1": "M05 Assignment Help — Insurance Law: Case Law, Principles and Exam Strategy",
+            "suggested_h2s": ["What Makes M05 the Hardest CII Unit?", "M05 Insurance Law: Key Case Law You Must Know", "The Insurance Act 2015 in M05: Warranties and Non-Disclosure", "Consumer Insurance Act 2012 vs Insurance Act 2015: The Critical Distinction", "M05 Written Exam Structure and Answer Technique", "Utmost Good Faith at Diploma Level: Beyond IF1"],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M92 Assignment Help — Insurance Business and Finance",
+            "unit_code": "M92",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M92 assignments on how insurance companies manage their financial operations, investment portfolios, and business strategy",
+            "eav_depth_required": "Entity: M92. Attributes: 25 credits, Level 4, core unit for both Diploma and Advanced Diploma, written exam. Syllabus: insurance company financial management (profit and loss components, combined ratio, loss ratio, expense ratio, investment income), insurance company investment strategy (matching liabilities, Solvency II asset constraints), Solvency II regulatory capital (SCR, MCR, technical provisions, ORSA), Lloyd's financial structure, insurance accounting (premium income recognition, IBNR reserving), reinsurance financial impact, insurance company business strategy, M&A in insurance.",
+            "suggested_h1": "M92 Assignment Help — Insurance Business and Finance Exam Support",
+            "suggested_h2s": ["What Does M92 Cover?", "Insurance Company Financials in M92: Combined Ratio and Profitability", "Solvency II in M92: Capital Requirements Explained", "Insurance Investment Strategy: Matching Assets to Liabilities", "M92 Exam Structure and Written Answer Technique"],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "530 Assignment Help — Economics and Business",
+            "unit_code": "530",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 530 assignments on macroeconomic analysis, business strategy, and their application to the insurance industry",
+            "eav_depth_required": "Entity: 530. Attributes: 30 credits, Level 6 (highest level core unit — shared between Diploma and Advanced Diploma), written exam requiring analytical and essay responses. Syllabus: macroeconomics (GDP, inflation, interest rates, unemployment, exchange rates, economic cycles — impact on insurance demand and investment returns), microeconomics (supply and demand in insurance markets, pricing theory, market structures — monopoly, oligopoly), business strategy frameworks (Porter's Five Forces, PESTLE, SWOT applied to insurance firms), insurance market economics (adverse selection, moral hazard, information asymmetry), globalisation of insurance, emerging markets.",
+            "suggested_h1": "530 Assignment Help — Economics and Business for CII Diploma and Advanced Diploma",
+            "suggested_h2s": ["What Does 530 Economics and Business Cover?", "Macroeconomic Analysis in 530: Impact on Insurance Markets", "Business Strategy in 530: Porter's Five Forces and PESTLE", "Information Asymmetry in Insurance: Adverse Selection and Moral Hazard", "530 Written Exam: How to Structure an Analytical Answer"],
+            "priority": "high",
+            "coverage_status": "missing"
+          }
+        ]
+      },
+
+      {
+        "pathway": "CII Diploma in Insurance — Optional Units (M and P Series)",
+        "units": [
+          {
+            "topic": "M80 Assignment Help — Underwriting Practice",
+            "unit_code": "M80",
+            "level": 4,
+            "credits": 20,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M80 assignments on insurance underwriting practice — risk assessment, terms setting, and portfolio management",
+            "eav_depth_required": "Entity: M80. Syllabus: underwriting process at practice level (risk selection, analysis of risk information, underwriting tools — surveys, databases, actuarial models), pricing methodology (rate adequacy, technical pricing vs market pricing), portfolio management (mix of business, aggregation limits, catastrophe exposure), facultative reinsurance decisions, delegated authority (binding authorities, lineslips, coverholder management), underwriting in different market conditions (hard vs soft market cycle management).",
+            "suggested_h1": "M80 Assignment Help — Underwriting Practice Diploma Exam Support",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M81 Assignment Help — Insurance Broking Practice",
+            "unit_code": "M81",
+            "level": 4,
+            "credits": 20,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M81 assignments on insurance broking at a professional practice level — client relationships, market placement, and broker management",
+            "eav_depth_required": "Entity: M81. Syllabus: broker-client relationship (fiduciary duty, needs analysis, terms of business agreements), risk presentation and market placement strategy (slip construction, market selection, lead/follow dynamics), claims broking (role of broker in claims), broker financial management (client money — FCA CASS rules, premium funding, brokerage income), IDD compliance for brokers, professional indemnity requirements, E&O risk management, broker business development, Lloyd's accredited broker requirements.",
+            "suggested_h1": "M81 Assignment Help — Insurance Broking Practice Diploma Exam",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M85 Assignment Help — Claims Practice",
+            "unit_code": "M85",
+            "level": 4,
+            "credits": 20,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M85 assignments on insurance claims management at a professional practice level — coverage analysis, settlement strategy, and litigation management",
+            "eav_depth_required": "Entity: M85. Syllabus: coverage analysis (policy interpretation, proximate cause determination at practice level), claims investigation management (appointing experts — loss adjusters, forensic accountants, engineers, solicitors), large and complex claims handling, business interruption claims methodology (turnover basis, gross profit basis, maximum indemnity period), liability claims management (third party claims, personal injury assessment, litigation strategy), fraud management (fraud indicators, SIU referral, insurer remedies), claims reserving methodology (case reserves, IBNR), subrogation recovery management.",
+            "suggested_h1": "M85 Assignment Help — Claims Practice CII Diploma Exam Support",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M97 Assignment Help — Reinsurance",
+            "unit_code": "M97",
+            "level": 4,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M97 assignments on reinsurance — treaty and facultative structures, pricing, and the global reinsurance market",
+            "eav_depth_required": "Entity: M97. Attributes: 30 credits (highest credit optional unit). Syllabus: reinsurance purposes (capital protection, capacity, stabilisation, spread of risk, expertise), treaty reinsurance types (proportional: quota share, surplus; non-proportional: excess of loss — risk XL, cat XL, aggregate XL; stop loss), facultative reinsurance (individual risk basis, obligatory facultative), reinsurance pricing (burning cost, rate on line, payback period), retrocession, finite risk reinsurance, captive reinsurance, Lloyd's reinsurance market, global reinsurance centres (London, Bermuda, Zurich, Munich), credit risk in reinsurance.",
+            "suggested_h1": "M97 Assignment Help — Reinsurance CII Diploma Exam",
+            "suggested_h2s": ["What Does M97 Cover?", "Treaty Reinsurance in M97: Proportional and Non-Proportional", "Excess of Loss Reinsurance: Risk XL, Cat XL, Aggregate", "Facultative Reinsurance vs Treaty: The Key Differences", "M97 Reinsurance Pricing: Burning Cost and Rate on Line", "Global Reinsurance Market: London, Bermuda and Beyond"],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M96 Assignment Help — Liability Insurances",
+            "unit_code": "M96",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M96 assignments on liability insurance — employers liability, public liability, professional indemnity, product liability, and D&O",
+            "eav_depth_required": "Entity: M96. Syllabus: employers liability (EL Act 1969, compulsory insurance, £5M minimum, ELTO database), public liability (occurrence basis, third party bodily injury and property damage, exclusions), product liability (Consumer Protection Act 1987, strict liability), professional indemnity (claims made basis, retroactive date, aggregation vs per claim, run-off cover), directors and officers (Side A/B/C covers, securities exclusions), management liability package, environmental liability.",
+            "suggested_h1": "M96 Assignment Help — Liability Insurances CII Diploma Exam",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M93 Assignment Help — Commercial Property and Business Interruption Insurances",
+            "unit_code": "M93",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M93 assignments on commercial property insurance and business interruption — cover structures, rating, and claims",
+            "eav_depth_required": "Entity: M93. Syllabus: commercial property cover (material damage — reinstatement value vs indemnity, average clause, day one reinstatement, special perils), business interruption insurance (gross profit basis — rate of gross profit, indemnity period, maximum indemnity period, additional increased cost of working, trends clause, adjustments clause), fire rating (construction, occupation, protection, exposure — COPE), flood and subsidence in commercial context, business continuity, leasehold property.",
+            "suggested_h1": "M93 Assignment Help — Commercial Property and Business Interruption Exam",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M94 Assignment Help — Motor Insurance",
+            "unit_code": "M94",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M94 assignments on motor insurance at Diploma level — commercial vehicle, fleet, and specialist motor products",
+            "eav_depth_required": "Entity: M94. Syllabus: motor insurance law (RTA 1988, MIB agreements — Uninsured Drivers Agreement, Untraced Drivers Agreement), fleet insurance (rating — experience, exposure, burning cost, fleet management requirements), commercial vehicle (own goods, haulage, PCV — public carriage vehicle), motor traders (road risks, combined), telematics and usage-based insurance, electric vehicle insurance considerations, motor claims management (total loss — salvage, write-off categories A-S, settlement).",
+            "suggested_h1": "M94 Assignment Help — Motor Insurance CII Diploma Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M98 Assignment Help — Marine Hull and Associated Liabilities",
+            "unit_code": "M98",
+            "level": 4,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M98 assignments on marine hull insurance — the law, cover structures, and claims in the marine insurance market",
+            "eav_depth_required": "Entity: M98. Attributes: 30 credits. Syllabus: Marine Insurance Act 1906 (the foundation of UK insurance law — implied warranties: seaworthiness, legality; insurable interest in marine), Institute Clauses (IHC — Institute Hull Clauses, ITC Hulls — all risks, named perils), hull cover (total loss — actual, constructive — 3/4ths rule, arranged; partial loss — particular average, general average — York-Antwerp Rules), collision liability (3/4ths RDC clause), P&I insurance (protection and indemnity clubs — third party liabilities), Institute Voyage Clauses vs Time Clauses.",
+            "suggested_h1": "M98 Assignment Help — Marine Hull and Associated Liabilities CII Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M90 Assignment Help — Cargo and Goods in Transit Insurances",
+            "unit_code": "M90",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M90 assignments on cargo insurance and goods in transit — Institute Cargo Clauses, Incoterms, and inland transit",
+            "eav_depth_required": "Entity: M90. Syllabus: Institute Cargo Clauses (ICC A — all risks, ICC B — named perils wider, ICC C — named perils basic), Incoterms 2020 (EXW, FCA, FOB, CIF, CIP, DAP, DDP — who bears risk/cost at each point), general average in cargo context, storage and inland transit extension, stock throughput policies, refrigerated cargo, project cargo, bulk cargo. Connect insurable interest rules (Marine Insurance Act 1906 s.5–s.14) to cargo context.",
+            "suggested_h1": "M90 Assignment Help — Cargo and Goods in Transit CII Diploma Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M91 Assignment Help — Aviation and Space Insurance",
+            "unit_code": "M91",
+            "level": 4,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M91 assignments on aviation insurance — aircraft hull, aviation liability, and space insurance",
+            "eav_depth_required": "Entity: M91. Attributes: 30 credits. Syllabus: aviation insurance market structure, aircraft hull insurance (agreed value, total loss, partial loss, AVN clauses), aviation liability (Warsaw Convention, Montreal Convention — passenger liability limits, cargo liability), airline operators' liability, airport operators' liability, general aviation vs airline distinction, space insurance (launch risk, in-orbit risk, third party liability — Liability Convention 1972), satellite insurance, drone/UAV insurance.",
+            "suggested_h1": "M91 Assignment Help — Aviation and Space Insurance CII Diploma Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M67 Assignment Help — Fundamentals of Risk Management",
+            "unit_code": "M67",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M67 assignments on enterprise risk management — risk frameworks, identification, assessment, and treatment at Diploma level",
+            "eav_depth_required": "Entity: M67. Syllabus: ERM frameworks (ISO 31000, COSO ERM), risk identification methods (HAZOP, fault tree analysis, scenario analysis, bow-tie model), risk assessment (qualitative vs quantitative — probability-impact matrix, Monte Carlo simulation, VaR), risk treatment strategies (TARA), risk registers and risk appetite statements, business continuity management (ISO 22301), risk governance (Board risk committee, CRO role), insurance as risk transfer within ERM.",
+            "suggested_h1": "M67 Assignment Help — Fundamentals of Risk Management CII Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M66 Assignment Help — Delegated Authority",
+            "unit_code": "M66",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M66 assignments on delegated authority arrangements — binding authorities, lineslips, and coverholder management",
+            "eav_depth_required": "Entity: M66. Syllabus: delegated authority types (binding authority — capacity, lineslip, consortium), coverholder due diligence and approval process (Lloyd's coverholder requirements, FCA regulation of coverholders), contract certainty in delegated authority, premium and claims bordereaux, coverholder monitoring and audit, Lloyd's/company market delegated authority frameworks, managing agency responsibilities, cyber risk in delegated authority operations.",
+            "suggested_h1": "M66 Assignment Help — Delegated Authority CII Diploma Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "P61 Assignment Help — Life, Critical Illness and Disability Underwriting",
+            "unit_code": "P61",
+            "level": 4,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing P61 assignments on underwriting life, critical illness, and disability insurance — medical and financial underwriting at Diploma level",
+            "eav_depth_required": "Entity: P61. Syllabus: life underwriting process (proposal, GP report, medical examination, blood tests, non-medical limits — NML), mortality and morbidity experience, medical underwriting factors (BMI, blood pressure, diabetes, heart disease, cancer — underwriting at each stage of severity), occupational underwriting for IP and CI, financial underwriting (income multiple limits, business insurance financial justification), reinsurance in life underwriting (automatic and facultative), group risk underwriting (free cover limit, experience rating).",
+            "suggested_h1": "P61 Assignment Help — Life, Critical Illness and Disability Underwriting",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "P62 Assignment Help — Life, Critical Illness and Disability Claims",
+            "unit_code": "P62",
+            "level": 4,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing P62 assignments on how life, critical illness, and income protection claims are assessed and settled",
+            "eav_depth_required": "Entity: P62. Syllabus: life claims process (death certificate, cause of death, policy check, beneficiary payment), suicide clause (typically 12 months — if death within clause period, surrender value only), CI claims assessment (ABI definitions, three-month survival period, standard vs enhanced definitions), IP claims (own occupation definition application, GP/specialist reports, rehabilitation, mental health claims), non-disclosure at claim stage — utmost good faith, Consumer Insurance Act 2012 remedies. Contestability period.",
+            "suggested_h1": "P62 Assignment Help — Life, Critical Illness and Disability Claims",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "P63 Assignment Help — Long-term Insurance Business",
+            "unit_code": "P63",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing P63 assignments on how life and pensions businesses operate — actuarial, regulatory, and investment aspects",
+            "eav_depth_required": "Entity: P63. Syllabus: life assurance company operations (with-profits fund management — bonus declarations, smoothing, MVR), unit-linked product mechanics (unit pricing, bid-offer spread, fund management charges), actuarial principles (mortality tables, present value of future cash flows, life office reserving), Solvency II for life insurers (technical provisions — best estimate + risk margin, SCR for life risk), policyholder protection (FSCS for life, Financial Services Act continuity of contracts).",
+            "suggested_h1": "P63 Assignment Help — Long-term Insurance Business CII Diploma",
+            "priority": "low",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "P64 Assignment Help — Private Medical Insurance Practice",
+            "unit_code": "P64",
+            "level": 4,
+            "credits": 25,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing P64 assignments on private medical insurance — underwriting, products, claims, and the healthcare market",
+            "eav_depth_required": "Entity: P64. Syllabus: PMI market (individual, SME group, large group), PMI underwriting at Diploma level (moratorium, CPME, full MU), PMI product design (in-patient, day-patient, out-patient, therapies, mental health, cancer cover, dental/optical add-ons), claims management in PMI (hospital billing, direct settlement, claims authorisation), NHS vs private interface (NHS waiting lists interaction, GP referral pathways), international PMI (IPMI for expatriates), healthcare cost inflation drivers.",
+            "suggested_h1": "P64 Assignment Help — Private Medical Insurance Practice CII Diploma",
+            "priority": "low",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M21 Assignment Help — Commercial Insurance Contract Wording",
+            "unit_code": "M21",
+            "level": 4,
+            "credits": 20,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M21 assignments on how insurance contract wordings are constructed, interpreted, and enforced",
+            "eav_depth_required": "Entity: M21. Syllabus: contract interpretation (contra proferentem rule, ejusdem generis, expressio unius), policy structure analysis (recital, operative clause, exceptions, conditions, schedule), jurisdiction and choice of law clauses, contract certainty (LMA/IUA requirements), manuscript vs standard clauses, endorsements and their legal effect, market reform contract (MRC) structure, bespoke wording drafting, warranty vs condition vs innominate term distinction.",
+            "suggested_h1": "M21 Assignment Help — Commercial Insurance Contract Wording CII Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "M86 Assignment Help — Personal Insurances",
+            "unit_code": "M86",
+            "level": 4,
+            "credits": 20,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing M86 assignments on personal lines insurance products — motor, household, travel, and personal accident",
+            "eav_depth_required": "Entity: M86. Syllabus: motor insurance at Diploma depth (beyond IF5 — aggregate deductibles, telematics, usage-based pricing, electric vehicles), household insurance at Diploma depth (subsidence claims complexity, high-value homes, listed buildings, contents all risks worldwide), travel insurance (single trip vs annual multi-trip, pre-existing medical conditions, medical evacuation, cancellation basis), personal accident and sickness, legal expenses insurance, personal cyber insurance.",
+            "suggested_h1": "M86 Assignment Help — Personal Insurances CII Diploma Exam",
+            "priority": "medium",
+            "coverage_status": "missing"
+          }
+        ]
+      },
+
+      {
+        "pathway": "CII Advanced Diploma in Insurance — Core Units",
+        "units": [
+          {
+            "topic": "820 Assignment Help — Advanced Claims",
+            "unit_code": "820",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 820 Advanced Claims assignments — strategic claims management, complex coverage disputes, and claims leadership",
+            "eav_depth_required": "Entity: 820. Attributes: Level 6, 30 credits, core Advanced Diploma unit. Must be positioned as STRATEGIC and SENIOR — not an extension of IF4/M85 but a leadership-level treatment. Syllabus: claims philosophy and strategy (claims as competitive differentiator vs cost centre), complex coverage disputes (concurrent causation, aggregation, policy trigger), large loss management (catastrophe response, international coordination), fraud strategy (organised fraud, SIU management), claims litigation strategy (ADR vs litigation, arbitration — London arbitration, New York convention), reserving philosophy (IBNR methodology, actuarial involvement in claims), emerging claims trends (cyber, climate change, litigation funding, third-party funding of claims).",
+            "suggested_h1": "820 Advanced Claims Assignment Help — CII Advanced Diploma Exam Support",
+            "suggested_h2s": ["What Does 820 Advanced Claims Cover?", "820 vs M85: How the Advanced Diploma Raises the Bar", "Complex Coverage Disputes in 820", "Claims Strategy and Leadership in 820", "Emerging Claims Issues: Cyber and Climate in 820", "820 Written Exam Format and Answer Structure"],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "930 Assignment Help — Advanced Insurance Broking",
+            "unit_code": "930",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 930 Advanced Insurance Broking assignments — strategic broking, complex client management, and market leadership",
+            "eav_depth_required": "Entity: 930. Attributes: Level 6, 30 credits, core Advanced Diploma unit. Strategic framing required: not client service but strategic broker leadership. Syllabus: complex risk broking strategy (large corporate, multinational programme structure — DIC/DIL, admitted vs non-admitted), captive management and programme design, alternative risk transfer, client risk management consultation, broking firm business strategy, regulatory challenges for brokers (FCA remuneration rules, IDD conflicts of interest, climate risk disclosure), market reform leadership, broking in Lloyd's vs company market at strategic level.",
+            "suggested_h1": "930 Advanced Insurance Broking Assignment Help — CII Advanced Diploma",
+            "suggested_h2s": ["What Does 930 Advanced Broking Cover?", "Multinational Insurance Programmes in 930", "Alternative Risk Transfer: Captives and ART in 930", "Broker Strategy and Market Leadership at Advanced Diploma Level", "930 vs M81: Strategic vs Practice Level"],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "960 Assignment Help — Advanced Underwriting",
+            "unit_code": "960",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 960 Advanced Underwriting assignments — portfolio strategy, emerging risks, and senior underwriting leadership",
+            "eav_depth_required": "Entity: 960. Attributes: Level 6, 30 credits, core Advanced Diploma unit. Strategic positioning: senior underwriter or underwriting manager level. Syllabus: underwriting portfolio management (strategic pricing, aggregation management, catastrophe modelling — PML, probable maximum loss, RMS/AIR models), market cycle management (how to underwrite profitably in hard AND soft markets), emerging risks underwriting (cyber, parametric, climate, PFAS liability), alternative capital (ILS — catastrophe bonds, sidecars, collateralised reinsurance), delegated authority strategy, Lloyd's Decile 10 initiative context, underwriting governance.",
+            "suggested_h1": "960 Advanced Underwriting Assignment Help — CII Advanced Diploma",
+            "suggested_h2s": ["What Does 960 Advanced Underwriting Cover?", "Portfolio Management and Catastrophe Modelling in 960", "Emerging Risks in 960: Cyber, Climate and Parametric Insurance", "Insurance Linked Securities in the 960 Context", "960 vs M80: Advanced vs Practice Level Underwriting"],
+            "priority": "high",
+            "coverage_status": "missing"
+          }
+        ]
+      },
+
+      {
+        "pathway": "CII Advanced Diploma in Insurance — Optional Units (500/900 Series)",
+        "units": [
+          {
+            "topic": "990 Assignment Help — Insurance Corporate Management",
+            "unit_code": "990",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 990 assignments on insurance company corporate governance, strategy, and management",
+            "eav_depth_required": "Entity: 990. Syllabus: corporate governance in insurance (Board composition, risk committee, audit committee, SMCR in insurance — PRA/FCA Senior Managers Regime for insurers), Solvency II governance requirements (ORSA, actuarial function, risk management function, compliance function, internal audit — four functions), insurance company strategy (market positioning, M&A, distribution strategy), stakeholder management (regulators, rating agencies — S&P/Fitch/AM Best), insurance leadership in ESG context.",
+            "suggested_h1": "990 Assignment Help — Insurance Corporate Management Advanced Diploma",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "991 Assignment Help — London Market Insurance Specialisation",
+            "unit_code": "991",
+            "level": 7,
+            "credits": 50,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 991 assignments on the London insurance market — the highest-credit Advanced Diploma unit on Lloyd's and London market specialisation",
+            "eav_depth_required": "Entity: 991. Attributes: Level 7, 50 credits (highest weight single unit). Syllabus: Lloyd's market at strategic depth (Lloyd's Corporate Capital — corporate members, managing agents, syndicates, the Society of Lloyd's governance), Lloyd's franchise performance management, London market reform (Blueprint Two — electronic placement, PPL platform, LIMOSS), international regulatory recognition of Lloyd's (Lloyd's licences globally), Lloyd's claims transformation, IUA (International Underwriting Association) company market, London market talent and culture strategy.",
+            "suggested_h1": "991 Assignment Help — London Market Insurance Specialisation Level 7",
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "992 Assignment Help — Risk Management in Insurance",
+            "unit_code": "992",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 992 assignments on enterprise risk management applied to insurance companies and regulated firms",
+            "eav_depth_required": "Entity: 992. Syllabus: ERM in insurance companies (Solvency II risk categories — underwriting risk, market risk, credit risk, operational risk, liquidity risk), ORSA (Own Risk and Solvency Assessment — process, Board approval, regulatory submission), risk appetite framework design, stress and scenario testing, capital modelling (standard formula vs internal model — PRA approval process), risk culture, third-party risk in insurance (outsourcing, supply chain).",
+            "suggested_h1": "992 Assignment Help — Risk Management in Insurance Advanced Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "993 Assignment Help — Advances in Strategic Risk Management in Insurance",
+            "unit_code": "993",
+            "level": 7,
+            "credits": 50,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 993 assignments on cutting-edge strategic risk management — the advanced Level 7 treatment of emerging and systemic risks",
+            "eav_depth_required": "Entity: 993. Attributes: Level 7, 50 credits. Syllabus: systemic risk in insurance (too-big-to-fail insurers, G-SIIs — global systemically important insurers, FSB oversight), climate risk as strategic risk (TCFD framework, physical vs transition risk, insurance protection gap), cyber risk as systemic risk (cyber accumulation, silent cyber, cyber reinsurance limits), political and geopolitical risk (war and sanctions exclusions, trade credit risk), pandemic risk (COVID-19 lessons for risk management, business interruption test case implications), strategic risk governance.",
+            "suggested_h1": "993 Assignment Help — Advances in Strategic Risk Management Level 7",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "994 Assignment Help — Insurance Market Specialisation",
+            "unit_code": "994",
+            "level": 7,
+            "credits": 50,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 994 assignments on specialist insurance markets — a Level 7 unit covering market specialisms at the highest academic level",
+            "eav_depth_required": "Entity: 994. Attributes: Level 7, 50 credits. Syllabus: specialist insurance markets in depth (varies by examination sitting — typically covers energy, construction, political risk, or other specialist lines at Level 7 strategic depth), global market structures for specialist lines, pricing and capacity in specialist markets, reinsurance for specialist lines, claims in specialist markets.",
+            "suggested_h1": "994 Assignment Help — Insurance Market Specialisation Level 7 Advanced Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "995 Assignment Help — Strategic Underwriting",
+            "unit_code": "995",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 995 assignments on underwriting strategy — the Advanced Diploma's optional strategic underwriting unit alongside the core 960",
+            "eav_depth_required": "Entity: 995. Syllabus: strategic pricing (technical pricing models, market pricing dynamics, underwriting profitability targets), underwriting innovation (usage-based insurance, parametric triggers, AI in underwriting), product development strategy (new product design, actuarial involvement, regulatory approval), underwriting governance (Lloyd's Performance Management Directorate, Syndicates Business Plan process), MGA strategy and delegated authority at scale.",
+            "suggested_h1": "995 Assignment Help — Strategic Underwriting CII Advanced Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "996 Assignment Help — Strategic Claims Management",
+            "unit_code": "996",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 996 assignments on claims strategy at the Advanced Diploma level — alongside the core 820 unit",
+            "eav_depth_required": "Entity: 996. Syllabus: claims strategy design (claims operating model, outsourcing decisions, TPA management), technology in claims (AI triage, automated settlement, telematics first notification, drones in CAT claims), customer experience in claims (NPS in claims, regulatory expectations — FCA Consumer Duty), large loss governance (claim committee structure, reserve sign-off authorities), reinsurance recoveries management (advising vs notification, proof of loss, reinsurance arbitration).",
+            "suggested_h1": "996 Assignment Help — Strategic Claims Management Advanced Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "997 Assignment Help — Advanced Risk Financing and Transfer",
+            "unit_code": "997",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 997 assignments on alternative risk transfer, captives, and structured risk financing solutions",
+            "eav_depth_required": "Entity: 997. Syllabus: captive insurance (single-parent captive, group captive, rent-a-captive, protected cell company — domicile choices: Bermuda, Cayman, Guernsey, Isle of Man, Dublin), captive feasibility analysis (feasibility study, fronting arrangement, reinsurance for captives), parametric insurance (trigger design, basis risk, index-based triggers), insurance-linked securities (catastrophe bonds — SPV structure, trigger types — indemnity, parametric, modelled loss, industry loss index), finite risk insurance, risk retention groups.",
+            "suggested_h1": "997 Assignment Help — Advanced Risk Financing and Transfer Advanced Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "590 Assignment Help — Principles of Takaful (English and Arabic)",
+            "unit_codes": ["590", "590 Arabic"],
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 590 assignments on Takaful — Islamic insurance principles, Takaful models, and the Gulf/MENA insurance market",
+            "eav_depth_required": "Entity: 590. Critical distinction: serves BOTH English and Arabic-speaking students. Syllabus: Islamic finance principles (riba prohibition — interest, gharar — uncertainty, maysir — gambling, haram activities), Takaful models (Mudarabah model, Wakalah model, hybrid Wakalah-Mudarabah), Takaful vs conventional insurance (surplus distribution, re-Takaful), AAOIFI and IFSB standards, Takaful markets (Malaysia, Gulf — Saudi, UAE, Bahrain, Qatar), regulatory frameworks (Bank Negara Malaysia, SAMA, CBUAE), family Takaful vs general Takaful.",
+            "suggested_h1": "590 Assignment Help — Principles of Takaful: Islamic Insurance Explained",
+            "suggested_h2s": ["What Is Takaful and How Does It Differ from Conventional Insurance?", "Takaful Models: Mudarabah, Wakalah and Hybrid", "Takaful in the Gulf and Malaysia: Regulatory Frameworks", "590 Arabic Variant: Takaful Assignment Support in Arabic", "590 Exam Format and Written Answer Technique"],
+            "priority": "high",
+            "coverage_status": "missing"
+          },
+          {
+            "topic": "545 Assignment Help — Marketing Insurance Products and Services",
+            "unit_code": "545",
+            "level": 6,
+            "credits": 30,
+            "assessment_type": "Written exam",
+            "macro_context": "Completing 545 assignments on insurance marketing strategy — distribution, brand, customer acquisition, and digital channels",
+            "eav_depth_required": "Entity: 545. Syllabus: insurance distribution channels (direct, broker, aggregator/PCW, bancassurance, affinity, embedded insurance), marketing strategy in insurance (segmentation, targeting, positioning — STP), digital marketing for insurance (SEO, PPC, social media compliance), customer lifecycle management (acquisition, retention, lapse management), FCA financial promotions rules (insurance context — ICOBS financial promotions), brand and reputation in insurance, insurance aggregator dynamics (PCW economics, price comparison website impact on market), customer data and analytics in marketing.",
+            "suggested_h1": "545 Assignment Help — Marketing Insurance Products and Services Advanced Diploma",
+            "priority": "medium",
+            "coverage_status": "missing"
+          }
+        ]
+      }
+    ],
+
+    "macro_semantics": {
+      "site_wide_ngrams": [
+        "CII assignment help",
+        "CII insurance qualification",
+        "CII diploma help",
+        "advanced diploma assignment",
+        "insurance unit",
+        "assignment support",
+        "exam preparation",
+        "written assignment",
+        "insurance law",
+        "underwriting assignment",
+        "claims assignment",
+        "broking assignment",
+        "CII module help",
+        "Chartered Insurance Institute",
+        "diploma in insurance"
+      ],
+      "question_formats": [
+        "What does [unit code] cover?",
+        "How is [unit code] assessed?",
+        "How hard is [unit code]?",
+        "What case law do I need for M05?",
+        "How do I pass [unit code]?",
+        "What is the difference between [unit A] and [unit B]?",
+        "How long does [unit code] take to study?",
+        "Can I get help with my [unit code] written exam?"
+      ],
+      "predicate_distributions": [
+        "complete (your CII assignment)",
+        "pass (your CII exam)",
+        "prepare (for your written exam)",
+        "analyse (the insurance scenario)",
+        "apply (insurance law principles)",
+        "structure (your written answer)",
+        "achieve (your CII qualification)",
+        "advance (your insurance career)"
+      ],
+      "heading_vector_pattern": "H1: [Unit Code] Assignment Help — [Unit Full Name] | H2: What Does [Unit Code] Cover? | H2: How Is [Unit Code] Assessed? | H2: [Key Topic 1] in [Unit Code] | H2: How to Structure Your [Unit Code] Written Answer | H2: [Unit Code] vs [Related Unit]: Understanding the Difference | H3: [Specific sub-topic with EAV depth]",
+      "contextual_flow_rule": "For insurance qualification pages: process QUALIFICATION LEVEL first (Certificate/Diploma/Advanced Diploma context), then ASSESSMENT TYPE, then SUBJECT MATTER DEPTH. Students need to know where they are in the qualification hierarchy before the content is meaningful."
+    }
+  },
+
+  "outer_section": {
+    "purpose": "Propagate trust and quality signals to Core Section; improve overall historical data; increase contextual consolidation of CII insurance qualification context site-wide",
+
+    "tier_1_topics": [
+      {
+        "topic": "The Six Principles of Insurance Law — Utmost Good Faith, Indemnity, and Beyond",
+        "attribute_focus": "Foundational insurance law principles that underpin IF1, M05, and all CII insurance qualification study",
+        "macro_context": "A comprehensive treatment of the six core insurance law principles — essential knowledge for any CII insurance student",
+        "eav_depth_required": "Must define each principle with legal precision AND relevant case law: (1) Utmost good faith: uberrimae fidei, Consumer Insurance Act 2012 (inadvertent vs deliberate/reckless), Insurance Act 2015 (business insurance — duty of fair presentation), remedies by misrepresentation type; (2) Insurable interest: Marine Insurance Act 1906 s.5, Macaura v Northern Assurance (shares ≠ insurable interest), Life Assurance Act 1774, timing rules; (3) Indemnity: definition, exceptions (life assurance — not indemnity, agreed value policies), reinstatement, betterment; (4) Subrogation: Castellain v Preston 1883, post-claim subrogation only, subrogation waivers; (5) Contribution: North British & Mercantile Insurance v London — rateable proportion methodology; (6) Proximate cause: Leyland Shipping v Norwich Union — cause must be proximate not remote, Wayne Tank.",
+        "suggested_h1": "The Six Principles of Insurance Law — A Complete Guide for CII Students",
+        "priority": "high",
+        "coverage_status": "missing",
+        "bridge_to_core": "Bridges to IF1 Assignment Help and M05 Assignment Help via supplementary content"
+      },
+      {
+        "topic": "Lloyd's of London — Market Structure, Syndicates and the Underwriting Process",
+        "attribute_focus": "Lloyd's market operations — minor attribute that contextualises LM3, M80, 930, 960, 991",
+        "macro_context": "How Lloyd's of London works — from Names and syndicates to the underwriting room and the Chain of Security",
+        "eav_depth_required": "Lloyd's structure: Names (individual unlimited liability — historical, now mostly corporate), corporate members (limited liability vehicles), syndicates (collection of members backing same business, managed by managing agent), managing agents (Beazley, Hiscox, Markel etc.), members' agents. Lloyd's governance: Society and Corporation, Council of Lloyd's, Franchise Board. Underwriting process at Lloyd's: slip presentation, lead underwriter (sets price and terms), following market, written lines vs signed lines, signing down, Lloyd's signing office (now electronic — PPL). Chain of Security: premium trust funds, member funds, central assets. Lloyd's financial ratings (S&P A+).",
+        "suggested_h1": "Lloyd's of London Explained — Structure, Syndicates and How Underwriting Works",
+        "priority": "high",
+        "coverage_status": "missing",
+        "bridge_to_core": "Bridges to LM3, M80, 930, 960, 991 assignment help pages"
+      },
+      {
+        "topic": "Reinsurance Fundamentals — Treaty, Facultative and the Global Reinsurance Market",
+        "attribute_focus": "Reinsurance principles — minor attribute underpinning M97, 930, 960, 993",
+        "macro_context": "How reinsurance works — structures, pricing, and the major global reinsurance centres",
+        "eav_depth_required": "Reinsurance purpose (capital protection, capacity, catastrophe stabilisation, expertise access, spread of risk). Treaty types: Proportional (quota share — fixed % ceded, surplus — variable %, pro-rata premium and loss sharing); Non-proportional (risk excess of loss — per risk retention, cat XL — per occurrence/aggregate, stop loss — annual loss ratio protection). Facultative: per-risk basis, prior agreement required. Pricing: burning cost (historical losses / premium), rate on line (premium / limit). Retrocession. Credit risk (reinsurance security — Lloyd's A-rated market standard). Global centres: London (dominant specialty), Munich Re, Swiss Re, Hannover Re, Bermuda (catastrophe focus).",
+        "suggested_h1": "Reinsurance Explained — Treaty, Facultative and the Global Reinsurance Market",
+        "priority": "high",
+        "coverage_status": "missing",
+        "bridge_to_core": "Bridges to M97, 930, 960 assignment help pages"
+      },
+      {
+        "topic": "UK Insurance Regulation — FCA, PRA, Solvency II and the IDD",
+        "attribute_focus": "Regulatory framework — minor attribute underpinning IF1, M05, M92, 990, 992",
+        "macro_context": "The UK insurance regulatory framework — FCA conduct regulation, PRA prudential regulation, Solvency II capital requirements, and IDD distribution rules",
+        "eav_depth_required": "FCA objectives and insurance conduct regulation (ICOBS — Insurance Conduct of Business, IPRU-INS for insurers). PRA prudential regulation of insurers (Solvency II — SCR, MCR, technical provisions, ORSA requirement, senior insurance manager functions — SIMFs). IDD (Insurance Distribution Directive) — scope, professional requirements (25 hours CPD for IDD firms), demands and needs test, product oversight and governance. Post-Brexit UK divergence from Solvency II (Solvency UK — reforms to internal models, risk margin). FCA consumer protection in insurance (Consumer Duty — outcome-based regulation for insurers and distributors).",
+        "suggested_h1": "UK Insurance Regulation — FCA, PRA, Solvency II and IDD for CII Students",
+        "priority": "high",
+        "coverage_status": "missing",
+        "bridge_to_core": "Bridges to IF1, M92, 990, 992 assignment help pages"
+      },
+      {
+        "topic": "Enterprise Risk Management in Insurance — ISO 31000, ERM Frameworks and ORSA",
+        "attribute_focus": "Risk management frameworks — minor attribute underpinning M67, IF11, 992, 993",
+        "macro_context": "How insurance companies and professionals apply enterprise risk management frameworks — from ISO 31000 to Solvency II ORSA",
+        "eav_depth_required": "Risk management process: identify (HAZOP, bow-tie, scenario analysis, loss data) → assess (qualitative — probability/impact matrix; quantitative — VaR, Monte Carlo, TVaR) → treat (TARA: Transfer/Avoid/Reduce/Accept) → monitor (KRIs, risk registers, risk committee). ISO 31000 framework. Solvency II risk categories: underwriting risk (premium, reserve, catastrophe), market risk (interest rate, equity, property, currency, spread, concentration), credit risk (counterparty default), operational risk, liquidity risk. ORSA: process, Board approval, annual submission to PRA. Risk appetite (tolerance vs appetite vs capacity).",
+        "suggested_h1": "Enterprise Risk Management in Insurance — ISO 31000, ERM and ORSA Explained",
+        "priority": "medium",
+        "coverage_status": "missing",
+        "bridge_to_core": "Bridges to IF11, M67, 992, 993 assignment help pages"
+      }
+    ],
+
+    "tier_2_topics": [
+      {
+        "topic": "Marine Insurance — Principles, Institute Clauses and the MIA 1906",
+        "bridge_to_core": "Bridges to M98 (marine hull) and M90 (cargo) assignment help pages",
+        "priority": "medium",
+        "coverage_status": "missing"
+      },
+      {
+        "topic": "Takaful and Islamic Insurance — Mudarabah, Wakalah and MENA Markets",
+        "bridge_to_core": "Bridges to 590 assignment help page — especially valuable for Arabic-speaking student segment",
+        "priority": "high",
+        "coverage_status": "missing"
+      },
+      {
+        "topic": "CII Membership Grades — ACII, FCII and the Route to Chartered Insurer",
+        "bridge_to_core": "Bridges to CII Assignment Help pillar and qualification pathway pages",
+        "priority": "medium",
+        "coverage_status": "missing"
+      },
+      {
+        "topic": "Insurance Careers — Underwriter, Broker, Claims Handler, Risk Manager and Loss Adjuster",
+        "bridge_to_core": "Bridges to M80, M81, M85, M67 assignment help pages — connecting career role to qualification unit",
+        "priority": "medium",
+        "coverage_status": "missing"
+      },
+      {
+        "topic": "Insurance Law — Insurance Act 2015 and Consumer Insurance Act 2012: What Changed",
+        "bridge_to_core": "Bridges to M05 and IF1/IF3 assignment help pages — the most important recent legislative changes",
+        "priority": "high",
+        "coverage_status": "missing"
+      }
+    ],
+
+    "tier_3_topics": [
+      {
+        "topic": "How to Study for CII Insurance Qualifications — Study Materials, Revision and Exam Technique",
+        "bridge_to_core": "Bridges to all unit-specific help pages via supplementary content",
+        "priority": "medium",
+        "coverage_status": "missing"
+      },
+      {
+        "topic": "CII Exam Results, Re-sits and Appeals — What to Do After a Failed Insurance Unit",
+        "bridge_to_core": "Bridges back to CII Assignment Help pillar and all unit pages",
+        "priority": "medium",
+        "coverage_status": "missing"
+      },
+      {
+        "topic": "Indian Insurance Market — IRDAI Regulation and IMU/IMP Qualifications",
+        "bridge_to_core": "Bridges to IMU and IMP assignment help pages — serves Indian student segment specifically",
+        "priority": "medium",
+        "coverage_status": "missing"
+      },
+      {
+        "topic": "Gulf Insurance Market — GCC Regulatory Frameworks and Takaful Growth",
+        "bridge_to_core": "Bridges to 590 Takaful, 591 Arabic variant, and international student pages",
+        "priority": "medium",
+        "coverage_status": "missing"
+      }
+    ],
+
+    "contextual_bridges": [
+      {"from_node": "Six Principles of Insurance", "to_node": "IF1 Assignment Help", "bridge_type": "linked", "anchor_text": "IF1 assignment help"},
+      {"from_node": "Six Principles of Insurance", "to_node": "M05 Assignment Help", "bridge_type": "linked", "anchor_text": "M05 insurance law assignment help"},
+      {"from_node": "Lloyd's of London Structure", "to_node": "LM3 Assignment Help", "bridge_type": "linked", "anchor_text": "LM3 assignment help"},
+      {"from_node": "Lloyd's of London Structure", "to_node": "991 Assignment Help", "bridge_type": "linked", "anchor_text": "991 London Market Specialisation help"},
+      {"from_node": "Reinsurance Fundamentals", "to_node": "M97 Assignment Help", "bridge_type": "linked", "anchor_text": "M97 reinsurance assignment help"},
+      {"from_node": "Reinsurance Fundamentals", "to_node": "930 Assignment Help", "bridge_type": "linked", "anchor_text": "930 advanced broking help"},
+      {"from_node": "UK Insurance Regulation", "to_node": "IF1 Assignment Help", "bridge_type": "linked", "anchor_text": "IF1 assignment help"},
+      {"from_node": "UK Insurance Regulation", "to_node": "M92 Assignment Help", "bridge_type": "linked", "anchor_text": "M92 assignment help"},
+      {"from_node": "UK Insurance Regulation", "to_node": "990 Assignment Help", "bridge_type": "linked", "anchor_text": "990 corporate management help"},
+      {"from_node": "ERM in Insurance", "to_node": "M67 Assignment Help", "bridge_type": "linked", "anchor_text": "M67 risk management assignment help"},
+      {"from_node": "ERM in Insurance", "to_node": "992 Assignment Help", "bridge_type": "linked", "anchor_text": "992 risk management in insurance help"},
+      {"from_node": "Takaful and Islamic Insurance", "to_node": "590 Assignment Help", "bridge_type": "linked", "anchor_text": "590 Takaful assignment help"},
+      {"from_node": "Insurance Act 2015 Guide", "to_node": "M05 Assignment Help", "bridge_type": "linked", "anchor_text": "M05 insurance law help"},
+      {"from_node": "Insurance Act 2015 Guide", "to_node": "IF3 Assignment Help", "bridge_type": "linked", "anchor_text": "IF3 underwriting assignment help"},
+      {"from_node": "Marine Insurance Principles", "to_node": "M98 Assignment Help", "bridge_type": "linked", "anchor_text": "M98 marine hull assignment help"},
+      {"from_node": "Marine Insurance Principles", "to_node": "M90 Assignment Help", "bridge_type": "linked", "anchor_text": "M90 cargo assignment help"},
+      {"from_node": "CII Exam Re-sits", "to_node": "CII Assignment Help", "bridge_type": "linked", "anchor_text": "CII assignment help"}
+    ]
+  },
+
+  "coverage_gaps": [
+    {"topic": "CII Assignment Help pillar page (insurance pathway)", "section": "core", "gap_type": "undefined", "priority": "high", "reason": "No pillar page exists. Previous topical map incorrectly covered financial planning pathway — must be rebuilt for insurance pathway."},
+    {"topic": "M05 Insurance Law — Case Law Depth", "section": "core", "gap_type": "undefined", "priority": "high", "reason": "M05 is the hardest unit and requires specific case law coverage (not just principles). This is the highest-intent page for Diploma students — absence is a critical gap."},
+    {"topic": "820/930/960 Advanced Diploma Core Units", "section": "core", "gap_type": "undefined", "priority": "high", "reason": "Advanced Diploma students are the highest-value segment (senior professionals) and face the most complex assignments — zero coverage."},
+    {"topic": "590 Takaful (English + Arabic)", "section": "core", "gap_type": "undefined", "priority": "high", "reason": "Serves a distinct Arabic-speaking student segment with no alternative assignment help providers targeting this language — significant competitive opportunity."},
+    {"topic": "International / Non-UK variants (WCE, WCA, WUE, WUA, IMU, IMP)", "section": "core", "gap_type": "undefined", "priority": "high", "reason": "International student market is underserved by UK-centric CII help sites — distinct macro-context, distinct representative queries."},
+    {"topic": "Insurance Act 2015 (Outer Section)", "section": "outer", "gap_type": "undefined", "priority": "high", "reason": "The Insurance Act 2015 is a frequent exam topic and the most significant change to insurance law in a century — absence creates contextual gap for M05 and IF1/IF3 coverage."},
+    {"topic": "991 London Market Specialisation (Level 7, 50 credits)", "section": "core", "gap_type": "undefined", "priority": "high", "reason": "Highest credit unit — students taking this have the highest assignment complexity and greatest willingness to pay for expert support."}
+  ],
+
+  "vastness_depth_momentum": {
+    "vastness_assessment": "The topical map is wide — 45+ individual unit pages across three qualification levels plus international variants. However, the border is extremely well-defined (CII insurance pathway only). The international student segments (Arabic, India) add a second dimension of vastness that most competitors ignore.",
+    "depth_assessment": "Currently ZERO. Critical depth requirement for this site: CASE LAW VALUES are required for M05 and related law-heavy units — not just principle descriptions. Unit pages that say 'utmost good faith is covered in IF1' provide zero contextual coverage. Unit pages that cite Castellain v Preston (1883) and explain its relevance to subrogation timing in the context of IF3 exam scenarios — that is coverage.",
+    "momentum_recommendation": "HIGH MOMENTUM required. Recommend 3–5 pages/week. Priority: core pillar pages and highest-demand Diploma/Advanced Diploma units first. M05, 820/930/960, and IF1–IF4 have the highest search volume and most complex assignment requirements.",
+    "priority_recommendation": "DEPTH over VASTNESS for M05 and Advanced Diploma units. VASTNESS over depth for IF-series Certificate units (lower complexity, higher volume). International variants should be built as depth extensions of their UK counterparts, not separate thin pages.",
+    "publication_sequence": [
+      "Week 1-2: CII Assignment Help (pillar) + CII Certificate in Insurance Help + CII Diploma in Insurance Help + CII Advanced Diploma in Insurance Help",
+      "Week 3-4: M05 Help + M92 Help + 530 Help (Diploma core three — highest search volume for Diploma)",
+      "Week 5-6: 820 Help + 930 Help + 960 Help (Advanced Diploma core three — highest value students)",
+      "Week 7-8: IF1 + IF3 + IF4 + IF2 + IF5 + IF6 Help (Certificate core IF units)",
+      "Week 9-10: M80 + M81 + M85 + M96 + M93 + M97 Help (Diploma practice units — highest optional volume)",
+      "Week 11-12: 590 Takaful + LM3 + GR1 + IF7 + IF8 + IF9 + IF10 + IF11 Help",
+      "Week 13-14: 990 + 991 + 992 + 993 Help (Advanced Diploma optional — high value)",
+      "Week 15-16: M91 + M98 + M90 + M94 + M67 + M66 Help (specialist Diploma optional units)",
+      "Week 17-18: P61 + P62 + P63 + P64 + M21 + M86 Help + International variants (WCE, WCA, WUE, WUA, IMU, IMP)",
+      "Week 19-22: Outer Section — Insurance Principles + Lloyd's + Reinsurance + Regulation + Marine + Takaful context + Career pages"
+    ]
+  }
+}

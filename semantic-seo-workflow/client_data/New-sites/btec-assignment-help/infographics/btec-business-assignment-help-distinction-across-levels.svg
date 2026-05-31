@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" role="img" aria-labelledby="btec-business-title">
+  <title id="btec-business-title">BTEC Business Distinction Criteria Compared Across National Level 3, HNC Level 4, and HND Level 5</title>
+
+  <!-- Background -->
+  <rect width="800" height="580" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">BTEC Business: Distinction Across Three Levels</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">How "Evaluate" Escalates from National (Level 3) → HNC (Level 4) → HND (Level 5)</text>
+
+  <!-- Level headers -->
+  <rect x="28" y="82" width="232" height="36" rx="8" fill="#4B5563"/>
+  <text x="144" y="106" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">NATIONAL — LEVEL 3</text>
+
+  <rect x="284" y="82" width="232" height="36" rx="8" fill="#2563EB"/>
+  <text x="400" y="106" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">HNC — LEVEL 4</text>
+
+  <rect x="540" y="82" width="232" height="36" rx="8" fill="#D97706"/>
+  <text x="656" y="106" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">HND — LEVEL 5</text>
+
+  <!-- Arrows between level headers -->
+  <polygon points="268,100 280,93 280,107" fill="#6B7280"/>
+  <line x1="260" y1="100" x2="280" y2="100" stroke="#6B7280" stroke-width="1.5"/>
+  <polygon points="524,100 536,93 536,107" fill="#6B7280"/>
+  <line x1="516" y1="100" x2="536" y2="100" stroke="#6B7280" stroke-width="1.5"/>
+
+  <!-- Row 1: Distinction Standard -->
+  <rect x="28" y="128" width="232" height="110" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#4B5563">DISTINCTION STANDARD</text>
+  <text x="44" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Evaluate: weigh evidence,</text>
+  <text x="44" y="179" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">prioritise most significant</text>
+  <text x="44" y="194" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">factor, reach justified</text>
+  <text x="44" y="209" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">conclusion with recommendation.</text>
+  <text x="44" y="229" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#6B7280">No academic sources required.</text>
+
+  <rect x="284" y="128" width="232" height="110" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="300" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1D4ED8">DISTINCTION STANDARD</text>
+  <text x="300" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Critically evaluate: apply theory,</text>
+  <text x="300" y="179" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">acknowledge its limitations</text>
+  <text x="300" y="194" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">in the literature (with citations),</text>
+  <text x="300" y="209" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">reach justified recommendation.</text>
+  <text x="300" y="229" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#1D4ED8">Harvard referencing mandatory.</text>
+
+  <rect x="540" y="128" width="232" height="110" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1"/>
+  <text x="556" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">DISTINCTION STANDARD</text>
+  <text x="556" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Critically evaluate + synthesise:</text>
+  <text x="556" y="179" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">multiple frameworks in dialogue,</text>
+  <text x="556" y="194" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">journal-level critique, professional</text>
+  <text x="556" y="209" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">judgement explicitly stated.</text>
+  <text x="556" y="229" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#92400E">Peer-reviewed journals required.</text>
+
+  <!-- Row 2: Business Example -->
+  <text x="28" y="258" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">BUSINESS EXAMPLE — External Environment / Strategic Analysis</text>
+
+  <rect x="28" y="266" width="232" height="120" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="283" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"Evaluate the impact of the</text>
+  <text x="44" y="297" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">external environment on a named</text>
+  <text x="44" y="311" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">business." → Weigh PESTLE factors,</text>
+  <text x="44" y="325" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">prioritise most significant with</text>
+  <text x="44" y="339" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">justification. No citations needed.</text>
+  <text x="44" y="358" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">"The most significant factor is X because..."</text>
+  <text x="44" y="375" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">"However, Y also presents..."</text>
+
+  <rect x="284" y="266" width="232" height="120" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="300" y="283" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"Critically evaluate effectiveness</text>
+  <text x="300" y="297" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">of motivation theories." → Apply</text>
+  <text x="300" y="311" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Maslow/Herzberg, cite limitations</text>
+  <text x="300" y="325" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">from literature. Recommend</text>
+  <text x="300" y="339" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">management practice with evidence.</text>
+  <text x="300" y="358" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">"Although Maslow provides a framework,</text>
+  <text x="300" y="373" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">empirical support is contested (Wahba, 1976)..."</text>
+
+  <rect x="540" y="266" width="232" height="120" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1"/>
+  <text x="556" y="283" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">"Critically evaluate strategic options."</text>
+  <text x="556" y="297" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">→ Apply Porter + Ansoff + RBV</text>
+  <text x="556" y="311" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">simultaneously, cite journal critiques,</text>
+  <text x="556" y="325" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">synthesise across frameworks for</text>
+  <text x="556" y="339" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">this specific organisation.</text>
+  <text x="556" y="358" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">"Synthesising both frameworks, the</text>
+  <text x="556" y="373" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#D97706">recommendation is..."</text>
+
+  <!-- Business Environment disambiguation box -->
+  <rect x="28" y="400" width="744" height="64" rx="8" fill="#FEF2F2" stroke="#FECACA" stroke-width="1.5"/>
+  <text x="44" y="420" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#DC2626">BUSINESS ENVIRONMENT — SAME UNIT NAME, DIFFERENT ASSESSMENT AT EACH LEVEL</text>
+  <text x="44" y="438" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">NATIONAL (Level 3): External written exam · Pearson-set · 90 minutes · no resubmission · covers PESTLE, stakeholders, business types</text>
+  <text x="44" y="454" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">HNC (Level 4): Internal analytical report · tutor-set · applies PESTLE + Porter's Five Forces to a real organisation · Harvard referencing mandatory</text>
+
+  <!-- Progression summary -->
+  <rect x="28" y="478" width="744" height="46" rx="8" fill="#1B3A6B"/>
+  <text x="400" y="498" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Progression: National D = evaluate · HNC D = critically evaluate (cite limitations) · HND D = critically evaluate + synthesise</text>
+  <text x="400" y="515" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#A8C4E0">Common error at all levels: description under a Distinction criterion heading. The criterion verb defines the requirement — not the topic.</text>
+
+  <!-- Footer -->
+  <text x="400" y="568" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">BTEC Assignment Help Service · BTEC Business — National · HNC · HND (Pearson)</text>
+</svg>

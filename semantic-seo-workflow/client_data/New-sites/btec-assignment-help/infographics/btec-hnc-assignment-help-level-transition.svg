@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" role="img" aria-labelledby="btec-hnc-title">
+  <title id="btec-hnc-title">BTEC Level 3 to Level 4 Transition: What Changes at HNC — Writing Standard, Harvard Referencing, and Assessment</title>
+
+  <!-- Background -->
+  <rect width="800" height="580" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">BTEC Level 3 → Level 4: The HNC Transition</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">What Changes When Progressing from BTEC National to BTEC HNC</text>
+
+  <!-- Column headers -->
+  <rect x="28" y="82" width="358" height="36" rx="8" fill="#4B5563"/>
+  <text x="207" y="106" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">BTEC NATIONAL — LEVEL 3</text>
+
+  <rect x="414" y="82" width="358" height="36" rx="8" fill="#2563EB"/>
+  <text x="593" y="106" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">BTEC HNC — LEVEL 4</text>
+
+  <!-- Arrow between headers -->
+  <polygon points="396,100 412,92 412,108" fill="#D97706"/>
+  <line x1="386" y1="100" x2="412" y2="100" stroke="#D97706" stroke-width="2.5"/>
+
+  <!-- Row 1: Writing Standard -->
+  <text x="28" y="140" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">WRITING STANDARD</text>
+  <rect x="28" y="148" width="358" height="70" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="168" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Pass criteria accept descriptive responses</text>
+  <text x="44" y="183" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">demonstrating subject knowledge.</text>
+  <text x="44" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Merit/Distinction require analysis and evaluation.</text>
+  <text x="44" y="213" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">800–1,200 words typical assignment length.</text>
+
+  <rect x="414" y="148" width="358" height="70" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="430" y="168" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Pass criteria require structured analysis with</text>
+  <text x="430" y="183" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">referenced evidence — description is insufficient.</text>
+  <text x="430" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Distinction requires critical evaluation + synthesis.</text>
+  <text x="430" y="213" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2563EB">1,500–3,000 words typical assignment length.</text>
+
+  <!-- Row 2: Harvard Referencing -->
+  <text x="28" y="238" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">HARVARD REFERENCING</text>
+  <rect x="28" y="246" width="358" height="70" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="266" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Not required at National level.</text>
+  <text x="44" y="281" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Assignments assessed on subject knowledge,</text>
+  <text x="44" y="296" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">application, analysis, evaluation — not sourcing.</text>
+  <text x="44" y="311" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#6B7280">No in-text citations required.</text>
+
+  <rect x="414" y="246" width="358" height="70" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="430" y="266" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Mandatory for all written assignments.</text>
+  <text x="430" y="281" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">In-text: (Author, Year) or (Author, Year: page)</text>
+  <text x="430" y="296" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Full reference list required at end.</text>
+  <text x="430" y="311" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">Missing citations → Referral risk regardless of content.</text>
+
+  <!-- Row 3: Sources Required -->
+  <text x="28" y="336" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">ACADEMIC SOURCES</text>
+  <rect x="28" y="344" width="358" height="70" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="364" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">No academic sourcing required.</text>
+  <text x="44" y="379" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Business examples and named organisations</text>
+  <text x="44" y="394" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">are sufficient supporting evidence.</text>
+  <text x="44" y="409" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#6B7280">Personal opinion with evidence is acceptable.</text>
+
+  <rect x="414" y="344" width="358" height="70" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="430" y="364" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Textbooks + peer-reviewed journals required.</text>
+  <text x="430" y="379" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Merit: 3–5+ academic sources minimum.</text>
+  <text x="430" y="394" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Distinction: 5–8+ sources including journals.</text>
+  <text x="430" y="409" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">Opinion without academic backing is penalised.</text>
+
+  <!-- Row 4: Assessment -->
+  <text x="28" y="434" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#1B3A6B">ASSESSMENT TYPE</text>
+  <rect x="28" y="442" width="358" height="54" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="462" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Internal (most units) + External (some units</text>
+  <text x="44" y="477" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">e.g., Business Environment).</text>
+  <text x="44" y="491" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#DC2626">No resubmission on external assessment units.</text>
+
+  <rect x="414" y="442" width="358" height="54" rx="6" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="430" y="462" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">100% internal — no Pearson-set external exams.</text>
+  <text x="430" y="477" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">One resubmission on Referral for all units.</text>
+  <text x="430" y="491" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#2563EB">Resubmission targets only unmet criteria.</text>
+
+  <!-- Footer -->
+  <rect x="28" y="508" width="744" height="30" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="528" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FCD34D">Most common HNC referral cause: no Harvard referencing. Strong National students are regularly referred on first HNC unit.</text>
+
+  <text x="400" y="568" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">BTEC Assignment Help Service · BTEC HNC Level 4 (Pearson)</text>
+</svg>

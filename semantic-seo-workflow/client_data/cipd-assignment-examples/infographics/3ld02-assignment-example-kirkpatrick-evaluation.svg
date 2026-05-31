@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" role="img" aria-labelledby="3ld02-infographic-title">
+  <title id="3ld02-infographic-title">3LD02 CIPD Level 3 — Kirkpatrick's Four-Level Evaluation Model and 70:20:10 Learning Model</title>
+  <rect width="800" height="500" fill="#F5F5F5" rx="12"/>
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#1A1A2E" rx="12"/>
+  <rect x="0" y="44" width="800" height="16" fill="#1A1A2E"/>
+  <text x="400" y="25" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">3LD02 — Kirkpatrick's Four-Level Evaluation Model &amp; 70:20:10 Learning Model</text>
+  <text x="400" y="48" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#E94560">CIPD Level 3 · L&amp;D Pathway · AC 3.1 and AC 2.1</text>
+
+  <!-- LEFT: Kirkpatrick pyramid (inverted for impact = widest at base) -->
+  <text x="195" y="84" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">Kirkpatrick's Four-Level Model</text>
+  <text x="195" y="100" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#888888">Evaluating learning effectiveness</text>
+
+  <!-- Level 4 (base — widest, most impact) -->
+  <rect x="20" y="112" width="350" height="74" fill="#E94560" rx="6"/>
+  <text x="195" y="137" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Level 4 — RESULTS</text>
+  <text x="195" y="157" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFFFFF">Did learning produce measurable business impact?</text>
+  <text x="195" y="173" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#FFCCCC">Measure: error rates, sales, absence, cost reduction vs baseline</text>
+
+  <!-- Level 3 -->
+  <rect x="35" y="194" width="320" height="74" fill="#1A1A2E" rx="6"/>
+  <text x="195" y="219" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Level 3 — BEHAVIOUR</text>
+  <text x="195" y="239" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Has learning changed on-the-job performance?</text>
+  <text x="195" y="255" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Measure: manager observation, 60–90 days post-training</text>
+
+  <!-- Level 2 -->
+  <rect x="55" y="276" width="280" height="74" fill="#16213E" rx="6"/>
+  <text x="195" y="301" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Level 2 — LEARNING</text>
+  <text x="195" y="321" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Did learners acquire the intended skill or knowledge?</text>
+  <text x="195" y="337" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Measure: pre/post test, skill assessment, observation</text>
+
+  <!-- Level 1 (top — narrowest, least impact) -->
+  <rect x="80" y="358" width="230" height="74" fill="#888888" rx="6"/>
+  <text x="195" y="383" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Level 1 — REACTION</text>
+  <text x="195" y="403" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#EEEEEE">Did learners find it valuable?</text>
+  <text x="195" y="419" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#CCCCCC">Measure: post-training feedback forms</text>
+
+  <!-- Pyramid note -->
+  <text x="195" y="452" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#888888">Most organisations only measure L1 &amp; L2 — L3 is most impactful</text>
+
+  <!-- Divider -->
+  <line x1="397" y1="70" x2="397" y2="470" stroke="#CCCCCC" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <!-- RIGHT: 70:20:10 Model -->
+  <text x="603" y="84" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A2E">The 70:20:10 Learning Model</text>
+  <text x="603" y="100" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#888888">How adults actually learn — Lombardo &amp; Eichinger</text>
+
+  <!-- 70% bar -->
+  <rect x="415" y="112" width="370" height="98" fill="#1A1A2E" rx="8"/>
+  <text x="470" y="140" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#E94560">70%</text>
+  <text x="540" y="135" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">On-the-Job Learning</text>
+  <text x="540" y="152" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Stretch assignments · New projects</text>
+  <text x="540" y="168" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Job shadowing · Secondments</text>
+  <text x="540" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Learning from real mistakes</text>
+
+  <!-- 20% bar -->
+  <rect x="415" y="220" width="370" height="98" fill="#16213E" rx="8"/>
+  <text x="470" y="248" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#E94560">20%</text>
+  <text x="540" y="243" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Social Learning</text>
+  <text x="540" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Coaching · Mentoring</text>
+  <text x="540" y="276" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Peer feedback · Action learning</text>
+  <text x="540" y="292" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#AAAAAA">Observation of experienced colleagues</text>
+
+  <!-- 10% bar -->
+  <rect x="415" y="328" width="370" height="98" fill="#E94560" rx="8"/>
+  <text x="470" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">10%</text>
+  <text x="540" y="351" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Formal Learning</text>
+  <text x="540" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFCCCC">Training courses · E-learning</text>
+  <text x="540" y="384" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFCCCC">Qualifications · Workshops</text>
+  <text x="540" y="400" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#FFCCCC">Webinars · Structured programmes</text>
+
+  <!-- Key insight box -->
+  <rect x="415" y="436" width="370" height="32" fill="#1A1A2E" rx="6"/>
+  <text x="600" y="447" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#E94560" font-weight="700">Key insight:</text>
+  <text x="600" y="460" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#FFFFFF">Most learning happens through work and relationships — not training courses</text>
+
+  <!-- Footer -->
+  <text x="400" y="490" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="10" fill="#999">cipdassignmentexamples.com</text>
+</svg>

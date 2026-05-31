@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="100%" role="img" aria-labelledby="hnd-grading-title">
+  <title id="hnd-grading-title">HND Assignment Grading Overview: Level 5 RQF Degree-Equivalent Standard, Pass Merit Distinction Criteria, University Progression Russell Group Merit Distinction Requirement, Research Project 5000 to 6000 Words, Harvard Referencing Academic Sources</title>
+
+  <!-- Background -->
+  <rect width="800" height="640" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">HND Assignment Framework: Level 5 Grading and Progression</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Level 5 RQF · 240 Credits · Degree-Equivalent Standard · Pearson BTEC · University Top-Up Entry</text>
+
+  <!-- P/M/D header -->
+  <rect x="28" y="82" width="744" height="22" rx="4" fill="#2563EB"/>
+  <text x="400" y="97" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">PASS · MERIT · DISTINCTION — Level 5 Cognitive Standard (Higher Than HNC Level 4)</text>
+
+  <!-- Pass -->
+  <rect x="28" y="112" width="232" height="130" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="112" width="232" height="30" rx="8" fill="#1B3A6B"/>
+  <rect x="28" y="128" width="232" height="14" fill="#1B3A6B"/>
+  <text x="144" y="131" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">PASS (Pn)</text>
+  <text x="44" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Knowledge + Application</text>
+  <text x="44" y="172" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Accurate use of theoretical frameworks</text>
+  <text x="44" y="186" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Correct application to the given scenario</text>
+  <text x="44" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Harvard referencing with academic sources</text>
+  <text x="44" y="214" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Structured academic writing</text>
+  <text x="44" y="232" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#1B3A6B">Entry requirement for Merit</text>
+
+  <!-- Merit -->
+  <rect x="284" y="112" width="232" height="130" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="284" y="112" width="232" height="30" rx="8" fill="#2563EB"/>
+  <rect x="284" y="128" width="232" height="14" fill="#2563EB"/>
+  <text x="400" y="131" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">MERIT (Mn)</text>
+  <text x="300" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Analysis + Comparison + Justification</text>
+  <text x="300" y="172" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Compare competing frameworks + justify</text>
+  <text x="300" y="186" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Evidence-based reasoning for conclusions</text>
+  <text x="300" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Academic literature as evidential basis</text>
+  <text x="300" y="214" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Theory connected to specific context</text>
+  <text x="300" y="232" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#2563EB">All Pn criteria must be met first</text>
+
+  <!-- Distinction -->
+  <rect x="540" y="112" width="232" height="130" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="540" y="112" width="232" height="30" rx="8" fill="#7C3AED"/>
+  <rect x="540" y="128" width="232" height="14" fill="#7C3AED"/>
+  <text x="656" y="131" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">DISTINCTION (Dn)</text>
+  <text x="556" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">Synthesis + Critical Evaluation</text>
+  <text x="556" y="172" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Multi-framework synthesis into ONE analysis</text>
+  <text x="556" y="186" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Critical evaluation of framework limitations</text>
+  <text x="556" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Professional-quality recommendations</text>
+  <text x="556" y="214" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Independent judgement + acknowledged limitations</text>
+  <text x="556" y="232" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Degree-equivalent 2nd year university standard</text>
+
+  <!-- Subject directory -->
+  <rect x="28" y="258" width="744" height="22" rx="4" fill="#D97706"/>
+  <text x="400" y="273" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">SUBJECT DIRECTORY — Level 5 Analytical Standard Per Route</text>
+
+  <rect x="28" y="288" width="178" height="116" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="288" width="178" height="22" rx="6" fill="#1B3A6B"/>
+  <rect x="28" y="298" width="178" height="12" fill="#1B3A6B"/>
+  <text x="117" y="303" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HND BUSINESS</text>
+  <text x="40" y="324" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">PESTLE + Porter's + VRIO synthesis</text>
+  <text x="40" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Strategic HRM (Harvard/Guest models)</text>
+  <text x="40" y="352" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Ansoff + BCG + Porter's Generic</text>
+  <text x="40" y="366" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">NPV + IRR + Modigliani-Miller</text>
+  <text x="40" y="395" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">Research Project: 5,000–6,000w mandatory</text>
+
+  <rect x="220" y="288" width="178" height="116" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="220" y="288" width="178" height="22" rx="6" fill="#2563EB"/>
+  <rect x="220" y="298" width="178" height="12" fill="#2563EB"/>
+  <text x="309" y="303" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HND COMPUTING</text>
+  <text x="232" y="324" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">TOGAF + Zachman enterprise arch.</text>
+  <text x="232" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">OSPF / BGP / SDN / zero-trust</text>
+  <text x="232" y="352" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">SAFe / DevOps / microservices</text>
+  <text x="232" y="366" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Professional Practice research project</text>
+  <text x="232" y="395" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">IEEE Xplore / ACM sources req.</text>
+
+  <rect x="412" y="288" width="178" height="116" rx="6" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="412" y="288" width="178" height="22" rx="6" fill="#1B3A6B"/>
+  <rect x="412" y="298" width="178" height="12" fill="#1B3A6B"/>
+  <text x="501" y="303" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HND ENGINEERING</text>
+  <text x="424" y="324" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">CPM + EVM + PRINCE2 eval.</text>
+  <text x="424" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">HSWA 1974 + CDM 2015 analysis</text>
+  <text x="424" y="352" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Mohr's circle + Rankine cycle eval.</text>
+  <text x="424" y="366" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Mech / Electrical / Civil routes</text>
+  <text x="424" y="395" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#D97706">IEng pathway — written sections only</text>
+
+  <rect x="604" y="288" width="168" height="116" rx="6" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="604" y="288" width="168" height="22" rx="6" fill="#7C3AED"/>
+  <rect x="604" y="298" width="168" height="12" fill="#7C3AED"/>
+  <text x="688" y="303" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">HND HEALTH &amp; SOC CARE</text>
+  <text x="616" y="324" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Foucault + Navarro + Parsons synthesis</text>
+  <text x="616" y="338" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">Marmot + Ottawa + Beattie eval.</text>
+  <text x="616" y="352" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">CASP + PICOS evidence appraisal</text>
+  <text x="616" y="366" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#374151">NHS Leadership + CQC Well-Led</text>
+  <text x="616" y="395" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#7C3AED">Senior NHS / social work audience</text>
+
+  <!-- University progression -->
+  <rect x="28" y="418" width="744" height="70" rx="6" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="436" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">UNIVERSITY PROGRESSION — HND Level 5 to Degree Top-Up (Year 3 Entry)</text>
+  <text x="44" y="452" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Most UK universities: Pass average → degree top-up entry (non-competitive programmes)</text>
+  <text x="44" y="467" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Pre-1992 universities: Merit average typically required · Russell Group: Merit or Distinction average required · Competitive Russell Group: Distinction average</text>
+  <text x="44" y="480" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">UCAS tariff: Distinction = 360 points · Merit = 240 points · Grade profile NOT retrospectively recoverable</text>
+
+  <!-- Research project bar -->
+  <rect x="28" y="502" width="744" height="34" rx="6" fill="#7C3AED"/>
+  <text x="400" y="518" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">RESEARCH PROJECT: 5,000–6,000w · 10+ critically evaluated academic sources · Saunders et al. methodology reference</text>
+  <text x="400" y="530" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#E9D5FF">Highest-credit unit in programme · Disproportionate effect on grade profile · Second-year university research module standard</text>
+
+  <!-- HNC vs HND comparison strip -->
+  <rect x="28" y="550" width="744" height="30" rx="6" fill="#DC2626"/>
+  <text x="400" y="565" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">HNC Level 4 → HND Level 5: Synthesis is the ENTRY standard at Level 5, not the top standard · One framework per section = Merit only</text>
+  <text x="400" y="576" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" fill="#FECACA">Level 5 Distinction = multi-framework integration + limitations acknowledged + professional recommendation with evidence base</text>
+
+  <!-- Footer -->
+  <text x="400" y="630" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">HND Assignment Help Service · Level 5 RQF Criterion-Referenced Grading Framework</text>
+</svg>

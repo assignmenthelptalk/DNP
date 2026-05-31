@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="100%" role="img" aria-labelledby="btec-national-title">
+  <title id="btec-national-title">BTEC National UCAS Points and Grade Profiles: Extended Diploma, Diploma, and Extended Certificate Tariff Table</title>
+
+  <!-- Background -->
+  <rect width="800" height="560" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">BTEC National: UCAS Points and Grade Profiles</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Level 3 — Extended Certificate · Diploma · Extended Diploma — Pearson Qualification</text>
+
+  <!-- Qualification sizes row -->
+  <!-- Extended Certificate -->
+  <rect x="28" y="82" width="225" height="110" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.5"/>
+  <rect x="28" y="82" width="225" height="34" rx="8" fill="#4B5563"/>
+  <rect x="28" y="102" width="225" height="14" fill="#4B5563"/>
+  <text x="140" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">EXTENDED CERTIFICATE</text>
+  <text x="44" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">= 1 A-level equivalent</text>
+  <text x="44" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">360 guided learning hours</text>
+  <text x="44" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Max: D* = 56 UCAS points</text>
+  <text x="44" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#6B7280">Single-subject pathway</text>
+
+  <!-- Diploma -->
+  <rect x="287" y="82" width="227" height="110" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.5"/>
+  <rect x="287" y="82" width="227" height="34" rx="8" fill="#4B5563"/>
+  <rect x="287" y="102" width="227" height="14" fill="#4B5563"/>
+  <text x="400" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">DIPLOMA</text>
+  <text x="303" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">= 2.5 A-levels equivalent</text>
+  <text x="303" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">720 guided learning hours</text>
+  <text x="303" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">Max: DDD = 112 UCAS points</text>
+  <text x="303" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#6B7280">Usually with 1 A-level</text>
+
+  <!-- Extended Diploma — highlighted -->
+  <rect x="548" y="82" width="224" height="110" rx="8" fill="#FFF8EC" stroke="#F5C97A" stroke-width="2"/>
+  <rect x="548" y="82" width="224" height="34" rx="8" fill="#D97706"/>
+  <rect x="548" y="102" width="224" height="14" fill="#D97706"/>
+  <text x="660" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">EXTENDED DIPLOMA ★</text>
+  <text x="564" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#92400E">= 3 A-levels equivalent</text>
+  <text x="564" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#92400E">1,080 guided learning hours</text>
+  <text x="564" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#92400E">Max: D*D*D* = 168 UCAS pts</text>
+  <text x="564" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#92400E">Most common full programme</text>
+
+  <!-- UCAS Table header -->
+  <rect x="28" y="206" width="744" height="32" rx="6" fill="#1B3A6B"/>
+  <text x="180" y="227" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Grade Profile (Extended Diploma)</text>
+  <text x="450" y="227" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">UCAS Points</text>
+  <text x="660" y="227" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">A-Level Equivalent</text>
+
+  <!-- Table rows -->
+  <!-- D*D*D* -->
+  <rect x="28" y="238" width="744" height="28" rx="0" fill="#FFFBEB"/>
+  <text x="180" y="257" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#92400E">D*D*D*</text>
+  <text x="450" y="257" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#92400E">168</text>
+  <text x="660" y="257" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">A* A* A*</text>
+
+  <!-- D*D*D -->
+  <rect x="28" y="266" width="744" height="28" rx="0" fill="#FFFFFF"/>
+  <text x="180" y="285" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">D*D*D</text>
+  <text x="450" y="285" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">160</text>
+  <text x="660" y="285" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">A* A* A</text>
+
+  <!-- DDD -->
+  <rect x="28" y="294" width="744" height="28" rx="0" fill="#F9FAFB"/>
+  <text x="180" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">DDD</text>
+  <text x="450" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">144</text>
+  <text x="660" y="313" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">A* A A</text>
+
+  <!-- DDM -->
+  <rect x="28" y="322" width="744" height="28" rx="0" fill="#FFFFFF"/>
+  <text x="180" y="341" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">DDM</text>
+  <text x="450" y="341" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">128</text>
+  <text x="660" y="341" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">A A B</text>
+
+  <!-- DMM -->
+  <rect x="28" y="350" width="744" height="28" rx="0" fill="#F9FAFB"/>
+  <text x="180" y="369" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">DMM</text>
+  <text x="450" y="369" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">112</text>
+  <text x="660" y="369" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">A B B</text>
+
+  <!-- MMM -->
+  <rect x="28" y="378" width="744" height="28" rx="0" fill="#FFFFFF"/>
+  <text x="180" y="397" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">MMM</text>
+  <text x="450" y="397" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">96</text>
+  <text x="660" y="397" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">B B B</text>
+
+  <!-- MMP -->
+  <rect x="28" y="406" width="744" height="28" rx="0" fill="#F9FAFB"/>
+  <text x="180" y="425" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">MMP</text>
+  <text x="450" y="425" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">80</text>
+  <text x="660" y="425" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">B B C (approx.)</text>
+
+  <!-- PPP -->
+  <rect x="28" y="434" width="744" height="28" rx="0" fill="#FFFFFF"/>
+  <text x="180" y="453" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">PPP</text>
+  <text x="450" y="453" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">48</text>
+  <text x="660" y="453" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#374151">C C C (approx.)</text>
+
+  <!-- Table border -->
+  <rect x="28" y="238" width="744" height="224" rx="0" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="348" y1="238" x2="348" y2="462" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="560" y1="238" x2="560" y2="462" stroke="#E5E7EB" stroke-width="1"/>
+
+  <!-- Footer note -->
+  <rect x="28" y="472" width="744" height="44" rx="8" fill="#1B3A6B"/>
+  <text x="400" y="490" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">University Entry Thresholds (typical): DDM = standard entry · DDD = competitive · D*D*D* = highly competitive</text>
+  <text x="400" y="507" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#A8C4E0">Post-92 universities accept BTEC National widely. Russell Group requirements vary — check individual course entry requirements.</text>
+
+  <!-- Footer -->
+  <text x="400" y="550" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">BTEC Assignment Help Service · BTEC National Level 3 (Pearson)</text>
+</svg>

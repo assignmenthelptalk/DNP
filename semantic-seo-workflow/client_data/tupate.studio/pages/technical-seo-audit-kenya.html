@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technical SEO Audit Kenya | Find Why You're Not Ranking | Tupate Studio</title>
+  <meta name="description" content="Technical SEO audit for Kenyan business websites. Crawlability, Core Web Vitals, schema markup, indexation. We find what's stopping your rankings and fix it. Ksh 8,000/month.">
+  <link rel="canonical" href="https://tupate.studio/technical-seo-audit-kenya">
+</head>
+<body>
+<article>
+  <h1>Technical SEO Audit for Kenyan Business Websites: Find and Fix What's Stopping Your Rankings</h1>
+
+  <p>Many Kenyan business websites have a fundamental technical reason they do not rank on Google — and it has nothing to do with content quality or backlinks. Crawl errors that prevent Google from reading pages entirely. Duplicate content from www and non-www URLs resolving without a redirect. Accidental noindex tags left from a developer's staging environment, telling Google not to index the live site. Slow server response times from Kenyan shared hosting that cause every page to fail Google's Core Web Vitals threshold before a single word of content loads. Broken schema markup that errors silently and leaves your pages ineligible for rich results. These problems are invisible to the business owner but immediately apparent in a technical SEO audit. Tupate Studio's audit identifies every technical barrier blocking your website's rankings and delivers a prioritised fix plan — and for clients on the Ksh 8,000/month SEO retainer, we implement every fix ourselves. For a <a href="/website-redesign-kenya">Website Redesign Kenya</a> project, a technical audit before redesign prevents inheriting old technical problems in the new site.</p>
+
+  <section class="main-content">
+    <h2>What a Technical SEO Audit Checks on a Kenyan Business Website</h2>
+    <!-- INFOGRAPHIC: technical-seo-audit-8-dimensions -->
+    <p>A comprehensive technical SEO audit examines eight categories of technical factors that either support or undermine a Kenyan website's ability to be crawled, indexed, and ranked by Google. Each category contains multiple individual checks — the following breakdown covers every element Tupate Studio's audit addresses.</p>
+
+    <h3>1. Crawlability</h3>
+    <p><strong>robots.txt analysis:</strong> Your robots.txt file instructs Google's crawlers which pages to access and which to ignore. A correctly configured robots.txt allows Google to crawl all publicly important pages and blocks only low-value content such as admin dashboards, user account pages, and search result pages. The most damaging crawlability error Tupate Studio encounters on Kenyan websites is a robots.txt containing <code>Disallow: /</code> — which blocks Google from crawling the entire website. This typically occurs when a developer copies the staging site's robots.txt (which correctly blocks crawlers from the test version) to the production server without changing it. The site operates visibly, but Google has been told to ignore it entirely.</p>
+
+    <p><strong>XML sitemap audit:</strong> The XML sitemap is a file listing all URLs on your website that Google should discover and index. The audit checks: is the sitemap submitted to Google Search Console? Does it include all important public pages? Does it exclude 404 error pages, redirect chains, and noindex pages? Are all sitemap URLs returning 200 HTTP status codes, not 301 redirects or 404 errors? A sitemap listing 404 URLs or pages with redirect chains wastes crawl budget and confuses Google's indexation of your site.</p>
+
+    <p><strong>Crawl budget assessment:</strong> For websites with 100+ pages, Google allocates a finite crawl budget — a number of pages it will crawl in a given period. If that budget is consumed by low-value pages (paginated search results, URL parameter variations, printer-friendly page duplicates, user session ID URLs), important pages may not be crawled frequently enough to reflect recent updates. The audit identifies crawl budget waste and provides specific directives for robots.txt or canonical tag fixes.</p>
+
+    <p><strong>JavaScript rendering check:</strong> Single-page application (SPA) architecture — common in React and Angular-built websites — sometimes requires JavaScript execution to render visible content. Google's crawler does not process JavaScript in real time; it queues JavaScript rendering. If critical content on your website exists only within JavaScript-rendered components, Google may not index that content or may index a version of it days behind its publication. The audit identifies whether your website has JavaScript rendering dependency issues.</p>
+
+    <h3>2. Indexation</h3>
+    <p><strong>Google Search Console Coverage report:</strong> This report shows exactly how many of your website's pages are indexed in Google's database, why specific pages are excluded, and what errors are preventing indexation. The audit analyses every coverage report category — Submitted and indexed, Excluded (by noindex, by canonicals, by crawl errors), and Errors — and prioritises the fixes by ranking impact.</p>
+
+    <p><strong>Canonical tag audit:</strong> Canonical tags tell Google which URL is the definitive version of a page when multiple URLs serve identical or near-identical content. The audit checks: are self-referencing canonicals correctly set on all pages? Are there any canonical tags pointing to the wrong URL — a common WordPress migration error where canonicals still point to the old domain? Are there conflicting canonical signals between HTTP header canonicals and HTML tag canonicals?</p>
+
+    <p><strong>noindex tag audit:</strong> The <code>&lt;meta name="robots" content="noindex"&gt;</code> tag instructs Google not to include a page in its index. The most damaging manifestation of this error on Kenyan websites: a developer sets noindex on all pages during development to prevent Google from indexing the unfinished site, then forgets to remove it before launch. Google obeys the instruction and none of the site's pages appear in search results — ever.</p>
+
+    <p><strong>Duplicate content detection:</strong> The same content appearing at multiple URLs dilutes ranking signal. Common sources on Kenyan websites: www.site.co.ke and site.co.ke both serving content without a permanent redirect to one canonical version; http:// and https:// both resolving without HTTPS redirect; /page/ and /page (with and without trailing slash) both serving the same content; URL parameter combinations such as /products?sort=price&order=asc generating thousands of URLs with duplicate product listings.</p>
+
+    <p><strong>Thin content identification:</strong> Pages with under 200 words and no unique value contribute negatively to Google's overall quality assessment of your website domain. The audit identifies all thin content pages and recommends whether to expand them, consolidate them via canonical tags, or noindex them to remove their drag on overall site quality.</p>
+
+    <h3>3. Core Web Vitals</h3>
+    <p><strong>LCP (Largest Contentful Paint):</strong> Time for the largest visible content element to become visible to the user. Target: under 2.5 seconds. The most common LCP failures on Kenyan websites are uncompressed hero images (800KB–2MB JPEGs served without WebP optimisation), slow hosting server response time (TTFB over 800ms — common on Kenyan shared hosting), and render-blocking JavaScript in the document head.</p>
+
+    <p><strong>INP (Interaction to Next Paint):</strong> Total delay from a user's tap or click to the page's visual response. This replaced FID (First Input Delay) as a Core Web Vitals metric in March 2024 and measures across all interactions on a page, not just the first one. Target: under 200ms. Fails due to heavy JavaScript frameworks blocking the browser's main thread, analytics and tag manager scripts that run on every user interaction, and WordPress plugin JavaScript conflicts that queue multiple event listeners for the same elements.</p>
+
+    <p><strong>CLS (Cumulative Layout Shift):</strong> Unexpected visual movement of page content as elements load. Target: under 0.1. Fails on Kenyan websites most commonly due to images without explicit width and height attributes (browser cannot reserve space before the image loads), web fonts that load after text has begun rendering (text shifts as the correct font replaces the fallback), YouTube or Google Maps embeds that resize on load, and cookie consent banners that appear without pre-reserved vertical space.</p>
+
+    <h3>4. Mobile Usability</h3>
+    <p><strong>Google Search Console Mobile Usability report:</strong> Lists every page on your website that fails Google's mobile usability criteria, with the specific error type for each page. The audit reviews this report in full and correlates it with the pages' ranking performance to prioritise fixes by commercial impact.</p>
+    <p><strong>Specific checks:</strong> Text too small to read (below 12px); clickable elements too close together (touch targets below 44px spacing); content wider than screen (causing horizontal scrolling); Flash content; intrusive interstitials blocking the main content on mobile.</p>
+
+    <h3>5. HTTPS and Security</h3>
+    <p><strong>SSL certificate validation:</strong> Is HTTPS active and correctly configured? Are there mixed content errors where an HTTPS page loads HTTP resources (images, scripts, stylesheets) — which Chrome marks as insecure? Is the SSL certificate current (not expired)? Is it correctly covering all subdomains including www?</p>
+    <p><strong>Security headers:</strong> HSTS (HTTP Strict Transport Security) header forces all browser requests to use HTTPS, preventing protocol downgrade attacks. Content Security Policy and X-Frame-Options headers reduce attack surface. These do not directly affect rankings but protect the website's domain authority from being compromised through security vulnerabilities.</p>
+
+    <h3>6. Structured Data (Schema Markup)</h3>
+    <p><strong>Schema type coverage:</strong> The audit checks which schema types are currently implemented (LocalBusiness, Organization, Service, Product, Article, FAQPage, BreadcrumbList) and identifies which pages are missing schema that would benefit rankings or rich result eligibility.</p>
+    <p><strong>Schema validation:</strong> Every schema block is validated through Google's Rich Results Test. Common errors on Kenyan websites: incomplete LocalBusiness schema missing opening hours, area served, and telephone; malformed JSON with syntax errors that invalidate the entire block; multiple SEO plugins outputting competing schema blocks for the same page — a common WordPress-specific problem that the audit specifically identifies.</p>
+
+    <h3>7. Internal Linking</h3>
+    <p><strong>Orphan page detection:</strong> Pages with zero internal links pointing to them cannot be discovered by Google through normal website navigation — they are only reachable if submitted directly in a sitemap. Orphan pages are common on Kenyan websites after content reorganisations where old pages are left live but disconnected from the navigation.</p>
+    <p><strong>Link equity flow analysis:</strong> Are the most commercially important pages — services pages, product category pages, high-conversion landing pages — receiving the most internal link equity from surrounding pages? Or is PageRank being diluted to low-value pages with no commercial purpose?</p>
+    <p><strong>Anchor text audit:</strong> Internal links using generic anchor text ("click here," "read more," "learn more") pass no keyword relevance signal to the linked page. Descriptive anchor text using target keyword phrases passes both relevance and contextual information. The audit identifies all generic anchor text and prioritises replacement.</p>
+
+    <h3>8. Page Speed</h3>
+    <p><strong>TTFB (Time to First Byte) measurement:</strong> TTFB measures how long the browser waits for the first byte of response from the server after making a request. Google's recommended TTFB is under 800ms; optimal is under 200ms. Kenyan shared hosting providers — Truehost, Sasahost, Kenya Website Experts — operate shared servers with 300–600 accounts on a single server. At peak usage times, TTFB from these servers reaches 1,500–3,000ms. This alone exceeds Google's LCP threshold of 2.5 seconds before any page content has been transferred.</p>
+    <p><strong>Render-blocking resources:</strong> CSS and JavaScript files placed in the HTML <code>&lt;head&gt;</code> block the browser from rendering any visible content until those files are downloaded and parsed. The audit identifies all render-blocking resources and provides specific preload, defer, and async directives to eliminate the blockage.</p>
+    <p><strong>Google PageSpeed Insights analysis:</strong> Mobile and desktop scores with each failing element identified by the Lighthouse audit tool — uncompressed images, unused CSS, unused JavaScript, long main-thread tasks, excessive DOM size. The audit translates these technical outputs into plain-language recommendations prioritised by ranking impact.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Core Web Vitals for Kenyan Websites: LCP, INP, and CLS Explained</h2>
+    <p>Core Web Vitals are Google's three performance metrics that form the Page Experience ranking signal, applied since June 2021. Websites that PASS all three metrics receive a ranking advantage. Websites that FAIL are at a measurable disadvantage against competitors who pass. For Kenyan business websites competing on Google.co.ke, this is a direct, actionable ranking factor — not a theoretical future consideration.</p>
+
+    <p><strong>LCP (Largest Contentful Paint) — the visibility metric:</strong></p>
+    <p>LCP measures the time from page navigation to when the largest visible content element — typically the hero image or the H1 headline — becomes visible in the browser viewport. Google's threshold: Good is under 2.5 seconds. Needs Improvement is 2.5–4 seconds. Poor is over 4 seconds.</p>
+
+    <p>Kenya-specific causes of LCP failure: the most common is an uncompressed hero image — a 1.2MB JPEG downloaded over Safaricom 4G takes 0.64 seconds to download on a 15Mbps connection, before the browser begins rendering. Combined with a slow Kenyan shared hosting TTFB of 1.5 seconds, total LCP is 2.14 seconds before the image even begins painting — marginal at best, failing at worst. The fix: compress hero images to under 150KB in WebP format, serve them with the correct srcset for the visitor's screen size, and use a Cloudflare CDN to reduce server TTFB from the Nairobi edge node.</p>
+
+    <p>Additional LCP failure causes in Kenya: render-blocking JavaScript in the document head (the browser cannot render any content until all head JavaScript is parsed); lack of CDN (content served from a single Kenyan server has higher latency for users in Mombasa, Kisumu, Nakuru, or Eldoret than from a Cloudflare edge node); large DOM size — WordPress pages with Elementor can have 3,000–5,000+ DOM nodes, slowing all browser rendering operations.</p>
+
+    <p><strong>INP (Interaction to Next Paint) — the responsiveness metric:</strong></p>
+    <p>INP replaced FID (First Input Delay) as a Core Web Vitals metric in March 2024. Where FID measured only the delay on the first user interaction, INP measures the worst-case interaction delay across the entire page session — every button tap, every dropdown select, every form field click, every menu interaction. Google's threshold: Good is under 200ms. Needs Improvement is 200–500ms. Poor is over 500ms.</p>
+
+    <p>INP failure causes in Kenya: heavy JavaScript frameworks that keep the browser's main thread busy with processing tasks, preventing it from responding to user interactions. WordPress plugin JavaScript files that run large event listeners on every scroll event and every click. Google Tag Manager containers with 15+ tags firing on every page load, each running JavaScript on the main thread. Third-party chat widgets and tracking scripts competing for main thread processing time.</p>
+
+    <p>The fix: reduce the total JavaScript payload, defer all non-critical scripts until after the page is interactive, identify and eliminate JavaScript tasks longer than 50ms (Long Tasks) that are directly causing INP failures, and consider whether every third-party script on the page justifies its INP cost.</p>
+
+    <p><strong>CLS (Cumulative Layout Shift) — the visual stability metric:</strong></p>
+    <p>CLS measures unexpected visual shifts in page content as elements load — content moving, jumping, or being displaced by late-loading elements. Google's threshold: Good is under 0.1. Needs Improvement is 0.1–0.25. Poor is over 0.25. A CLS score of 0.25 means visible content shifted by 25% of the viewport area during page load — a jarring, disorienting experience on a Kenyan mobile screen.</p>
+
+    <p>CLS failure causes on Kenyan websites: images without explicit width and height HTML attributes (the browser reserves no space for the image; when it loads, it pushes all content below it down by the image height); web fonts that load 1–2 seconds after initial text rendering (text re-renders in the new font, shifting all surrounding content); YouTube embeds that render at a default size and then resize to match their container; cookie consent banners and promotional pop-ups that appear without pre-reserved space, pushing the entire page down; ads from advertising networks that load their actual dimensions asynchronously.</p>
+
+    <p><strong>How to measure Core Web Vitals for your Kenyan website:</strong> Google Search Console Experience → Core Web Vitals shows field data — actual measurements from Chrome users visiting your site. PageSpeed Insights (pagespeed.web.dev) shows lab data — a controlled Lighthouse audit. Both are needed for a complete picture: field data reflects real-world Kenyan user conditions; lab data identifies specific technical elements causing failures. Tupate Studio's audit reviews both data sources for the top 10 most visited pages on your site and provides specific element-level fixes for every failure.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Crawlability and Indexation Issues That Kill Kenyan Website Rankings</h2>
+    <p>Crawlability and indexation problems are the most severe technical SEO issues a Kenyan website can have — they prevent rankings entirely, for all pages affected, regardless of content quality, backlink profile, or any other ranking factor. And they are invisible without a technical audit.</p>
+
+    <p>Real examples from Kenyan websites Tupate Studio has audited:</p>
+
+    <p><strong>robots.txt blocking the entire site:</strong> A Nairobi professional services firm launched a redesigned website. Traffic dropped to zero within 3 weeks of launch. Six months later, having invested in content and paid social media, they requested an audit. The cause: the developer had deployed the development server's robots.txt to the production server without modification. The robots.txt contained <code>Disallow: /</code> — Google was blocked from crawling every page. Google's index still contained stale cached versions of the old site from before the redesign. The new site had zero indexed pages and zero rankings. Fix time: 24 hours after removing the disallow directive and submitting a sitemap to Google Search Console.</p>
+
+    <p><strong>noindex on all pages:</strong> A Mombasa hospitality business had a website that appeared normally to human visitors but was invisible on Google. The developer had added <code>&lt;meta name="robots" content="noindex, nofollow"&gt;</code> to the site's global header template — intended for the staging environment — and it was never removed before launch. Google correctly obeyed the instruction and indexed no pages. The business owner had been attributing zero organic traffic to "Google hasn't found us yet" for 8 months.</p>
+
+    <p><strong>Non-canonical www/non-www duplicates:</strong> Both <code>www.company.co.ke</code> and <code>company.co.ke</code> were serving full content without either redirecting to the other. Google indexed both versions, splitting the ranking signal between two URLs. Neither version accumulated the full authority of inbound links and engagement signals. Fix: a 301 permanent redirect from the non-preferred version to the canonical version, confirmed in Google Search Console.</p>
+
+    <p><strong>HTTP URLs not redirected after HTTPS migration:</strong> A Nairobi law firm migrated their website from HTTP to HTTPS. Their external directory listings, profile pages on the LSK directory, and inbound links from news articles all still pointed to HTTP URLs. No 301 redirects were in place. Google's PageRank associated with those HTTP inbound links was not being transferred to the HTTPS pages. Rankings were significantly lower than they should have been for a firm of their profile.</p>
+
+    <p>Crawl error types in Google Search Console and what each means for Kenyan websites:</p>
+
+    <p><strong>404 Not Found errors:</strong> A page URL exists in the sitemap, in internal links, or has external links pointing to it — but returns a 404 when visited. Inbound link equity is not transferred through a 404. Internal PageRank flow is disrupted. The fix: either restore the page at its original URL, or implement a 301 redirect to the most relevant current page.</p>
+
+    <p><strong>Redirect errors:</strong> A redirect chain — URL A redirects to URL B redirects to URL C — passes less link equity than a direct 301 and adds load time on each hop. A circular redirect — URL A redirects to URL B redirects back to URL A — produces an error and makes the page uncrawlable.</p>
+
+    <p><strong>Server errors (500):</strong> The hosting server returned an error when Google tried to crawl the page. This is typically caused by a database timeout on Kenyan shared hosting under load, a PHP memory limit error on a WordPress site, or a misconfigured server configuration. Pages returning 500 errors are not indexed.</p>
+
+    <p><strong>Soft 404 errors:</strong> A page returns a 200 HTTP status (indicating success) but displays "Page not found" or similar content. Google correctly identifies these as effectively 404 pages and deprioritises them, but the 200 status means they consume crawl budget without contributing to the site's indexed content.</p>
+
+    <p>Tupate Studio identifies all of these issues using Screaming Frog SEO Spider for a complete website crawl, Google Search Console's Coverage and URL Inspection tools for Google's actual crawl data, and manual URL testing to verify specific error conditions.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Schema Markup for Kenyan Business Websites: Types and Implementation</h2>
+    <p>Schema markup is structured data added to a website's HTML that communicates content type and meaning to Google in machine-readable format. It enables Rich Results in Google's search listings — star rating displays, FAQ expandable sections, product price and availability, event dates, recipe information — and it improves click-through rates from search results by making your listing visually richer than competitors without schema. Despite its clear ranking and CTR benefits, schema markup is one of the most under-implemented technical SEO elements on Kenyan business websites.</p>
+
+    <p>The schema types Tupate Studio implements for Kenyan businesses and their specific benefits:</p>
+
+    <p><strong>LocalBusiness schema:</strong> The foundational schema type for any Kenyan service business. Tells Google your business name, physical address, telephone number, opening hours, geographic area served, price range, and business category — all in machine-readable format that feeds directly into Google's local search results and Google Business Profile. For Nairobi businesses, the areaServed property can list specific Nairobi districts: Westlands, Upper Hill, Kilimani, CBD, Industrial Area, Karen, Gigiri. Sub-types include MedicalBusiness for dental and medical clinics, LegalService for law firms, AccountingService for accounting firms, Restaurant for food businesses, and 40+ other specialised types.</p>
+
+    <p><strong>Organization schema:</strong> Used on the homepage and About page of corporate websites. Adds the organisation's logo (used by Google's Knowledge Panel), founding date, social media profile URLs (used to confirm official social accounts in search results), and the organisation's parent company relationship for subsidiaries.</p>
+
+    <p><strong>Product schema:</strong> For e-commerce and product pages. Adds product name, price, availability (InStock/OutOfStock/PreOrder), currency (KES for Kenyan stores), product image, and AggregateRating (star rating from customer reviews) directly to Google search results. A product search result showing "Ksh 4,500 — In Stock — 4.8 stars (23 reviews)" attracts significantly more clicks than a generic blue text link.</p>
+
+    <p><strong>FAQPage schema:</strong> For pages with FAQ sections — including every FAQ section on every Tupate Studio page. FAQPage schema enables expandable FAQ dropdowns directly in Google's search results, dramatically increasing the visual footprint of your search listing and providing direct answers to searcher questions before they even click through. Every FAQ section on a Kenyan business website should have this schema implemented — the CTR increase is consistently significant and the implementation effort is low.</p>
+
+    <p><strong>BreadcrumbList schema:</strong> Shows the page hierarchy in the URL display in Google's search results — "Tupate Studio > Services > Technical SEO Audit" instead of just the URL. Improves user orientation and click confidence for visitors evaluating search results.</p>
+
+    <p><strong>Article / BlogPosting schema:</strong> For blog content and news articles. Adds publication date, last modified date, author name, and publisher information. Publication date in search results helps news-adjacent content appear in Google's Top Stories and establishes recency for time-sensitive topics.</p>
+
+    <p><strong>Service schema:</strong> For individual service pages — connects each service to the LocalBusiness entity, specifying the service name, description, provider, and geographic area. Particularly important for Tupate Studio pages connecting web design and SEO services to Kenya as the service area.</p>
+
+    <p><strong>Implementation method:</strong> Tupate Studio implements all schema using JSON-LD in <code>&lt;script type="application/ld+json"&gt;</code> tags — Google's recommended method, cleanest implementation, and easiest to validate and maintain. Schema is not embedded in HTML element attributes (Microdata) or RDFa, which are harder to maintain and validate.</p>
+
+    <p><strong>Common schema errors on Kenyan websites:</strong> Incomplete LocalBusiness schema missing opening hours, telephone, or areaServed (reducing its utility for local search); malformed JSON with missing commas, unclosed brackets, or incorrect property types that cause the entire schema block to be ignored; conflicting schema outputs from multiple WordPress SEO plugins installed simultaneously (Yoast and RankMath both outputting LocalBusiness schema with contradictory values — Google discards the conflict).</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Website Speed Audit: How Hosting in Kenya Affects Your Google Scores</h2>
+    <p>Kenyan web hosting quality is one of the most significant and most overlooked technical SEO variables for Kenyan business websites. The server that hosts your website determines your TTFB — and TTFB is the first component of LCP, which is the first Core Web Vitals metric Google measures. A slow Kenyan server fails your rankings before your content, keywords, or backlinks have any opportunity to help.</p>
+
+    <p><strong>TTFB (Time to First Byte) — the foundational speed metric:</strong> TTFB measures the time from a browser's HTTP request to the server to the moment the first byte of the server's response is received. Google's target: under 800ms for good LCP. Optimal: under 200ms. Every millisecond of TTFB is added directly to LCP — a 1,500ms TTFB means LCP starts at 1.5 seconds before a single image or text element has loaded.</p>
+
+    <p><strong>Kenyan shared hosting reality:</strong> The most common Kenyan web hosting providers — Truehost Kenya, Sasahost, Kenya Website Experts, and their resellers — operate shared hosting environments where 300–600 customer accounts share a single server's CPU, RAM, and disk I/O. During peak hours (9am–6pm Nairobi business hours), when multiple high-traffic sites on the same server receive simultaneous visitors, TTFB for a typical shared hosting account regularly reaches 1,500–3,000ms. At 1,500ms TTFB, achieving Google's LCP target of under 2.5 seconds requires the entire remaining page rendering — including image downloads, JavaScript execution, and layout calculation — to complete in under 1 second. On a Kenyan mobile device on 4G, this is nearly impossible.</p>
+
+    <p><strong>Hosting tiers comparison for Kenya:</strong></p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Hosting Tier</th>
+          <th>Monthly Cost (Kenya)</th>
+          <th>Typical TTFB</th>
+          <th>Suitable for SEO?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Shared hosting (Truehost, Sasahost)</td>
+          <td>Ksh 500–2,000</td>
+          <td>800–3,000ms (peak hours)</td>
+          <td>Marginal — only for very simple, low-traffic sites</td>
+        </tr>
+        <tr>
+          <td>VPS (Virtual Private Server)</td>
+          <td>Ksh 3,000–8,000</td>
+          <td>100–400ms</td>
+          <td>Yes — recommended for SEO-focused businesses</td>
+        </tr>
+        <tr>
+          <td>Managed cloud (AWS, DigitalOcean, Google Cloud)</td>
+          <td>Ksh 4,000–15,000</td>
+          <td>50–150ms</td>
+          <td>Yes — best performance, Johannesburg/Frankfurt regions closest to Kenya</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p><strong>Cloudflare CDN:</strong> Cloudflare's free tier is one of the most impactful, zero-cost performance improvements available to Kenyan websites. Cloudflare's network has edge nodes in Johannesburg (closest to Kenya) and Nairobi, meaning cached static content is served from a server geographically near Kenyan visitors rather than from the origin server wherever it is hosted. For returning visitors, cached assets load from Cloudflare's edge in 50–100ms regardless of the origin hosting TTFB. For first-time visitors, Cloudflare reduces DNS lookup time, provides DDoS protection, and automatically minifies CSS and JavaScript. Tupate Studio configures Cloudflare as standard on all website builds.</p>
+
+    <p><strong>What the speed audit includes:</strong> TTFB measurement from a Nairobi IP address using WebPageTest.org's Nairobi testing node. Google PageSpeed Insights mobile and desktop scores with specific failing elements listed. GTmetrix report showing waterfall chart of asset loading sequence. Hosting provider assessment with specific recommendation: remain on current hosting, upgrade to VPS, or migrate to managed cloud. The recommendation is based on the website's traffic volume, its SEO goals, and the degree to which hosting TTFB is the binding constraint on Core Web Vitals performance.</p>
+
+    <p>Tupate Studio does not lock clients to specific hosting providers and does not earn referral fees from hosting recommendations. If your current shared hosting is causing LCP failures and harming your Google rankings, the honest recommendation is to upgrade — and the audit tells you specifically which tier to upgrade to and why.</p>
+  </section>
+
+  <section class="main-content">
+    <h2>Technical SEO Audit Report: What You Receive and What We Fix</h2>
+    <p>The deliverable from a Tupate Studio technical SEO audit is a structured written report that a Kenyan business owner — not a technical developer — can read, understand, and act on. It translates technical findings into business impact language and prioritises every issue by how significantly it is suppressing your rankings.</p>
+
+    <p>The report contains nine sections:</p>
+
+    <p><strong>1. Executive Summary:</strong> Your top 5 critical issues listed in plain language with their estimated ranking impact ranked by urgency. A Nairobi dental clinic owner does not need to read about canonical tag theory — they need to know that their noindex tag is preventing any of their pages from appearing on Google, and that fixing it this week is the highest-value action they can take.</p>
+
+    <p><strong>2. Crawlability section:</strong> Complete robots.txt analysis with annotated copy showing what each directive does. Sitemap audit results with the count of valid URLs, 404 URLs, and redirect URLs in the current sitemap. Crawl error list exported from Google Search Console with fix prioritisation.</p>
+
+    <p><strong>3. Indexation section:</strong> Current indexed page count vs total pages on the site. Noindex audit results listing every page with a noindex directive and whether each is intentional or an error. Canonical audit showing any incorrect or missing canonical tags. Duplicate content analysis with the specific URL pairs and recommended canonical or redirect solutions.</p>
+
+    <p><strong>4. Core Web Vitals section:</strong> LCP, INP, and CLS scores from Google Search Console field data for the top 10 pages by traffic. PageSpeed Insights lab scores for the same pages. Specific failing elements for each metric with the estimated improvement from each fix. For example: "Uncompressed hero image on homepage — currently 1.1MB JPEG. Converting to WebP at 120KB reduces LCP by estimated 0.8 seconds on 4G mobile."</p>
+
+    <p><strong>5. Mobile Usability section:</strong> Complete list of pages with mobile usability errors from Google Search Console. Screenshots showing how the failing pages render on mobile. Specific fix instructions for each error type.</p>
+
+    <p><strong>6. Schema Markup section:</strong> Inventory of current schema types implemented on the website. Validation results from Google's Rich Results Test for each schema block. Error list with specific JSON corrections required. Schema opportunity list — pages that are missing schema types that would benefit their rankings or rich result eligibility.</p>
+
+    <p><strong>7. Website Speed section:</strong> TTFB measurement from Nairobi IP. PageSpeed Insights mobile and desktop scores. Hosting assessment with upgrade recommendation if applicable. Render-blocking resource list with specific defer/async/preload directives.</p>
+
+    <p><strong>8. Internal Linking section:</strong> Orphan page list — every page with zero internal links pointing to it. Link equity flow analysis showing which pages receive the most and fewest internal links relative to their commercial value. Anchor text audit identifying all generic anchor text with replacement recommendations.</p>
+
+    <p><strong>9. Priority Fix List:</strong> Every identified issue listed in a single ranked table, ordered from highest ranking impact to lowest, with estimated developer hours for each fix. This allows you to prioritise your investment in fixes by ranking impact if you cannot address everything simultaneously.</p>
+
+    <p><strong>Service options after the audit:</strong> The standalone technical audit report is Ksh 5,000, delivered in 5–7 business days for websites up to 100 pages (10–14 business days for 100–500 pages). You receive the report and can implement fixes with your own developer. The SEO retainer at Ksh 8,000/month includes the technical audit as the starting point, and Tupate Studio implements every identified fix as part of the monthly service — no separate implementation costs. Call us today or WhatsApp us to confirm which option is right for your situation.</p>
+  </section>
+
+  <div class="contextual-border">
+    <p>Technical SEO is the necessary foundation — but ranking for competitive Kenyan keywords requires building on top of that foundation with on-page content optimisation, local SEO for location-based queries, and a content strategy that builds topical authority in your sector. Once technical barriers are removed and Google can fully crawl and index your site, the next layer of work addresses whether each page is correctly matched to its target query context, whether your Google Business Profile is optimised for Nairobi, Mombasa, or Kisumu local search results, and whether your content structure demonstrates the depth of expertise Google rewards with top rankings. The <a href="/local-seo-kenya">Local SEO for Kenyan businesses</a> and SEO Services pages cover this next layer of ranking work in full.</p>
+  </div>
+
+  <section class="supplementary">
+    <h2>On-Page SEO After the Technical Foundation Is Fixed</h2>
+    <p>A technically clean website is the prerequisite for rankings — but it is not sufficient to produce them. Once Google can crawl and index your website without obstruction, rank for competitive Kenyan business keywords requires on-page optimisation: title tags that match the specific queries your target customers type into Google. Meta descriptions that improve click-through rate from search results. H1 and H2 heading structures that communicate content hierarchy to both Google and human readers. Content depth that satisfies the full range of questions behind each query — not just the keyword. Internal linking architecture that flows PageRank authority to the pages most valuable to your business.</p>
+
+    <p>These on-page elements compound the technical foundation. A technically clean page with a precisely targeted title tag, comprehensive content, and correct schema markup ranks faster and ranks higher than a technically clean page with generic copy. Our <a href="/on-page-seo-kenya">on-page SEO services Kenya</a> covers all of these elements — title tags, heading structure, content depth, internal linking, and schema — in systematic detail. For a complete <a href="/seo-services-kenya">SEO Services in Kenya</a> engagement, Tupate Studio's monthly retainer covers both the technical layer and the on-page optimisation layer — with monthly reporting showing ranking progress for each target keyword.</p>
+  </section>
+
+  <section class="supplementary">
+    <h2>Mobile-First Design and Technical SEO: The Connection</h2>
+    <p>Mobile usability errors in Google Search Console are a direct ranking penalty. Pages with text too small to read, touch targets too close together, or content wider than the viewport receive a negative Page Experience signal that suppresses their rankings for all queries — not just mobile queries. Google's mobile-first indexing means these mobile penalties affect desktop rankings equally.</p>
+
+    <p>Custom-built mobile-first websites from Tupate Studio have structurally fewer technical SEO issues than WordPress responsive websites because the mobile experience is designed correctly from the beginning — not patched onto a desktop-first structure with responsive CSS overrides. WordPress themes attempting to be responsive frequently produce mobile usability errors at breakpoints, CLS from improperly sized elements on mobile, and slower mobile performance due to desktop-scale JavaScript bundles that are not conditionally loaded. For a complete understanding of the mobile-first advantage, the <a href="/mobile-first-website-design-kenya">Mobile-First Website Design Kenya</a> page covers every design and performance dimension. For the code-level reason custom-built sites have fewer technical SEO problems by default, <a href="/custom-website-vs-wordpress-kenya">Custom-Built Website vs WordPress Kenya</a> explains the architectural differences in detail. For the specific speed optimization techniques — image compression, caching, CDN, and JavaScript deferral — that move Core Web Vitals scores from "Poor" to "Good" on Kenyan networks, see our <a href="/website-speed-optimisation-kenya">website speed optimisation Kenya</a> guide.</p>
+  </section>
+
+  <section class="faq" itemscope itemtype="https://schema.org/FAQPage">
+    <h2>Frequently Asked Questions</h2>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">What is included in Tupate Studio's technical SEO audit?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">A full audit covering eight dimensions: crawlability (robots.txt, XML sitemap, crawl budget), indexation (canonical tags, noindex, duplicate content, thin content), Core Web Vitals (LCP, INP, CLS measured on mobile), mobile usability (Google Search Console errors), HTTPS and security headers, schema markup (types present, validation errors, missing opportunities), internal linking (orphan pages, link equity flow, anchor text), and hosting/page speed (TTFB from Nairobi IP, PageSpeed Insights scores). You receive a written report with a prioritised fix list within 5–7 business days for sites up to 100 pages.</p>
+      </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">Why is my website not appearing on Google in Kenya?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">The most common reasons Kenyan business websites do not appear on Google: robots.txt accidentally blocking all crawlers (often from staging environment settings deployed to production), noindex meta tag set on all pages and never removed after launch, website not submitted to Google Search Console so Google has not discovered it, website too new (under 3 months with no inbound links — Google is still evaluating it), or no pages on the site target the specific queries your customers use. A Tupate Studio technical audit identifies which of these applies to your site within 5 business days.</p>
+      </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">How much does a technical SEO audit cost in Kenya?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">A one-time technical audit report with a prioritised fix list is Ksh 5,000, delivered in 5–7 business days. If you are on Tupate Studio's SEO retainer at Ksh 8,000/month, the technical audit is included at the start of the engagement and all identified fixes are implemented as part of the monthly service — no separate implementation cost. WhatsApp us or call us today to discuss which option is right for your situation.</p>
+      </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">How often should a Kenyan website have a technical SEO audit?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">A full technical audit should be performed at website launch, after any major website change (redesign, platform migration, domain change), after a Google Core Algorithm Update if your rankings dropped unexpectedly, and as part of an annual SEO health review. On Tupate Studio's monthly SEO retainer, mini-audits using Google Search Console and PageSpeed Insights are performed monthly, with a comprehensive full audit conducted quarterly — ensuring technical issues are caught and fixed within weeks of appearing, not discovered months later.</p>
+      </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">Can you audit a WordPress website in Kenya?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">Yes — Tupate Studio audits WordPress websites and any other platform. Every technical issue we identify is platform-agnostic: crawl errors, indexation problems, Core Web Vitals failures, and schema errors exist on WordPress sites and custom sites alike. For some technical issues — Core Web Vitals failures caused by plugin overhead, schema conflicts from multiple SEO plugins, mobile usability errors from theme responsive breakpoint failures — the most effective fix recommendation will be migrating from WordPress to a custom-built codebase. We are transparent about this in the audit report when it applies.</p>
+      </div>
+    </div>
+  </section>
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Service", "LocalBusiness"],
+  "name": "Technical SEO Audit Kenya",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Tupate Studio",
+    "url": "https://tupate.studio"
+  },
+  "serviceType": "Technical SEO Audit",
+  "areaServed": { "@type": "Country", "name": "Kenya" },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "One-time Technical SEO Audit Report",
+      "priceCurrency": "KES",
+      "price": "5000"
+    },
+    {
+      "@type": "Offer",
+      "name": "Monthly SEO Retainer (includes ongoing technical auditing)",
+      "priceCurrency": "KES",
+      "price": "8000"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in Tupate Studio's technical SEO audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full audit covering crawlability, indexation, Core Web Vitals (LCP, INP, CLS), mobile usability, HTTPS and security, schema markup, internal linking, and hosting/page speed. You receive a written report with a prioritised fix list within 5–7 business days for sites up to 100 pages."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is my website not appearing on Google in Kenya?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common causes: robots.txt blocking all crawlers, noindex tag on all pages, site not submitted to Google Search Console, site too new (under 3 months), or no pages targeting the specific queries customers use. A Tupate Studio audit identifies which applies within 5 business days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does a technical SEO audit cost in Kenya?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A one-time audit report is Ksh 5,000. On the SEO retainer at Ksh 8,000/month, the audit is included and all fixes are implemented as part of the monthly service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should a Kenyan website have a technical SEO audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At website launch, after major changes (redesign, migration), after a Google Core Update causing ranking drops, and annually as a health check. On the monthly SEO retainer, mini-audits are performed monthly and a full audit quarterly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you audit a WordPress website in Kenya?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — Tupate Studio audits WordPress websites and any other platform. For some issues where WordPress's structural limitations are the root cause, the fix recommendation may include migrating to custom-built code."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Tupate Studio",
+      "item": "https://tupate.studio"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "SEO Services",
+      "item": "https://tupate.studio/seo-services-kenya"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Technical SEO Audit Kenya",
+      "item": "https://tupate.studio/technical-seo-audit-kenya"
+    }
+  ]
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" role="img" aria-labelledby="cache-obs-title">
+  <title id="cache-obs-title">CACHE Observation Record Methods: Narrative, Time Sampling, Event Sampling, Anecdotal, Sociogram, and Child Tracker — Purpose, Format, and Common Errors</title>
+
+  <!-- Background -->
+  <rect width="800" height="620" fill="#F4F7FB" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1B3A6B" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1B3A6B"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">CACHE Observation Record: Six Methods</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#A8C4E0">Objective Description (Section 1) + Analytical Section (Section 2) — Two Structurally Separate Sections</text>
+
+  <!-- Method 1: Narrative -->
+  <rect x="28" y="82" width="232" height="150" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="28" y="82" width="232" height="34" rx="8" fill="#2563EB"/>
+  <rect x="28" y="102" width="232" height="14" fill="#2563EB"/>
+  <text x="144" y="103" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">1. NARRATIVE</text>
+  <text x="44" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">PURPOSE</text>
+  <text x="44" y="142" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Continuous record of all</text>
+  <text x="44" y="156" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">behaviour over 5–15 mins.</text>
+  <text x="44" y="170" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Richest qualitative method.</text>
+  <line x1="44" y1="180" x2="244" y2="180" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="194" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Format: flowing prose.</text>
+  <text x="44" y="208" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">Error: Confusing with time sampling</text>
+  <text x="44" y="222" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">or embedding interpretation in text</text>
+
+  <!-- Method 2: Time Sampling -->
+  <rect x="284" y="82" width="232" height="150" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="284" y="82" width="232" height="34" rx="8" fill="#2563EB"/>
+  <rect x="284" y="102" width="232" height="14" fill="#2563EB"/>
+  <text x="400" y="103" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">2. TIME SAMPLING</text>
+  <text x="300" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">PURPOSE</text>
+  <text x="300" y="142" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Snapshot at fixed intervals</text>
+  <text x="300" y="156" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">(e.g. every 5 min) over 30–60</text>
+  <text x="300" y="170" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">mins. Tracks activity patterns.</text>
+  <line x1="300" y1="180" x2="500" y2="180" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="300" y="194" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Format: table (time | activity).</text>
+  <text x="300" y="208" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">Error: Using for interaction detail</text>
+  <text x="300" y="222" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">(use narrative instead)</text>
+
+  <!-- Method 3: Event Sampling -->
+  <rect x="540" y="82" width="232" height="150" rx="8" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <rect x="540" y="82" width="232" height="34" rx="8" fill="#2563EB"/>
+  <rect x="540" y="102" width="232" height="14" fill="#2563EB"/>
+  <text x="656" y="103" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">3. EVENT SAMPLING</text>
+  <text x="556" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">PURPOSE</text>
+  <text x="556" y="142" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Records each instance of a</text>
+  <text x="556" y="156" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">specific pre-defined behaviour.</text>
+  <text x="556" y="170" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Best for behaviour analysis.</text>
+  <line x1="556" y1="180" x2="756" y2="180" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="556" y="194" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Format: ABC table (Antecedent,</text>
+  <text x="556" y="208" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Behaviour, Consequence).</text>
+  <text x="556" y="222" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Error: No pre-defined target behaviour</text>
+
+  <!-- Method 4: Anecdotal -->
+  <rect x="28" y="246" width="232" height="150" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="28" y="246" width="232" height="34" rx="8" fill="#7C3AED"/>
+  <rect x="28" y="266" width="232" height="14" fill="#7C3AED"/>
+  <text x="144" y="267" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">4. ANECDOTAL</text>
+  <text x="44" y="292" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">PURPOSE</text>
+  <text x="44" y="306" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Brief account of significant</text>
+  <text x="44" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">unplanned event. Written</text>
+  <text x="44" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">retrospectively (same day).</text>
+  <line x1="44" y1="344" x2="244" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="44" y="358" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Format: brief narrative account.</text>
+  <text x="44" y="372" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#DC2626">Error: Retrospective = higher risk</text>
+  <text x="44" y="386" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" fill="#6B7280">of interpretive language in description</text>
+
+  <!-- Method 5: Sociogram -->
+  <rect x="284" y="246" width="232" height="150" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="284" y="246" width="232" height="34" rx="8" fill="#7C3AED"/>
+  <rect x="284" y="266" width="232" height="14" fill="#7C3AED"/>
+  <text x="400" y="267" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">5. SOCIOGRAM</text>
+  <text x="300" y="292" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">PURPOSE</text>
+  <text x="300" y="306" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Maps social relationships</text>
+  <text x="300" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">and interaction patterns</text>
+  <text x="300" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">between children in a group.</text>
+  <line x1="300" y1="344" x2="500" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="300" y="358" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Format: diagram (nodes + arrows).</text>
+  <text x="300" y="372" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Theory link: Bandura (1977) PSED.</text>
+  <text x="300" y="386" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Not suitable as sole individual obs.</text>
+
+  <!-- Method 6: Child Tracker -->
+  <rect x="540" y="246" width="232" height="150" rx="8" fill="#FFFFFF" stroke="#DDD6FE" stroke-width="1.5"/>
+  <rect x="540" y="246" width="232" height="34" rx="8" fill="#7C3AED"/>
+  <rect x="540" y="266" width="232" height="14" fill="#7C3AED"/>
+  <text x="656" y="267" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">6. CHILD TRACKER</text>
+  <text x="556" y="292" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#374151">PURPOSE</text>
+  <text x="556" y="306" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Records child's physical</text>
+  <text x="556" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">movements on floor plan.</text>
+  <text x="556" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Use of space and provision areas.</text>
+  <line x1="556" y1="344" x2="756" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="556" y="358" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">Format: annotated floor plan.</text>
+  <text x="556" y="372" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">EYFS link: Physical Development.</text>
+  <text x="556" y="386" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" fill="#DC2626">Always supplement with narrative</text>
+
+  <!-- Objective vs Analytical sections rule -->
+  <rect x="28" y="410" width="744" height="78" rx="8" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1.5"/>
+  <text x="44" y="430" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#92400E">TWO STRUCTURALLY SEPARATE SECTIONS IN EVERY OBSERVATION RECORD</text>
+  <text x="44" y="448" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">SECTION 1 — OBJECTIVE DESCRIPTION: Only directly observed actions, movements, verbalisations, facial expressions in physical terms.</text>
+  <text x="44" y="463" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">NO interpretation, attribution of emotion/intention, or developmental meaning. Verbs: picks up, places, says, moves, looks at, reaches for.</text>
+  <text x="44" y="478" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#374151">SECTION 2 — ANALYTICAL SECTION: Theory (Author, Year) + EYFS area identified by 2021 name + Next steps (4-component structure).</text>
+
+  <!-- Footer banner -->
+  <rect x="28" y="500" width="744" height="30" rx="6" fill="#1B3A6B"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Most common referral: interpretive language in the description section · "Seemed excited" → "Smiled and jumped twice" (objective)</text>
+
+  <!-- Footer -->
+  <text x="400" y="610" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#9CA3AF">CACHE Assignment Help Service · NCFE CACHE Level 3 Early Years Education and Care</text>
+</svg>
