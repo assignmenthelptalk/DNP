@@ -1,0 +1,921 @@
+{
+  "client": "dnp-assignment-help",
+  "built_at": "2026-05-31",
+  "schedule_horizon": "20 weeks (2026-06-01 → 2026-10-18)",
+  "publishing_cadence": "2 pages per week",
+  "total_pages_scheduled": 28,
+  "total_pages_planned_beyond_horizon": 7,
+  "target_topical_coverage_score_at_week_20": 70,
+  "sequencing_logic": "Tier 1 Core first (weeks 1–8) to establish central entity and high-intent component pages → Outer Section next (weeks 9–12) to build foundational authority and contextual bridges → Tier 2 track and project-type pages last (weeks 13–20) to capture long-tail specialisation queries. Within each group, highest-search-volume and highest-priority pages publish first.",
+
+  "phases": [
+    {
+      "phase": 1,
+      "label": "Core Component Pages — Proposal Stage",
+      "weeks": "1–6",
+      "dates": "2026-06-01 → 2026-07-12",
+      "goal": "Establish source context for the central entity (DNP Capstone Project) and cover the full proposal-stage help funnel",
+      "pages": [
+        {
+          "week": 1,
+          "publish_date": "2026-06-01",
+          "section": "core",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP Capstone Project Help (Pillar Page)",
+          "slug": "/dnp-capstone-project-help",
+          "h1": "DNP Capstone Project Help — Expert Support From PICOT Question to Final Manuscript",
+          "h2s": [
+            "What Is a DNP Capstone Project?",
+            "DNP Capstone vs PhD Dissertation: Key Differences",
+            "The 8 Core Components of a DNP Capstone Project",
+            "DNP Project Types: QI, EBP, Program Evaluation, Policy, Guideline, and Educational",
+            "DNP Specialisation Tracks We Support",
+            "How Our DNP Capstone Help Works: From Proposal to Defence",
+            "Post-BSN vs Post-MSN DNP Pathways: What Changes for Your Capstone",
+            "AACN DNP Essentials: How Your Capstone Demonstrates Each Domain"
+          ],
+          "target_word_count": 3500,
+          "content_type": "pillar",
+          "internal_links_to": [
+            "/dnp-picot-question-help",
+            "/dnp-capstone-proposal-help",
+            "/dnp-literature-review-help",
+            "/dnp-irb-proposal-help",
+            "/dnp-implementation-plan-help",
+            "/dnp-data-analysis-help",
+            "/dnp-capstone-manuscript-help"
+          ],
+          "notes": "Must anchor all site N-grams. Establishes DNP capstone ≠ PhD dissertation. Acts as hub for all Tier 1 spokes."
+        },
+        {
+          "week": 1,
+          "publish_date": "2026-06-03",
+          "section": "core",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP PICOT Question Help",
+          "slug": "/dnp-picot-question-help",
+          "h1": "DNP PICOT Question Help — Developing a Precise, Defensible Question for Your Capstone",
+          "h2s": [
+            "What Is a PICOT Question in a DNP Project?",
+            "Breaking Down the 5 PICOT Elements for DNP Students",
+            "PICOT vs PICo: Choosing the Right Framework for Your Project Type",
+            "How Specific Should Your DNP PICOT Population Be?",
+            "Writing Measurable Outcomes for Your PICOT: Examples by Clinical Area",
+            "Setting the Time Frame: How Long Should Your DNP Intervention Run?",
+            "20 DNP PICOT Question Examples Across Specialisation Tracks",
+            "How Your PICOT Question Shapes Your Literature Search Strategy"
+          ],
+          "target_word_count": 2800,
+          "content_type": "service-component",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-capstone-proposal-help",
+            "/dnp-literature-review-help",
+            "/picot-framework-explained"
+          ],
+          "notes": "Highest search volume for early-stage DNP students. PICOT examples across 5+ clinical areas needed for EAV depth."
+        },
+        {
+          "week": 2,
+          "publish_date": "2026-06-08",
+          "section": "core",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP Capstone Proposal Help",
+          "slug": "/dnp-capstone-proposal-help",
+          "h1": "DNP Capstone Project Proposal Help — Chapter-by-Chapter Expert Writing Support",
+          "h2s": [
+            "What Must a DNP Capstone Proposal Include?",
+            "Chapter 1: Background, Significance, and Problem Statement",
+            "Chapter 2: Theoretical Framework and Literature Review",
+            "Chapter 3: Methodology, IRB Plan, and Evaluation Design",
+            "How to Write a DNP Problem Statement That Passes Committee Review",
+            "Aligning Your DNP Proposal with AACN Essentials Domains",
+            "Common Reasons DNP Proposals Are Sent Back for Revision",
+            "From Proposal Approval to IRB Submission: What Happens Next"
+          ],
+          "target_word_count": 3000,
+          "content_type": "service-component",
+          "internal_links_to": [
+            "/dnp-picot-question-help",
+            "/dnp-literature-review-help",
+            "/dnp-irb-proposal-help",
+            "/dnp-capstone-manuscript-help",
+            "/ebp-frameworks-for-dnp-projects"
+          ],
+          "notes": "Second-highest intent page. Chapter structure must match majority of US university formats (Capella, Walden, GCU)."
+        },
+        {
+          "week": 2,
+          "publish_date": "2026-06-10",
+          "section": "core",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP Literature Review Help",
+          "slug": "/dnp-literature-review-help",
+          "h1": "DNP Capstone Literature Review Help — From Search Strategy to Evidence Synthesis",
+          "h2s": [
+            "What Type of Literature Review Does a DNP Capstone Require?",
+            "Choosing Your Databases: CINAHL, PubMed, Cochrane, and Beyond",
+            "Building Your Search Strategy: MeSH Terms, Boolean Operators, and Filters",
+            "PRISMA Flow Diagram: Tracking Your Search for the DNP Proposal",
+            "Critical Appraisal Tools for DNP Projects: JBI, CASP, and GRADE",
+            "Constructing Your Evidence Synthesis Table",
+            "How to Identify the Practice Gap That Justifies Your DNP Project",
+            "Integrating Your Literature Review into Chapter 2 of Your Proposal"
+          ],
+          "target_word_count": 2800,
+          "content_type": "service-component",
+          "internal_links_to": [
+            "/dnp-picot-question-help",
+            "/dnp-capstone-proposal-help",
+            "/systematic-vs-scoping-vs-integrative-review",
+            "/ebp-frameworks-for-dnp-projects"
+          ],
+          "notes": "Must name specific databases (CINAHL Complete, PubMed, Cochrane) and appraisal tools (JBI, CASP, GRADE) for EAV depth."
+        },
+        {
+          "week": 3,
+          "publish_date": "2026-06-15",
+          "section": "core",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP IRB Proposal Help",
+          "slug": "/dnp-irb-proposal-help",
+          "h1": "DNP IRB Proposal Help — Navigating Ethics Review for Your Capstone Project",
+          "h2s": [
+            "Does Your DNP Capstone Project Need IRB Approval?",
+            "QI vs Human Subjects Research: How IRBs Classify DNP Projects",
+            "Exempt, Expedited, or Full Board Review: Which Does Your Project Need?",
+            "Writing the IRB Protocol for a DNP Capstone: Section by Section",
+            "HIPAA Compliance in DNP Capstone Projects",
+            "Consent vs Waiver of Consent: When DNP Projects Qualify for Waiver",
+            "Hospital IRB and University IRB: Navigating Dual Review",
+            "How Long Does IRB Approval Take? Planning Your DNP Timeline"
+          ],
+          "target_word_count": 2600,
+          "content_type": "service-component",
+          "internal_links_to": [
+            "/dnp-capstone-proposal-help",
+            "/dnp-implementation-plan-help",
+            "/how-to-write-irb-protocol-nursing",
+            "/dnp-quality-improvement-project-help"
+          ],
+          "notes": "Key differentiator: most DNP QI projects are NOT human subjects research. Must address 45 CFR 46 QI determination clearly."
+        },
+        {
+          "week": 3,
+          "publish_date": "2026-06-17",
+          "section": "core",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP Implementation Plan Help",
+          "slug": "/dnp-implementation-plan-help",
+          "h1": "DNP Capstone Implementation Plan Help — From Stakeholder Buy-In to Sustainable Practice Change",
+          "h2s": [
+            "What Must a DNP Implementation Plan Include?",
+            "Choosing a Change Management Framework: Kotter, Lewin, or Rogers?",
+            "Stakeholder Analysis for Your DNP Capstone: Who Needs to Be On Board",
+            "Writing the Staff Education Plan for Your DNP Intervention",
+            "Process and Outcome Measures: Selecting the Right Data Points",
+            "Building a DNP Project Timeline: Gantt Chart and Milestone Planning",
+            "Fidelity Monitoring: Ensuring Your Intervention Is Delivered as Planned",
+            "Writing the Sustainability Plan: How to Show Practice Change Will Last"
+          ],
+          "target_word_count": 2800,
+          "content_type": "service-component",
+          "internal_links_to": [
+            "/dnp-irb-proposal-help",
+            "/dnp-data-analysis-help",
+            "/dnp-capstone-proposal-help",
+            "/ebp-frameworks-for-dnp-projects",
+            "/dnp-quality-improvement-project-help"
+          ],
+          "notes": "Gantt chart structure and change management framework comparison (Kotter vs Lewin vs Rogers) are high-value EAV elements."
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "label": "Core Component Pages — Analysis and Manuscript Stage",
+      "weeks": "7–8",
+      "dates": "2026-07-13 → 2026-07-26",
+      "goal": "Complete the Tier 1 Core hub with late-stage capstone help pages covering data analysis and final manuscript",
+      "pages": [
+        {
+          "week": 7,
+          "publish_date": "2026-07-13",
+          "section": "core",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP Data Analysis Help",
+          "slug": "/dnp-data-analysis-help",
+          "h1": "DNP Capstone Data Analysis Help — Choosing the Right Methods and Interpreting Your Findings",
+          "h2s": [
+            "What Level of Statistical Analysis Is Expected in a DNP Capstone?",
+            "Pre-Post Comparison Analysis for QI and EBP DNP Projects",
+            "Choosing Between Parametric and Non-Parametric Tests for Your DNP Data",
+            "Statistical Process Control Charts for DNP Quality Improvement Projects",
+            "Qualitative Data Analysis for DNP Projects: Thematic and Content Analysis",
+            "Statistical Significance vs Clinical Significance in DNP Practice Change",
+            "Presenting Your Data: Tables, Run Charts, and Figures for the DNP Manuscript",
+            "Interpreting Your Results: Writing the Findings Section of Your DNP Project"
+          ],
+          "target_word_count": 2800,
+          "content_type": "service-component",
+          "internal_links_to": [
+            "/dnp-capstone-manuscript-help",
+            "/dnp-implementation-plan-help",
+            "/dnp-quality-improvement-project-help",
+            "/statistical-methods-in-dnp"
+          ],
+          "notes": "Must address why descriptive statistics are appropriate for small-sample DNP QI projects — overcomplication is a common student error."
+        },
+        {
+          "week": 8,
+          "publish_date": "2026-07-20",
+          "section": "core",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP Capstone Manuscript Help",
+          "slug": "/dnp-capstone-manuscript-help",
+          "h1": "DNP Capstone Manuscript Help — Writing a Final Project Report That Passes Doctoral Review",
+          "h2s": [
+            "DNP Final Manuscript Structure: What Every Section Must Include",
+            "Writing the DNP Capstone Abstract: 250 Words That Frame Your Entire Project",
+            "Introduction and Background: Setting the Stage for Your Practice Change",
+            "Methods Section: Writing Up Your Implementation With Reproducible Detail",
+            "Results Section: Presenting Pre-Post Data, Tables, and Run Charts",
+            "Discussion Section: Interpreting Findings and Connecting Back to Literature",
+            "Implications for Practice, Education, Policy, and Leadership",
+            "APA 7th Edition Requirements for DNP Capstone Manuscripts"
+          ],
+          "target_word_count": 3000,
+          "content_type": "service-component",
+          "internal_links_to": [
+            "/dnp-data-analysis-help",
+            "/dnp-capstone-proposal-help",
+            "/dnp-literature-review-help",
+            "/apa-7th-edition-dnp-manuscripts",
+            "/dnp-capstone-dissemination"
+          ],
+          "notes": "Typical manuscript length 60–120 pages. Must address appendices (IRB approval letter, data tools, educational materials, consent documents, evidence tables)."
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "label": "Outer Section — Foundational Authority Pages",
+      "weeks": "9–12",
+      "dates": "2026-07-27 → 2026-08-23",
+      "goal": "Build contextual bridges and foundational authority; establish source context differentiators (DNP ≠ PhD, AACN Essentials, EBP frameworks)",
+      "pages": [
+        {
+          "week": 9,
+          "publish_date": "2026-07-27",
+          "section": "outer",
+          "tier": 1,
+          "priority": "high",
+          "topic": "DNP vs PhD in Nursing: Understanding the Difference",
+          "slug": "/dnp-vs-phd-nursing",
+          "h1": "DNP vs PhD in Nursing — What the Difference Means for Your Capstone Project",
+          "h2s": [
+            "What Is a Doctor of Nursing Practice Degree?",
+            "What Is a PhD in Nursing?",
+            "DNP Capstone vs PhD Dissertation: Scope, Methodology, and Output",
+            "AACN 2004 Position Statement: Why the DNP Was Created",
+            "Post-BSN vs Post-MSN DNP Entry Pathways",
+            "1000 Clinical Practice Hours: The DNP Requirement Explained",
+            "Practice Translation vs Knowledge Generation: The Core Distinction",
+            "Which Degree Is Right for You — and Why It Matters for Your Capstone"
+          ],
+          "target_word_count": 2400,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-capstone-project-help"
+          ],
+          "bridge_to_core": "DNP Capstone Project Help (Pillar Page)",
+          "notes": "Prevents misaligned PhD dissertation traffic. Reinforces DNP-specific N-grams across the site."
+        },
+        {
+          "week": 9,
+          "publish_date": "2026-07-29",
+          "section": "outer",
+          "tier": 1,
+          "priority": "high",
+          "topic": "AACN DNP Essentials (2021): What Your Capstone Must Demonstrate",
+          "slug": "/aacn-dnp-essentials-2021",
+          "h1": "AACN DNP Essentials 2021 — How Your Capstone Project Demonstrates All Ten Domains",
+          "h2s": [
+            "What Are the AACN 2021 DNP Essentials?",
+            "The Ten Domains of the 2021 Essentials: An Overview",
+            "How Each Capstone Component Addresses the AACN Domains",
+            "Domain 4: Scholarship for Nursing Practice — the Heart of the Capstone",
+            "Domain 5: Quality and Safety — Aligning Your QI or EBP Project",
+            "Domain 7: Systems-Based Practice — Implementation Plan and Stakeholders",
+            "Writing the AACN Essentials Alignment Section in Your Proposal",
+            "How Faculty Advisors Use the Essentials to Evaluate DNP Capstone Projects"
+          ],
+          "target_word_count": 2400,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-capstone-proposal-help",
+            "/dnp-capstone-manuscript-help"
+          ],
+          "bridge_to_core": "DNP Capstone Proposal Help + DNP Capstone Manuscript Help",
+          "notes": "Domain names must be exact (AACN 2021 revised domains, not 2006 originals). Proposal and manuscript sections require Essentials mapping."
+        },
+        {
+          "week": 10,
+          "publish_date": "2026-08-03",
+          "section": "outer",
+          "tier": 1,
+          "priority": "high",
+          "topic": "Evidence-Based Practice Frameworks for DNP Projects",
+          "slug": "/ebp-frameworks-for-dnp-projects",
+          "h1": "EBP Frameworks for DNP Projects — Iowa Model, PARIHS, ACE Star, and Johns Hopkins Compared",
+          "h2s": [
+            "Why Your DNP Capstone Needs an EBP Framework",
+            "Iowa Model of Evidence-Based Practice (2017 Revised): Step-by-Step",
+            "PARIHS and i-PARIHS Framework: Evidence, Context, and Facilitation",
+            "ACE Star Model of Knowledge Transformation: Five Stages Explained",
+            "KTA (Knowledge-to-Action) Framework: Knowledge Creation and Action Cycle",
+            "ARCC Model: Advancing Research and Clinical Practice Through Close Collaboration",
+            "Johns Hopkins EBP Model: PET Process for Practice Questions",
+            "How to Choose and Justify Your EBP Framework for a DNP Proposal"
+          ],
+          "target_word_count": 2600,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-capstone-proposal-help",
+            "/dnp-ebp-implementation-project-help"
+          ],
+          "bridge_to_core": "DNP Capstone Proposal Help + DNP EBP Implementation Project Help",
+          "notes": "Must compare frameworks with specific criteria (complexity, empirical support, applicability by project type). Justification language modelled."
+        },
+        {
+          "week": 11,
+          "publish_date": "2026-08-10",
+          "section": "outer",
+          "tier": 1,
+          "priority": "medium",
+          "topic": "PICOT Framework Explained for Nursing Practice",
+          "slug": "/picot-framework-explained",
+          "h1": "PICOT Framework Explained — How Nursing Practice Questions Are Structured at the DNP Level",
+          "h2s": [
+            "What Does PICOT Stand For?",
+            "The Five PICOT Elements: Population, Intervention, Comparison, Outcome, Time",
+            "PICOT Variants: PICO, PICo, and SPIDER for Different Study Designs",
+            "Why DNP Students Need a Precise PICOT Question",
+            "Common PICOT Mistakes and How to Fix Them",
+            "How PICOT Shapes Your Literature Search, Intervention, and Evaluation",
+            "PICOT Examples for Common DNP Clinical Topics",
+            "From PICOT Question to Searchable Database Strategy"
+          ],
+          "target_word_count": 2000,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-picot-question-help"
+          ],
+          "bridge_to_core": "DNP PICOT Question Help",
+          "notes": "Outer support page. Establishes PICOT vocabulary before directing readers to the service-specific core page."
+        },
+        {
+          "week": 11,
+          "publish_date": "2026-08-12",
+          "section": "outer",
+          "tier": 1,
+          "priority": "medium",
+          "topic": "Systematic Review vs Scoping Review vs Integrative Review",
+          "slug": "/systematic-vs-scoping-vs-integrative-review",
+          "h1": "Systematic vs Scoping vs Integrative Review — Which Does Your DNP Capstone Need?",
+          "h2s": [
+            "The Three Types of Literature Review Used in DNP Capstones",
+            "Systematic Review: When and Why DNP Students Use It",
+            "Scoping Review: Mapping What Is Known About a Clinical Topic",
+            "Integrative Review: Combining Quantitative and Qualitative Evidence",
+            "PRISMA 2020 vs PRISMA-ScR: Reporting Standards by Review Type",
+            "How Many Studies Are Enough for a DNP Literature Review?",
+            "Which Review Type Is Right for Your DNP Project Design?",
+            "Common Errors DNP Students Make When Selecting a Review Type"
+          ],
+          "target_word_count": 2200,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-literature-review-help"
+          ],
+          "bridge_to_core": "DNP Literature Review Help",
+          "notes": "For most DNP capstones: integrative or scoping review is appropriate. Full systematic reviews rarely feasible within DNP timelines."
+        },
+        {
+          "week": 12,
+          "publish_date": "2026-08-17",
+          "section": "outer",
+          "tier": 1,
+          "priority": "medium",
+          "topic": "How to Write an IRB Protocol for Nursing Practice Projects",
+          "slug": "/how-to-write-irb-protocol-nursing",
+          "h1": "How to Write an IRB Protocol for a Nursing Practice Project — Section by Section",
+          "h2s": [
+            "What Is an IRB Protocol and When Do DNP Students Need One?",
+            "The QI Determination Checklist: Research vs Quality Improvement Under 45 CFR 46",
+            "IRB Protocol Sections: What Each Must Include",
+            "HIPAA and Data Privacy in Nursing Practice Project Protocols",
+            "Writing the Risks and Benefits Section for a Low-Risk DNP Project",
+            "Informed Consent Waivers: When QI Projects Qualify",
+            "Common IRB Revision Requests for DNP Capstone Projects",
+            "From IRB Approval to Implementation: Managing Your Timeline"
+          ],
+          "target_word_count": 2200,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-irb-proposal-help"
+          ],
+          "bridge_to_core": "DNP IRB Proposal Help",
+          "notes": "QI determination under 45 CFR 46 is the most important differentiator. Must address dual hospital + university IRB scenarios."
+        },
+        {
+          "week": 12,
+          "publish_date": "2026-08-19",
+          "section": "outer",
+          "tier": 1,
+          "priority": "medium",
+          "topic": "Statistical Methods in DNP Capstone Data Analysis",
+          "slug": "/statistical-methods-in-dnp",
+          "h1": "Statistical Methods in DNP Capstone Data Analysis — Which Tests, When, and Why",
+          "h2s": [
+            "Why Statistical Analysis in DNP Capstones Is Different From PhD Research",
+            "Descriptive Statistics: The Foundation of DNP QI and EBP Data Reporting",
+            "Pre-Post Comparison Tests: Paired t-Test, Wilcoxon, and McNemar Explained",
+            "SPC Methods for DNP QI Projects: P-Charts, U-Charts, and I-MR Charts",
+            "Qualitative Analysis in DNP Projects: Thematic and Content Analysis",
+            "Statistical Software for DNP Students: SPSS, Excel, JASP, and R",
+            "Statistical vs Clinical Significance: Why the Distinction Matters in DNP",
+            "Sample Size and Power in DNP Capstone Projects: What the Committee Expects"
+          ],
+          "target_word_count": 2200,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-data-analysis-help"
+          ],
+          "bridge_to_core": "DNP Data Analysis Help",
+          "notes": "Descriptive statistics are appropriate and defensible for small-sample DNP QI projects — must assert this clearly."
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "label": "Tier 2 Core — Track-Specific Capstone Help (Highest Volume First)",
+      "weeks": "13–16",
+      "dates": "2026-08-24 → 2026-09-20",
+      "goal": "Capture long-tail specialisation queries from the largest and highest-intent DNP tracks",
+      "pages": [
+        {
+          "week": 13,
+          "publish_date": "2026-08-24",
+          "section": "core",
+          "tier": 2,
+          "pathway": "track-specific",
+          "priority": "high",
+          "topic": "FNP DNP Capstone Project Help",
+          "slug": "/fnp-dnp-capstone-project-help",
+          "h1": "FNP DNP Capstone Project Help — Primary Care Practice Improvement From PICOT to Manuscript",
+          "h2s": [
+            "What Makes an FNP DNP Capstone Project Different From Other Tracks?",
+            "High-Value FNP Capstone Topics in Primary Care Practice",
+            "PICOT Questions for Family Nurse Practitioner Capstone Projects",
+            "Measuring Outcomes in Primary Care: EHR Audit Data for FNP Capstones",
+            "Common FNP Capstone Frameworks: Iowa Model and PDSA in Primary Care",
+            "FNP Capstone Manuscript: Writing for a Primary Care Audience"
+          ],
+          "target_word_count": 2400,
+          "content_type": "track-specific",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-picot-question-help",
+            "/dnp-capstone-proposal-help",
+            "/ebp-frameworks-for-dnp-projects"
+          ],
+          "notes": "Largest DNP specialisation. Clinical settings: primary care clinic, FQHC, urgent care, rural health clinic. Must include EHR names (Epic, Athena, eClinicalWorks)."
+        },
+        {
+          "week": 13,
+          "publish_date": "2026-08-26",
+          "section": "core",
+          "tier": 2,
+          "pathway": "track-specific",
+          "priority": "high",
+          "topic": "PMHNP DNP Capstone Project Help",
+          "slug": "/pmhnp-dnp-capstone-project-help",
+          "h1": "PMHNP DNP Capstone Project Help — Mental Health Practice Improvement and Evidence-Based Protocols",
+          "h2s": [
+            "PMHNP DNP Capstone Topics: High-Impact Mental Health Practice Problems",
+            "Validated Instruments for PMHNP Capstone Outcome Measurement",
+            "PICOT Questions for Psychiatric-Mental Health DNP Projects",
+            "IRB Considerations for DNP Projects With Vulnerable Mental Health Populations",
+            "Evidence-Based Frameworks for PMHNP Practice Change Projects",
+            "PMHNP Capstone in Integrated Care vs Inpatient Settings: Key Differences"
+          ],
+          "target_word_count": 2400,
+          "content_type": "track-specific",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-irb-proposal-help",
+            "/dnp-picot-question-help"
+          ],
+          "notes": "Mental health populations are vulnerable — IRB may require expedited or full board even for QI. Instruments: PHQ-9, GAD-7, PCL-5, AUDIT-C, Columbia SSRS."
+        },
+        {
+          "week": 14,
+          "publish_date": "2026-08-31",
+          "section": "core",
+          "tier": 2,
+          "pathway": "track-specific",
+          "priority": "high",
+          "topic": "AGACNP DNP Capstone Project Help",
+          "slug": "/agacnp-dnp-capstone-project-help",
+          "h1": "AGACNP DNP Capstone Project Help — Acute and Critical Care Practice Improvement",
+          "h2s": [
+            "AGACNP DNP Capstone Topics: High-Priority Acute Care Quality Problems",
+            "Measuring Hospital-Acquired Condition Rates in AGACNP Capstone Projects",
+            "PICOT Questions for Adult-Gerontology Acute Care DNP Projects",
+            "Aligning Your AGACNP Capstone With Hospital Quality Dashboards",
+            "Evidence-Based Bundles as DNP Capstone Interventions in Critical Care",
+            "AGACNP Capstone vs FNP Capstone: Different Settings, Different Metrics"
+          ],
+          "target_word_count": 2400,
+          "content_type": "track-specific",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-quality-improvement-project-help",
+            "/dnp-irb-proposal-help"
+          ],
+          "notes": "Key topics: CLABSI, CAUTI, VAP, sepsis bundle, ABCDEF bundle, delirium. Data sources: NSQIP, NDNQI, hospital infection control. Almost always QI/exempt IRB."
+        },
+        {
+          "week": 14,
+          "publish_date": "2026-09-02",
+          "section": "core",
+          "tier": 2,
+          "pathway": "track-specific",
+          "priority": "high",
+          "topic": "CRNA DNP Capstone Project Help",
+          "slug": "/crna-dnp-capstone-project-help",
+          "h1": "CRNA DNP Capstone Project Help — Anesthesia Practice Improvement From Proposal to Manuscript",
+          "h2s": [
+            "DNP Capstone Requirements for CRNA Programs: COA Standards",
+            "High-Impact CRNA DNP Capstone Topics in Perioperative Practice",
+            "PICOT Questions for Nurse Anesthesia Practice Improvement Projects",
+            "Outcome Measures in CRNA DNP Capstones: PONV, Pain Scores, and Safety Metrics",
+            "ERAS Protocols as a DNP Capstone Intervention: Design and Evaluation",
+            "Writing the CRNA DNP Capstone Manuscript for a Perioperative Audience"
+          ],
+          "target_word_count": 2400,
+          "content_type": "track-specific",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-capstone-proposal-help",
+            "/dnp-capstone-manuscript-help"
+          ],
+          "notes": "COA-accredited programs require EBP project. NACOR database for outcomes data. Tight timelines — proposals must be approved early. PONV, PACU LOS, MME as outcome metrics."
+        },
+        {
+          "week": 15,
+          "publish_date": "2026-09-07",
+          "section": "core",
+          "tier": 2,
+          "pathway": "track-specific",
+          "priority": "high",
+          "topic": "Nurse Executive DNP Capstone Project Help",
+          "slug": "/nurse-executive-dnp-capstone-project-help",
+          "h1": "Nurse Executive DNP Capstone Help — Organisational Systems Change and Leadership Practice Projects",
+          "h2s": [
+            "What Is a Nurse Executive DNP Capstone Project?",
+            "High-Impact Leadership Track Capstone Topics in Healthcare Organisations",
+            "Using Kotter's Change Model in Your Nursing Leadership DNP Project",
+            "Measuring Outcomes in Nurse Executive Capstones: Retention, Engagement, and Safety",
+            "Writing the Cost-Benefit Analysis Section of a Nurse Executive DNP Project",
+            "Disseminating Your Nurse Executive DNP Project to Organisational Leadership"
+          ],
+          "target_word_count": 2400,
+          "content_type": "track-specific",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-implementation-plan-help",
+            "/dnp-data-analysis-help"
+          ],
+          "notes": "Leadership capstones require cost-benefit analysis and connection to organisational strategy. Data: Press Ganey, NRC, HCAHPS. Frameworks: Kotter, Lewin, Kouzes-Posner, Transformational Leadership."
+        },
+        {
+          "week": 16,
+          "publish_date": "2026-09-14",
+          "section": "core",
+          "tier": 2,
+          "pathway": "track-specific",
+          "priority": "medium",
+          "topic": "Population Health DNP Capstone Project Help",
+          "slug": "/population-health-dnp-capstone-project-help",
+          "h1": "Population Health DNP Capstone Help — Community Needs Assessment, SDOH, and Health Equity Projects",
+          "h2s": [
+            "What Is a Population Health DNP Capstone Project?",
+            "Community Needs Assessment in DNP Population Health Projects",
+            "Social Determinants of Health as a Framework for Your DNP Capstone",
+            "PICOT Questions for Population-Level Health Improvement Projects",
+            "Using Healthy People 2030 Goals to Frame Your DNP Population Health Project",
+            "Measuring Population-Level Outcomes in a DNP Capstone Project"
+          ],
+          "target_word_count": 2400,
+          "content_type": "track-specific",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-picot-question-help",
+            "/dnp-irb-proposal-help"
+          ],
+          "notes": "Community-based participatory research may require full board IRB. MAPP/CHIP frameworks for community needs assessment. Healthy People 2030 goals must be cited."
+        },
+        {
+          "week": 16,
+          "publish_date": "2026-09-16",
+          "section": "core",
+          "tier": 2,
+          "pathway": "track-specific",
+          "priority": "medium",
+          "topic": "Nursing Informatics DNP Capstone Project Help",
+          "slug": "/nursing-informatics-dnp-capstone-project-help",
+          "h1": "Nursing Informatics DNP Capstone Help — EHR Optimisation, Clinical Decision Support, and Health IT Projects",
+          "h2s": [
+            "What Is a Nursing Informatics DNP Capstone Project?",
+            "Common Nursing Informatics DNP Capstone Topics in EHR and Care Technology",
+            "Technology Acceptance Model and Informatics Frameworks for DNP Projects",
+            "Measuring Outcomes in Informatics DNP Capstones: Alert Rates, Documentation Time, Errors",
+            "Stakeholder Engagement in Informatics DNP Projects: IT, Clinical, and Vendor Partners",
+            "Clinical Decision Support Implementation as a DNP Capstone Intervention"
+          ],
+          "target_word_count": 2400,
+          "content_type": "track-specific",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-implementation-plan-help",
+            "/dnp-data-analysis-help"
+          ],
+          "notes": "Higher stakeholder complexity (IT, clinical, vendor). Frameworks: TAM, TIGER, ANIA. Evaluation tools: SUS, WAMMI for user satisfaction."
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "label": "Tier 2 Core — Project Type-Specific Pages",
+      "weeks": "17–20",
+      "dates": "2026-09-21 → 2026-10-18",
+      "goal": "Complete coverage of all 4 major DNP project types and low-priority outer pages",
+      "pages": [
+        {
+          "week": 17,
+          "publish_date": "2026-09-21",
+          "section": "core",
+          "tier": 2,
+          "pathway": "project-type",
+          "priority": "high",
+          "topic": "DNP Quality Improvement Project Help",
+          "slug": "/dnp-quality-improvement-project-help",
+          "h1": "DNP Quality Improvement Capstone Project Help — PDSA, IHI Model, and Clinical Outcome Metrics",
+          "h2s": [
+            "What Is a DNP Quality Improvement Capstone Project?",
+            "IHI Model for Improvement vs PDSA Cycle: Which Framework for Your QI Project?",
+            "Writing an AIM Statement for Your DNP QI Project",
+            "Selecting QI Process and Outcome Measures That Committees Approve",
+            "Using Existing EHR Data in Your DNP QI Project",
+            "Statistical Process Control Charts for DNP Quality Improvement",
+            "Does a DNP QI Project Need IRB Approval?",
+            "Examples of DNP Quality Improvement Projects by Clinical Specialty"
+          ],
+          "target_word_count": 2600,
+          "content_type": "project-type",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-implementation-plan-help",
+            "/dnp-irb-proposal-help",
+            "/dnp-data-analysis-help"
+          ],
+          "notes": "Most hospital-based DNP QI projects use pre-existing EHR audit data — no new data collection instrument required. SPC chart selection: P-chart vs U-chart vs I-MR."
+        },
+        {
+          "week": 17,
+          "publish_date": "2026-09-23",
+          "section": "core",
+          "tier": 2,
+          "pathway": "project-type",
+          "priority": "high",
+          "topic": "DNP Evidence-Based Practice Implementation Project Help",
+          "slug": "/dnp-ebp-implementation-project-help",
+          "h1": "DNP EBP Implementation Project Help — Translating Evidence Into Sustainable Practice Change",
+          "h2s": [
+            "What Is a DNP Evidence-Based Practice Implementation Project?",
+            "Choosing an EBP Framework: Iowa Model, PARIHS, or Johns Hopkins?",
+            "How Many Studies Do You Need for a DNP EBP Literature Review?",
+            "Designing the Practice Change Intervention: From Evidence to Protocol",
+            "Staff Education as Part of Your DNP EBP Project",
+            "Measuring Outcomes After EBP Implementation: Pre-Post Comparison Design",
+            "DNP EBP Project vs Quality Improvement Project: Key Differences",
+            "Example DNP EBP Projects: Practice Guidelines Implemented in Clinical Settings"
+          ],
+          "target_word_count": 2600,
+          "content_type": "project-type",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-literature-review-help",
+            "/ebp-frameworks-for-dnp-projects",
+            "/dnp-implementation-plan-help"
+          ],
+          "notes": "EBP projects differ from QI in requiring formal synthesis of published evidence as the primary driver. Pilot implementation before site-wide rollout is a scored element."
+        },
+        {
+          "week": 18,
+          "publish_date": "2026-09-28",
+          "section": "core",
+          "tier": 2,
+          "pathway": "project-type",
+          "priority": "medium",
+          "topic": "DNP Program Evaluation Project Help",
+          "slug": "/dnp-program-evaluation-project-help",
+          "h1": "DNP Program Evaluation Capstone Help — Logic Model, Donabedian Framework, and Outcome Assessment",
+          "h2s": [
+            "What Is a DNP Program Evaluation Capstone Project?",
+            "Choosing a Program Evaluation Framework: Logic Model vs Donabedian vs CIPP",
+            "Writing Evaluation Questions That Align With Program Goals",
+            "Data Sources for DNP Program Evaluation: Records, Surveys, and Interviews",
+            "Mixed Methods in DNP Program Evaluation: Combining Numbers and Narratives",
+            "IRB Requirements for Program Evaluation DNP Projects",
+            "Writing the Evaluation Report: Findings, Conclusions, and Recommendations",
+            "DNP Program Evaluation Examples: Nursing Education, Community Health, and Leadership"
+          ],
+          "target_word_count": 2400,
+          "content_type": "project-type",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-irb-proposal-help",
+            "/dnp-data-analysis-help"
+          ],
+          "notes": "Common in nursing education, community health, and administrative tracks. RE-AIM framework for dissemination and sustainability evaluation."
+        },
+        {
+          "week": 18,
+          "publish_date": "2026-09-30",
+          "section": "core",
+          "tier": 2,
+          "pathway": "project-type",
+          "priority": "medium",
+          "topic": "DNP Policy Change Project Help",
+          "slug": "/dnp-policy-change-project-help",
+          "h1": "DNP Policy Change Capstone Help — Evidence-Based Policy Development and Advocacy",
+          "h2s": [
+            "What Is a DNP Policy Change Capstone Project?",
+            "Levels of Policy Change in DNP Capstones: Unit, Organisational, and State",
+            "Policy Analysis Frameworks for DNP Students: Longest Cycle and Kingdon's Streams",
+            "Building the Evidence Base for Your DNP Policy Change Proposal",
+            "Stakeholder Analysis and Engagement for Policy Change",
+            "Writing the Draft Policy Document as Your DNP Deliverable",
+            "Getting Policy Approved: Navigating Organisational Review Processes",
+            "Examples of DNP Policy Change Projects in Clinical and Healthcare Settings"
+          ],
+          "target_word_count": 2400,
+          "content_type": "project-type",
+          "internal_links_to": [
+            "/dnp-capstone-project-help",
+            "/dnp-implementation-plan-help",
+            "/dnp-capstone-proposal-help"
+          ],
+          "notes": "Policy projects require explicit organisational approval process section in proposal — a unique requirement vs QI/EBP projects."
+        },
+        {
+          "week": 19,
+          "publish_date": "2026-10-05",
+          "section": "outer",
+          "tier": 2,
+          "priority": "low",
+          "topic": "APA 7th Edition for DNP Manuscripts",
+          "slug": "/apa-7th-edition-dnp-manuscripts",
+          "h1": "APA 7th Edition for DNP Capstone Manuscripts — Formatting Rules Every Student Must Know",
+          "h2s": [
+            "Student Paper vs Professional Paper Format in APA 7",
+            "Title Page Requirements for DNP Proposals and Manuscripts",
+            "APA 7th Edition Level Headings for DNP Proposal Chapters",
+            "In-Text Citations and Direct Quotes: APA 7 Rules for DNP Writing",
+            "Reference List Format: Journal Articles, Books, Websites, and Databases",
+            "Tables and Figures in APA 7: Labels, Notes, and Placement",
+            "DOI vs URL: When and How to Include Each",
+            "Common APA 7 Errors in DNP Capstone Proposals and How to Fix Them"
+          ],
+          "target_word_count": 2000,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-capstone-manuscript-help",
+            "/dnp-capstone-proposal-help"
+          ],
+          "bridge_to_core": "DNP Capstone Manuscript Help",
+          "notes": "APA 7 student paper = no running head. Most common error in DNP proposals. Must address UpToDate/ClinicalKey citation format."
+        },
+        {
+          "week": 20,
+          "publish_date": "2026-10-12",
+          "section": "outer",
+          "tier": 2,
+          "priority": "low",
+          "topic": "DNP Capstone Dissemination: Poster Presentations and Manuscript Submission",
+          "slug": "/dnp-capstone-dissemination",
+          "h1": "DNP Capstone Dissemination — Poster Presentations, Conference Talks, and Journal Submission",
+          "h2s": [
+            "Why Dissemination Is Required for DNP Capstone Completion",
+            "Designing an Academic Poster for a DNP Capstone Project",
+            "Conference Poster Dimensions and Section Structure for Nursing",
+            "Oral Presentation Structure for a DNP Capstone Defence",
+            "Adapting Your DNP Capstone Manuscript for Journal Submission",
+            "Target Journals for DNP EBP and QI Manuscripts",
+            "Writing the Cover Letter and Responding to Peer Reviewers",
+            "Nursing Conference Targets for DNP Capstone Dissemination"
+          ],
+          "target_word_count": 2000,
+          "content_type": "educational-outer",
+          "internal_links_to": [
+            "/dnp-capstone-manuscript-help"
+          ],
+          "bridge_to_core": "DNP Capstone Manuscript Help",
+          "notes": "Target journals: JONA, Journal of Nursing Care Quality, Worldviews on Evidence-Based Nursing, AJN. Conference targets: ANCC, AANP, Sigma Theta Tau International."
+        }
+      ]
+    }
+  ],
+
+  "backlog_beyond_horizon": {
+    "label": "Coverage Gaps — Planned for Weeks 21–36",
+    "target_start_date": "2026-10-19",
+    "items": [
+      {
+        "topic": "DNP Capstone Defense Preparation Help",
+        "slug": "/dnp-capstone-defense-preparation",
+        "priority": "medium",
+        "gap_type": "undefined",
+        "notes": "Proposal defense + final project defense. Slide deck structure, committee questions, verbal defence strategy."
+      },
+      {
+        "topic": "Capella University DNP Capstone Help",
+        "slug": "/capella-university-dnp-capstone-help",
+        "priority": "high",
+        "gap_type": "undefined",
+        "notes": "University-specific format: Capella FlexPath vs GuidedPath DNP capstone templates."
+      },
+      {
+        "topic": "Walden University DNP Capstone Help",
+        "slug": "/walden-university-dnp-capstone-help",
+        "priority": "high",
+        "gap_type": "undefined",
+        "notes": "Walden DNP project format, committee structure, and specific rubric requirements."
+      },
+      {
+        "topic": "Grand Canyon University DNP Capstone Help",
+        "slug": "/grand-canyon-university-dnp-capstone-help",
+        "priority": "high",
+        "gap_type": "undefined",
+        "notes": "GCU DNP capstone template and college of nursing-specific requirements."
+      },
+      {
+        "topic": "CNM DNP Capstone Project Help",
+        "slug": "/cnm-dnp-capstone-project-help",
+        "priority": "medium",
+        "gap_type": "undefined",
+        "notes": "Certified Nurse Midwife track. Focus: intrapartum care, perinatal outcomes, breastfeeding support, maternal health disparities."
+      },
+      {
+        "topic": "Pediatric NP DNP Capstone Project Help",
+        "slug": "/pnp-dnp-capstone-project-help",
+        "priority": "medium",
+        "gap_type": "undefined",
+        "notes": "PNP track. Focus: pediatric chronic disease, developmental screening, vaccine compliance, school health."
+      },
+      {
+        "topic": "DNP Capstone Timeline and Project Management",
+        "slug": "/dnp-capstone-timeline-project-management",
+        "priority": "low",
+        "gap_type": "undefined",
+        "notes": "Realistic timeline for full-time working nurses. Semester-by-semester breakdown: proposal → IRB → implementation → manuscript → defence."
+      }
+    ]
+  },
+
+  "summary_stats": {
+    "total_pages_weeks_1_to_20": 28,
+    "tier_1_core_pages": 8,
+    "tier_2_core_track_pages": 7,
+    "tier_2_core_project_type_pages": 4,
+    "outer_tier_1_pages": 7,
+    "outer_tier_2_pages": 2,
+    "average_word_count_per_page": 2500,
+    "total_words_at_week_20": 70000,
+    "backlog_gap_pages": 7,
+    "target_coverage_score_week_8": 35,
+    "target_coverage_score_week_12": 50,
+    "target_coverage_score_week_20": 70
+  }
+}
