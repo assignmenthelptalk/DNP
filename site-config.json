@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "siteTitle": "DNP Capstone Project Help | Expert Support From PICOT to Manuscript",
+    "siteDescription": "Expert DNP capstone project help for Doctor of Nursing Practice students. PICOT question development, literature review, IRB proposal, implementation plan, data analysis, and final manuscript support across all DNP specialisation tracks.",
+    "siteUrl": "https://www.dnp-capstone-project.help",
+    "faviconPath": "/favicon.ico",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+  },
+  "colors": {
+    "primary": "#1A4D6E",
+    "primaryDark": "#0F3550",
+    "accent": "#E67E22",
+    "accentDark": "#CA6F1E",
+    "accentLight": "#FEF0E1",
+    "gold": "#F59E0B",
+    "goldDark": "#D97706",
+    "textBase": "#1A1A2E",
+    "textMuted": "#6B7280",
+    "bgWhite": "#FFFFFF",
+    "bgLight": "#F3F4F6",
+    "bgDark": "#1A4D6E",
+    "borderLight": "#E5E7EB",
+    "starColor": "#F59E0B",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "fontFamily": "'Inter', sans-serif"
+  },
+  "header": {
+    "logoText": "DNP Help",
+    "logoHref": "/",
+    "navLinks": [
+      { "label": "Services", "href": "#services" },
+      { "label": "About", "href": "#about" },
+      { "label": "How It Works", "href": "#how-it-works" },
+      { "label": "FAQ", "href": "#faq" }
+    ],
+    "ctaButton": {
+      "label": "Get Help Now",
+      "href": "#contact"
+    }
+  },
+  "hero": {
+    "headingLine1": "Expert",
+    "headingHighlight": "DNP Capstone Project Help",
+    "headingLine3": "From PICOT to Manuscript",
+    "subtext": "Struggling with your Doctor of Nursing Practice capstone project? Our specialist nursing academics deliver expert support for every stage — PICOT question, literature review, IRB proposal, implementation plan, data analysis, and final manuscript.",
+    "primaryCta": {
+      "label": "Get Capstone Help Now",
+      "href": "#contact"
+    },
+    "secondaryCta": {
+      "label": "See how it works",
+      "href": "#how-it-works"
+    },
+    "badges": [
+      { "icon": "✓", "text": "All DNP Tracks Supported" },
+      { "icon": "✓", "text": "PICOT to Final Defence" },
+      { "icon": "✓", "text": "IRB Proposal Help" },
+      { "icon": "✓", "text": "APA 7th Edition" },
+      { "icon": "✓", "text": "Doctoral-Level Writers" }
+    ]
+  },
+  "stats": [
+    { "icon": "🎓", "value": "2,400+", "label": "DNP Projects Supported" },
+    { "icon": "⭐", "value": "4.9/5",  "label": "Student Rating" },
+    { "icon": "📅", "value": "98%",    "label": "Committee Approval Rate" },
+    { "icon": "🏥", "value": "13+",    "label": "DNP Tracks Covered" }
+  ],
+  "about": {
+    "sectionId": "about",
+    "heading": "Why DNP Students Trust Our Capstone Support",
+    "paragraphs": [
+      "We specialise exclusively in Doctor of Nursing Practice capstone projects. Every member of our support team has direct experience with DNP program requirements, AACN Essentials alignment, and the specific methodological demands of practice-focused doctoral projects.",
+      "From developing a defensible PICOT question through writing a committee-ready final manuscript, our specialists understand what DNP faculty advisors and clinical mentors look for — and how to help you meet those expectations at every stage."
+    ],
+    "highlights": [
+      "DNP-specialist academic writers",
+      "All 13 specialisation tracks covered",
+      "AACN Essentials alignment in every document",
+      "APA 7th edition as standard"
+    ],
+    "imagePlaceholderAlt": "DNP student working on capstone project with faculty advisor"
+  },
+  "qualifications": {
+    "sectionId": "services",
+    "heading": "DNP Capstone Services We Provide",
+    "subheading": "Expert support for every component of your DNP capstone project — from the first proposal chapter to the final manuscript defence.",
+    "cards": [
+      {
+        "icon": "📋",
+        "title": "DNP Capstone Project Help",
+        "description": "End-to-end support for your entire Doctor of Nursing Practice capstone project. PICOT development, literature review, IRB proposal, implementation plan, data analysis, and final manuscript — all in one place.",
+        "href": "/dnp-capstone-project-help/"
+      },
+      {
+        "icon": "📝",
+        "title": "DNP Capstone Proposal Help",
+        "description": "Chapter-by-chapter proposal writing support. Background, significance, PICOT question, literature review, theoretical framework, methodology, IRB plan, and evaluation design — written to pass committee review.",
+        "href": "/dnp-capstone-proposal-help/"
+      },
+      {
+        "icon": "❓",
+        "title": "DNP PICOT Question Help",
+        "description": "Developing a precise, answerable PICOT question that scopes your capstone project, drives your literature search, and meets faculty advisor expectations across all DNP tracks.",
+        "href": "/dnp-picot-question-help/"
+      },
+      {
+        "icon": "📚",
+        "title": "DNP Literature Review Help",
+        "description": "Systematic and scoping literature review support — database search strategy, PRISMA tracking, critical appraisal, evidence synthesis tables, and gap identification for Chapter 2.",
+        "href": "/dnp-literature-review-help/"
+      },
+      {
+        "icon": "🏛️",
+        "title": "DNP IRB Proposal Help",
+        "description": "Expert guidance on DNP IRB submissions — QI vs research determination, protocol writing, risk classification, HIPAA compliance, consent waivers, and dual-review navigation.",
+        "href": "/dnp-irb-proposal-help/"
+      },
+      {
+        "icon": "📊",
+        "title": "DNP Data Analysis Help",
+        "description": "Statistical and qualitative data analysis for DNP projects. Pre-post comparisons, SPC charts, thematic analysis — selecting the right method and interpreting results for your committee.",
+        "href": "/dnp-data-analysis-help/"
+      }
+    ]
+  },
+  "features": {
+    "heading": "What's Included in Every DNP Capstone Order",
+    "cards": [
+      {
+        "icon": "📝",
+        "title": "Custom Doctoral Writing",
+        "description": "Every document is written from scratch at DNP doctoral level, matched to your program's rubric and faculty expectations."
+      },
+      {
+        "icon": "🎓",
+        "title": "AACN Essentials Alignment",
+        "description": "All deliverables explicitly address the 2021 AACN Essentials domains your committee will evaluate."
+      },
+      {
+        "icon": "📚",
+        "title": "APA 7th Edition",
+        "description": "Properly formatted citations, reference list, and headings per APA 7th edition student paper requirements."
+      },
+      {
+        "icon": "✏️",
+        "title": "Unlimited Revisions",
+        "description": "We revise until your document is committee-ready. Your satisfaction and approval are our benchmarks."
+      },
+      {
+        "icon": "🔒",
+        "title": "Strict Confidentiality",
+        "description": "Your identity and project details are never shared. Fully secure, discreet service."
+      },
+      {
+        "icon": "⚡",
+        "title": "Express Turnaround",
+        "description": "Tight deadline? We offer expedited support for urgent proposal chapters, IRB documents, and final sections."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us Over Other Academic Support Services",
+    "items": [
+      {
+        "icon": "🏥",
+        "title": "DNP-Only Specialists",
+        "description": "We focus exclusively on Doctor of Nursing Practice capstone projects — not PhD dissertations, not general nursing homework."
+      },
+      {
+        "icon": "👩‍⚕️",
+        "title": "Track-Specific Writers",
+        "description": "FNP, PMHNP, AGACNP, CRNA, Nurse Executive, Population Health, Informatics — every writer is matched to your specialisation track."
+      },
+      {
+        "icon": "💬",
+        "title": "Direct Consultation",
+        "description": "Work directly with your assigned specialist to align every document with your specific university's requirements and rubric."
+      },
+      {
+        "icon": "💰",
+        "title": "Transparent Pricing",
+        "description": "Clear pricing by deliverable. No hidden fees. Get an exact quote before committing to any order."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "What DNP Students Say",
+    "items": [
+      {
+        "stars": 5,
+        "quote": "My committee approved my DNP proposal on the first submission. The PICOT question and Chapter 3 methodology were exactly what my advisor described as 'defensible and well-scoped.' I cannot recommend this service enough.",
+        "name": "Danielle R., FNP-C",
+        "course": "Post-BSN DNP, Family Nurse Practitioner"
+      },
+      {
+        "stars": 5,
+        "quote": "I was stuck on my IRB protocol for weeks. Within 48 hours, I had a complete protocol that correctly classified my QI project as exempt and addressed every HIPAA consideration my IRB board requested. Passed on first review.",
+        "name": "Marcus T., AGACNP",
+        "course": "Post-MSN DNP, Adult-Gerontology Acute Care NP"
+      },
+      {
+        "stars": 5,
+        "quote": "The literature review and evidence synthesis table saved my entire project. My faculty advisor said it was the most thorough review she had seen from a DNP student. Got my proposal approved and moved to implementation within two weeks.",
+        "name": "Priya S., PMHNP",
+        "course": "Post-BSN DNP, Psychiatric-Mental Health NP"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionId": "how-it-works",
+    "heading": "How Our DNP Capstone Help Works",
+    "subheading": "Four straightforward steps from your first message to a committee-ready document.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Share Your Requirements",
+        "description": "Tell us your DNP track, university program, which capstone component you need help with, your PICOT topic, and your deadline."
+      },
+      {
+        "number": "02",
+        "title": "Get Matched to a Specialist",
+        "description": "We assign your order to a writer with expertise in your specific DNP specialisation track and project type."
+      },
+      {
+        "number": "03",
+        "title": "Review and Collaborate",
+        "description": "Receive your draft, review it against your rubric and advisor feedback, and request any revisions directly."
+      },
+      {
+        "number": "04",
+        "title": "Submit With Confidence",
+        "description": "Receive your final, APA 7th-formatted, AACN Essentials-aligned document ready for committee or IRB submission."
+      }
+    ]
+  },
+  "faq": {
+    "sectionId": "faq",
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is a DNP capstone project and how is it different from a PhD dissertation?",
+        "answer": "A DNP capstone project is a practice-focused doctoral scholarly project that applies evidence-based practice, quality improvement, or program evaluation methods to address a clinical problem. Unlike a PhD dissertation — which generates new knowledge through primary research — a DNP capstone translates existing evidence into practice change. It does not require original data collection in most cases and is evaluated on practice impact rather than research contribution."
+      },
+      {
+        "question": "Which DNP specialisation tracks do you support?",
+        "answer": "We support all 13 major DNP specialisation tracks: Family Nurse Practitioner (FNP), Adult-Gerontology Acute Care NP (AGACNP), Adult-Gerontology Primary Care NP (AGPCNP), Psychiatric-Mental Health NP (PMHNP), Pediatric NP (PNP), Neonatal NP (NNP), Women's Health NP (WHNP), Certified Nurse Midwife (CNM), Certified Registered Nurse Anesthetist (CRNA), Clinical Nurse Leader (CNL), Nurse Executive/Healthcare Leadership, Population Health, and Nursing Informatics."
+      },
+      {
+        "question": "Can you help with just one chapter of my DNP proposal or do I need the full project?",
+        "answer": "You can order help with any individual component — a single proposal chapter, just the PICOT question, just the IRB protocol, or just the data analysis section. You do not need to order the full project. Many students come to us mid-project needing targeted help with one specific deliverable."
+      },
+      {
+        "question": "Does my DNP capstone project need IRB approval?",
+        "answer": "Most DNP capstone projects are classified as quality improvement (QI) or program evaluation and do NOT require full IRB review under 45 CFR 46 — they qualify for a QI determination or exempt status. However, the determination must be documented. We help you complete the QI determination checklist and, where needed, write the full IRB protocol for exempt or expedited review."
+      },
+      {
+        "question": "What EBP frameworks do you work with?",
+        "answer": "We work with all major evidence-based practice frameworks used in DNP capstones: Iowa Model (2017 revised), PARIHS/i-PARIHS, ACE Star Model, Rosswurm & Larrabee, Knowledge-to-Action (KTA) Framework, ARCC Model, Johns Hopkins EBP Model, and the IHI Model for Improvement and PDSA cycle for quality improvement projects."
+      },
+      {
+        "question": "Is my information kept confidential?",
+        "answer": "Absolutely. We never share your personal information, university details, or project content with any third party. All communications are secure and encrypted. Your capstone project remains entirely your own."
+      }
+    ]
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "text": "To give every DNP student — regardless of track, program, or how far behind they feel — access to the doctoral-level expertise that makes the difference between a committee rejection and an approved capstone."
+  },
+  "finalCta": {
+    "heading": "Ready to Move Your DNP Capstone Forward?",
+    "subtext": "Join 2,400+ DNP students who've advanced their capstone projects with our expert support. Get started in under 5 minutes.",
+    "button": {
+      "label": "Get Expert DNP Help Today",
+      "href": "#contact"
+    }
+  },
+  "footer": {
+    "logoText": "DNP Help",
+    "description": "The trusted specialist in Doctor of Nursing Practice capstone project support. Helping DNP students across all tracks complete proposals, IRB submissions, and final manuscripts.",
+    "columns": [
+      {
+        "heading": "Quick Links",
+        "links": [
+          { "label": "Services",     "href": "#services" },
+          { "label": "About Us",     "href": "#about" },
+          { "label": "How It Works", "href": "#how-it-works" },
+          { "label": "FAQ",          "href": "#faq" }
+        ]
+      },
+      {
+        "heading": "DNP Services",
+        "links": [
+          { "label": "DNP Capstone Project Help",    "href": "/dnp-capstone-project-help/" },
+          { "label": "DNP Capstone Proposal Help",   "href": "/dnp-capstone-proposal-help/" },
+          { "label": "DNP PICOT Question Help",      "href": "/dnp-picot-question-help/" },
+          { "label": "DNP Literature Review Help",   "href": "/dnp-literature-review-help/" },
+          { "label": "DNP IRB Proposal Help",        "href": "/dnp-irb-proposal-help/" },
+          { "label": "DNP Data Analysis Help",       "href": "/dnp-data-analysis-help/" }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "links": [
+          { "label": "support@dnp-capstone-project.help", "href": "mailto:support@dnp-capstone-project.help" },
+          { "label": "WhatsApp Us", "href": "https://wa.me/447916696894" }
+        ]
+      }
+    ],
+    "copyright": "© 2026 DNP Capstone Project Help. All rights reserved."
+  }
+}

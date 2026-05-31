@@ -1,0 +1,529 @@
+---
+/**
+ * ServicePage.astro
+ * Renders an inner service page from a content.json page entry.
+ * Used by src/pages/[...slug].astro
+ */
+
+interface H2Section {
+  heading: string;
+  body: string;
+}
+
+interface RelatedPage {
+  title: string;
+  slug: string;
+}
+
+interface HeaderImage {
+  src: string;
+  alt: string;
+  title: string;
+  width: number;
+  height: number;
+}
+
+interface PageData {
+  slug: string;
+  tier: number;
+  title: string;
+  metaTitle: string;
+  metaDescription: string;
+  h1: string;
+  intro: string;
+  h2Sections: H2Section[];
+  relatedPages: RelatedPage[];
+  contextualQuestion: string;
+  headerImage?: HeaderImage;
+}
+
+interface Props {
+  page: PageData;
+  config: SiteConfig;
+  rawHtml?: string;
+}
+
+interface SiteConfig {
+  header: {
+    logoText: string;
+    logoHref: string;
+    navLinks: { label: string; href: string }[];
+    ctaButton: { label: string; href: string };
+  };
+  finalCta: {
+    heading: string;
+    subtext: string;
+    button: { label: string; href: string };
+  };
+  footer: {
+    logoText: string;
+    description: string;
+    columns: { heading: string; links: { label: string; href: string }[] }[];
+    copyright: string;
+  };
+  faq?: {
+    heading: string;
+    items: { question: string; answer: string }[];
+  };
+}
+
+const { page, config, rawHtml } = Astro.props;
+const { header, finalCta, footer, faq } = config;
+
+const faqItems = faq?.items?.slice(0, 4) ?? [];
+---
+
+<!-- WhatsApp top bar -->
+<div class="topbar">
+  <div class="container topbar__inner">
+    <span class="topbar__left">
+      <svg class="topbar__wa-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+        <path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.558 4.112 1.528 5.837L0 24l6.335-1.508A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.006-1.369l-.36-.214-3.733.888.936-3.618-.235-.372A9.818 9.818 0 1112 21.818z"/>
+      </svg>
+      WhatsApp us: <a href="https://wa.me/447916696894" class="topbar__wa-link">+44 7916 696894</a>
+    </span>
+    <a href="https://wa.me/447916696894" class="topbar__right" target="_blank" rel="noopener noreferrer">Chat Now &rarr;</a>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="header">
+  <div class="container header__inner">
+    <a href="/" class="header__logo">{header.logoText}</a>
+    <nav class="header__nav" aria-label="Main navigation">
+      <ul class="header__nav-list">
+        <li><a href="/" class="header__nav-link">Home</a></li>
+        {header.navLinks.map((link) => (
+          <li><a href={link.href} class="header__nav-link">{link.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <div class="header__actions">
+      <a href="https://wa.me/447916696894" class="header__wa-btn" target="_blank" rel="noopener noreferrer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true">
+          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+          <path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.558 4.112 1.528 5.837L0 24l6.335-1.508A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.006-1.369l-.36-.214-3.733.888.936-3.618-.235-.372A9.818 9.818 0 1112 21.818z"/>
+        </svg>
+        WhatsApp
+      </a>
+      <a href={header.ctaButton.href} class="header__cta">{header.ctaButton.label}</a>
+    </div>
+    <button class="header__hamburger" id="sp-menu-toggle" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<!-- Mobile drawer -->
+<div class="mobile-menu" id="sp-mobile-menu" aria-hidden="true">
+  <div class="mobile-menu__overlay" id="sp-menu-overlay"></div>
+  <div class="mobile-menu__panel">
+    <div class="mobile-menu__top">
+      <span class="mobile-menu__logo">{header.logoText}</span>
+      <button class="mobile-menu__close" id="sp-menu-close" aria-label="Close menu">&times;</button>
+    </div>
+    <nav class="mobile-menu__nav">
+      <ul>
+        <li><a href="/" class="mobile-menu__link">Home</a></li>
+        {header.navLinks.map((link) => (
+          <li><a href={link.href} class="mobile-menu__link">{link.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <div class="mobile-menu__ctas">
+      <a href="https://wa.me/447916696894" class="mobile-menu__wa" target="_blank" rel="noopener noreferrer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true">
+          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+          <path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.558 4.112 1.528 5.837L0 24l6.335-1.508A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.006-1.369l-.36-.214-3.733.888.936-3.618-.235-.372A9.818 9.818 0 1112 21.818z"/>
+        </svg>
+        WhatsApp: +44 7916 696894
+      </a>
+      <a href={header.ctaButton.href} class="mobile-menu__cta">{header.ctaButton.label}</a>
+    </div>
+  </div>
+</div>
+
+<script>
+  const t = document.getElementById('sp-menu-toggle')!;
+  const c = document.getElementById('sp-menu-close')!;
+  const o = document.getElementById('sp-menu-overlay')!;
+  const m = document.getElementById('sp-mobile-menu')!;
+  const open = () => { m.setAttribute('aria-hidden','false'); m.classList.add('is-open'); t.setAttribute('aria-expanded','true'); document.body.style.overflow='hidden'; };
+  const shut = () => { m.setAttribute('aria-hidden','true'); m.classList.remove('is-open'); t.setAttribute('aria-expanded','false'); document.body.style.overflow=''; };
+  t.addEventListener('click', open);
+  c.addEventListener('click', shut);
+  o.addEventListener('click', shut);
+  m.querySelectorAll('.mobile-menu__link,.mobile-menu__wa,.mobile-menu__cta').forEach(el => el.addEventListener('click', shut));
+</script>
+
+<!-- Breadcrumb + page hero -->
+<section class="page-hero">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ol class="breadcrumb__list">
+        <li><a href="/">Home</a></li>
+        <li aria-current="page">{page.title}</li>
+      </ol>
+    </nav>
+    <div class="page-hero__content">
+      <span class="page-hero__badge">
+        {page.tier === 1 ? 'Core Service' : 'Expert Guide'}
+      </span>
+      <h1 class="page-hero__h1">{page.h1}</h1>
+      <p class="page-hero__intro">{page.intro}</p>
+      <a href={header.ctaButton.href} class="page-hero__cta">{header.ctaButton.label} →</a>
+    </div>
+  </div>
+</section>
+
+{page.headerImage && (
+  <div class="page-header-image">
+    <div class="container">
+      <img
+        src={page.headerImage.src}
+        alt={page.headerImage.alt}
+        title={page.headerImage.title}
+        width={page.headerImage.width}
+        height={page.headerImage.height}
+        loading="eager"
+        decoding="async"
+        fetchpriority="high"
+        class="page-header-image__img"
+      />
+    </div>
+  </div>
+)}
+
+<!-- Main content -->
+<main class="page-content">
+  <div class="container page-content__grid">
+
+    <!-- Article -->
+    <article class="page-article">
+      {rawHtml ? (
+        <Fragment set:html={rawHtml} />
+      ) : (
+        <>
+          {page.h2Sections.map((section) => (
+            <section class="page-article__section">
+              <h2 class="page-article__h2">{section.heading}</h2>
+              {section.body
+                ? <p class="page-article__body">{section.body}</p>
+                : (
+                  <p class="page-article__body page-article__body--placeholder">
+                    Our DNP specialists provide expert, faculty-advisor-aware guidance on {section.heading.toLowerCase()}.
+                    Contact us to discuss your specific capstone requirements and get tailored support.
+                  </p>
+                )
+              }
+            </section>
+          ))}
+        </>
+      )}
+
+      <div class="inline-cta">
+        <p class="inline-cta__text">Need expert help with your DNP capstone project?</p>
+        <a href={header.ctaButton.href} class="inline-cta__btn">{header.ctaButton.label}</a>
+      </div>
+    </article>
+
+    <!-- Sidebar -->
+    <aside class="page-sidebar">
+      <div class="sidebar-card sidebar-card--cta">
+        <h3 class="sidebar-card__heading">Get Expert DNP Help</h3>
+        <p class="sidebar-card__text">
+          DNP-specialist writers, committee-ready documents, APA 7th edition, AACN Essentials aligned.
+        </p>
+        <a href={header.ctaButton.href} class="sidebar-card__btn">
+          {header.ctaButton.label}
+        </a>
+        <ul class="sidebar-card__trust">
+          <li>✓ All DNP tracks supported</li>
+          <li>✓ AACN Essentials aligned</li>
+          <li>✓ Unlimited revisions</li>
+          <li>✓ APA 7th edition</li>
+        </ul>
+      </div>
+
+      {page.relatedPages.length > 0 && (
+        <div class="sidebar-card">
+          <h3 class="sidebar-card__heading">Related Topics</h3>
+          <ul class="sidebar-card__links">
+            {page.relatedPages.map((rp) => (
+              <li>
+                <a href={`/${rp.slug}/`} class="sidebar-card__link">
+                  {rp.title} →
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </aside>
+  </div>
+
+  {faqItems.length > 0 && (
+    <section class="page-faq">
+      <div class="container">
+        <h2 class="section-heading">Common Questions</h2>
+        <div class="page-faq__list">
+          {faqItems.map((item) => (
+            <details class="faq__item">
+              <summary class="faq__question">
+                <span class="faq__question-text">{item.question}</span>
+                <span class="faq__icon" aria-hidden="true"></span>
+              </summary>
+              <div class="faq__answer">
+                <div class="faq__answer-inner">
+                  <p>{item.answer}</p>
+                </div>
+              </div>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</main>
+
+<!-- Final CTA -->
+<section class="final-cta" id="contact">
+  <div class="container">
+    <div class="final-cta__inner">
+      <h2 class="final-cta__heading">{finalCta.heading}</h2>
+      <p class="final-cta__subtext">{finalCta.subtext}</p>
+      <a href={finalCta.button.href} class="final-cta__btn">{finalCta.button.label}</a>
+    </div>
+  </div>
+</section>
+
+<!-- Floating WhatsApp button -->
+<a
+  href="https://wa.me/447916696894"
+  class="wa-float"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Chat with us on WhatsApp"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="30" height="30" aria-hidden="true">
+    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+    <path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.558 4.112 1.528 5.837L0 24l6.335-1.508A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.006-1.369l-.36-.214-3.733.888.936-3.618-.235-.372A9.818 9.818 0 1112 21.818z"/>
+  </svg>
+  <span class="wa-float__label">Chat on WhatsApp</span>
+</a>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="container footer__main">
+    <div class="footer__brand">
+      <a href="/" class="footer__logo">{footer.logoText}</a>
+      <p class="footer__desc">{footer.description}</p>
+    </div>
+    {footer.columns.map((col) => (
+      <div class="footer__col">
+        <h3 class="footer__col-heading">{col.heading}</h3>
+        <ul class="footer__links">
+          {col.links.map((link) => (
+            <li><a href={link.href} class="footer__link">{link.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+  <div class="footer__bar">
+    <div class="container footer__bar-inner">{footer.copyright}</div>
+  </div>
+</footer>
+
+<style>
+  /* ── Top bar ─────────────────────────────────────────────────── */
+  .topbar { background-color: #0B2A40; border-bottom: 1px solid rgba(230,126,34,0.3); padding: 0.45rem 0; }
+  .topbar__inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; font-size: 0.8125rem; color: rgba(255,255,255,0.75); }
+  .topbar__left { display: flex; align-items: center; gap: 0.4rem; }
+  .topbar__wa-icon { width: 14px; height: 14px; color: #25D366; flex-shrink: 0; }
+  .topbar__wa-link { color: #25D366; font-weight: 600; }
+  .topbar__right { color: #25D366; font-weight: 600; white-space: nowrap; }
+  .topbar__right:hover, .topbar__wa-link:hover { text-decoration: underline; }
+
+  /* ── Header ──────────────────────────────────────────────────── */
+  .header { position: sticky; top: 0; z-index: 100; background-color: var(--color-primary); box-shadow: 0 2px 12px rgba(0,0,0,0.25); }
+  .header__inner { display: flex; align-items: center; gap: 1.5rem; height: 4rem; }
+  .header__logo { font-size: 1.25rem; font-weight: 800; color: var(--color-white); white-space: nowrap; letter-spacing: -0.02em; flex-shrink: 0; }
+  .header__nav { flex: 1; }
+  .header__nav-list { display: flex; align-items: center; gap: 0.125rem; justify-content: center; }
+  .header__nav-link { color: rgba(255,255,255,0.82); font-size: 0.9rem; font-weight: 500; padding: 0.375rem 0.7rem; border-radius: 0.25rem; transition: color 0.15s, background-color 0.15s; white-space: nowrap; }
+  .header__nav-link:hover { color: #fff; background-color: rgba(255,255,255,0.1); }
+  .header__actions { display: flex; align-items: center; gap: 0.625rem; flex-shrink: 0; }
+  .header__wa-btn { display: inline-flex; align-items: center; gap: 0.375rem; padding: 0.5rem 1rem; background-color: #25D366; color: #fff; font-weight: 600; font-size: 0.875rem; border-radius: 0.375rem; white-space: nowrap; transition: background-color 0.15s; }
+  .header__wa-btn:hover { background-color: #1da851; }
+  .header__cta { display: inline-flex; align-items: center; padding: 0.5rem 1.125rem; background-color: var(--color-accent); color: var(--color-white); font-weight: 600; font-size: 0.9rem; border-radius: 0.375rem; white-space: nowrap; transition: background-color 0.15s; }
+  .header__cta:hover { background-color: var(--color-accent-dark); }
+  .header__hamburger { display: none; flex-direction: column; justify-content: center; gap: 5px; width: 2.25rem; height: 2.25rem; padding: 0.25rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); border-radius: 0.375rem; cursor: pointer; flex-shrink: 0; }
+  .header__hamburger span { display: block; height: 2px; background: #fff; border-radius: 2px; }
+
+  /* ── Mobile drawer ───────────────────────────────────────────── */
+  .mobile-menu { display: none; position: fixed; inset: 0; z-index: 200; }
+  .mobile-menu.is-open { display: flex; }
+  .mobile-menu__overlay { position: absolute; inset: 0; background: rgba(0,0,0,0.55); backdrop-filter: blur(2px); }
+  .mobile-menu__panel { position: relative; margin-left: auto; width: min(320px,85vw); height: 100%; background: var(--color-primary); display: flex; flex-direction: column; overflow-y: auto; box-shadow: -4px 0 24px rgba(0,0,0,0.35); }
+  .mobile-menu__top { display: flex; align-items: center; justify-content: space-between; padding: 1rem 1.25rem; border-bottom: 1px solid rgba(255,255,255,0.1); }
+  .mobile-menu__logo { font-size: 1.125rem; font-weight: 800; color: #fff; }
+  .mobile-menu__close { width: 2rem; height: 2rem; background: rgba(255,255,255,0.1); border: none; border-radius: 50%; color: #fff; font-size: 1.375rem; line-height: 1; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+  .mobile-menu__nav { padding: 1rem 0; flex: 1; }
+  .mobile-menu__nav ul { display: flex; flex-direction: column; }
+  .mobile-menu__link { display: block; padding: 0.875rem 1.25rem; color: rgba(255,255,255,0.85); font-size: 1rem; font-weight: 500; border-bottom: 1px solid rgba(255,255,255,0.07); transition: background-color 0.15s, color 0.15s; }
+  .mobile-menu__link:hover { background-color: rgba(255,255,255,0.08); color: #fff; }
+  .mobile-menu__ctas { padding: 1.25rem; display: flex; flex-direction: column; gap: 0.75rem; border-top: 1px solid rgba(255,255,255,0.1); }
+  .mobile-menu__wa { display: flex; align-items: center; justify-content: center; gap: 0.5rem; padding: 0.875rem 1rem; background-color: #25D366; color: #fff; font-weight: 700; font-size: 0.9375rem; border-radius: 0.5rem; }
+  .mobile-menu__cta { display: block; padding: 0.875rem 1rem; background-color: var(--color-accent); color: #fff; font-weight: 700; font-size: 0.9375rem; border-radius: 0.5rem; text-align: center; }
+
+  @media (max-width: 900px) {
+    .header__nav { display: none; }
+    .header__actions { display: none; }
+    .header__hamburger { display: flex; }
+    .topbar__right { display: none; }
+  }
+
+  /* ── Page Hero ──────────────────────────────────────────────── */
+  .page-hero { background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-bg-dark) 100%); padding: 3.5rem 0 3rem; color: var(--color-white); }
+  .breadcrumb { margin-bottom: 1.5rem; }
+  .breadcrumb__list { display: flex; align-items: center; gap: 0.5rem; font-size: 0.875rem; color: rgba(255,255,255,0.65); }
+  .breadcrumb__list li + li::before { content: '/'; margin-right: 0.5rem; }
+  .breadcrumb__list a { color: rgba(255,255,255,0.75); }
+  .breadcrumb__list a:hover { color: var(--color-white); }
+  .page-hero__content { max-width: 900px; }
+  .page-hero__badge { display: inline-block; background-color: var(--color-accent); color: var(--color-white); font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 0.25rem 0.75rem; border-radius: 2rem; margin-bottom: 1rem; }
+  .page-hero__h1 { font-size: clamp(1.75rem, 4vw, 2.75rem); font-weight: 800; line-height: 1.15; color: var(--color-white); margin-bottom: 1.25rem; letter-spacing: -0.02em; }
+  .page-hero__intro { font-size: 1.0625rem; color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 600px; margin-bottom: 1.75rem; }
+  .page-hero__cta { display: inline-flex; align-items: center; padding: 0.875rem 2rem; background-color: var(--color-accent); color: var(--color-white); font-weight: 700; border-radius: 0.375rem; transition: background-color 0.2s; }
+  .page-hero__cta:hover { background-color: var(--color-accent-dark); }
+
+  /* ── Page header image ──────────────────────────────────────── */
+  .page-header-image { background-color: var(--color-bg-white); padding: 1.25rem 0 0; }
+  .page-header-image__img { display: block; width: 100%; height: auto; border-radius: 0.875rem; box-shadow: 0 6px 28px rgba(26,77,110,0.14); }
+
+  @media (max-width: 640px) {
+    .page-header-image { padding: 0; }
+    .page-header-image .container { padding-left: 0; padding-right: 0; }
+    .page-header-image__img { border-radius: 0; box-shadow: none; }
+  }
+
+  /* ── Main content grid ──────────────────────────────────────── */
+  .page-content { padding: 4rem 0 2rem; }
+  .page-content__grid { display: grid; grid-template-columns: 1fr 320px; gap: 3rem; align-items: start; }
+
+  /* ── Article ────────────────────────────────────────────────── */
+  .page-article__section { margin-bottom: 2.5rem; }
+  .page-article__h2 { font-size: 1.375rem; font-weight: 700; color: var(--color-primary); margin-bottom: 0.875rem; line-height: 1.3; padding-bottom: 0.625rem; border-bottom: 2px solid var(--color-border-light); }
+  .page-article__body { color: var(--color-text-muted); line-height: 1.8; font-size: 1rem; }
+  .page-article__body--placeholder { font-style: italic; opacity: 0.85; }
+
+  .inline-cta { display: flex; align-items: center; gap: 1.5rem; background-color: var(--color-accent-light); border: 1px solid var(--color-accent); border-radius: 0.75rem; padding: 1.25rem 1.5rem; margin: 2.5rem 0; flex-wrap: wrap; }
+  .inline-cta__text { font-weight: 600; color: var(--color-primary); flex: 1; }
+  .inline-cta__btn { display: inline-flex; align-items: center; padding: 0.625rem 1.5rem; background-color: var(--color-accent); color: var(--color-white); font-weight: 600; border-radius: 0.375rem; white-space: nowrap; transition: background-color 0.2s; }
+  .inline-cta__btn:hover { background-color: var(--color-accent-dark); }
+
+  /* ── Sidebar ────────────────────────────────────────────────── */
+  .page-sidebar { position: sticky; top: 5rem; display: flex; flex-direction: column; gap: 1.25rem; }
+  .sidebar-card { background-color: var(--color-bg-white); border: 1px solid var(--color-border-light); border-radius: 0.875rem; padding: 1.5rem; }
+  .sidebar-card--cta { background-color: var(--color-primary); border-color: var(--color-primary); color: var(--color-white); }
+  .sidebar-card__heading { font-size: 1.0625rem; font-weight: 700; margin-bottom: 0.75rem; color: inherit; }
+  .sidebar-card--cta .sidebar-card__heading { color: var(--color-white); }
+  .sidebar-card__text { font-size: 0.9375rem; color: rgba(255,255,255,0.8); line-height: 1.6; margin-bottom: 1.25rem; }
+  .sidebar-card__btn { display: block; text-align: center; padding: 0.75rem 1rem; background-color: var(--color-accent); color: var(--color-white); font-weight: 700; border-radius: 0.375rem; margin-bottom: 1rem; transition: background-color 0.2s; }
+  .sidebar-card__btn:hover { background-color: var(--color-accent-dark); }
+  .sidebar-card__trust { display: flex; flex-direction: column; gap: 0.375rem; font-size: 0.875rem; color: rgba(255,255,255,0.75); }
+  .sidebar-card__links { display: flex; flex-direction: column; gap: 0.5rem; }
+  .sidebar-card__link { font-size: 0.9375rem; color: var(--color-primary); transition: color 0.15s; line-height: 1.4; }
+  .sidebar-card__link:hover { color: var(--color-accent-dark); }
+
+  /* ── Page FAQ ───────────────────────────────────────────────── */
+  .page-faq { background-color: var(--color-bg-light); padding: 4rem 0; margin-top: 2rem; }
+  .page-faq__list { max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 0.75rem; }
+  .faq__item { border: 1px solid var(--color-border-light); border-radius: 0.625rem; overflow: hidden; background-color: var(--color-bg-white); }
+  .faq__item[open] { border-color: var(--color-accent); }
+  .faq__question { display: flex; justify-content: space-between; align-items: center; padding: 1.125rem 1.5rem; cursor: pointer; gap: 1rem; list-style: none; user-select: none; }
+  .faq__question::-webkit-details-marker { display: none; }
+  .faq__question-text { font-weight: 600; font-size: 1rem; color: var(--color-primary); flex: 1; line-height: 1.4; }
+  .faq__icon { flex-shrink: 0; width: 1.5rem; height: 1.5rem; border-radius: 50%; background-color: var(--color-accent-light); position: relative; transition: background-color 0.2s; }
+  .faq__icon::before, .faq__icon::after { content: ''; position: absolute; background-color: var(--color-accent-dark); border-radius: 2px; top: 50%; left: 50%; transition: transform 0.25s ease, opacity 0.25s ease; }
+  .faq__icon::before { width: 10px; height: 2px; transform: translate(-50%, -50%); }
+  .faq__icon::after { width: 2px; height: 10px; transform: translate(-50%, -50%); }
+  .faq__item[open] .faq__icon { background-color: var(--color-accent); }
+  .faq__item[open] .faq__icon::before, .faq__item[open] .faq__icon::after { background-color: var(--color-white); }
+  .faq__item[open] .faq__icon::after { opacity: 0; transform: translate(-50%, -50%) rotate(90deg); }
+  .faq__answer { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.25s ease; }
+  .faq__item[open] .faq__answer { grid-template-rows: 1fr; }
+  .faq__answer-inner { overflow: hidden; }
+  .faq__answer-inner p { padding: 0 1.5rem 1.125rem; color: var(--color-text-muted); font-size: 0.9375rem; line-height: 1.75; }
+
+  /* ── Final CTA ───────────────────────────────────────────────── */
+  .final-cta { background-color: var(--color-accent); padding: 4rem 0; }
+  .final-cta__inner { max-width: 680px; margin: 0 auto; text-align: center; display: flex; flex-direction: column; align-items: center; gap: 1.25rem; }
+  .final-cta__heading { font-size: clamp(1.75rem, 4vw, 2.5rem); font-weight: 800; color: var(--color-white); line-height: 1.2; }
+  .final-cta__subtext { font-size: 1.125rem; color: rgba(255,255,255,0.88); line-height: 1.7; }
+  .final-cta__btn { display: inline-flex; align-items: center; margin-top: 0.5rem; padding: 1rem 2.5rem; background-color: var(--color-white); color: var(--color-accent-dark); font-weight: 700; font-size: 1.0625rem; border-radius: 0.375rem; transition: background-color 0.2s, color 0.2s; }
+  .final-cta__btn:hover { background-color: var(--color-primary); color: var(--color-white); }
+
+  /* ── Footer ──────────────────────────────────────────────────── */
+  .footer { background-color: var(--color-bg-dark); color: var(--color-white); }
+  .footer__main { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 3rem; padding-top: 3.5rem; padding-bottom: 3rem; }
+  .footer__logo { display: block; font-size: 1.375rem; font-weight: 800; color: var(--color-white); margin-bottom: 0.875rem; }
+  .footer__desc { font-size: 0.9375rem; color: rgba(255,255,255,0.65); line-height: 1.7; max-width: 320px; }
+  .footer__col-heading { font-size: 0.875rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: rgba(255,255,255,0.55); margin-bottom: 1rem; }
+  .footer__links { display: flex; flex-direction: column; gap: 0.625rem; }
+  .footer__link { font-size: 0.9375rem; color: rgba(255,255,255,0.75); transition: color 0.15s; }
+  .footer__link:hover { color: var(--color-accent); }
+  .footer__bar { border-top: 1px solid rgba(255,255,255,0.1); }
+  .footer__bar-inner { padding: 1.25rem 0; font-size: 0.875rem; color: rgba(255,255,255,0.45); }
+
+  /* ── Raw HTML article content styles ────────────────────────── */
+  .page-article :global(.main-content), .page-article :global(.supplementary) { margin-bottom: 2.5rem; }
+  .page-article :global(.main-content h2), .page-article :global(.supplementary h2) { font-size: 1.375rem; font-weight: 700; color: var(--color-primary); margin-bottom: 0.875rem; line-height: 1.3; padding-bottom: 0.625rem; border-bottom: 2px solid var(--color-border-light); }
+  .page-article :global(.supplementary) { background-color: var(--color-bg-light); border-radius: 0.875rem; padding: 1.5rem 1.75rem; border-left: 4px solid var(--color-accent); }
+  .page-article :global(p) { color: var(--color-text-muted); line-height: 1.8; font-size: 1rem; margin-bottom: 1rem; }
+  .page-article :global(p:last-child) { margin-bottom: 0; }
+  .page-article :global(ul), .page-article :global(ol) { margin: 0.75rem 0 1rem 1.25rem; display: flex; flex-direction: column; gap: 0.5rem; }
+  .page-article :global(ul) { list-style: disc; }
+  .page-article :global(ol) { list-style: decimal; }
+  .page-article :global(li) { color: var(--color-text-muted); font-size: 1rem; line-height: 1.7; }
+  .page-article :global(strong) { font-weight: 700; color: var(--color-primary); }
+  .page-article :global(a) { color: var(--color-accent-dark); text-decoration: underline; text-underline-offset: 2px; transition: color 0.15s; }
+  .page-article :global(a:hover) { color: var(--color-primary); }
+  .page-article :global(.contextual-border) { background: linear-gradient(135deg, var(--color-accent-light) 0%, rgba(230,126,34,0.05) 100%); border: 1px solid var(--color-accent); border-radius: 0.75rem; padding: 1.25rem 1.5rem; margin: 2rem 0; }
+  .page-article :global(.contextual-border p) { color: var(--color-primary); font-style: italic; font-weight: 500; margin-bottom: 0; }
+  .page-article :global(.article-faq) { margin-top: 2.5rem; }
+  .page-article :global(.article-faq h2) { font-size: 1.375rem; font-weight: 700; color: var(--color-primary); margin-bottom: 1.25rem; line-height: 1.3; padding-bottom: 0.625rem; border-bottom: 2px solid var(--color-border-light); }
+  .page-article :global(.article-faq__item) { background-color: var(--color-bg-white); border: 1px solid var(--color-border-light); border-radius: 0.625rem; padding: 1.125rem 1.5rem; margin-bottom: 0.75rem; }
+  .page-article :global(.article-faq__item h3) { font-size: 1rem; font-weight: 600; color: var(--color-primary); margin-bottom: 0.625rem; line-height: 1.4; }
+  .page-article :global(.article-faq__item p) { font-size: 0.9375rem; color: var(--color-text-muted); line-height: 1.75; margin-bottom: 0; }
+
+  /* ── Floating WhatsApp button ───────────────────────────────── */
+  .wa-float { position: fixed; bottom: 1.5rem; left: auto; right: 1.5rem; z-index: 999; display: flex; align-items: center; gap: 0.625rem; background-color: #25D366; color: #fff; font-size: 0.9375rem; font-weight: 700; padding: 0.75rem 1.25rem 0.75rem 1rem; border-radius: 3rem; box-shadow: 0 4px 20px rgba(37,211,102,0.45); transition: background-color 0.2s, box-shadow 0.2s, transform 0.2s; text-decoration: none; }
+  .wa-float:hover { background-color: #1da851; box-shadow: 0 6px 28px rgba(37,211,102,0.55); transform: translateY(-2px); }
+  .wa-float__label { white-space: nowrap; }
+
+  /* ── Responsive ──────────────────────────────────────────────── */
+  @media (max-width: 1024px) {
+    .footer__main { grid-template-columns: 1fr 1fr 1fr; }
+    .footer__brand { grid-column: 1 / -1; }
+  }
+  @media (max-width: 900px) {
+    .page-content__grid { grid-template-columns: 1fr; }
+    .page-sidebar { position: static; }
+  }
+  @media (max-width: 640px) {
+    .footer__main { grid-template-columns: 1fr 1fr; gap: 2rem; }
+    .footer__brand { grid-column: 1 / -1; }
+  }
+  @media (max-width: 540px) {
+    .page-hero { padding: 2.5rem 0 2rem; }
+  }
+  @media (max-width: 480px) {
+    .wa-float { bottom: 1rem; right: 1rem; padding: 0.75rem; border-radius: 50%; }
+    .wa-float__label { display: none; }
+    .footer__main { grid-template-columns: 1fr; }
+    .footer__brand { grid-column: auto; }
+  }
+</style>

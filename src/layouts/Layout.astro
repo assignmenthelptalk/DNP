@@ -1,0 +1,169 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  faviconPath: string;
+  googleFontsUrl: string;
+  fontFamily: string;
+  colors: Record<string, string>;
+}
+
+const { title, description, faviconPath, googleFontsUrl, fontFamily, colors } = Astro.props;
+
+const cssVars = Object.entries(colors)
+  .map(([k, v]) => `--color-${k.replace(/([A-Z])/g, '-$1').toLowerCase()}: ${v}`)
+  .join('; ');
+
+const allVars = `${cssVars}; --font-family: ${fontFamily}`;
+---
+
+<!DOCTYPE html>
+<html lang="en" style={allVars}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href={googleFontsUrl} rel="stylesheet" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+
+    <!-- Floating WhatsApp button -->
+    <a
+      href="https://wa.me/447916696894"
+      class="wa-float"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Chat with us on WhatsApp"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="30" height="30" aria-hidden="true">
+        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+        <path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.558 4.112 1.528 5.837L0 24l6.335-1.508A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.006-1.369l-.36-.214-3.733.888.936-3.618-.235-.372A9.818 9.818 0 1112 21.818z"/>
+      </svg>
+      <span class="wa-float__label">Chat on WhatsApp</span>
+    </a>
+
+    <!--Start of Tawk.to Script-->
+    <script is:inline type="text/javascript">
+      var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+      (function(){
+      var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+      s1.async=true;
+      s1.src='https://embed.tawk.to/69fb46a47984481c34ee3683/1jnuonsva';
+      s1.charset='UTF-8';
+      s1.setAttribute('crossorigin','*');
+      s0.parentNode.insertBefore(s1,s0);
+      })();
+    </script>
+    <!--End of Tawk.to Script-->
+  </body>
+</html>
+
+<style is:global>
+  *, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-family);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--color-text-base);
+    background-color: var(--color-bg-white);
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+
+  .section-heading {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 700;
+    color: var(--color-primary);
+    text-align: center;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+  }
+
+  .section-subheading {
+    font-size: 1.125rem;
+    color: var(--color-text-muted);
+    text-align: center;
+    max-width: 620px;
+    margin: 0 auto 3rem;
+    line-height: 1.7;
+  }
+
+  /* ── Floating WhatsApp button ───────────────────────────────── */
+  .wa-float {
+    position: fixed;
+    bottom: 1.5rem;
+    left: 1.5rem;
+    right: auto;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    background-color: #25D366;
+    color: #fff;
+    font-family: inherit;
+    font-size: 0.9375rem;
+    font-weight: 700;
+    padding: 0.75rem 1.25rem 0.75rem 1rem;
+    border-radius: 3rem;
+    box-shadow: 0 4px 20px rgba(37, 211, 102, 0.45);
+    transition: background-color 0.2s, box-shadow 0.2s, transform 0.2s;
+    text-decoration: none;
+  }
+
+  .wa-float:hover {
+    background-color: #1da851;
+    box-shadow: 0 6px 28px rgba(37, 211, 102, 0.55);
+    transform: translateY(-2px);
+  }
+
+  .wa-float__label {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 480px) {
+    .wa-float {
+      bottom: 1rem;
+      left: 1rem;
+      right: auto;
+      padding: 0.75rem;
+      border-radius: 50%;
+    }
+    .wa-float__label { display: none; }
+  }
+</style>
