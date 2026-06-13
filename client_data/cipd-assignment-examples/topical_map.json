@@ -357,7 +357,7 @@
             "module_name": "Advanced Employment Law in Practice",
             "level": 7,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "note": "Mirrors 5OS01 high-demand topic. Advanced Employment Law at post-grad level.",
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -378,7 +378,7 @@
             "module_name": "People Management and Development Strategies for Performance",
             "level": 7,
             "pathway": "core",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -438,7 +438,7 @@
             "module_name": "Learning and Development Practice",
             "level": 7,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -448,7 +448,7 @@
             "module_name": "Technology Enhanced Learning",
             "level": 7,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -458,7 +458,7 @@
             "module_name": "Diversity and Inclusion",
             "level": 7,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -468,7 +468,7 @@
             "module_name": "Wellbeing at Work",
             "level": 7,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -478,7 +478,7 @@
             "module_name": "Leadership and Management Development",
             "level": 7,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -488,7 +488,7 @@
             "module_name": "Coaching and Mentoring",
             "level": 7,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
