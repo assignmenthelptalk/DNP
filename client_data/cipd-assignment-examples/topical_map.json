@@ -57,7 +57,7 @@
             "module_name": "Business, Culture and Change in Context",
             "level": 3,
             "pathway": "core",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "schema": ["Article", "FAQPage", "BreadcrumbList"],
             "connects_to_level_5": "5CO01"
@@ -68,7 +68,7 @@
             "module_name": "Principles of Analytics",
             "level": 3,
             "pathway": "core",
-            "status": "create",
+            "status": "published",
             "priority": 4,
             "schema": ["Article", "FAQPage", "BreadcrumbList"],
             "connects_to_level_5": "5CO02"
@@ -79,7 +79,7 @@
             "module_name": "Core Behaviours for People Professionals",
             "level": 3,
             "pathway": "core",
-            "status": "optimise_if_exists",
+            "status": "published",
             "priority": 3,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -89,7 +89,7 @@
             "module_name": "Essentials of People Practice",
             "level": 3,
             "pathway": "core",
-            "status": "optimise_if_exists",
+            "status": "published",
             "priority": 3,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -99,7 +99,7 @@
             "module_name": "Supporting Good Practice in Performance and Reward Management",
             "level": 3,
             "pathway": "hr",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "schema": ["Article", "FAQPage", "BreadcrumbList"],
             "connects_to_level_5": "5HR03"
@@ -110,7 +110,7 @@
             "module_name": "Supporting Good Practice in Managing Employment Relations",
             "level": 3,
             "pathway": "hr",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "schema": ["Article", "FAQPage", "BreadcrumbList"],
             "connects_to_level_5": "5HR01"
@@ -121,7 +121,7 @@
             "module_name": "Supporting Individual Learning and Development",
             "level": 3,
             "pathway": "ld",
-            "status": "create",
+            "status": "published",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"],
             "connects_to_level_5": "5LD01"
