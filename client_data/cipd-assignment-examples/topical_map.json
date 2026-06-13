@@ -368,7 +368,7 @@
             "module_name": "Strategic Employment Relations",
             "level": 7,
             "pathway": "hr",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -388,7 +388,7 @@
             "module_name": "Resourcing and Talent Management to Sustain Success",
             "level": 7,
             "pathway": "hr",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -398,7 +398,7 @@
             "module_name": "Strategic Reward Management",
             "level": 7,
             "pathway": "hr",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -408,7 +408,7 @@
             "module_name": "Work and Working Lives in a Changing Business Environment",
             "level": 7,
             "pathway": "core",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -418,7 +418,7 @@
             "module_name": "Personal Effectiveness, Ethics and Business Acumen",
             "level": 7,
             "pathway": "core",
-            "status": "create",
+            "status": "published",
             "priority": 4,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -428,7 +428,7 @@
             "module_name": "Business Research in People Practice",
             "level": 7,
             "pathway": "core",
-            "status": "create",
+            "status": "published",
             "priority": 4,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -491,6 +491,52 @@
             "status": "create",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/7lmd-leadership-and-management-development/",
+            "module_code": "7LMD",
+            "module_name": "Leadership and Management Development (Legacy)",
+            "level": 7,
+            "pathway": "legacy",
+            "status": "published",
+            "note": "Legacy URL format — predates current naming convention. Do not redirect; page receives organic traffic.",
+            "priority": 3,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/cipd-7hr03-example-strategic-reward-management/",
+            "module_code": "7HR03",
+            "module_name": "Strategic Reward Management (Legacy)",
+            "level": 7,
+            "pathway": "legacy",
+            "status": "published",
+            "note": "Legacy URL format. Canonical version at /7hr03-assignment-example/. Consolidate or 301 in Phase 3.",
+            "redirect_target": "/7hr03-assignment-example/",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/cipd-7ld01-example-organisational-design-development/",
+            "module_code": "7LD01",
+            "module_name": "Organisational Design and Development (Legacy)",
+            "level": 7,
+            "pathway": "legacy",
+            "status": "published",
+            "note": "Legacy URL format. No canonical modern equivalent yet — keep until /7ld01-assignment-example/ is created.",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/cipd-7os04-advanced-diversity-and-inclusion/",
+            "module_code": "7OS04",
+            "module_name": "Diversity and Inclusion Advanced (Legacy)",
+            "level": 7,
+            "pathway": "legacy",
+            "status": "published",
+            "note": "Legacy URL format. Consolidate into /7os04-assignment-example/ when that page is created.",
+            "redirect_target": "/7os04-assignment-example/",
+            "priority": 4,
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
           }
         ]
       }
@@ -504,7 +550,7 @@
           {
             "url": "/what-is-cipd/",
             "title": "What is CIPD? The Chartered Institute of Personnel and Development Explained",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "supports_core": ["all level hub pages"],
             "evidence": "Foundational informational page for all CIPD-naive visitors",
@@ -530,7 +576,7 @@
           {
             "url": "/cipd-assessment-criteria-explained/",
             "title": "CIPD Assessment Criteria Explained — How Assignments Are Marked",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "supports_core": ["all module pages"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -549,7 +595,7 @@
           {
             "url": "/employment-law-uk-overview/",
             "title": "UK Employment Law Overview — Key Legislation for HR Professionals",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "supports_core": ["/5os01-assignment-example/", "/5hr01-assignment-example/", "/7os01-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -566,7 +612,7 @@
           {
             "url": "/shared-parental-leave-uk/",
             "title": "Shared Parental Leave UK — How It Works and How It Differs from Maternity Leave",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5os01-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -583,7 +629,7 @@
           {
             "url": "/equality-act-2010-cipd/",
             "title": "The Equality Act 2010 — A CIPD Student's Guide to Protected Characteristics",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "supports_core": ["/5os01-assignment-example/", "/5os05-assignment-example/", "/7os04-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -611,7 +657,7 @@
           {
             "url": "/psychological-contract-cipd/",
             "title": "The Psychological Contract — Definition, Types and Impact on Employee Relations",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "supports_core": ["/5hr01-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -630,7 +676,7 @@
           {
             "url": "/total-reward-approach/",
             "title": "Total Reward Approach — Definition, Components and Strategic Benefits",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "supports_core": ["/5hr03-assignment-example/", "/7hr03-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -640,7 +686,7 @@
           {
             "url": "/workforce-planning-definition/",
             "title": "Workforce Planning — Definition, Process and Strategic Value",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "supports_core": ["/5hr02-assignment-example/", "/7hr02-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -659,7 +705,7 @@
           {
             "url": "/organisational-culture-cipd/",
             "title": "Organisational Culture — Definition, Models and How Culture Drives Performance",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "supports_core": ["/5co01-assignment-example/", "/7co01-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -676,7 +722,7 @@
           {
             "url": "/handy-model-organisational-culture/",
             "title": "Handy's Model of Organisational Culture — Power, Role, Task and Person Cultures",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5co01-assignment-example/"],
             "evidence": "Confirmed Chaffinch Group / Handy's model query in GSC data",
@@ -687,7 +733,7 @@
           {
             "url": "/learning-needs-analysis/",
             "title": "Learning Needs Analysis — How to Identify and Prioritise L&D Requirements",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "supports_core": ["/5ld01-assignment-example/", "/5ld02-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -695,7 +741,7 @@
           {
             "url": "/70-20-10-learning-model/",
             "title": "The 70:20:10 Learning Model — Application in Workplace L&D",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "supports_core": ["/5ld01-assignment-example/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -705,9 +751,110 @@
           {
             "url": "/diversity-inclusion-cipd/",
             "title": "Diversity and Inclusion in the Workplace — CIPD Framework and Best Practice",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "supports_core": ["/5os05-assignment-example/", "/7os04-assignment-example/"],
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          }
+        ],
+        "supporting_ac_pages": [
+          {
+            "url": "/5co01-rational-strategy-chaffinch/",
+            "title": "Rational Approach to Strategy Formulation — Chaffinch Group (5CO01 AC)",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["/5co01-assignment-example/"],
+            "note": "AC-specific supporting page for the Chaffinch Group rational strategy question",
+            "schema": ["Article", "BreadcrumbList"]
+          },
+          {
+            "url": "/5co01-organisational-culture-takeover/",
+            "title": "Problems After the Calmere House Takeover — Culture Impact (5CO01 AC)",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["/5co01-assignment-example/"],
+            "note": "AC-specific supporting page for the Chaffinch Group Calmere House takeover question",
+            "schema": ["Article", "BreadcrumbList"]
+          },
+          {
+            "url": "/5co01-employee-voice-culture/",
+            "title": "How Changes to Selection and Employee Voice Impacted Culture (5CO01 AC)",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["/5co01-assignment-example/"],
+            "note": "AC-specific supporting page for the Chaffinch Group employee voice question",
+            "schema": ["Article", "BreadcrumbList"]
+          },
+          {
+            "url": "/chaffinch-group-case-study-cipd/",
+            "title": "Chaffinch Group Case Study — CIPD 5CO01 Scenario Guide",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["/5co01-assignment-example/"],
+            "note": "Hub page for all Chaffinch Group AC supporting pages",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5hr02-labour-market-positioning/",
+            "title": "Strategic Labour Market Positioning — ParcelCare (5HR02 AC)",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["/5hr02-assignment-example/"],
+            "note": "AC-specific page targeting the confirmed 'parcelcare strategic global labour market' query",
+            "schema": ["Article", "BreadcrumbList"]
+          },
+          {
+            "url": "/5hr02-labour-market-resourcing/",
+            "title": "Labour Market Resourcing Strategies — ParcelCare (5HR02 AC)",
+            "status": "published",
+            "priority": 3,
+            "supports_core": ["/5hr02-assignment-example/"],
+            "schema": ["Article", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os01-maternity-vs-shared-parental-leave/",
+            "title": "Maternity Leave vs Shared Parental Leave — Key Differences (5OS01 AC)",
+            "status": "published",
+            "priority": 1,
+            "supports_core": ["/5os01-assignment-example/"],
+            "note": "AC-specific page targeting the dominant 5OS01 query (3,044 impressions, 0% CTR on main page)",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os01-ecj-judgements-post-brexit/",
+            "title": "ECJ Judgements Post-Brexit — Impact on UK Employment Law (5OS01 AC)",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["/5os01-assignment-example/"],
+            "note": "Targets the confirmed 50% CTR EU/ECJ law query in GSC data",
+            "schema": ["Article", "BreadcrumbList"]
+          },
+          {
+            "url": "/5os01-employment-regulation-aims/",
+            "title": "Aims of Employment Regulation — UK Framework (5OS01 AC)",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["/5os01-assignment-example/"],
+            "schema": ["Article", "BreadcrumbList"]
+          }
+        ],
+        "geography": [
+          {
+            "url": "/cipd-qualifications-uae/",
+            "title": "CIPD Qualifications in the UAE — Study Options and Assignment Help",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["all level hub pages"],
+            "note": "Geo-targeted page for UAE market — appears in footer geo links",
+            "schema": ["Article", "FAQPage", "BreadcrumbList"]
+          },
+          {
+            "url": "/cipd-qualifications-saudi-arabia/",
+            "title": "CIPD Qualifications in Saudi Arabia — Study Options and Assignment Help",
+            "status": "published",
+            "priority": 2,
+            "supports_core": ["all level hub pages"],
+            "note": "Geo-targeted page for Saudi Arabia market — appears in footer geo links",
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           }
         ]
@@ -716,6 +863,18 @@
   },
 
   "technical_fixes_required": [
+    {
+      "issue": "/5co03/ old short slug — now redirected",
+      "action": "301 redirect /5co03/ → /5co03-assignment-example/ (implemented in astro.config.mjs redirects, /5co03/ excluded from sitemap)",
+      "status": "DONE",
+      "priority": "COMPLETE"
+    },
+    {
+      "issue": "/shared-parental-leave-uk-guide/ old content collection slug",
+      "action": "301 redirect /shared-parental-leave-uk-guide/ → /shared-parental-leave-uk/ (implemented in astro.config.mjs redirects, old URL excluded from sitemap)",
+      "status": "DONE",
+      "priority": "COMPLETE"
+    },
     {
       "issue": "URL typo /5oso3/ (letter O instead of zero)",
       "action": "Create /5os03-assignment-example/ and 301 redirect from /5oso3/",
