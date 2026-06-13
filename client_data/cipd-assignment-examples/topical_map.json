@@ -23,7 +23,7 @@
           {
             "url": "/cipd-level-3-assignment-examples/",
             "title": "CIPD Level 3 Assignment Examples — Foundation Certificate in People Practice",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "macro_context": "Hub for all Level 3 CIPD Foundation Certificate module examples",
             "schema": ["ItemList", "BreadcrumbList", "FAQPage"],
@@ -32,7 +32,7 @@
           {
             "url": "/cipd-level-5-assignment-examples/",
             "title": "CIPD Level 5 Assignment Examples — Associate Diploma in People Management",
-            "status": "rebuild",
+            "status": "published",
             "replaces": "/cipd-level-5-examples/",
             "current_performance": {"clicks": 0, "impressions": 1, "position": 63},
             "priority": 1,
@@ -43,7 +43,7 @@
           {
             "url": "/cipd-level-7-assignment-examples/",
             "title": "CIPD Level 7 Assignment Examples — Advanced Diploma in Strategic People Management",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "macro_context": "Hub for all Level 7 CIPD Advanced Diploma module examples",
             "schema": ["ItemList", "BreadcrumbList", "FAQPage"],
