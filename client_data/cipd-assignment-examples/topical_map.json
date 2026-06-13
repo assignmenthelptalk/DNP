@@ -559,7 +559,7 @@
           {
             "url": "/cipd-qualification-levels-explained/",
             "title": "CIPD Qualification Levels Explained — Level 3, 5 and 7 Compared",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "supports_core": ["/cipd-level-3-assignment-examples/", "/cipd-level-5-assignment-examples/", "/cipd-level-7-assignment-examples/"],
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -567,7 +567,7 @@
           {
             "url": "/how-to-write-a-cipd-assignment/",
             "title": "How to Write a CIPD Assignment — Structure, Evidence and Assessment Criteria",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["all module pages"],
             "evidence": "Confirmed query in GSC data",
@@ -584,7 +584,7 @@
           {
             "url": "/cipd-code-of-conduct-and-professional-ethics/",
             "title": "CIPD Code of Conduct and Professional Ethics for HR Practitioners",
-            "status": "create",
+            "status": "published",
             "priority": 2,
             "supports_core": ["/5co03-assignment-example/", "/7co03-assignment-example/"],
             "evidence": "Confirmed queries in GSC data",
@@ -603,7 +603,7 @@
           {
             "url": "/maternity-leave-uk-employer-guide/",
             "title": "Maternity Leave UK — Employer Rights, Obligations and Statutory Pay",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5os01-assignment-example/"],
             "evidence": "5OS01 dominant query is about maternity leave — this Outer page captures non-CIPD employment law traffic and bridges back to Core",
@@ -620,7 +620,7 @@
           {
             "url": "/eu-employment-law-post-brexit/",
             "title": "EU Employment Law Post-Brexit — What Changed for UK Employers",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5os01-assignment-example/", "/7os01-assignment-example/"],
             "evidence": "Confirmed query with 50% CTR in GSC data (ECJ/EU law question)",
@@ -639,7 +639,7 @@
           {
             "url": "/employee-relations-definition/",
             "title": "Employee Relations — Definition, Models and Importance in HR Practice",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5hr01-assignment-example/", "/7hr01-assignment-example/"],
             "evidence": "Confirmed query in GSC — 10 impressions at position 68.8 (ranking with no dedicated page)",
@@ -648,7 +648,7 @@
           {
             "url": "/employee-voice-forms-union-non-union/",
             "title": "Forms of Employee Voice — Union and Non-Union Representation Compared",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5hr01-assignment-example/", "/7hr01-assignment-example/"],
             "evidence": "Query 'compare forms of union and non-union employee voice' got 100% CTR — confirmed demand for dedicated page",
@@ -667,7 +667,7 @@
           {
             "url": "/benchmarking-pay-data/",
             "title": "Benchmarking Pay Data — Methods for Gathering and Measuring Reward Data",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5hr03-assignment-example/", "/7hr03-assignment-example/"],
             "evidence": "Confirmed AC 3.2 query 'evaluate the most appropriate ways in which benchmarking data can be gathered' got 100% CTR on its one impression",
@@ -694,7 +694,7 @@
           {
             "url": "/labour-market-trends-cipd/",
             "title": "Labour Market Trends — Analysis for Strategic Talent and Workforce Planning",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5hr02-assignment-example/"],
             "evidence": "Confirmed query 'for parcelcare to position itself strategically in the global labour market' — 15 impressions tied to 5HR02 ParcelCare scenario",
@@ -713,7 +713,7 @@
           {
             "url": "/hierarchical-vs-flat-structure/",
             "title": "Hierarchical vs Flat Organisational Structures — CIPD Context",
-            "status": "create",
+            "status": "published",
             "priority": 1,
             "supports_core": ["/5co01-assignment-example/"],
             "evidence": "Confirmed query 'hierarchical bureaucratic structure cipd' — 2 impressions at position 16 (near-first-page without a dedicated page)",
