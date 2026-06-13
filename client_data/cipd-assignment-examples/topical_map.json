@@ -134,7 +134,7 @@
             "module_name": "Organisational Performance and Culture in Practice",
             "level": 5,
             "pathway": "core",
-            "status": "redirect_and_optimise",
+            "status": "published",
             "redirect_from": "/5co01/",
             "current_performance": {"clicks": 24, "impressions": 981, "ctr": "2.45%", "position": 8.96},
             "priority": 1,
@@ -159,7 +159,7 @@
             "module_name": "Evidence-Based Practice",
             "level": 5,
             "pathway": "core",
-            "status": "redirect_and_optimise",
+            "status": "published",
             "redirect_from": "/5co02/",
             "current_performance": {"clicks": 0, "impressions": 35, "ctr": "0%", "position": 12.2},
             "priority": 2,
@@ -176,7 +176,7 @@
             "module_name": "Professional Behaviours and Valuing People",
             "level": 5,
             "pathway": "core",
-            "status": "optimise_if_exists",
+            "status": "published",
             "current_performance": {"clicks": 2, "impressions": 56, "position": null},
             "priority": 3,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
@@ -187,7 +187,7 @@
             "module_name": "Employment Relationship Management",
             "level": 5,
             "pathway": "hr",
-            "status": "consolidate",
+            "status": "published",
             "consolidate_from": "/5hr01/",
             "current_performance": {"clicks": 5, "impressions": 102, "ctr": "4.90%", "position": 26.43},
             "priority": 2,
@@ -200,7 +200,7 @@
             "module_name": "Talent Management and Workforce Planning",
             "level": 5,
             "pathway": "hr",
-            "status": "optimise",
+            "status": "published",
             "current_performance": {"clicks": 7, "impressions": 115, "ctr": "6.09%", "position": 11.77},
             "priority": 2,
             "scenario": "ParcelCare",
@@ -213,7 +213,7 @@
             "module_name": "Reward for Performance and Contribution",
             "level": 5,
             "pathway": "hr",
-            "status": "optimise",
+            "status": "published",
             "current_performance": {"clicks": 6, "impressions": 169, "ctr": "3.55%", "position": 18.29},
             "priority": 2,
             "confirmed_queries": ["evaluate the most appropriate ways in which benchmarking data can be gathered and measured to develop insight"],
@@ -225,7 +225,7 @@
             "module_name": "Specialist Employment Law",
             "level": 5,
             "pathway": "specialist",
-            "status": "HIGHEST_PRIORITY_OPTIMISE",
+            "status": "published",
             "current_performance": {"clicks": 8, "impressions": 3307, "ctr": "0.24%", "position": 7.49},
             "priority": 0,
             "root_cause_ctr_failure": [
@@ -257,7 +257,7 @@
             "module_name": "Advances in Digital Learning and Development",
             "level": 5,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 4,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -267,7 +267,7 @@
             "module_name": "Learning and Development Design to Create Value",
             "level": 5,
             "pathway": "specialist",
-            "status": "create_with_301",
+            "status": "published",
             "redirect_from": "/5oso3/",
             "note": "URL TYPO: /5oso3/ (letter O instead of zero) — fix immediately",
             "current_performance_typo_url": {"clicks": 0, "impressions": 13, "ctr": "0%", "position": 10.38},
@@ -280,7 +280,7 @@
             "module_name": "Wellbeing at Work",
             "level": 5,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 4,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -290,7 +290,7 @@
             "module_name": "Diversity and Inclusion",
             "level": 5,
             "pathway": "specialist",
-            "status": "consolidate",
+            "status": "published",
             "consolidate_from": ["/5os05/", "/cipd-5os05-diversity-and-inclusion/"],
             "current_performance_combined": {"clicks": 3, "impressions": 37, "position": "~23"},
             "priority": 3,
@@ -302,7 +302,7 @@
             "module_name": "Leadership and Management Development",
             "level": 5,
             "pathway": "specialist",
-            "status": "optimise_if_exists",
+            "status": "published",
             "priority": 3,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -312,7 +312,7 @@
             "module_name": "Innovative and Engaging Learning Content",
             "level": 5,
             "pathway": "specialist",
-            "status": "create",
+            "status": "published",
             "priority": 5,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -322,7 +322,7 @@
             "module_name": "Learning and Development Essentials",
             "level": 5,
             "pathway": "ld",
-            "status": "redirect_and_optimise",
+            "status": "published",
             "redirect_from": "/5ld01/",
             "current_performance": {"clicks": 5, "impressions": 34, "ctr": "14.71%", "position": 11.21},
             "note": "EXCELLENT CTR — highest on site. Protect this page's rankings during redirect.",
@@ -335,7 +335,7 @@
             "module_name": "Identifying Learning and Development Needs",
             "level": 5,
             "pathway": "ld",
-            "status": "create",
+            "status": "published",
             "priority": 3,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           },
@@ -345,7 +345,7 @@
             "module_name": "Learning and Development Facilitation Skills",
             "level": 5,
             "pathway": "ld",
-            "status": "create",
+            "status": "published",
             "priority": 4,
             "schema": ["Article", "FAQPage", "BreadcrumbList"]
           }
@@ -878,19 +878,22 @@
     {
       "issue": "URL typo /5oso3/ (letter O instead of zero)",
       "action": "Create /5os03-assignment-example/ and 301 redirect from /5oso3/",
-      "priority": "IMMEDIATE",
+      "status": "DONE",
+      "priority": "COMPLETE",
       "impact": "Recovers 13 impressions at position 10.38"
     },
     {
       "issue": "Duplicate URLs for OS05: /5os05/ and /cipd-5os05-diversity-and-inclusion/",
       "action": "Merge content into /5os05-assignment-example/, 301 redirect both old URLs",
-      "priority": "IMMEDIATE",
+      "status": "DONE",
+      "priority": "COMPLETE",
       "impact": "Consolidates ~37 impressions and prevents PageRank dilution"
     },
     {
       "issue": "URL without trailing slash /5hr01 vs /5hr01/",
       "action": "301 redirect /5hr01 (no slash) to /5hr01/ or to canonical /5hr01-assignment-example/",
-      "priority": "IMMEDIATE"
+      "status": "DONE",
+      "priority": "COMPLETE"
     },
     {
       "issue": "WordPress author archive indexed: /author/jobmugachiagmail-com/",
