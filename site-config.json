@@ -122,6 +122,18 @@
         "title": "DNP Data Analysis Help",
         "description": "Statistical and qualitative data analysis for DNP projects. Pre-post comparisons, SPC charts, thematic analysis — selecting the right method and interpreting results for your committee.",
         "href": "/dnp-data-analysis-help/"
+      },
+      {
+        "icon": "🗂️",
+        "title": "DNP Implementation Plan Help",
+        "description": "Change management frameworks, stakeholder mapping, staff education plans, Gantt charts, fidelity monitoring, and sustainability planning — the operational blueprint for your capstone practice change.",
+        "href": "/dnp-implementation-plan-help/"
+      },
+      {
+        "icon": "📄",
+        "title": "DNP Capstone Manuscript Help",
+        "description": "Final scholarly manuscript writing support — abstract, methods, results, discussion, implications for practice, APA 7th edition formatting, and committee-ready final project report.",
+        "href": "/dnp-capstone-manuscript-help/"
       }
     ]
   },
@@ -293,12 +305,14 @@
       {
         "heading": "DNP Services",
         "links": [
-          { "label": "DNP Capstone Project Help",    "href": "/dnp-capstone-project-help/" },
+          { "label": "DNP Capstone Project Help",      "href": "/dnp-capstone-project-help/" },
           { "label": "DNP Capstone Proposal Help",   "href": "/dnp-capstone-proposal-help/" },
           { "label": "DNP PICOT Question Help",      "href": "/dnp-picot-question-help/" },
           { "label": "DNP Literature Review Help",   "href": "/dnp-literature-review-help/" },
           { "label": "DNP IRB Proposal Help",        "href": "/dnp-irb-proposal-help/" },
-          { "label": "DNP Data Analysis Help",       "href": "/dnp-data-analysis-help/" }
+          { "label": "DNP Implementation Plan Help", "href": "/dnp-implementation-plan-help/" },
+          { "label": "DNP Data Analysis Help",       "href": "/dnp-data-analysis-help/" },
+          { "label": "DNP Capstone Manuscript Help", "href": "/dnp-capstone-manuscript-help/" }
         ]
       },
       {

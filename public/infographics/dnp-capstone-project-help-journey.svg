@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="100%" role="img" aria-labelledby="dnp-journey-title">
+  <title id="dnp-journey-title">DNP Capstone Project: 8-Component Journey from PICOT Question to Final Manuscript — All Specialisation Tracks Supported</title>
+
+  <!-- Background -->
+  <rect width="800" height="640" fill="#F3F4F6" rx="14"/>
+
+  <!-- Header -->
+  <rect width="800" height="64" fill="#1A4D6E" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1A4D6E"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">DNP Capstone Project: 8-Component Journey</text>
+  <text x="400" y="50" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" fill="#A8C4E0">Doctor of Nursing Practice · Practice-Focused Doctoral Scholarly Project · All 13 Specialisation Tracks</text>
+
+  <!-- Key distinction banner -->
+  <rect x="20" y="74" width="760" height="24" rx="5" fill="#E67E22"/>
+  <text x="400" y="91" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">DNP CAPSTONE ≠ PhD DISSERTATION — Translates existing evidence into practice change · Does NOT generate new primary research knowledge</text>
+
+  <!-- Phase label: Proposal Stage -->
+  <rect x="20" y="108" width="370" height="20" rx="4" fill="#1A4D6E"/>
+  <text x="205" y="122" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">PROPOSAL STAGE (Chapters 1–3)</text>
+
+  <!-- Phase label: Implementation Stage -->
+  <rect x="410" y="108" width="370" height="20" rx="4" fill="#CA6F1E"/>
+  <text x="595" y="122" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">IMPLEMENTATION &amp; MANUSCRIPT STAGE</text>
+
+  <!-- Step 1: PICOT -->
+  <rect x="20" y="136" width="170" height="130" rx="7" fill="#FFFFFF" stroke="#1A4D6E" stroke-width="1.5"/>
+  <rect x="20" y="136" width="170" height="28" rx="7" fill="#1A4D6E"/>
+  <rect x="20" y="150" width="170" height="14" fill="#1A4D6E"/>
+  <text x="105" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#E67E22">STEP 1</text>
+  <text x="105" y="165" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">PICOT Question</text>
+  <text x="32" y="184" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#1A4D6E">P — Population (setting + diagnosis)</text>
+  <text x="32" y="198" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">I — Intervention (specific protocol)</text>
+  <text x="32" y="212" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">C — Comparison (current standard)</text>
+  <text x="32" y="226" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">O — Outcome (measurable metric)</text>
+  <text x="32" y="240" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">T — Time (8–16 weeks typical)</text>
+  <text x="32" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#E67E22">Chapter 1 — end of problem statement</text>
+
+  <!-- Arrow 1→2 -->
+  <polygon points="196,200 208,195 208,205" fill="#E67E22"/>
+  <line x1="190" y1="200" x2="208" y2="200" stroke="#E67E22" stroke-width="2"/>
+
+  <!-- Step 2: Literature Review -->
+  <rect x="210" y="136" width="170" height="130" rx="7" fill="#FFFFFF" stroke="#1A4D6E" stroke-width="1.5"/>
+  <rect x="210" y="136" width="170" height="28" rx="7" fill="#1A4D6E"/>
+  <rect x="210" y="150" width="170" height="14" fill="#1A4D6E"/>
+  <text x="295" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#E67E22">STEP 2</text>
+  <text x="295" y="165" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Literature Review</text>
+  <text x="222" y="184" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#1A4D6E">Integrative / Scoping / Systematic</text>
+  <text x="222" y="198" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Databases: CINAHL + PubMed + Cochrane</text>
+  <text x="222" y="212" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">PRISMA flow diagram required</text>
+  <text x="222" y="226" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">JBI / CASP appraisal tools</text>
+  <text x="222" y="240" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">15–30 primary studies + synthesis table</text>
+  <text x="222" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#E67E22">Chapter 2 — ends with practice gap</text>
+
+  <!-- Arrow 2→3 -->
+  <polygon points="386,200 398,195 398,205" fill="#E67E22"/>
+  <line x1="380" y1="200" x2="398" y2="200" stroke="#E67E22" stroke-width="2"/>
+
+  <!-- Step 3: Framework -->
+  <rect x="400" y="136" width="170" height="130" rx="7" fill="#FFFFFF" stroke="#CA6F1E" stroke-width="1.5"/>
+  <rect x="400" y="136" width="170" height="28" rx="7" fill="#CA6F1E"/>
+  <rect x="400" y="150" width="170" height="14" fill="#CA6F1E"/>
+  <text x="485" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">STEP 3</text>
+  <text x="485" y="165" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">EBP Framework</text>
+  <text x="412" y="184" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">Select ONE and apply consistently</text>
+  <text x="412" y="198" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Iowa Model (2017) — most common</text>
+  <text x="412" y="212" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">PARIHS / i-PARIHS — complex context</text>
+  <text x="412" y="226" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">ACE Star · KTA · Johns Hopkins</text>
+  <text x="412" y="240" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Must map stages to project activities</text>
+  <text x="412" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">Chapter 2 — before literature review</text>
+
+  <!-- Arrow 3→4 -->
+  <polygon points="576,200 588,195 588,205" fill="#E67E22"/>
+  <line x1="570" y1="200" x2="588" y2="200" stroke="#E67E22" stroke-width="2"/>
+
+  <!-- Step 4: IRB -->
+  <rect x="590" y="136" width="190" height="130" rx="7" fill="#FFFFFF" stroke="#CA6F1E" stroke-width="1.5"/>
+  <rect x="590" y="136" width="190" height="28" rx="7" fill="#CA6F1E"/>
+  <rect x="590" y="150" width="190" height="14" fill="#CA6F1E"/>
+  <text x="685" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">STEP 4</text>
+  <text x="685" y="165" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">IRB Proposal</text>
+  <text x="602" y="184" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">45 CFR 46 — classify FIRST</text>
+  <text x="602" y="198" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">QI non-research: determination letter</text>
+  <text x="602" y="212" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Exempt: 1–4 weeks · Expedited: 4–8 wks</text>
+  <text x="602" y="226" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">HIPAA compliance plan required</text>
+  <text x="602" y="240" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Most DNP QI = QI non-research</text>
+  <text x="602" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">Chapter 3 + separate IRB submission</text>
+
+  <!-- Row 2 steps -->
+
+  <!-- Step 5: Implementation Plan -->
+  <rect x="20" y="290" width="170" height="130" rx="7" fill="#FFFFFF" stroke="#1A4D6E" stroke-width="1.5"/>
+  <rect x="20" y="290" width="170" height="28" rx="7" fill="#1A4D6E"/>
+  <rect x="20" y="304" width="170" height="14" fill="#1A4D6E"/>
+  <text x="105" y="306" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#E67E22">STEP 5</text>
+  <text x="105" y="319" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Implementation Plan</text>
+  <text x="32" y="338" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#1A4D6E">After IRB approval — not before</text>
+  <text x="32" y="352" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Change framework: Kotter/Lewin/Rogers</text>
+  <text x="32" y="366" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Stakeholder analysis (power-interest grid)</text>
+  <text x="32" y="380" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Staff education + competency verification</text>
+  <text x="32" y="394" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Gantt chart: 8–16 week implementation</text>
+  <text x="32" y="410" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#E67E22">Chapter 3 — scored rubric element</text>
+
+  <!-- Arrow 5→6 -->
+  <polygon points="196,354 208,349 208,359" fill="#E67E22"/>
+  <line x1="190" y1="354" x2="208" y2="354" stroke="#E67E22" stroke-width="2"/>
+
+  <!-- Step 6: Data Collection -->
+  <rect x="210" y="290" width="170" height="130" rx="7" fill="#FFFFFF" stroke="#1A4D6E" stroke-width="1.5"/>
+  <rect x="210" y="290" width="170" height="28" rx="7" fill="#1A4D6E"/>
+  <rect x="210" y="304" width="170" height="14" fill="#1A4D6E"/>
+  <text x="295" y="306" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#E67E22">STEP 6</text>
+  <text x="295" y="319" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Data Collection Tools</text>
+  <text x="222" y="338" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#1A4D6E">Process + Outcome measures</text>
+  <text x="222" y="352" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">QI: EHR audit reports / NHSN / NDNQI</text>
+  <text x="222" y="366" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">EBP: Validated instruments (PHQ-9, GAD-7)</text>
+  <text x="222" y="380" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Fidelity monitoring: weekly compliance audit</text>
+  <text x="222" y="394" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Threshold: if &lt;80% → corrective action</text>
+  <text x="222" y="410" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#E67E22">Chapter 3 — instrument names required</text>
+
+  <!-- Arrow 6→7 -->
+  <polygon points="386,354 398,349 398,359" fill="#E67E22"/>
+  <line x1="380" y1="354" x2="398" y2="354" stroke="#E67E22" stroke-width="2"/>
+
+  <!-- Step 7: Data Analysis -->
+  <rect x="400" y="290" width="170" height="130" rx="7" fill="#FFFFFF" stroke="#CA6F1E" stroke-width="1.5"/>
+  <rect x="400" y="290" width="170" height="28" rx="7" fill="#CA6F1E"/>
+  <rect x="400" y="304" width="170" height="14" fill="#CA6F1E"/>
+  <text x="485" y="306" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">STEP 7</text>
+  <text x="485" y="319" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Data Analysis</text>
+  <text x="412" y="338" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">Descriptive stats + 1 inferential test</text>
+  <text x="412" y="352" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Paired t-test / Wilcoxon / McNemar</text>
+  <text x="412" y="366" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">SPC charts: P-chart / U-chart / Run chart</text>
+  <text x="412" y="380" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Qualitative: Thematic / Content analysis</text>
+  <text x="412" y="394" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Software: SPSS · Excel · JASP (free)</text>
+  <text x="412" y="410" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">Report p-value + MCID + effect size</text>
+
+  <!-- Arrow 7→8 -->
+  <polygon points="576,354 588,349 588,359" fill="#E67E22"/>
+  <line x1="570" y1="354" x2="588" y2="354" stroke="#E67E22" stroke-width="2"/>
+
+  <!-- Step 8: Manuscript -->
+  <rect x="590" y="290" width="190" height="130" rx="7" fill="#FFFFFF" stroke="#CA6F1E" stroke-width="1.5"/>
+  <rect x="590" y="290" width="190" height="28" rx="7" fill="#CA6F1E"/>
+  <rect x="590" y="304" width="190" height="14" fill="#CA6F1E"/>
+  <text x="685" y="306" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">STEP 8</text>
+  <text x="685" y="319" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Final Manuscript</text>
+  <text x="602" y="338" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">60–120 pages · APA 7th edition</text>
+  <text x="602" y="352" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Abstract (250 words) · Introduction</text>
+  <text x="602" y="366" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Methods · Results · Discussion</text>
+  <text x="602" y="380" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Implications: Practice, Education, Policy</text>
+  <text x="602" y="394" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Appendices: IRB · tools · education materials</text>
+  <text x="602" y="410" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">Committee defence → degree conferral</text>
+
+  <!-- Bottom summary bar -->
+  <rect x="20" y="438" width="760" height="50" rx="7" fill="#1A4D6E"/>
+  <text x="400" y="455" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#E67E22">AACN 2021 ESSENTIALS ALIGNMENT REQUIRED IN PROPOSAL + MANUSCRIPT</text>
+  <text x="400" y="470" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8.5" fill="#FFFFFF">Domain 4 (Scholarship) · Domain 5 (Quality &amp; Safety) · Domain 7 (Systems-Based Practice) · Domain 8 (Informatics)</text>
+  <text x="400" y="484" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#A8C4E0">Post-BSN DNP: 3–4 years · 1,000+ clinical hours · 8–14 capstone credits · Post-MSN DNP: 18 months–2 years · 500+ additional hours · 6–10 capstone credits</text>
+
+  <!-- Track strip -->
+  <rect x="20" y="500" width="760" height="34" rx="6" fill="#FEF0E1" stroke="#E67E22" stroke-width="1"/>
+  <text x="400" y="514" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8.5" font-weight="700" fill="#CA6F1E">ALL 13 DNP TRACKS SUPPORTED</text>
+  <text x="400" y="528" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">FNP · AGACNP · AGPCNP · PMHNP · PNP · NNP · WHNP · CNM · CRNA · CNL · Nurse Executive · Population Health · Nursing Informatics</text>
+
+  <!-- Project types strip -->
+  <rect x="20" y="546" width="760" height="24" rx="5" fill="#E5E7EB"/>
+  <text x="400" y="558" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#1A4D6E">PROJECT TYPES: </text>
+  <text x="460" y="558" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151"> Quality Improvement (QI) · EBP Implementation · Program Evaluation · Policy Change · Clinical Guideline Development · Educational Program</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#9CA3AF">Expert DNP Capstone Project Help · All Components · All Tracks · APA 7th Edition · AACN Essentials Aligned</text>
+</svg>

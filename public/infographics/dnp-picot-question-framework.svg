@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" role="img" aria-labelledby="picot-title">
+  <title id="picot-title">PICOT Framework for DNP Capstone Projects: Population, Intervention, Comparison, Outcome, Time — With PICOT vs PICo Variants and 10 Clinical Examples</title>
+
+  <rect width="800" height="600" fill="#F3F4F6" rx="14"/>
+  <rect width="800" height="64" fill="#1A4D6E" rx="14"/>
+  <rect y="50" width="800" height="14" fill="#1A4D6E"/>
+  <text x="400" y="28" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">PICOT Framework for DNP Capstone Projects</text>
+  <text x="400" y="50" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" fill="#A8C4E0">5 Required Elements · All DNP Specialisation Tracks · Anchors Literature Search + Evaluation Design</text>
+
+  <!-- Rule banner -->
+  <rect x="20" y="74" width="760" height="22" rx="5" fill="#E67E22"/>
+  <text x="400" y="89" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF">PICOT must be specific enough to search in CINAHL/PubMed AND broad enough for 15+ supporting studies to exist</text>
+
+  <!-- 5 PICOT element boxes -->
+  <!-- P -->
+  <rect x="20" y="106" width="144" height="168" rx="7" fill="#1A4D6E"/>
+  <text x="92" y="130" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#FFFFFF">P</text>
+  <text x="92" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#E67E22">POPULATION</text>
+  <text x="32" y="172" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">Specific patient group in</text>
+  <text x="32" y="185" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">a named clinical setting</text>
+  <text x="32" y="202" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#FEF0E1">Must include:</text>
+  <text x="32" y="215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">· Diagnosis / condition</text>
+  <text x="32" y="228" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">· Age range or role</text>
+  <text x="32" y="241" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">· Setting (unit, clinic)</text>
+  <text x="32" y="258" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="700" fill="#FEF0E1">Must match placement access</text>
+
+  <!-- I -->
+  <rect x="172" y="106" width="144" height="168" rx="7" fill="#154060"/>
+  <text x="244" y="130" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#FFFFFF">I</text>
+  <text x="244" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#E67E22">INTERVENTION</text>
+  <text x="184" y="172" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">The practice change being</text>
+  <text x="184" y="185" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">implemented or tested</text>
+  <text x="184" y="202" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#FEF0E1">Must include:</text>
+  <text x="184" y="215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">· Protocol name + source</text>
+  <text x="184" y="228" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">· Delivery format</text>
+  <text x="184" y="241" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">· Who delivers it</text>
+  <text x="184" y="258" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="700" fill="#FEF0E1">Specific enough to replicate</text>
+
+  <!-- C -->
+  <rect x="324" y="106" width="144" height="168" rx="7" fill="#E67E22"/>
+  <text x="396" y="130" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#FFFFFF">C</text>
+  <text x="396" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#1A4D6E">COMPARISON</text>
+  <text x="336" y="172" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">Current standard or</text>
+  <text x="336" y="185" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">historical baseline rate</text>
+  <text x="336" y="202" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#FEF0E1">For QI projects:</text>
+  <text x="336" y="215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">· Pre-implementation data</text>
+  <text x="336" y="228" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">· Extracted from EHR</text>
+  <text x="336" y="241" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">· 4–8 weeks of baseline</text>
+  <text x="336" y="258" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="700" fill="#FEF0E1">Sets the measurement anchor</text>
+
+  <!-- O -->
+  <rect x="476" y="106" width="144" height="168" rx="7" fill="#CA6F1E"/>
+  <text x="548" y="130" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#FFFFFF">O</text>
+  <text x="548" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">OUTCOME</text>
+  <text x="488" y="172" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">Measurable clinical metric</text>
+  <text x="488" y="185" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">with baseline + target</text>
+  <text x="488" y="202" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#FEF0E1">Examples:</text>
+  <text x="488" y="215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">· CAUTI per 1,000 cath-days</text>
+  <text x="488" y="228" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">· PHQ-9 score (MCID=5 pts)</text>
+  <text x="488" y="241" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#FFFFFF">· HbA1c % at goal</text>
+  <text x="488" y="258" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="700" fill="#FEF0E1">Must be measurable — not vague</text>
+
+  <!-- T -->
+  <rect x="628" y="106" width="152" height="168" rx="7" fill="#1A4D6E"/>
+  <text x="704" y="130" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#FFFFFF">T</text>
+  <text x="704" y="152" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#E67E22">TIME</text>
+  <text x="640" y="172" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">Two elements required:</text>
+  <text x="640" y="190" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#FEF0E1">1. Implementation period</text>
+  <text x="640" y="203" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">How long the intervention</text>
+  <text x="640" y="216" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">runs (8–12 wks typical)</text>
+  <text x="640" y="232" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#FEF0E1">2. Measurement window</text>
+  <text x="640" y="245" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#E8F0F7">Baseline + post measure</text>
+  <text x="640" y="258" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="700" fill="#FEF0E1">Both must be stated</text>
+
+  <!-- Variants section -->
+  <rect x="20" y="286" width="760" height="20" rx="4" fill="#1A4D6E"/>
+  <text x="400" y="300" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">PICOT VARIANTS — Choose the correct framework for your project type</text>
+
+  <rect x="20" y="314" width="232" height="100" rx="6" fill="#FFFFFF" stroke="#1A4D6E" stroke-width="1.5"/>
+  <rect x="20" y="314" width="232" height="22" rx="6" fill="#1A4D6E"/>
+  <rect x="20" y="326" width="232" height="10" fill="#1A4D6E"/>
+  <text x="136" y="329" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#E67E22">PICOT (quantitative — most common)</text>
+  <text x="32" y="348" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Use for: QI, EBP implementation, program</text>
+  <text x="32" y="362" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">evaluation with numeric outcomes (~90% of DNP)</text>
+  <text x="32" y="378" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Outcome = rate, %, validated scale score</text>
+  <text x="32" y="396" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#1A4D6E">Decision: Is outcome measurable as a number? → PICOT</text>
+
+  <rect x="264" y="314" width="232" height="100" rx="6" fill="#FFFFFF" stroke="#E67E22" stroke-width="1.5"/>
+  <rect x="264" y="314" width="232" height="22" rx="6" fill="#E67E22"/>
+  <rect x="264" y="326" width="232" height="10" fill="#E67E22"/>
+  <text x="380" y="329" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">PICo (qualitative)</text>
+  <text x="276" y="348" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Population · phenomenon of Interest · Context</text>
+  <text x="276" y="362" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Use for: lived experience, perceptions, meaning</text>
+  <text x="276" y="378" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">No Comparison or Time elements</text>
+  <text x="276" y="396" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#CA6F1E">Decision: Is outcome an experience/perception? → PICo</text>
+
+  <rect x="508" y="314" width="272" height="100" rx="6" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="1.5"/>
+  <rect x="508" y="314" width="272" height="22" rx="6" fill="#6B7280"/>
+  <rect x="508" y="326" width="272" height="10" fill="#6B7280"/>
+  <text x="644" y="329" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">SPIDER (qualitative systematic reviews)</text>
+  <text x="520" y="348" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Sample · Phenomenon of Interest · Design</text>
+  <text x="520" y="362" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Evaluation · Research type</text>
+  <text x="520" y="378" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#374151">Use for: qualitative literature searches only</text>
+  <text x="520" y="396" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#6B7280">Rarely used as primary project question format</text>
+
+  <!-- Common errors -->
+  <rect x="20" y="428" width="760" height="20" rx="4" fill="#DC2626"/>
+  <text x="400" y="442" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">COMMON PICOT ERRORS — Each causes downstream problems in Chapter 2 and Chapter 3</text>
+
+  <rect x="20" y="456" width="145" height="68" rx="5" fill="#FEF2F2" stroke="#DC2626" stroke-width="1"/>
+  <text x="93" y="470" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#DC2626">Too-broad population</text>
+  <text x="30" y="484" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✗ "adult patients"</text>
+  <text x="30" y="497" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✓ "adults 65+ with T2DM</text>
+  <text x="30" y="510" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">(HbA1c &gt;8%) at FQHC"</text>
+
+  <rect x="173" y="456" width="145" height="68" rx="5" fill="#FEF2F2" stroke="#DC2626" stroke-width="1"/>
+  <text x="246" y="470" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#DC2626">Unmeasurable outcome</text>
+  <text x="183" y="484" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✗ "improve care quality"</text>
+  <text x="183" y="497" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✓ "reduce CAUTI rate</text>
+  <text x="183" y="510" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">from 3.8 to ≤1.5/1,000"</text>
+
+  <rect x="326" y="456" width="145" height="68" rx="5" fill="#FEF2F2" stroke="#DC2626" stroke-width="1"/>
+  <text x="399" y="470" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#DC2626">Missing time element</text>
+  <text x="336" y="484" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✗ duration only</text>
+  <text x="336" y="497" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✓ "over 10-week</text>
+  <text x="336" y="510" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">implementation period"</text>
+
+  <rect x="479" y="456" width="145" height="68" rx="5" fill="#FEF2F2" stroke="#DC2626" stroke-width="1"/>
+  <text x="552" y="470" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#DC2626">Vague intervention</text>
+  <text x="489" y="484" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✗ "improve diabetes care"</text>
+  <text x="489" y="497" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✓ "6-session ADA DSME</text>
+  <text x="489" y="510" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">program with goal-setting"</text>
+
+  <rect x="632" y="456" width="148" height="68" rx="5" fill="#FEF2F2" stroke="#DC2626" stroke-width="1"/>
+  <text x="706" y="470" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" fill="#DC2626">No baseline data</text>
+  <text x="642" y="484" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✗ no local rate cited</text>
+  <text x="642" y="497" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">✓ "from current rate</text>
+  <text x="642" y="510" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" fill="#374151">of 42% (EHR, Q3 2025)"</text>
+
+  <text x="400" y="560" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" fill="#9CA3AF">PICOT drives: Literature search MeSH terms · Inclusion/exclusion criteria · Outcome instrument selection · IRB classification · Evaluation plan design</text>
+</svg>
