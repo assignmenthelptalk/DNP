@@ -44,7 +44,7 @@
     "headingLine1": "Expert",
     "headingHighlight": "DNP Capstone Project Help",
     "headingLine3": "From PICOT to Manuscript",
-    "subtext": "Struggling with your Doctor of Nursing Practice capstone project? Our specialist nursing academics deliver expert support for every stage — PICOT question, literature review, IRB proposal, implementation plan, data analysis, and final manuscript.",
+    "subtext": "Struggling with your Doctor of Nursing Practice capstone project? Our specialist nursing academics deliver expert support for every stage, from PICOT question and literature review through IRB proposal, implementation plan, data analysis, and final manuscript.",
     "primaryCta": {
       "label": "Get Capstone Help Now",
       "href": "#contact"
@@ -72,7 +72,7 @@
     "heading": "Why DNP Students Trust Our Capstone Support",
     "paragraphs": [
       "We specialise exclusively in Doctor of Nursing Practice capstone projects. Every member of our support team has direct experience with DNP program requirements, AACN Essentials alignment, and the specific methodological demands of practice-focused doctoral projects.",
-      "From developing a defensible PICOT question through writing a committee-ready final manuscript, our specialists understand what DNP faculty advisors and clinical mentors look for — and how to help you meet those expectations at every stage."
+      "From developing a defensible PICOT question through writing a committee-ready final manuscript, our specialists understand what DNP faculty advisors and clinical mentors look for, and how to help you meet those expectations at every stage."
     ],
     "highlights": [
       "DNP-specialist academic writers",
@@ -85,18 +85,18 @@
   "qualifications": {
     "sectionId": "services",
     "heading": "DNP Capstone Services We Provide",
-    "subheading": "Expert support for every component of your DNP capstone project — from the first proposal chapter to the final manuscript defence.",
+    "subheading": "Expert support for every component of your DNP capstone project, from the first proposal chapter to the final manuscript defence.",
     "cards": [
       {
         "icon": "📋",
         "title": "DNP Capstone Project Help",
-        "description": "End-to-end support for your entire Doctor of Nursing Practice capstone project. PICOT development, literature review, IRB proposal, implementation plan, data analysis, and final manuscript — all in one place.",
+        "description": "End-to-end support for your entire Doctor of Nursing Practice capstone project. PICOT development, literature review, IRB proposal, implementation plan, data analysis, and final manuscript, all in one place.",
         "href": "/dnp-capstone-project-help/"
       },
       {
         "icon": "📝",
         "title": "DNP Capstone Proposal Help",
-        "description": "Chapter-by-chapter proposal writing support. Background, significance, PICOT question, literature review, theoretical framework, methodology, IRB plan, and evaluation design — written to pass committee review.",
+        "description": "Chapter-by-chapter proposal writing support. Background, significance, PICOT question, literature review, theoretical framework, methodology, IRB plan, and evaluation design, all written to pass committee review.",
         "href": "/dnp-capstone-proposal-help/"
       },
       {
@@ -114,7 +114,7 @@
       {
         "icon": "🏛️",
         "title": "DNP IRB Proposal Help",
-        "description": "Expert guidance on DNP IRB submissions — QI vs research determination, protocol writing, risk classification, HIPAA compliance, consent waivers, and dual-review navigation.",
+        "description": "Expert guidance on DNP IRB submissions: QI vs research determination, protocol writing, risk classification, HIPAA compliance, consent waivers, and dual-review navigation.",
         "href": "/dnp-irb-proposal-help/"
       },
       {
@@ -178,12 +178,12 @@
       {
         "icon": "🏥",
         "title": "DNP-Only Specialists",
-        "description": "We focus exclusively on Doctor of Nursing Practice capstone projects — not PhD dissertations, not general nursing homework."
+        "description": "We focus exclusively on Doctor of Nursing Practice capstone projects. We don't cover PhD dissertations or general nursing homework."
       },
       {
         "icon": "👩‍⚕️",
         "title": "Track-Specific Writers",
-        "description": "FNP, PMHNP, AGACNP, CRNA, Nurse Executive, Population Health, Informatics — every writer is matched to your specialisation track."
+        "description": "FNP, PMHNP, AGACNP, CRNA, Nurse Executive, Population Health, Informatics. Every writer is matched to your specialisation track."
       },
       {
         "icon": "💬",
@@ -253,7 +253,7 @@
     "items": [
       {
         "question": "What is a DNP capstone project and how is it different from a PhD dissertation?",
-        "answer": "A DNP capstone project is a practice-focused doctoral scholarly project that applies evidence-based practice, quality improvement, or program evaluation methods to address a clinical problem. Unlike a PhD dissertation — which generates new knowledge through primary research — a DNP capstone translates existing evidence into practice change. It does not require original data collection in most cases and is evaluated on practice impact rather than research contribution."
+        "answer": "A DNP capstone project is a practice-focused doctoral scholarly project that applies evidence-based practice, quality improvement, or program evaluation methods to address a clinical problem. Unlike a PhD dissertation, which generates new knowledge through primary research, a DNP capstone translates existing evidence into practice change. It does not require original data collection in most cases and is evaluated on practice impact rather than research contribution."
       },
       {
         "question": "Which DNP specialisation tracks do you support?",
@@ -261,11 +261,11 @@
       },
       {
         "question": "Can you help with just one chapter of my DNP proposal or do I need the full project?",
-        "answer": "You can order help with any individual component — a single proposal chapter, just the PICOT question, just the IRB protocol, or just the data analysis section. You do not need to order the full project. Many students come to us mid-project needing targeted help with one specific deliverable."
+        "answer": "You can order help with any individual component: a single proposal chapter, just the PICOT question, just the IRB protocol, or just the data analysis section. You do not need to order the full project. Many students come to us mid-project needing targeted help with one specific deliverable."
       },
       {
         "question": "Does my DNP capstone project need IRB approval?",
-        "answer": "Most DNP capstone projects are classified as quality improvement (QI) or program evaluation and do NOT require full IRB review under 45 CFR 46 — they qualify for a QI determination or exempt status. However, the determination must be documented. We help you complete the QI determination checklist and, where needed, write the full IRB protocol for exempt or expedited review."
+        "answer": "Most DNP capstone projects are classified as quality improvement (QI) or program evaluation and do NOT require full IRB review under 45 CFR 46; they qualify for a QI determination or exempt status. However, the determination must be documented. We help you complete the QI determination checklist and, where needed, write the full IRB protocol for exempt or expedited review."
       },
       {
         "question": "What EBP frameworks do you work with?",
@@ -279,7 +279,7 @@
   },
   "mission": {
     "heading": "Our Mission",
-    "text": "To give every DNP student — regardless of track, program, or how far behind they feel — access to the doctoral-level expertise that makes the difference between a committee rejection and an approved capstone."
+    "text": "To give every DNP student — regardless of track, program, or how far behind they feel, access to the doctoral-level expertise that makes the difference between a committee rejection and an approved capstone."
   },
   "finalCta": {
     "heading": "Ready to Move Your DNP Capstone Forward?",
