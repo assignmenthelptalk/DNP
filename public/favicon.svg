@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="geometricPrecision">
+
+  <!-- Background rounded square -->
+  <rect width="32" height="32" rx="6" fill="#1A4D6E"/>
+
+  <!-- Orange accent bar at bottom -->
+  <rect x="0" y="27" width="32" height="5" rx="0" fill="#E67E22"/>
+  <rect x="0" y="27" width="32" height="5" fill="#E67E22"/>
+  <!-- Round only bottom corners of accent bar -->
+  <path d="M0 27 h32 v2 q0 3-3 3 H3 q-3 0-3-3 V27z" fill="#E67E22"/>
+
+  <!-- "D" letterform as paths (reliable at all sizes) -->
+  <!-- Vertical stem -->
+  <rect x="7" y="6" width="4" height="18" rx="1" fill="#FFFFFF"/>
+  <!-- Top horizontal -->
+  <rect x="7" y="6" width="11" height="3.5" rx="1" fill="#FFFFFF"/>
+  <!-- Bottom horizontal -->
+  <rect x="7" y="20.5" width="11" height="3.5" rx="1" fill="#FFFFFF"/>
+  <!-- Right curve (approximated with a rounded rect) -->
+  <rect x="14" y="9.5" width="5" height="11" rx="2.5" fill="#FFFFFF"/>
+
+</svg>
