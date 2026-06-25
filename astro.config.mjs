@@ -46,6 +46,10 @@ function getSlug(url) {
 
 export default defineConfig({
   site: 'https://www.dnp-capstone-project.help',
+  redirects: {
+    '/faq-on-dnp-capstone-project-help/': '/',
+    '/blog/': '/',
+  },
   integrations: [
     sitemap({
       serialize(item) {
