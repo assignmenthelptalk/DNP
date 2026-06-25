@@ -30,14 +30,15 @@
     "logoText": "DNP Help",
     "logoHref": "/",
     "navLinks": [
-      { "label": "Services", "href": "#services" },
-      { "label": "About", "href": "#about" },
-      { "label": "How It Works", "href": "#how-it-works" },
-      { "label": "FAQ", "href": "#faq" }
+      { "label": "Services",  "href": "/services/" },
+      { "label": "About Us",  "href": "/about-us/" },
+      { "label": "Samples",   "href": "/samples/" },
+      { "label": "FAQ",       "href": "/faq/" },
+      { "label": "Contact",   "href": "/contact-us/" }
     ],
     "ctaButton": {
       "label": "Get Help Now",
-      "href": "#contact"
+      "href": "/contact-us/"
     }
   },
   "hero": {
@@ -294,25 +295,37 @@
     "description": "The trusted specialist in Doctor of Nursing Practice capstone project support. Helping DNP students across all tracks complete proposals, IRB submissions, and final manuscripts.",
     "columns": [
       {
-        "heading": "Quick Links",
+        "heading": "Company",
         "links": [
-          { "label": "Services",     "href": "#services" },
-          { "label": "About Us",     "href": "#about" },
-          { "label": "How It Works", "href": "#how-it-works" },
-          { "label": "FAQ",          "href": "#faq" }
+          { "label": "About Us",     "href": "/about-us/" },
+          { "label": "Services",     "href": "/services/" },
+          { "label": "Samples",      "href": "/samples/" },
+          { "label": "FAQ",          "href": "/faq/" },
+          { "label": "Contact Us",   "href": "/contact-us/" }
         ]
       },
       {
         "heading": "DNP Services",
         "links": [
           { "label": "DNP Capstone Project Help",      "href": "/dnp-capstone-project-help/" },
-          { "label": "DNP Capstone Proposal Help",   "href": "/dnp-capstone-proposal-help/" },
-          { "label": "DNP PICOT Question Help",      "href": "/dnp-picot-question-help/" },
-          { "label": "DNP Literature Review Help",   "href": "/dnp-literature-review-help/" },
-          { "label": "DNP IRB Proposal Help",        "href": "/dnp-irb-proposal-help/" },
-          { "label": "DNP Implementation Plan Help", "href": "/dnp-implementation-plan-help/" },
-          { "label": "DNP Data Analysis Help",       "href": "/dnp-data-analysis-help/" },
-          { "label": "DNP Capstone Manuscript Help", "href": "/dnp-capstone-manuscript-help/" }
+          { "label": "DNP Capstone Proposal Help",     "href": "/dnp-capstone-proposal-help/" },
+          { "label": "DNP PICOT Question Help",        "href": "/dnp-picot-question-help/" },
+          { "label": "DNP Literature Review Help",     "href": "/dnp-literature-review-help/" },
+          { "label": "DNP IRB Proposal Help",          "href": "/dnp-irb-proposal-help/" },
+          { "label": "DNP Implementation Plan Help",   "href": "/dnp-implementation-plan-help/" },
+          { "label": "DNP Data Analysis Help",         "href": "/dnp-data-analysis-help/" },
+          { "label": "DNP Capstone Manuscript Help",   "href": "/dnp-capstone-manuscript-help/" }
+        ]
+      },
+      {
+        "heading": "Policies",
+        "links": [
+          { "label": "Money Back Guarantee", "href": "/money-back-guarantee/" },
+          { "label": "Our Policy",           "href": "/our-policy/" },
+          { "label": "Refund Policy",        "href": "/refund-policy/" },
+          { "label": "Privacy Policy",       "href": "/privacy-policy/" },
+          { "label": "Terms & Conditions",   "href": "/term-conditions/" },
+          { "label": "Cookie Policy",        "href": "/cookie-policy/" }
         ]
       },
       {
