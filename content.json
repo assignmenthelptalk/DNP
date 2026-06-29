@@ -705,6 +705,181 @@
         { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
       ],
       "contextualQuestion": "Which APA 7th edition rule is giving you trouble — running head, DOI format, level headings, or reference list formatting?"
+    },
+    {
+      "slug": "dnp-vs-phd-nursing",
+      "tier": 2,
+      "title": "DNP vs PhD Nursing",
+      "metaTitle": "DNP vs PhD Nursing: Which Doctorate Is Right for Your Career?",
+      "metaDescription": "Clear comparison of the DNP and PhD in nursing: degree structure, time to completion, admission requirements, career paths, salary, and joint program options.",
+      "h1": "DNP vs PhD Nursing: Choosing the Right Terminal Degree for Your Career",
+      "intro": "The DNP is a practice doctorate; the PhD is a research doctorate. Choosing between them depends on whether you want to implement and evaluate evidence in clinical settings or generate original knowledge through primary research.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "AACN DNP Essentials 2021", "slug": "aacn-dnp-essentials-2021" },
+        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+      ],
+      "contextualQuestion": "Are you choosing between a DNP and PhD program — or have you already enrolled and need capstone support?"
+    },
+    {
+      "slug": "aacn-dnp-essentials-2021",
+      "tier": 2,
+      "title": "AACN DNP Essentials 2021",
+      "metaTitle": "AACN DNP Essentials 2021: The 10 Domains Explained for DNP Students",
+      "metaDescription": "Complete guide to the 2021 AACN Essentials framework for DNP students: all 10 domains, sub-competencies, how they map to DNP capstone projects, and the transition from the 2006 Essentials.",
+      "h1": "AACN DNP Essentials 2021: Understanding the 10 Domains and How They Apply to Your Capstone",
+      "intro": "The 2021 AACN Essentials replaced the 2006 DNP Essentials with a ten-domain competency framework. DNP capstone projects are expected to explicitly demonstrate competency across the domains most relevant to the project type and specialisation track.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP vs PhD Nursing", "slug": "dnp-vs-phd-nursing" },
+        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" },
+        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+      ],
+      "contextualQuestion": "Does your programme use the 2021 AACN Essentials or the 2006 Essentials — and does your capstone require an explicit Essentials alignment section?"
+    },
+    {
+      "slug": "ebp-frameworks-dnp",
+      "tier": 2,
+      "title": "EBP Frameworks for DNP",
+      "metaTitle": "EBP Frameworks for DNP Capstone: Iowa Model, JHNEBP, PARIHS, ACE Star Compared",
+      "metaDescription": "Complete guide to EBP frameworks for DNP capstone projects: Iowa Model 2017, Johns Hopkins EBP Model, PARIHS, ACE Star Model. Selection guide by project type.",
+      "h1": "EBP Frameworks for DNP Capstone Projects: How to Select and Apply the Right Model",
+      "intro": "Selecting the correct EBP framework is a methodological decision that determines your proposal structure and chapter organisation. The Iowa Model, JHNEBP, PARIHS, ACE Star, and Rosswurm and Larrabee each serve different project types.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "AACN DNP Essentials 2021", "slug": "aacn-dnp-essentials-2021" },
+        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
+        { "title": "DNP EBP Implementation Project", "slug": "dnp-ebp-implementation-project" }
+      ],
+      "contextualQuestion": "Which EBP framework does your committee expect — and do you need help mapping each framework stage to your specific project activities?"
+    },
+    {
+      "slug": "picot-framework-explained",
+      "tier": 2,
+      "title": "PICOT Framework Explained",
+      "metaTitle": "PICOT Framework Explained: Every Element at the DNP Level With Examples",
+      "metaDescription": "Deep dive on the PICOT framework for DNP students: what each element requires at doctoral level, PICO vs PICOT vs PICOTS, specificity by degree level, and the most common PICOT errors.",
+      "h1": "PICOT Framework Explained: What Each Element Requires at the DNP Level",
+      "intro": "The PICOT question anchors every DNP capstone project. At the doctoral level, each element requires local data, named protocols, and quantified targets — a degree of specificity that differs substantially from BSN or MSN PICOT format.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
+        { "title": "60 DNP PICOT Question Examples", "slug": "60-dnp-picot-question-examples" },
+        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" }
+      ],
+      "contextualQuestion": "Which PICOT element is giving you difficulty — Population specificity, Intervention detail, Outcome baseline data, or Timeframe?"
+    },
+    {
+      "slug": "systematic-vs-scoping-review",
+      "tier": 2,
+      "title": "Systematic vs Scoping Review for DNP",
+      "metaTitle": "Systematic Review vs Scoping Review vs Integrative Review: DNP Student Guide",
+      "metaDescription": "Clear distinctions between systematic review, scoping review, integrative review, and meta-analysis for DNP students — and what the DNP capstone literature review actually requires.",
+      "h1": "Systematic vs Scoping Review: What Each Is and What the DNP Literature Review Actually Requires",
+      "intro": "The DNP capstone literature review is not a systematic review or scoping review — it is a structured evidence synthesis with PRISMA-inspired documentation. Understanding the distinctions prevents methodological errors that trigger committee revision requests.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
+        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" },
+        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" }
+      ],
+      "contextualQuestion": "Are you writing Chapter 2 and unsure how to structure the literature synthesis — or confused about which review type your programme requires?"
+    },
+    {
+      "slug": "irb-protocol-dnp",
+      "tier": 2,
+      "title": "IRB Protocol for DNP Projects",
+      "metaTitle": "IRB Protocol for DNP Capstone Projects: QI Non-Research, Exempt, Expedited Explained",
+      "metaDescription": "Complete guide to IRB pathways for DNP capstone projects: QI non-research determination, exempt review, expedited review, CITI training, site agreements, and timeline planning.",
+      "h1": "IRB Protocol for DNP Capstone Projects: Choosing the Right Pathway and Avoiding Timeline Delays",
+      "intro": "Most DNP QI projects qualify for QI non-research determination — but that determination must be formally obtained before data collection begins. Misidentifying the IRB pathway or starting data collection early are the two errors that most commonly derail DNP capstone timelines.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP IRB Proposal Help", "slug": "dnp-irb-proposal-help" },
+        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
+        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" }
+      ],
+      "contextualQuestion": "Which IRB pathway does your project require — and have you confirmed it with your faculty chair before submitting?"
+    },
+    {
+      "slug": "statistical-methods-dnp",
+      "tier": 2,
+      "title": "Statistical Methods for DNP Capstone",
+      "metaTitle": "Statistical Methods for DNP Capstone: Test Selection, Effect Size, SPC Charts",
+      "metaDescription": "Statistical test selection guide for DNP capstone projects: paired t-test, Wilcoxon, McNemar, chi-square, SPC and run charts, effect size, MCID reporting — with full APA reporting format examples.",
+      "h1": "Statistical Methods for DNP Capstone Projects: Choosing the Right Test and Reporting Results Correctly",
+      "intro": "The statistical analysis plan must name specific tests. Selecting the correct test requires knowing your data type, design structure, and distribution assumptions. This guide covers every test used in DNP capstones with full reporting format examples.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" },
+        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" },
+        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" }
+      ],
+      "contextualQuestion": "What is your primary outcome data type — continuous, categorical, or count — and what is your design (one-group pre-post, two-group, or time-series)?"
+    },
+    {
+      "slug": "dnp-quality-improvement-project",
+      "tier": 2,
+      "title": "DNP Quality Improvement Project",
+      "metaTitle": "DNP Quality Improvement Project: IHI Model, PDSA Cycles, SPC Charts Explained",
+      "metaDescription": "Complete guide to the DNP QI capstone project: IHI Model for Improvement, PDSA cycle structure, outcome/process/balancing measures, QI vs research distinction, and examples by specialisation track.",
+      "h1": "DNP Quality Improvement Project: IHI Model, PDSA Cycles, and Outcome Measurement",
+      "intro": "The QI project is the most common DNP capstone type. It uses the IHI Model for Improvement and PDSA methodology to close a specific, measurable gap between current clinical performance and an evidence-based benchmark — with SPC monitoring and a documented sustainability plan.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP EBP Implementation Project", "slug": "dnp-ebp-implementation-project" },
+        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
+        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" }
+      ],
+      "contextualQuestion": "What clinical quality gap are you addressing — and do you have baseline data from NHSN, NDNQI, HCAHPS, or your EHR quality reports?"
+    },
+    {
+      "slug": "dnp-ebp-implementation-project",
+      "tier": 2,
+      "title": "DNP EBP Implementation Project",
+      "metaTitle": "DNP EBP Implementation Project: Iowa Model Application, Pre-Post Design, Track Examples",
+      "metaDescription": "Complete guide to the DNP evidence-based practice implementation project: Iowa Model 2017 phase-by-phase application, evidence sufficiency determination, pre-post design, and EBP examples by track.",
+      "h1": "DNP EBP Implementation Project: Applying the Iowa Model From Evidence to Practice Change",
+      "intro": "The EBP implementation project translates an existing evidence base into a defined practice change and evaluates whether it achieves measurable improvements. The Iowa Model structures every phase — from problem identification through sustainability — with each phase mapped explicitly to a capstone chapter.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" },
+        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
+        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" }
+      ],
+      "contextualQuestion": "Which EBP framework does your programme require — and has the evidence sufficiency determination been reached in your literature review?"
+    },
+    {
+      "slug": "dnp-program-evaluation-project",
+      "tier": 2,
+      "title": "DNP Program Evaluation Project",
+      "metaTitle": "DNP Program Evaluation Project: Kirkpatrick Model, Logic Model, IRB Pathways",
+      "metaDescription": "Complete guide to the DNP programme evaluation capstone: Kirkpatrick four-level model, Logic Model, CIPP framework, IRB pathway, validated instruments, and examples by specialisation track.",
+      "h1": "DNP Program Evaluation Project: Kirkpatrick Model and Logic Model Applied to Nursing Education",
+      "intro": "The programme evaluation project assesses whether an existing clinical or educational programme achieves its stated goals. The Kirkpatrick Model evaluates Reaction, Learning, Behaviour, and Results — four increasingly rigorous levels of programme effectiveness evidence.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
+        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
+        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" }
+      ],
+      "contextualQuestion": "What programme are you evaluating — and which Kirkpatrick levels are feasible to collect within your capstone timeline?"
+    },
+    {
+      "slug": "dnp-policy-change-project",
+      "tier": 2,
+      "title": "DNP Policy Change Project",
+      "metaTitle": "DNP Policy Change Project: Kingdon's Multiple Streams, Stakeholder Analysis, Policy Drafting",
+      "metaDescription": "Complete guide to the DNP policy change capstone: Kingdon's Multiple Streams Model, power-interest stakeholder analysis, institutional vs state policy, policy document drafting, and pilot implementation data.",
+      "h1": "DNP Policy Change Project: Kingdon's Multiple Streams and the Institutional Policy Approval Process",
+      "intro": "The policy change project navigates the institutional policy approval pathway to advance a specific practice change — producing a drafted policy, documented stakeholder engagement, and pilot implementation data. Kingdon's Multiple Streams frames the problem, policy, and political streams that must converge for approval.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "AACN DNP Essentials 2021", "slug": "aacn-dnp-essentials-2021" },
+        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" },
+        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" }
+      ],
+      "contextualQuestion": "What policy are you proposing — institutional protocol, credentialing policy, or prescribing policy — and has the policy window been identified?"
     }
   ]
 }
