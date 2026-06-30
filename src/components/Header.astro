@@ -1,19 +1,79 @@
 ---
-const WA_NUMBER = "447916696894";
-const WA_HREF   = `https://wa.me/${WA_NUMBER}`;
+const WA_NUMBER  = "447916696894";
+const WA_HREF    = `https://wa.me/${WA_NUMBER}`;
 const WA_DISPLAY = "+44 7916 696894";
 
-interface NavLink  { label: string; href: string; }
-interface CtaButton { label: string; href: string; }
-
+interface DropdownItem { label: string; href: string; }
+interface NavItem {
+  label: string;
+  href?: string;
+  children?: DropdownItem[];
+}
 interface Props {
   logoText:  string;
   logoHref:  string;
-  navLinks:  NavLink[];
-  ctaButton: CtaButton;
+  ctaButton: { label: string; href: string; };
+  /** Legacy prop — kept for compatibility but nav is now defined below */
+  navLinks?: unknown[];
 }
 
-const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
+const { logoText, logoHref, ctaButton } = Astro.props;
+
+const NAV: NavItem[] = [
+  {
+    label: 'Services',
+    children: [
+      { label: 'DNP Capstone Help',     href: '/dnp-capstone-project-help/' },
+      { label: 'PICOT Question Help',   href: '/dnp-picot-question-help/' },
+      { label: 'Capstone Proposal',     href: '/dnp-capstone-proposal-help/' },
+      { label: 'Literature Review',     href: '/dnp-literature-review-help/' },
+      { label: 'IRB Proposal Help',     href: '/dnp-irb-proposal-help/' },
+      { label: 'Implementation Plan',   href: '/dnp-implementation-plan-help/' },
+      { label: 'Data Analysis',         href: '/dnp-data-analysis-help/' },
+      { label: 'Manuscript Help',       href: '/dnp-capstone-manuscript-help/' },
+      { label: 'PowerPoint Help',       href: '/dnp-powerpoint-presentation-help/' },
+      { label: 'Discussion Board Help', href: '/dnp-discussion-board-help/' },
+    ],
+  },
+  {
+    label: 'By Specialty',
+    children: [
+      { label: 'FNP Capstone',          href: '/dnp-fnp-capstone-help/' },
+      { label: 'PMHNP Capstone',        href: '/dnp-pmhnp-capstone-help/' },
+      { label: 'AGACNP Capstone',       href: '/dnp-agacnp-capstone-help/' },
+      { label: 'CRNA Capstone',         href: '/dnp-crna-capstone-help/' },
+      { label: 'Nurse Executive',       href: '/dnp-nurse-executive-capstone-help/' },
+      { label: 'Population Health',     href: '/dnp-population-health-capstone-help/' },
+      { label: 'Nursing Informatics',   href: '/dnp-nursing-informatics-capstone-help/' },
+      { label: 'BSN Capstone',          href: '/bsn-capstone-project-help/' },
+      { label: 'MSN Capstone',          href: '/msn-capstone-project-help/' },
+    ],
+  },
+  {
+    label: 'By University',
+    children: [
+      { label: 'Grand Canyon University', href: '/dnp-capstone-project-help-grand-canyon-university/' },
+      { label: 'Walden University',       href: '/walden-university-dnp-capstone-help/' },
+      { label: 'Capella University',      href: '/capella-dnp-capstone-help/' },
+      { label: 'Aspen University',        href: '/dnp-capstone-project-help-aspen-university/' },
+    ],
+  },
+  {
+    label: 'Resources',
+    children: [
+      { label: '50 Project Ideas',      href: '/50-dnp-capstone-project-ideas/' },
+      { label: '60 PICOT Examples',     href: '/60-dnp-picot-question-examples/' },
+      { label: 'Project Examples',      href: '/dnp-capstone-project-examples/' },
+      { label: 'DNP vs PhD',            href: '/dnp-vs-phd-nursing/' },
+      { label: 'AACN Essentials 2021',  href: '/aacn-dnp-essentials-2021/' },
+      { label: 'EBP Frameworks',        href: '/ebp-frameworks-dnp/' },
+      { label: 'Statistical Methods',   href: '/statistical-methods-dnp/' },
+      { label: 'IRB Protocol',          href: '/irb-protocol-dnp/' },
+    ],
+  },
+  { label: 'About',   href: '/about-us/' },
+  { label: 'Contact', href: '/contact-us/' },
+];
 ---
 
 <!-- WhatsApp top bar -->
@@ -26,9 +86,7 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
       </svg>
       WhatsApp us: <a href={WA_HREF} class="topbar__wa-link">{WA_DISPLAY}</a>
     </span>
-    <a href={WA_HREF} class="topbar__right" target="_blank" rel="noopener noreferrer">
-      Chat Now &rarr;
-    </a>
+    <a href={WA_HREF} class="topbar__right" target="_blank" rel="noopener noreferrer">Chat Now &rarr;</a>
   </div>
 </div>
 
@@ -36,14 +94,41 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
 <header class="header">
   <div class="container header__inner">
 
-    <!-- Logo -->
     <a href={logoHref} class="header__logo">{logoText}</a>
 
     <!-- Desktop nav -->
     <nav class="header__nav" aria-label="Main navigation">
       <ul class="header__nav-list">
-        {navLinks.map((link) => (
-          <li><a href={link.href} class="header__nav-link">{link.label}</a></li>
+        {NAV.map((item) => (
+          item.children ? (
+            <li class="header__nav-item has-dropdown">
+              <button
+                class="header__nav-link header__nav-trigger"
+                aria-expanded="false"
+                aria-haspopup="true"
+                type="button"
+              >
+                {item.label}
+                <svg class="chevron" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <polyline points="6 9 12 15 18 9"/>
+                </svg>
+              </button>
+              <ul
+                class:list={['header__dropdown', item.children.length > 5 && 'header__dropdown--wide']}
+                role="menu"
+              >
+                {item.children.map((child) => (
+                  <li role="none">
+                    <a href={child.href} class="header__dropdown-link" role="menuitem">{child.label}</a>
+                  </li>
+                ))}
+              </ul>
+            </li>
+          ) : (
+            <li class="header__nav-item">
+              <a href={item.href} class="header__nav-link">{item.label}</a>
+            </li>
+          )
         ))}
       </ul>
     </nav>
@@ -51,7 +136,7 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     <!-- Desktop action buttons -->
     <div class="header__actions">
       <a href={WA_HREF} class="header__wa-btn" target="_blank" rel="noopener noreferrer" aria-label="Contact on WhatsApp">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="18" height="18" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="17" height="17" aria-hidden="true">
           <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
           <path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.558 4.112 1.528 5.837L0 24l6.335-1.508A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.006-1.369l-.36-.214-3.733.888.936-3.618-.235-.372A9.818 9.818 0 1112 21.818z"/>
         </svg>
@@ -61,7 +146,7 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     </div>
 
     <!-- Hamburger (mobile only) -->
-    <button class="header__hamburger" id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+    <button class="header__hamburger" id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu" type="button">
       <span></span><span></span><span></span>
     </button>
 
@@ -74,12 +159,32 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
   <div class="mobile-menu__panel">
     <div class="mobile-menu__top">
       <span class="mobile-menu__logo">{logoText}</span>
-      <button class="mobile-menu__close" id="menu-close" aria-label="Close menu">&times;</button>
+      <button class="mobile-menu__close" id="menu-close" aria-label="Close menu" type="button">&times;</button>
     </div>
     <nav class="mobile-menu__nav" aria-label="Mobile navigation">
       <ul>
-        {navLinks.map((link) => (
-          <li><a href={link.href} class="mobile-menu__link">{link.label}</a></li>
+        {NAV.map((item) => (
+          item.children ? (
+            <li class="mobile-menu__group">
+              <button class="mobile-menu__group-trigger" aria-expanded="false" type="button">
+                <span>{item.label}</span>
+                <svg class="mobile-chevron" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <polyline points="6 9 12 15 18 9"/>
+                </svg>
+              </button>
+              <ul class="mobile-menu__sub">
+                {item.children.map((child) => (
+                  <li>
+                    <a href={child.href} class="mobile-menu__sub-link">{child.label}</a>
+                  </li>
+                ))}
+              </ul>
+            </li>
+          ) : (
+            <li>
+              <a href={item.href} class="mobile-menu__link">{item.label}</a>
+            </li>
+          )
         ))}
       </ul>
     </nav>
@@ -97,12 +202,13 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
 </div>
 
 <script>
-  const toggle   = document.getElementById('menu-toggle')!;
-  const close    = document.getElementById('menu-close')!;
-  const overlay  = document.getElementById('menu-overlay')!;
-  const menu     = document.getElementById('mobile-menu')!;
+  /* ── Mobile drawer ────────────────────────────────────────── */
+  const toggle  = document.getElementById('menu-toggle')!;
+  const closeBtn = document.getElementById('menu-close')!;
+  const overlay = document.getElementById('menu-overlay')!;
+  const menu    = document.getElementById('mobile-menu')!;
 
-  function open() {
+  function openMenu() {
     menu.setAttribute('aria-hidden', 'false');
     menu.classList.add('is-open');
     toggle.setAttribute('aria-expanded', 'true');
@@ -116,12 +222,73 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     document.body.style.overflow = '';
   }
 
-  toggle.addEventListener('click', open);
-  close.addEventListener('click', closeMenu);
+  toggle.addEventListener('click', openMenu);
+  closeBtn.addEventListener('click', closeMenu);
   overlay.addEventListener('click', closeMenu);
 
-  menu.querySelectorAll('.mobile-menu__link, .mobile-menu__wa, .mobile-menu__cta').forEach(el => {
+  /* Close drawer when any leaf link is clicked */
+  menu.querySelectorAll('.mobile-menu__link, .mobile-menu__sub-link, .mobile-menu__wa, .mobile-menu__cta').forEach(el => {
     el.addEventListener('click', closeMenu);
+  });
+
+  /* ── Mobile accordion ─────────────────────────────────────── */
+  document.querySelectorAll<HTMLButtonElement>('.mobile-menu__group-trigger').forEach(trigger => {
+    trigger.addEventListener('click', () => {
+      const isOpen = trigger.getAttribute('aria-expanded') === 'true';
+      /* Close all others first */
+      document.querySelectorAll<HTMLButtonElement>('.mobile-menu__group-trigger').forEach(t => {
+        t.setAttribute('aria-expanded', 'false');
+        (t.closest('.mobile-menu__group') as HTMLElement)?.classList.remove('is-open');
+      });
+      if (!isOpen) {
+        trigger.setAttribute('aria-expanded', 'true');
+        (trigger.closest('.mobile-menu__group') as HTMLElement)?.classList.add('is-open');
+      }
+    });
+  });
+
+  /* ── Desktop dropdowns ────────────────────────────────────── */
+  const dropdownItems = document.querySelectorAll<HTMLElement>('.has-dropdown');
+
+  function closeAll() {
+    dropdownItems.forEach(item => {
+      item.classList.remove('is-open');
+      item.querySelector<HTMLButtonElement>('.header__nav-trigger')?.setAttribute('aria-expanded', 'false');
+    });
+  }
+
+  dropdownItems.forEach(item => {
+    const trigger = item.querySelector<HTMLButtonElement>('.header__nav-trigger')!;
+
+    /* Open on hover */
+    item.addEventListener('mouseenter', () => {
+      closeAll();
+      item.classList.add('is-open');
+      trigger.setAttribute('aria-expanded', 'true');
+    });
+    item.addEventListener('mouseleave', () => {
+      item.classList.remove('is-open');
+      trigger.setAttribute('aria-expanded', 'false');
+    });
+
+    /* Toggle on click (keyboard / touch) */
+    trigger.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const isOpen = item.classList.contains('is-open');
+      closeAll();
+      if (!isOpen) {
+        item.classList.add('is-open');
+        trigger.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+
+  /* Close desktop dropdowns on outside click */
+  document.addEventListener('click', closeAll);
+
+  /* Close on Escape */
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeAll();
   });
 </script>
 
@@ -148,27 +315,10 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     gap: 0.4rem;
   }
 
-  .topbar__wa-icon {
-    width: 14px;
-    height: 14px;
-    color: #25D366;
-    flex-shrink: 0;
-  }
-
-  .topbar__wa-link {
-    color: #25D366;
-    font-weight: 600;
-  }
-
-  .topbar__right {
-    color: #25D366;
-    font-weight: 600;
-    white-space: nowrap;
-  }
-
-  .topbar__right:hover, .topbar__wa-link:hover {
-    text-decoration: underline;
-  }
+  .topbar__wa-icon { width: 14px; height: 14px; color: #25D366; flex-shrink: 0; }
+  .topbar__wa-link { color: #25D366; font-weight: 600; }
+  .topbar__right   { color: #25D366; font-weight: 600; white-space: nowrap; }
+  .topbar__right:hover, .topbar__wa-link:hover { text-decoration: underline; }
 
   /* ── Main header ──────────────────────────────────────────────── */
   .header {
@@ -182,7 +332,7 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
   .header__inner {
     display: flex;
     align-items: center;
-    gap: 1.5rem;
+    gap: 1.25rem;
     height: 4rem;
   }
 
@@ -195,34 +345,120 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     flex-shrink: 0;
   }
 
-  .header__nav { flex: 1; }
+  /* ── Desktop nav ──────────────────────────────────────────────── */
+  .header__nav { flex: 1; overflow: visible; }
 
   .header__nav-list {
     display: flex;
     align-items: center;
-    gap: 0.125rem;
+    gap: 0;
     justify-content: center;
   }
 
+  .header__nav-item { position: relative; }
+
+  /* Shared: both <a> and <button> nav triggers */
   .header__nav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
     color: rgba(255, 255, 255, 0.82);
-    font-size: 0.9rem;
+    font-size: 0.875rem;
     font-weight: 500;
-    padding: 0.375rem 0.7rem;
+    padding: 0.4rem 0.65rem;
     border-radius: 0.25rem;
     transition: color 0.15s, background-color 0.15s;
     white-space: nowrap;
+    cursor: pointer;
+    /* Reset button styles */
+    background: none;
+    border: none;
+    font-family: inherit;
+    line-height: inherit;
   }
 
-  .header__nav-link:hover {
+  .header__nav-link:hover,
+  .has-dropdown.is-open > .header__nav-trigger {
     color: #fff;
     background-color: rgba(255, 255, 255, 0.1);
   }
 
+  .chevron {
+    flex-shrink: 0;
+    transition: transform 0.2s;
+  }
+
+  .has-dropdown.is-open .chevron { transform: rotate(180deg); }
+
+  /* ── Dropdown panel ───────────────────────────────────────────── */
+  .header__dropdown {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 200px;
+    background: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18), 0 2px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.07);
+    padding: 0.5rem;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(-50%) translateY(-6px);
+    transition: opacity 0.18s ease, transform 0.18s ease;
+    z-index: 200;
+  }
+
+  /* Small arrow pointing up */
+  .header__dropdown::before {
+    content: '';
+    position: absolute;
+    top: -6px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid #fff;
+    filter: drop-shadow(0 -1px 1px rgba(0,0,0,0.08));
+  }
+
+  .has-dropdown.is-open .header__dropdown {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateX(-50%) translateY(0);
+  }
+
+  /* Wide (2-column) dropdown for 6+ items */
+  .header__dropdown--wide {
+    min-width: 380px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 0.25rem;
+  }
+
+  .header__dropdown-link {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    color: #1a2d3e;
+    font-size: 0.85rem;
+    font-weight: 500;
+    border-radius: 0.3rem;
+    white-space: nowrap;
+    transition: background-color 0.12s, color 0.12s;
+    border-left: 2px solid transparent;
+  }
+
+  .header__dropdown-link:hover {
+    background-color: #f0f5fa;
+    color: var(--color-primary, #0B2A40);
+    border-left-color: var(--color-accent, #e67e22);
+  }
+
+  /* ── Header actions ───────────────────────────────────────────── */
   .header__actions {
     display: flex;
     align-items: center;
-    gap: 0.625rem;
+    gap: 0.5rem;
     flex-shrink: 0;
   }
 
@@ -230,11 +466,11 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     display: inline-flex;
     align-items: center;
     gap: 0.375rem;
-    padding: 0.5rem 1rem;
+    padding: 0.45rem 0.875rem;
     background-color: #25D366;
     color: #fff;
     font-weight: 600;
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     border-radius: 0.375rem;
     white-space: nowrap;
     transition: background-color 0.15s;
@@ -245,11 +481,11 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
   .header__cta {
     display: inline-flex;
     align-items: center;
-    padding: 0.5rem 1.125rem;
+    padding: 0.45rem 1rem;
     background-color: var(--color-accent);
     color: var(--color-white);
     font-weight: 600;
-    font-size: 0.9rem;
+    font-size: 0.875rem;
     border-radius: 0.375rem;
     white-space: nowrap;
     transition: background-color 0.15s;
@@ -257,6 +493,7 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
 
   .header__cta:hover { background-color: var(--color-accent-dark); }
 
+  /* ── Hamburger ────────────────────────────────────────────────── */
   .header__hamburger {
     display: none;
     flex-direction: column;
@@ -280,7 +517,7 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     transition: transform 0.2s, opacity 0.2s;
   }
 
-  /* ── Mobile drawer ─────────────────────────────────────────────── */
+  /* ── Mobile drawer ────────────────────────────────────────────── */
   .mobile-menu {
     display: none;
     position: fixed;
@@ -300,7 +537,7 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
   .mobile-menu__panel {
     position: relative;
     margin-left: auto;
-    width: min(320px, 85vw);
+    width: min(340px, 90vw);
     height: 100%;
     background: var(--color-primary);
     display: flex;
@@ -323,11 +560,7 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     border-bottom: 1px solid rgba(255,255,255,0.1);
   }
 
-  .mobile-menu__logo {
-    font-size: 1.125rem;
-    font-weight: 800;
-    color: #fff;
-  }
+  .mobile-menu__logo { font-size: 1.125rem; font-weight: 800; color: #fff; }
 
   .mobile-menu__close {
     width: 2rem;
@@ -344,13 +577,10 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     justify-content: center;
   }
 
-  .mobile-menu__nav { padding: 1rem 0; flex: 1; }
+  .mobile-menu__nav { padding: 0.5rem 0; flex: 1; }
+  .mobile-menu__nav > ul { display: flex; flex-direction: column; }
 
-  .mobile-menu__nav ul {
-    display: flex;
-    flex-direction: column;
-  }
-
+  /* Flat link */
   .mobile-menu__link {
     display: block;
     padding: 0.875rem 1.25rem;
@@ -361,11 +591,53 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     transition: background-color 0.15s, color 0.15s;
   }
 
-  .mobile-menu__link:hover {
-    background-color: rgba(255,255,255,0.08);
-    color: #fff;
+  .mobile-menu__link:hover { background-color: rgba(255,255,255,0.08); color: #fff; }
+
+  /* Group (accordion) */
+  .mobile-menu__group-trigger {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.875rem 1.25rem;
+    color: rgba(255,255,255,0.85);
+    font-size: 1rem;
+    font-weight: 500;
+    background: none;
+    border: none;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+    font-family: inherit;
+    cursor: pointer;
+    text-align: left;
+    transition: background-color 0.15s, color 0.15s;
   }
 
+  .mobile-menu__group-trigger:hover { background-color: rgba(255,255,255,0.08); color: #fff; }
+
+  .mobile-chevron { transition: transform 0.22s; flex-shrink: 0; }
+  .mobile-menu__group.is-open .mobile-chevron { transform: rotate(180deg); }
+
+  /* Sub-list */
+  .mobile-menu__sub {
+    display: none;
+    flex-direction: column;
+    background: rgba(0,0,0,0.2);
+  }
+
+  .mobile-menu__group.is-open .mobile-menu__sub { display: flex; }
+
+  .mobile-menu__sub-link {
+    display: block;
+    padding: 0.7rem 1.25rem 0.7rem 2rem;
+    color: rgba(255,255,255,0.75);
+    font-size: 0.9375rem;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    transition: background-color 0.12s, color 0.12s;
+  }
+
+  .mobile-menu__sub-link:hover { background-color: rgba(255,255,255,0.07); color: #fff; }
+
+  /* Bottom CTAs */
   .mobile-menu__ctas {
     padding: 1.25rem;
     display: flex;
@@ -399,8 +671,8 @@ const { logoText, logoHref, navLinks, ctaButton } = Astro.props;
     text-align: center;
   }
 
-  /* ── Responsive ──────────────────────────────────────────────── */
-  @media (max-width: 900px) {
+  /* ── Responsive ───────────────────────────────────────────────── */
+  @media (max-width: 1024px) {
     .header__nav    { display: none; }
     .header__actions { display: none; }
     .header__hamburger { display: flex; }
