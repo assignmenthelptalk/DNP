@@ -240,6 +240,7 @@ const NAV: NavItem[] = [
 
   /* ── Desktop dropdowns ────────────────────────────────────── */
   const dropdownItems = document.querySelectorAll<HTMLElement>('.has-dropdown');
+  let closeTimer: ReturnType<typeof setTimeout> | null = null;
 
   function closeAll() {
     dropdownItems.forEach(item => {
@@ -251,18 +252,23 @@ const NAV: NavItem[] = [
   dropdownItems.forEach(item => {
     const trigger = item.querySelector<HTMLButtonElement>('.header__nav-trigger')!;
 
-    /* Open on hover */
+    /* Open immediately on hover; cancel any pending close */
     item.addEventListener('mouseenter', () => {
+      if (closeTimer) { clearTimeout(closeTimer); closeTimer = null; }
       closeAll();
       item.classList.add('is-open');
       trigger.setAttribute('aria-expanded', 'true');
     });
+
+    /* Delay close by 200 ms so mouse can cross the gap to the panel */
     item.addEventListener('mouseleave', () => {
-      item.classList.remove('is-open');
-      trigger.setAttribute('aria-expanded', 'false');
+      closeTimer = setTimeout(() => {
+        item.classList.remove('is-open');
+        trigger.setAttribute('aria-expanded', 'false');
+      }, 200);
     });
 
-    /* Toggle on click (keyboard / touch) */
+    /* Toggle on click (keyboard / touch / mobile) */
     trigger.addEventListener('click', (e) => {
       e.stopPropagation();
       const isOpen = item.classList.contains('is-open');
@@ -272,6 +278,20 @@ const NAV: NavItem[] = [
         trigger.setAttribute('aria-expanded', 'true');
       }
     });
+
+    /* Keep dropdown alive while mouse is inside the panel */
+    const panel = item.querySelector<HTMLElement>('.header__dropdown');
+    if (panel) {
+      panel.addEventListener('mouseenter', () => {
+        if (closeTimer) { clearTimeout(closeTimer); closeTimer = null; }
+      });
+      panel.addEventListener('mouseleave', () => {
+        closeTimer = setTimeout(() => {
+          item.classList.remove('is-open');
+          trigger.setAttribute('aria-expanded', 'false');
+        }, 200);
+      });
+    }
   });
 
   /* Close desktop dropdowns on outside click */
@@ -380,6 +400,16 @@ const NAV: NavItem[] = [
   }
 
   .has-dropdown.is-open .chevron { transform: rotate(180deg); }
+
+  /* Transparent bridge fills the gap so mouseleave doesn't fire crossing it */
+  .has-dropdown::after {
+    content: '';
+    position: absolute;
+    bottom: -0.5rem;
+    left: 0;
+    right: 0;
+    height: 0.5rem;
+  }
 
   /* ── Dropdown panel ───────────────────────────────────────────── */
   .header__dropdown {
