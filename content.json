@@ -880,6 +880,118 @@
         { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" }
       ],
       "contextualQuestion": "What policy are you proposing — institutional protocol, credentialing policy, or prescribing policy — and has the policy window been identified?"
+    },
+    {
+      "slug": "dnp-fnp-capstone-help",
+      "tier": 2,
+      "title": "FNP DNP Capstone Help",
+      "metaTitle": "FNP DNP Capstone Help: HEDIS, UDS, Chronic Care Model, Iowa Model for Primary Care",
+      "metaDescription": "Family NP DNP capstone support covering PHQ-9 screening, HbA1c control, HEDIS and UDS baseline data, Iowa Model and Chronic Care Model framework selection, and Chapter 3 methodology for primary care QI projects.",
+      "h1": "FNP DNP Capstone Help: Primary Care Quality Gaps, HEDIS Measures, and the Chronic Care Model",
+      "intro": "The FNP DNP capstone leverages EHR quality dashboards, HEDIS and UDS data, and the Chronic Care Model to target chronic disease and preventive care gaps in primary care settings — from HbA1c control in T2DM panels to PHQ-9 screening compliance at FQHC wellness visits.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
+        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" },
+        { "title": "50 DNP Capstone Project Ideas", "slug": "50-dnp-capstone-project-ideas" }
+      ],
+      "contextualQuestion": "What primary care quality gap are you targeting — chronic disease control, preventive screening, or medication adherence — and which EHR system does your site use?"
+    },
+    {
+      "slug": "dnp-pmhnp-capstone-help",
+      "tier": 2,
+      "title": "PMHNP DNP Capstone Help",
+      "metaTitle": "PMHNP DNP Capstone Help: C-SSRS, PHQ-9 Follow-Up, Zero-Suicide, Collaborative Care Model",
+      "metaDescription": "Psychiatric-mental health NP DNP capstone support covering C-SSRS implementation, PHQ-9 follow-up protocols, medication adherence in SMI, trauma-informed care education, and IRB considerations for psychiatric populations.",
+      "h1": "PMHNP DNP Capstone Help: Zero-Suicide Frameworks, C-SSRS Implementation, and Collaborative Care Models",
+      "intro": "The PMHNP DNP capstone addresses the most urgent gaps in mental health care delivery — suicide risk documentation, depression follow-up, antipsychotic adherence in SMI, and trauma-informed care staff education — in settings ranging from integrated primary care to inpatient psychiatry and community mental health.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
+        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" },
+        { "title": "60 DNP PICOT Question Examples", "slug": "60-dnp-picot-question-examples" }
+      ],
+      "contextualQuestion": "What is your PMHNP practice setting — outpatient, inpatient, integrated care, or crisis — and is the project targeting patient outcomes, staff education, or system process compliance?"
+    },
+    {
+      "slug": "dnp-agacnp-capstone-help",
+      "tier": 2,
+      "title": "AGACNP DNP Capstone Help",
+      "metaTitle": "AGACNP DNP Capstone Help: CAUTI, CLABSI, ABCDEF Bundle, NHSN Data, IHI PDSA",
+      "metaDescription": "Adult-gerontology acute care NP DNP capstone support covering CAUTI and CLABSI prevention bundles, ABCDEF bundle implementation, NHSN data access, IHI Model and PDSA methodology, and SPC chart analysis for ICU QI projects.",
+      "h1": "AGACNP DNP Capstone Help: NHSN Benchmarks, HAI Prevention Bundles, and ICU Quality Improvement",
+      "intro": "The AGACNP DNP capstone targets hospital-acquired infections, care bundle compliance, and sepsis protocol adherence in ICU and acute care settings using NHSN SIR data, NDNQI nursing-sensitive indicators, and IHI Model for Improvement methodology.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
+        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
+        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" }
+      ],
+      "contextualQuestion": "What unit are you working in — ICU, step-down, or ED — and which HAI or bundle compliance gap do you have NHSN or quality data for?"
+    },
+    {
+      "slug": "dnp-crna-capstone-help",
+      "tier": 2,
+      "title": "CRNA DNP Capstone Help",
+      "metaTitle": "CRNA DNP Capstone Help: Multimodal Analgesia, PONV Prevention, AIMS Data, ERAS Protocol",
+      "metaDescription": "Nurse anesthesia DNP capstone support covering multimodal analgesia and opioid-sparing protocols, PONV prevention, AIMS data access, ERAS implementation, and statistical analysis for perioperative outcome data.",
+      "h1": "CRNA DNP Capstone Help: Perioperative Quality Projects, AIMS Data, and Opioid-Sparing Protocols",
+      "intro": "The CRNA DNP capstone targets perioperative quality outcomes — opioid consumption reduction, PONV prevention, airway management safety, and PACU throughput — using AIMS intraoperative data and IHI PDSA methodology in the OR, PACU, and NORA settings.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
+        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
+        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" }
+      ],
+      "contextualQuestion": "Which perioperative outcome are you targeting — opioid consumption, PONV, airway management, or PACU throughput — and what AIMS data access have you confirmed with the informatics team?"
+    },
+    {
+      "slug": "dnp-nurse-executive-capstone-help",
+      "tier": 2,
+      "title": "Nurse Executive DNP Capstone Help",
+      "metaTitle": "Nurse Executive DNP Capstone Help: Kotter's 8-Step, HCAHPS, NDNQI, Magnet Model",
+      "metaDescription": "Nurse executive DNP capstone support covering Kotter's 8-Step Change Model, Donabedian S-P-O framework, HCAHPS and NDNQI data interpretation, nurse retention and turnover projects, TeamSTEPPS, and cost-benefit analysis.",
+      "h1": "Nurse Executive DNP Capstone Help: Kotter's Change Model, HCAHPS Improvement, and Nurse Retention Strategy",
+      "intro": "The nurse executive DNP capstone operates at the organisation and system level — targeting HCAHPS scores, nurse voluntary turnover, TeamSTEPPS communication, and nurse manager development using Kotter's 8-Step Change Model, Donabedian S-P-O, and administrative data from HCAHPS quarterly reports and NDNQI.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP Policy Change Project", "slug": "dnp-policy-change-project" },
+        { "title": "DNP Program Evaluation Project", "slug": "dnp-program-evaluation-project" },
+        { "title": "AACN DNP Essentials 2021", "slug": "aacn-dnp-essentials-2021" }
+      ],
+      "contextualQuestion": "What organisational level is your project targeting — unit, department, or system — and which administrative data source (HCAHPS, NDNQI, HR turnover, SAQ) documents the baseline gap?"
+    },
+    {
+      "slug": "dnp-population-health-capstone-help",
+      "tier": 2,
+      "title": "Population Health DNP Capstone Help",
+      "metaTitle": "Population Health DNP Capstone Help: NDPP, SDOH Screening, RE-AIM, Social Ecological Model",
+      "metaDescription": "Population health DNP capstone support covering NDPP implementation, SDOH screening with PRAPARE, Social Ecological Model and RE-AIM framework, CDC Wonder and County Health Rankings data, and IRB considerations for community-based projects.",
+      "h1": "Population Health DNP Capstone Help: NDPP, SDOH Screening, and Community-Level Health Improvement",
+      "intro": "The population health DNP capstone targets upstream determinants of health disparities — prediabetes, hypertension in underserved communities, food insecurity, opioid overdose — using CDC Wonder and County Health Rankings baseline data, PRAPARE screening tools, and the Social Ecological Model as the theoretical framework.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP Policy Change Project", "slug": "dnp-policy-change-project" },
+        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" },
+        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" }
+      ],
+      "contextualQuestion": "What community, population, and health gap are you targeting — and which public health data source (CDC Wonder, County Health Rankings, UDS, BRFSS) documents the local need?"
+    },
+    {
+      "slug": "dnp-nursing-informatics-capstone-help",
+      "tier": 2,
+      "title": "Nursing Informatics DNP Capstone Help",
+      "metaTitle": "Nursing Informatics DNP Capstone Help: CDS Alert Fatigue, EHR Documentation Burden, TAM, HIMSS",
+      "metaDescription": "Nursing informatics DNP capstone support covering CDS alert fatigue reduction, EHR documentation burden, patient portal adoption, Technology Acceptance Model framework, Epic and Cerner analytics data access, and IRB determination for informatics QI projects.",
+      "h1": "Nursing Informatics DNP Capstone Help: Alert Fatigue, Documentation Burden, and Patient Portal Adoption",
+      "intro": "The nursing informatics DNP capstone addresses the unintended consequences of health IT — CDS alert fatigue with 90%+ override rates, EHR documentation burden consuming 25–35% of nursing shift time, and patient portal adoption gaps — using Epic Reporting Workbench or Cerner Discern Analytics data and the Technology Acceptance Model.",
+      "h2Sections": [],
+      "relatedPages": [
+        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
+        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
+        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" }
+      ],
+      "contextualQuestion": "Which health IT problem are you targeting — alert fatigue, documentation burden, patient portal adoption, or telehealth quality — and which EHR platform does your health system use?"
     }
   ]
 }
