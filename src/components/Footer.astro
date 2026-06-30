@@ -1,46 +1,169 @@
 ---
-interface FooterLink {
-  label: string;
-  href: string;
-}
-
-interface FooterColumn {
-  heading: string;
-  links: FooterLink[];
-}
+const EMAIL    = "Assignmenthelptalk@gmail.com";
+const WA_HREF  = "https://wa.me/447916696894";
+const WA_LABEL = "+44 7916 696894";
+const YEAR     = new Date().getFullYear();
 
 interface Props {
-  logoText: string;
-  description: string;
-  columns: FooterColumn[];
-  copyright: string;
+  /** Accepted for backward-compat but nav is self-contained below */
+  logoText?:    string;
+  description?: string;
+  columns?:     unknown[];
+  copyright?:   string;
 }
-
-const { logoText, description, columns, copyright } = Astro.props;
 ---
 
-<footer class="footer">
-  <div class="container footer__main">
-    <div class="footer__brand">
-      <span class="footer__logo">{logoText}</span>
-      <p class="footer__desc">{description}</p>
-    </div>
-    {columns.map((col) => (
+<!-- Organization JSON-LD -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DNP Capstone Project Help",
+  "url": "https://dnpcapstoneproject.help",
+  "logo": "https://dnpcapstoneproject.help/favicon.svg",
+  "email": EMAIL,
+  "telephone": "+447916696894",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+447916696894",
+    "contactType": "customer support",
+    "availableLanguage": "English"
+  },
+  "sameAs": [WA_HREF]
+})} />
+
+<footer class="footer" aria-label="Site footer">
+
+  <!-- Main link grid -->
+  <div class="footer__top">
+    <div class="container footer__grid">
+
+      <!-- Brand + contact -->
+      <div class="footer__brand">
+        <a href="/" class="footer__logo">DNP Help</a>
+        <p class="footer__desc">
+          The trusted specialist in Doctor of Nursing Practice capstone project support.
+          Helping DNP students across all specialisations complete proposals, IRB submissions,
+          literature reviews, and final manuscripts — on time and to committee standard.
+        </p>
+        <ul class="footer__contact">
+          <li>
+            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+            <a href={`mailto:${EMAIL}`} class="footer__contact-link">{EMAIL}</a>
+          </li>
+          <li>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="14" height="14" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.558 4.112 1.528 5.837L0 24l6.335-1.508A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.006-1.369l-.36-.214-3.733.888.936-3.618-.235-.372A9.818 9.818 0 1112 21.818z"/></svg>
+            <a href={WA_HREF} class="footer__contact-link" target="_blank" rel="noopener noreferrer">WhatsApp: {WA_LABEL}</a>
+          </li>
+        </ul>
+        <div class="footer__badges">
+          <span class="footer__badge">PhD &amp; DNP Writers</span>
+          <span class="footer__badge">100% Original</span>
+          <span class="footer__badge">On-Time Guarantee</span>
+          <span class="footer__badge">Confidential</span>
+        </div>
+      </div>
+
+      <!-- DNP Services -->
       <div class="footer__col">
-        <h3 class="footer__col-heading">{col.heading}</h3>
+        <h3 class="footer__col-heading">DNP Services</h3>
         <ul class="footer__links">
-          {col.links.map((link) => (
-            <li>
-              <a href={link.href} class="footer__link">{link.label}</a>
-            </li>
-          ))}
+          <li><a href="/dnp-capstone-project-help/" class="footer__link">DNP Capstone Project Help</a></li>
+          <li><a href="/dnp-capstone-proposal-help/" class="footer__link">DNP Capstone Proposal Help</a></li>
+          <li><a href="/dnp-picot-question-help/" class="footer__link">DNP PICOT Question Help</a></li>
+          <li><a href="/dnp-literature-review-help/" class="footer__link">DNP Literature Review Help</a></li>
+          <li><a href="/dnp-irb-proposal-help/" class="footer__link">DNP IRB Proposal Help</a></li>
+          <li><a href="/dnp-implementation-plan-help/" class="footer__link">DNP Implementation Plan Help</a></li>
+          <li><a href="/dnp-data-analysis-help/" class="footer__link">DNP Data Analysis Help</a></li>
+          <li><a href="/dnp-capstone-manuscript-help/" class="footer__link">DNP Capstone Manuscript Help</a></li>
+          <li><a href="/dnp-powerpoint-presentation-help/" class="footer__link">DNP Defense Presentation Help</a></li>
+          <li><a href="/dnp-discussion-board-help/" class="footer__link">DNP Discussion Board Help</a></li>
         </ul>
       </div>
-    ))}
+
+      <!-- By Specialty -->
+      <div class="footer__col">
+        <h3 class="footer__col-heading">By Specialty</h3>
+        <ul class="footer__links">
+          <li><a href="/dnp-fnp-capstone-help/" class="footer__link">FNP DNP Capstone Help</a></li>
+          <li><a href="/dnp-pmhnp-capstone-help/" class="footer__link">PMHNP DNP Capstone Help</a></li>
+          <li><a href="/dnp-agacnp-capstone-help/" class="footer__link">AGACNP DNP Capstone Help</a></li>
+          <li><a href="/dnp-crna-capstone-help/" class="footer__link">CRNA DNP Capstone Help</a></li>
+          <li><a href="/dnp-nurse-executive-capstone-help/" class="footer__link">Nurse Executive DNP Capstone</a></li>
+          <li><a href="/dnp-population-health-capstone-help/" class="footer__link">Population Health DNP Capstone</a></li>
+          <li><a href="/dnp-nursing-informatics-capstone-help/" class="footer__link">Nursing Informatics DNP Capstone</a></li>
+          <li><a href="/bsn-capstone-project-help/" class="footer__link">BSN Capstone Project Help</a></li>
+          <li><a href="/msn-capstone-project-help/" class="footer__link">MSN Capstone Project Help</a></li>
+        </ul>
+      </div>
+
+      <!-- Resources -->
+      <div class="footer__col">
+        <h3 class="footer__col-heading">Resources</h3>
+        <ul class="footer__links">
+          <li><a href="/50-dnp-capstone-project-ideas/" class="footer__link">50 DNP Capstone Project Ideas</a></li>
+          <li><a href="/60-dnp-picot-question-examples/" class="footer__link">60 DNP PICOT Question Examples</a></li>
+          <li><a href="/dnp-capstone-project-examples/" class="footer__link">DNP Capstone Project Examples</a></li>
+          <li><a href="/dnp-vs-phd-nursing/" class="footer__link">DNP vs PhD in Nursing</a></li>
+          <li><a href="/aacn-dnp-essentials-2021/" class="footer__link">AACN DNP Essentials 2021</a></li>
+          <li><a href="/ebp-frameworks-dnp/" class="footer__link">EBP Frameworks for DNP</a></li>
+          <li><a href="/statistical-methods-dnp/" class="footer__link">Statistical Methods for DNP</a></li>
+          <li><a href="/irb-protocol-dnp/" class="footer__link">IRB Protocol for DNP Projects</a></li>
+        </ul>
+      </div>
+
+      <!-- Company + Policies -->
+      <div class="footer__col">
+        <h3 class="footer__col-heading">Company</h3>
+        <ul class="footer__links">
+          <li><a href="/about-us/" class="footer__link">About Us</a></li>
+          <li><a href="/services/" class="footer__link">All Services</a></li>
+          <li><a href="/samples/" class="footer__link">Writing Samples</a></li>
+          <li><a href="/faq/" class="footer__link">FAQs</a></li>
+          <li><a href="/contact-us/" class="footer__link">Contact Us</a></li>
+        </ul>
+        <h3 class="footer__col-heading footer__col-heading--spaced">Policies</h3>
+        <ul class="footer__links">
+          <li><a href="/money-back-guarantee/" class="footer__link">Money-Back Guarantee</a></li>
+          <li><a href="/our-policy/" class="footer__link">Our Policy</a></li>
+          <li><a href="/privacy-policy/" class="footer__link">Privacy Policy</a></li>
+          <li><a href="/refund-policy/" class="footer__link">Refund Policy</a></li>
+          <li><a href="/term-conditions/" class="footer__link">Terms &amp; Conditions</a></li>
+        </ul>
+      </div>
+
+    </div>
   </div>
+
+  <!-- Trust bar -->
+  <div class="footer__trust">
+    <div class="container footer__trust-inner">
+      <div class="footer__trust-item">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+        PhD &amp; DNP-Qualified Writers
+      </div>
+      <div class="footer__trust-item">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        100% Original &amp; Plagiarism-Free
+      </div>
+      <div class="footer__trust-item">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        On-Time Delivery Guarantee
+      </div>
+      <div class="footer__trust-item">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+        Secure &amp; Confidential
+      </div>
+      <div class="footer__trust-item">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        24/7 Expert Support
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom bar -->
   <div class="footer__bar">
     <div class="container footer__bar-inner">
-      <span>{copyright}</span>
+      <span>&copy; {YEAR} DNP Capstone Project Help. All rights reserved.</span>
       <nav class="footer__legal-nav" aria-label="Legal links">
         <a href="/privacy-policy/" class="footer__legal-link">Privacy Policy</a>
         <a href="/term-conditions/" class="footer__legal-link">Terms &amp; Conditions</a>
@@ -49,67 +172,144 @@ const { logoText, description, columns, copyright } = Astro.props;
       </nav>
     </div>
   </div>
+
 </footer>
 
 <style>
   .footer {
-    background-color: var(--color-bg-dark);
-    color: var(--color-white);
+    background-color: var(--color-bg-dark, #0b1f2e);
+    color: var(--color-white, #fff);
   }
 
-  .footer__main {
+  /* ── Main grid ──────────────────────────────────────────────── */
+  .footer__top {
+    padding: 3.5rem 0 3rem;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+  }
+
+  .footer__grid {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
     gap: 2.5rem;
-    padding-top: 3.5rem;
-    padding-bottom: 3rem;
+    align-items: start;
   }
 
+  /* ── Brand column ───────────────────────────────────────────── */
   .footer__logo {
-    display: block;
+    display: inline-block;
     font-size: 1.375rem;
     font-weight: 800;
-    color: var(--color-white);
-    margin-bottom: 0.875rem;
+    color: #fff;
     letter-spacing: -0.02em;
+    margin-bottom: 0.875rem;
   }
 
   .footer__desc {
-    font-size: 0.9375rem;
-    color: rgba(255, 255, 255, 0.65);
-    line-height: 1.7;
-    max-width: 320px;
+    font-size: 0.9rem;
+    color: rgba(255,255,255,0.62);
+    line-height: 1.75;
+    max-width: 300px;
+    margin-bottom: 1.25rem;
   }
 
-  .footer__col-heading {
+  .footer__contact {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .footer__contact li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: rgba(255,255,255,0.6);
     font-size: 0.875rem;
+  }
+
+  .footer__contact li svg { flex-shrink: 0; color: var(--color-accent, #e67e22); }
+
+  .footer__contact-link {
+    color: rgba(255,255,255,0.75);
+    transition: color 0.15s;
+    word-break: break-all;
+  }
+
+  .footer__contact-link:hover { color: var(--color-accent, #e67e22); }
+
+  .footer__badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .footer__badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.6rem;
+    border-radius: 2rem;
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.12);
+    color: rgba(255,255,255,0.7);
+    white-space: nowrap;
+  }
+
+  /* ── Link columns ───────────────────────────────────────────── */
+  .footer__col-heading {
+    font-size: 0.75rem;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: rgba(255, 255, 255, 0.55);
-    margin-bottom: 1rem;
+    letter-spacing: 0.08em;
+    color: rgba(255,255,255,0.45);
+    margin-bottom: 0.875rem;
   }
+
+  .footer__col-heading--spaced { margin-top: 1.75rem; }
 
   .footer__links {
     display: flex;
     flex-direction: column;
-    gap: 0.625rem;
+    gap: 0.55rem;
   }
 
   .footer__link {
-    font-size: 0.9375rem;
-    color: rgba(255, 255, 255, 0.75);
+    font-size: 0.875rem;
+    color: rgba(255,255,255,0.7);
     transition: color 0.15s;
     line-height: 1.4;
   }
 
-  .footer__link:hover {
-    color: var(--color-accent);
+  .footer__link:hover { color: var(--color-accent, #e67e22); }
+
+  /* ── Trust bar ──────────────────────────────────────────────── */
+  .footer__trust {
+    background: rgba(255,255,255,0.04);
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+    padding: 1rem 0;
   }
 
-  .footer__bar {
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  .footer__trust-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.5rem;
   }
+
+  .footer__trust-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: rgba(255,255,255,0.55);
+    white-space: nowrap;
+  }
+
+  .footer__trust-item svg { color: var(--color-accent, #e67e22); flex-shrink: 0; }
+
+  /* ── Bottom bar ─────────────────────────────────────────────── */
+  .footer__bar { padding: 1rem 0; }
 
   .footer__bar-inner {
     display: flex;
@@ -117,10 +317,8 @@ const { logoText, description, columns, copyright } = Astro.props;
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 0.75rem;
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
-    font-size: 0.875rem;
-    color: rgba(255, 255, 255, 0.45);
+    font-size: 0.8125rem;
+    color: rgba(255,255,255,0.35);
   }
 
   .footer__legal-nav {
@@ -131,49 +329,30 @@ const { logoText, description, columns, copyright } = Astro.props;
   }
 
   .footer__legal-link {
-    font-size: 0.8125rem;
-    color: rgba(255, 255, 255, 0.45);
+    font-size: 0.8rem;
+    color: rgba(255,255,255,0.35);
     transition: color 0.15s;
     white-space: nowrap;
   }
 
-  .footer__legal-link:hover {
-    color: rgba(255, 255, 255, 0.8);
-  }
+  .footer__legal-link:hover { color: rgba(255,255,255,0.7); }
 
+  /* ── Responsive ─────────────────────────────────────────────── */
   @media (max-width: 1200px) {
-    .footer__main {
-      grid-template-columns: 1fr 1fr 1fr 1fr;
-    }
-
-    .footer__brand {
-      grid-column: 1 / -1;
-    }
+    .footer__grid { grid-template-columns: 1fr 1fr 1fr 1fr; }
+    .footer__brand { grid-column: 1 / -1; }
+    .footer__desc { max-width: 100%; }
+    .footer__badges { flex-direction: row; }
   }
 
   @media (max-width: 768px) {
-    .footer__main {
-      grid-template-columns: 1fr 1fr;
-      gap: 2rem;
-    }
-
-    .footer__brand {
-      grid-column: 1 / -1;
-    }
+    .footer__grid { grid-template-columns: 1fr 1fr; gap: 2rem; }
+    .footer__trust-inner { justify-content: flex-start; }
   }
 
   @media (max-width: 480px) {
-    .footer__main {
-      grid-template-columns: 1fr;
-    }
-
-    .footer__brand {
-      grid-column: auto;
-    }
-
-    .footer__bar-inner {
-      flex-direction: column;
-      align-items: flex-start;
-    }
+    .footer__grid { grid-template-columns: 1fr; }
+    .footer__bar-inner { flex-direction: column; align-items: flex-start; }
+    .footer__trust-item { font-size: 0.75rem; }
   }
 </style>
