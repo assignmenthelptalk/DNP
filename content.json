@@ -10,13 +10,34 @@
       "intro": "A Doctor of Nursing Practice capstone project is the culminating scholarly product of your DNP program: a practice-focused, evidence-based practice or quality improvement project that demonstrates doctoral-level competence in translating evidence into sustainable clinical change. Expert support is available for every component across all 13 DNP specialisation tracks.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
-        { "title": "DNP IRB Proposal Help", "slug": "dnp-irb-proposal-help" },
-        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" },
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" },
-        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" }
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        },
+        {
+          "title": "DNP IRB Proposal Help",
+          "slug": "dnp-irb-proposal-help"
+        },
+        {
+          "title": "DNP Implementation Plan Help",
+          "slug": "dnp-implementation-plan-help"
+        },
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        },
+        {
+          "title": "DNP Capstone Manuscript Help",
+          "slug": "dnp-capstone-manuscript-help"
+        }
       ],
       "contextualQuestion": "Which DNP capstone component do you need help with — proposal, literature review, IRB, implementation plan, or final manuscript?",
       "headerImage": {
@@ -24,7 +45,7 @@
         "alt": "DNP capstone project support across all specialisation tracks and project types",
         "title": "DNP Capstone Project Help — Expert Support From PICOT to Manuscript",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -37,9 +58,18 @@
       "intro": "The PICOT question is the anchor of your entire DNP capstone project. It defines the population, intervention, comparison, outcome, and timeframe that shapes every subsequent component. A vague PICOT creates problems that cascade through every chapter of the proposal. Get it right before the literature search begins.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        }
       ],
       "contextualQuestion": "What clinical problem is your DNP capstone addressing — and which patient population or healthcare setting is involved?",
       "headerImage": {
@@ -47,7 +77,7 @@
         "alt": "DNP PICOT question development for capstone projects across clinical specialisation tracks",
         "title": "DNP PICOT Question Help — All 5 Elements, All Tracks",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -60,10 +90,22 @@
       "intro": "The DNP capstone proposal is the formal document that wins committee approval and opens the gate to IRB submission and implementation. Chapter-by-chapter support covers background and PICOT (Chapter 1), theoretical framework and literature review (Chapter 2), and methodology and evaluation design (Chapter 3), at the level of specificity that passes committee review on the first submission.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
-        { "title": "DNP IRB Proposal Help", "slug": "dnp-irb-proposal-help" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        },
+        {
+          "title": "DNP IRB Proposal Help",
+          "slug": "dnp-irb-proposal-help"
+        }
       ],
       "contextualQuestion": "Which chapter of your DNP proposal are you working on — Chapter 1 (background/PICOT), Chapter 2 (framework/literature review), or Chapter 3 (methodology/evaluation)?",
       "headerImage": {
@@ -71,7 +113,7 @@
         "alt": "DNP capstone proposal writing support — chapter by chapter from background to methodology",
         "title": "DNP Capstone Proposal Help — Committee-Ready Writing",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -84,9 +126,18 @@
       "intro": "The DNP capstone literature review is a methodologically documented evidence synthesis — not a summary. Every database searched, every search term used, every appraisal tool applied must be documented with enough detail for replication. Expert support covers search strategy, PRISMA flow, JBI/CASP appraisal, synthesis table construction, and the practice gap statement.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        }
       ],
       "contextualQuestion": "What stage of your literature review are you at — search strategy, critical appraisal, synthesis table, or writing Chapter 2?",
       "headerImage": {
@@ -94,7 +145,7 @@
         "alt": "DNP capstone literature review support from database search through evidence synthesis",
         "title": "DNP Literature Review Help — CINAHL, PubMed, PRISMA, JBI",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -107,9 +158,18 @@
       "intro": "Most DNP QI capstone projects qualify as non-research under 45 CFR 46 and need only a QI determination letter, not a full IRB application. Getting this classification right at the proposal stage saves 4 to 8 weeks of unnecessary review time. Expert support covers QI vs research determination, exempt/expedited protocol writing, HIPAA compliance, and dual IRB navigation.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Implementation Plan Help",
+          "slug": "dnp-implementation-plan-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        }
       ],
       "contextualQuestion": "Has your university or clinical site already determined whether your project needs IRB review — or are you still at the classification stage?",
       "headerImage": {
@@ -117,7 +177,7 @@
         "alt": "DNP capstone IRB proposal navigation — QI determination, exempt, expedited, and HIPAA compliance",
         "title": "DNP IRB Proposal Help — QI vs Research Classification",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -130,9 +190,18 @@
       "intro": "The DNP implementation plan is the operational blueprint for how the practice change will be introduced, monitored, and sustained. It is also a scored rubric element at most universities. Vague plans earn lower marks than specific, operationalised ones. Expert support covers change management framework selection, stakeholder mapping, staff education design, Gantt chart construction, fidelity monitoring, and sustainability planning.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP IRB Proposal Help", "slug": "dnp-irb-proposal-help" },
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" }
+        {
+          "title": "DNP IRB Proposal Help",
+          "slug": "dnp-irb-proposal-help"
+        },
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        }
       ],
       "contextualQuestion": "What type of DNP project are you implementing — quality improvement, EBP implementation, program evaluation, or policy change?",
       "headerImage": {
@@ -140,7 +209,7 @@
         "alt": "DNP capstone implementation plan development — Kotter change model, stakeholder analysis, Gantt chart",
         "title": "DNP Implementation Plan Help — From Stakeholder Buy-In to Sustainability",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -153,9 +222,18 @@
       "intro": "Most DNP capstone data analyses require descriptive statistics plus one primary inferential test, not complex multivariate analysis. The doctoral-level competence is in selecting the correct test for the data type, checking assumptions, reporting results completely, and interpreting both statistical and clinical significance. Expert support covers test selection, SPSS guidance, SPC charting, and results section writing.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" },
-        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+        {
+          "title": "DNP Capstone Manuscript Help",
+          "slug": "dnp-capstone-manuscript-help"
+        },
+        {
+          "title": "DNP Implementation Plan Help",
+          "slug": "dnp-implementation-plan-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        }
       ],
       "contextualQuestion": "What is your primary outcome measure — a rate or percentage, a pre-post scale score change, or patient or staff experience data?",
       "headerImage": {
@@ -163,7 +241,7 @@
         "alt": "DNP capstone data analysis support — paired t-test, SPC charts, thematic analysis, SPSS",
         "title": "DNP Data Analysis Help — Correct Methods, Complete Reporting",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -176,10 +254,22 @@
       "intro": "The DNP final manuscript is the culminating scholarly document of your doctoral program. It is defended before the committee, submitted for degree conferral, and adapted for dissemination. Every section from abstract through implications for practice must meet doctoral-level standards. Expert support is available section by section or for the complete manuscript.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        }
       ],
       "contextualQuestion": "Which section of your DNP final manuscript are you working on — methods, results, discussion, or implications for practice?",
       "headerImage": {
@@ -187,7 +277,7 @@
         "alt": "DNP capstone manuscript writing support — abstract, results, discussion, implications for practice, APA 7",
         "title": "DNP Capstone Manuscript Help — Committee-Ready Final Report",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -200,10 +290,22 @@
       "intro": "We provide expert academic writing and editing support exclusively for Doctor of Nursing Practice students. Every writer holds a DNP or doctoral-level nursing credential and is matched to your specialisation track. Our support covers every component of the DNP program — from the PICOT question in your first capstone semester to the final manuscript defence.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "Services", "slug": "services" },
-        { "title": "Samples", "slug": "samples" },
-        { "title": "Money Back Guarantee", "slug": "money-back-guarantee" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "Services",
+          "slug": "services"
+        },
+        {
+          "title": "Samples",
+          "slug": "samples"
+        },
+        {
+          "title": "Money Back Guarantee",
+          "slug": "money-back-guarantee"
+        }
       ],
       "contextualQuestion": "Ready to get started? Tell us your DNP track and which component you need help with.",
       "headerImage": {
@@ -211,7 +313,7 @@
         "alt": "DNP assignment help service staffed by DNP-credentialed writers matched to your specialisation track",
         "title": "About Our DNP Assignment Help Service",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -224,9 +326,18 @@
       "intro": "Our team is available via WhatsApp, email, and our order form. Share your DNP specialisation track, the component or course assignment you need help with, and your deadline. A track-matched specialist is assigned within 24 hours.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "Services", "slug": "services" },
-        { "title": "FAQ", "slug": "faq" },
-        { "title": "Money Back Guarantee", "slug": "money-back-guarantee" }
+        {
+          "title": "Services",
+          "slug": "services"
+        },
+        {
+          "title": "FAQ",
+          "slug": "faq"
+        },
+        {
+          "title": "Money Back Guarantee",
+          "slug": "money-back-guarantee"
+        }
       ],
       "contextualQuestion": "Not sure what to include in your message? See our FAQ for what to share when you first contact us.",
       "headerImage": {
@@ -234,7 +345,7 @@
         "alt": "Contact our DNP assignment help team by WhatsApp, email or order form",
         "title": "Contact Our DNP Assignment Help Team",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -247,14 +358,38 @@
       "intro": "Support is available for every type of DNP academic assignment — individual capstone deliverables, non-capstone course papers, and track-specific writing matched to your clinical specialisation. You can bring in expert help for a single component or the full project from PICOT question through final manuscript.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
-        { "title": "DNP IRB Proposal Help", "slug": "dnp-irb-proposal-help" },
-        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" },
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" },
-        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        },
+        {
+          "title": "DNP IRB Proposal Help",
+          "slug": "dnp-irb-proposal-help"
+        },
+        {
+          "title": "DNP Implementation Plan Help",
+          "slug": "dnp-implementation-plan-help"
+        },
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        },
+        {
+          "title": "DNP Capstone Manuscript Help",
+          "slug": "dnp-capstone-manuscript-help"
+        }
       ],
       "contextualQuestion": "Which service do you need — capstone deliverable support, non-capstone coursework help, or track-specific writing?",
       "headerImage": {
@@ -262,7 +397,7 @@
         "alt": "DNP assignment help services covering all 8 capstone deliverables and all 13 specialisation tracks",
         "title": "DNP Assignment Help Services",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -275,10 +410,22 @@
       "intro": "Common questions about how our DNP assignment help service works — from how writers are matched to your track to what happens if your committee requests revisions.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "About Us", "slug": "about-us" },
-        { "title": "Services", "slug": "services" },
-        { "title": "Money Back Guarantee", "slug": "money-back-guarantee" },
-        { "title": "Our Policy", "slug": "our-policy" }
+        {
+          "title": "About Us",
+          "slug": "about-us"
+        },
+        {
+          "title": "Services",
+          "slug": "services"
+        },
+        {
+          "title": "Money Back Guarantee",
+          "slug": "money-back-guarantee"
+        },
+        {
+          "title": "Our Policy",
+          "slug": "our-policy"
+        }
       ],
       "contextualQuestion": "Still have a question not answered here? Reach us directly via WhatsApp or the contact form.",
       "headerImage": {
@@ -286,7 +433,7 @@
         "alt": "Frequently asked questions about DNP assignment help — confidentiality, quality, revisions and turnaround",
         "title": "DNP Assignment Help FAQ",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -299,11 +446,26 @@
       "intro": "The samples below are anonymised extracts from DNP capstone work produced at doctoral level, formatted in APA 7th edition, and aligned to AACN 2021 Essentials competency domains. They represent the standard of writing your committee expects at each stage of the capstone.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" },
-        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" }
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        },
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        },
+        {
+          "title": "DNP Capstone Manuscript Help",
+          "slug": "dnp-capstone-manuscript-help"
+        }
       ],
       "contextualQuestion": "Satisfied with the quality? Contact us to get started on your DNP capstone component.",
       "headerImage": {
@@ -311,7 +473,7 @@
         "alt": "Sample DNP capstone writing across PICOT questions, literature review, methodology, results and discussion",
         "title": "DNP Assignment Help Samples",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -324,10 +486,22 @@
       "intro": "These policies govern how we work with every DNP student who uses our service. They cover confidentiality, revision rights, delivery standards, writer credentials, and how we handle your personal and academic information.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "Money Back Guarantee", "slug": "money-back-guarantee" },
-        { "title": "Refund Policy", "slug": "refund-policy" },
-        { "title": "Privacy Policy", "slug": "privacy-policy" },
-        { "title": "FAQ", "slug": "faq" }
+        {
+          "title": "Money Back Guarantee",
+          "slug": "money-back-guarantee"
+        },
+        {
+          "title": "Refund Policy",
+          "slug": "refund-policy"
+        },
+        {
+          "title": "Privacy Policy",
+          "slug": "privacy-policy"
+        },
+        {
+          "title": "FAQ",
+          "slug": "faq"
+        }
       ],
       "contextualQuestion": "Have a question about how a specific policy applies to your order? Contact us before placing.",
       "headerImage": {
@@ -335,7 +509,7 @@
         "alt": "DNP assignment help service policies covering confidentiality, revisions, delivery and writer standards",
         "title": "Our Service Policy",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -348,9 +522,18 @@
       "intro": "This privacy policy explains what personal data we collect when you use our service, how we use it, how long we keep it, and what rights you have over it.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "Cookie Policy", "slug": "cookie-policy" },
-        { "title": "Terms & Conditions", "slug": "term-conditions" },
-        { "title": "Our Policy", "slug": "our-policy" }
+        {
+          "title": "Cookie Policy",
+          "slug": "cookie-policy"
+        },
+        {
+          "title": "Terms & Conditions",
+          "slug": "term-conditions"
+        },
+        {
+          "title": "Our Policy",
+          "slug": "our-policy"
+        }
       ],
       "contextualQuestion": "Questions about your data? Contact us at the details provided in this policy.",
       "headerImage": {
@@ -358,7 +541,7 @@
         "alt": "Privacy policy for DNP Capstone Project Help",
         "title": "Privacy Policy",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -371,9 +554,18 @@
       "intro": "Our refund policy defines when a refund is available, how to request one, and how it is processed. We are committed to delivering work that meets your committee's standards — the revision process is the primary resolution path before a refund is considered.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "Money Back Guarantee", "slug": "money-back-guarantee" },
-        { "title": "Our Policy", "slug": "our-policy" },
-        { "title": "FAQ", "slug": "faq" }
+        {
+          "title": "Money Back Guarantee",
+          "slug": "money-back-guarantee"
+        },
+        {
+          "title": "Our Policy",
+          "slug": "our-policy"
+        },
+        {
+          "title": "FAQ",
+          "slug": "faq"
+        }
       ],
       "contextualQuestion": "Questions about a specific order? Contact us directly before submitting a refund request.",
       "headerImage": {
@@ -381,7 +573,7 @@
         "alt": "Refund policy for DNP assignment help orders",
         "title": "Refund Policy",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -394,10 +586,22 @@
       "intro": "Every DNP assignment help order is backed by our money back guarantee. If we cannot deliver work that meets the agreed standard after the revision process is complete, you are entitled to a refund. Here is exactly what is covered and how it works.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "Refund Policy", "slug": "refund-policy" },
-        { "title": "Our Policy", "slug": "our-policy" },
-        { "title": "FAQ", "slug": "faq" },
-        { "title": "Contact Us", "slug": "contact-us" }
+        {
+          "title": "Refund Policy",
+          "slug": "refund-policy"
+        },
+        {
+          "title": "Our Policy",
+          "slug": "our-policy"
+        },
+        {
+          "title": "FAQ",
+          "slug": "faq"
+        },
+        {
+          "title": "Contact Us",
+          "slug": "contact-us"
+        }
       ],
       "contextualQuestion": "Ready to place your order with confidence? Contact us to get started.",
       "headerImage": {
@@ -405,7 +609,7 @@
         "alt": "Money back guarantee for DNP assignment help orders",
         "title": "Money Back Guarantee",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -418,9 +622,18 @@
       "intro": "These terms and conditions govern your use of our DNP assignment help service. By placing an order, you confirm that you have read, understood, and agreed to these terms.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "Privacy Policy", "slug": "privacy-policy" },
-        { "title": "Refund Policy", "slug": "refund-policy" },
-        { "title": "Our Policy", "slug": "our-policy" }
+        {
+          "title": "Privacy Policy",
+          "slug": "privacy-policy"
+        },
+        {
+          "title": "Refund Policy",
+          "slug": "refund-policy"
+        },
+        {
+          "title": "Our Policy",
+          "slug": "our-policy"
+        }
       ],
       "contextualQuestion": "Questions about these terms? Contact us before placing your order.",
       "headerImage": {
@@ -428,7 +641,7 @@
         "alt": "Terms and conditions for DNP Capstone Project Help",
         "title": "Terms and Conditions",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -441,8 +654,14 @@
       "intro": "This cookie policy explains what cookies are, which cookies our site uses, and how you can control them. We use cookies to keep the site functioning correctly, to understand how visitors use the site, and to support analytics tools.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "Privacy Policy", "slug": "privacy-policy" },
-        { "title": "Terms & Conditions", "slug": "term-conditions" }
+        {
+          "title": "Privacy Policy",
+          "slug": "privacy-policy"
+        },
+        {
+          "title": "Terms & Conditions",
+          "slug": "term-conditions"
+        }
       ],
       "contextualQuestion": "Questions about cookies or your data? See our Privacy Policy for full details.",
       "headerImage": {
@@ -450,7 +669,7 @@
         "alt": "Cookie policy for DNP Capstone Project Help",
         "title": "Cookie Policy",
         "width": 1200,
-        "height": 400
+        "height": 500
       }
     },
     {
@@ -463,12 +682,31 @@
       "intro": "Choosing the right DNP capstone project topic is the first critical decision — and one that shapes every subsequent component, from the literature search to the IRB determination to the implementation timeline. A good topic is clinically significant, methodologically achievable in one to two semesters, supported by an existing evidence base, and measurable with data accessible at your clinical site. These 50 fully developed DNP capstone project ideas cover every major specialisation track and project type, each with a PICOT question starter, recommended project design, and primary data source.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" }
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        }
       ],
-      "contextualQuestion": "Which DNP specialisation track are you in — and do you have a clinical problem or setting in mind yet?"
+      "contextualQuestion": "Which DNP specialisation track are you in — and do you have a clinical problem or setting in mind yet?",
+      "headerImage": {
+        "src": "/images/header_50-dnp-capstone-project-ideas.webp",
+        "alt": "50 DNP Capstone Project Ideas — expert DNP capstone support",
+        "title": "50 DNP Capstone Project Ideas",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "60-dnp-picot-question-examples",
@@ -480,12 +718,31 @@
       "intro": "A well-constructed PICOT question is the anchor of the entire DNP capstone — it defines the scope of the literature search, the design of the implementation plan, the IRB determination, and the outcome measures. These 60 DNP PICOT question examples are organised by specialisation track and clinical area, each with the full PICOT sentence and a breakdown of every element. Use them to calibrate the specificity, measurability, and format your own PICOT question requires.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "50 DNP Capstone Project Ideas", "slug": "50-dnp-capstone-project-ideas" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" }
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "50 DNP Capstone Project Ideas",
+          "slug": "50-dnp-capstone-project-ideas"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        }
       ],
-      "contextualQuestion": "Which specialisation track is your DNP capstone in — and what clinical problem or patient population is your PICOT addressing?"
+      "contextualQuestion": "Which specialisation track is your DNP capstone in — and what clinical problem or patient population is your PICOT addressing?",
+      "headerImage": {
+        "src": "/images/header_60-dnp-picot-question-examples.webp",
+        "alt": "60 DNP PICOT Question Examples — expert DNP capstone support",
+        "title": "60 DNP PICOT Question Examples",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-capstone-project-examples",
@@ -497,12 +754,31 @@
       "intro": "Understanding what a committee-ready DNP capstone project looks like at each stage — proposal, IRB submission, implementation, and final manuscript — is the most effective way to calibrate your own project. These annotated DNP capstone project examples cover the six major project types, with detailed notes on what makes each example work, where common versions of the same project fall short at committee review, and what distinguishes a project that passes on first submission from one that requires major revision.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "50 DNP Capstone Project Ideas", "slug": "50-dnp-capstone-project-ideas" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "50 DNP Capstone Project Ideas",
+          "slug": "50-dnp-capstone-project-ideas"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        }
       ],
-      "contextualQuestion": "Which project type are you working on — quality improvement, EBP implementation, program evaluation, or policy change?"
+      "contextualQuestion": "Which project type are you working on — quality improvement, EBP implementation, program evaluation, or policy change?",
+      "headerImage": {
+        "src": "/images/header_dnp-capstone-project-examples.webp",
+        "alt": "DNP Capstone Project Examples — expert DNP capstone support",
+        "title": "DNP Capstone Project Examples",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "bsn-capstone-project-help",
@@ -514,12 +790,31 @@
       "intro": "The BSN capstone project is the culminating academic requirement of baccalaureate nursing programs — including RN-to-BSN completion programs at Capella, Chamberlain, WGU, and Grand Canyon University. Unlike the DNP capstone, which requires an implemented practice change with pre-post outcome data, the BSN capstone focuses on developing and presenting an evidence-based practice proposal or quality improvement plan, grounded in a systematic literature review. Expert support is available for every BSN capstone format.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "MSN Capstone Project Help", "slug": "msn-capstone-project-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" }
+        {
+          "title": "MSN Capstone Project Help",
+          "slug": "msn-capstone-project-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        }
       ],
-      "contextualQuestion": "Which BSN program are you in — RN-to-BSN completion or traditional BSN — and what format does your capstone require?"
+      "contextualQuestion": "Which BSN program are you in — RN-to-BSN completion or traditional BSN — and what format does your capstone require?",
+      "headerImage": {
+        "src": "/images/header_bsn-capstone-project-help.webp",
+        "alt": "BSN Capstone Project Help — expert DNP capstone support",
+        "title": "BSN Capstone Project Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "msn-capstone-project-help",
@@ -531,12 +826,31 @@
       "intro": "The MSN capstone project is the academic culmination of the Master of Science in Nursing — a scholarly project that applies evidence-based practice, quality improvement methodology, or program evaluation to a defined clinical problem at the graduate level. MSN capstone formats vary by program: Walden requires an MSN scholarly project with PICO question and literature synthesis; Capella requires a comprehensive assessment; GCU requires a master's thesis or project; Chamberlain requires a scholarly project with evidence-based proposal. Expert support is available for every MSN program format.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "BSN Capstone Project Help", "slug": "bsn-capstone-project-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "Walden University DNP Capstone Help", "slug": "walden-university-dnp-capstone-help" }
+        {
+          "title": "BSN Capstone Project Help",
+          "slug": "bsn-capstone-project-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "Walden University DNP Capstone Help",
+          "slug": "walden-university-dnp-capstone-help"
+        }
       ],
-      "contextualQuestion": "Which MSN program are you in — Walden, Capella, Chamberlain, GCU, or another — and what does your capstone require?"
+      "contextualQuestion": "Which MSN program are you in — Walden, Capella, Chamberlain, GCU, or another — and what does your capstone require?",
+      "headerImage": {
+        "src": "/images/header_msn-capstone-project-help.webp",
+        "alt": "MSN Capstone Project Help — expert DNP capstone support",
+        "title": "MSN Capstone Project Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-discussion-board-help",
@@ -548,12 +862,31 @@
       "intro": "DNP discussion board posts are not informal participation — they are graded doctoral-level scholarly writing that must demonstrate synthesis of course readings, application of evidence-based practice concepts, APA 7th edition citation formatting, and the analytical depth expected at the doctoral level. Every DNP program structures discussion boards differently: Walden requires an initial post of 300 to 400 words plus two peer responses; Capella typically requires 250 to 400 words with three to five APA references; GCU requires APA-formatted initial posts with instructor-specified word counts; Chamberlain requires two substantive posts per discussion thread. Expert support is available for all formats.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "MSN Capstone Project Help", "slug": "msn-capstone-project-help" },
-        { "title": "Walden University DNP Capstone Help", "slug": "walden-university-dnp-capstone-help" },
-        { "title": "Services", "slug": "services" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "MSN Capstone Project Help",
+          "slug": "msn-capstone-project-help"
+        },
+        {
+          "title": "Walden University DNP Capstone Help",
+          "slug": "walden-university-dnp-capstone-help"
+        },
+        {
+          "title": "Services",
+          "slug": "services"
+        }
       ],
-      "contextualQuestion": "Which DNP program are you in — and do you need help with an initial post, peer responses, or both?"
+      "contextualQuestion": "Which DNP program are you in — and do you need help with an initial post, peer responses, or both?",
+      "headerImage": {
+        "src": "/images/header_dnp-discussion-board-help.webp",
+        "alt": "DNP Discussion Board Help — expert DNP capstone support",
+        "title": "DNP Discussion Board Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-powerpoint-presentation-help",
@@ -565,12 +898,31 @@
       "intro": "The DNP proposal defense and final project defense both require a formal PowerPoint presentation that summarises the project, demonstrates doctoral-level analytical competence, and holds up under committee questioning. Most programs require 20 to 30 slides for the proposal defense and 25 to 40 slides for the final defense, with APA-formatted citations on every slide that references published evidence. The presentation is not a bullet-point summary of the written document — it is a structured scholarly argument that must stand independently while also aligning precisely with the written proposal or manuscript. Expert support is available for both defense presentations.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+        {
+          "title": "DNP Capstone Manuscript Help",
+          "slug": "dnp-capstone-manuscript-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        }
       ],
-      "contextualQuestion": "Is this for your proposal defense or your final project defense — and which DNP program are you in?"
+      "contextualQuestion": "Is this for your proposal defense or your final project defense — and which DNP program are you in?",
+      "headerImage": {
+        "src": "/images/header_dnp-powerpoint-presentation-help.webp",
+        "alt": "DNP PowerPoint Presentation Help — expert DNP capstone support",
+        "title": "DNP PowerPoint Presentation Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-admission-essay-help",
@@ -582,11 +934,27 @@
       "intro": "The DNP admission essay — variously called a personal statement, goal statement, statement of purpose, or scholarly statement — is the component of the DNP application that admissions committees use to evaluate whether the applicant has the clinical experience, scholarly readiness, and professional focus to succeed in a practice doctorate program. A weak admission essay is the most common reason qualified RN applicants are not admitted to competitive DNP programs. Expert support is available for personal statements, goal statements, and statement of purpose documents for all DNP program application formats.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Letter of Intent Help", "slug": "dnp-letter-of-intent-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "Services", "slug": "services" }
+        {
+          "title": "DNP Letter of Intent Help",
+          "slug": "dnp-letter-of-intent-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "Services",
+          "slug": "services"
+        }
       ],
-      "contextualQuestion": "Which DNP program are you applying to — and does the application require a personal statement, goal statement, or statement of purpose?"
+      "contextualQuestion": "Which DNP program are you applying to — and does the application require a personal statement, goal statement, or statement of purpose?",
+      "headerImage": {
+        "src": "/images/header_dnp-admission-essay-help.webp",
+        "alt": "DNP Admission Essay Help — expert DNP capstone support",
+        "title": "DNP Admission Essay Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-letter-of-intent-help",
@@ -598,11 +966,27 @@
       "intro": "The DNP letter of intent is a formal academic application letter — distinct from a personal statement in its structure and tone — that communicates the applicant's clinical background, scholarly intentions, practice focus, and alignment with the specific DNP program's faculty research interests and program goals. Many DNP programs use the letter of intent as a screening tool before extending faculty interviews or full application review. Expert support is available for letters of intent for all DNP program formats.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Admission Essay Help", "slug": "dnp-admission-essay-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "Services", "slug": "services" }
+        {
+          "title": "DNP Admission Essay Help",
+          "slug": "dnp-admission-essay-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "Services",
+          "slug": "services"
+        }
       ],
-      "contextualQuestion": "Which DNP program requires the letter of intent — and does it specify a word count, format, or specific content requirements?"
+      "contextualQuestion": "Which DNP program requires the letter of intent — and does it specify a word count, format, or specific content requirements?",
+      "headerImage": {
+        "src": "/images/header_dnp-letter-of-intent-help.webp",
+        "alt": "DNP Letter of Intent Help — expert DNP capstone support",
+        "title": "DNP Letter of Intent Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-capstone-project-help-grand-canyon-university",
@@ -614,12 +998,31 @@
       "intro": "Grand Canyon University's Doctor of Nursing Practice program uses the Doctoral Project for Improvement (DPI) framework — a three-part capstone sequence (DNP-955A, DNP-960A, DNP-965A) that runs across three consecutive capstone courses. Unlike standard DNP capstone structures, GCU's DPI requires a specific problem statement format, an operational definition of constructs section, a mandatory theoretical framework chapter, a 12-to-16-week implementation phase, and a direct practice improvement (DPI) outcome measure aligned to the GCU capstone rubric. Expert support is available for all three DPI parts and for all GCU DNP core course assignments (DNP-801A through DNP-840A).",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "DNP IRB Proposal Help", "slug": "dnp-irb-proposal-help" },
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "DNP IRB Proposal Help",
+          "slug": "dnp-irb-proposal-help"
+        },
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        }
       ],
-      "contextualQuestion": "Which GCU DPI part are you working on — DPI Part I (DNP-955A), Part II (DNP-960A), or Part III (DNP-965A)?"
+      "contextualQuestion": "Which GCU DPI part are you working on — DPI Part I (DNP-955A), Part II (DNP-960A), or Part III (DNP-965A)?",
+      "headerImage": {
+        "src": "/images/header_dnp-capstone-project-help-grand-canyon-university.webp",
+        "alt": "DNP Capstone Project Help — Grand Canyon University — expert DNP capstone support",
+        "title": "DNP Capstone Project Help — Grand Canyon University",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-capstone-project-help-aspen-university",
@@ -631,12 +1034,31 @@
       "intro": "Aspen University's Doctor of Nursing Practice program requires a practice improvement scholarly project — a direct practice improvement (DPI) project that demonstrates doctoral-level competence in translating evidence into sustainable clinical change. Aspen's DNP capstone follows the standard three-chapter proposal structure (background and PICOT, literature review and framework, methodology) with an implementation phase and final scholarly manuscript. Expert support is available for every component of the Aspen DNP capstone project.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP IRB Proposal Help", "slug": "dnp-irb-proposal-help" },
-        { "title": "GCU DNP Capstone Help", "slug": "dnp-capstone-project-help-grand-canyon-university" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP IRB Proposal Help",
+          "slug": "dnp-irb-proposal-help"
+        },
+        {
+          "title": "GCU DNP Capstone Help",
+          "slug": "dnp-capstone-project-help-grand-canyon-university"
+        }
       ],
-      "contextualQuestion": "Which component of your Aspen DNP capstone project are you working on — proposal, literature review, IRB, implementation, or manuscript?"
+      "contextualQuestion": "Which component of your Aspen DNP capstone project are you working on — proposal, literature review, IRB, implementation, or manuscript?",
+      "headerImage": {
+        "src": "/images/header_dnp-capstone-project-help-aspen-university.webp",
+        "alt": "DNP Capstone Project Help — Aspen University — expert DNP capstone support",
+        "title": "DNP Capstone Project Help — Aspen University",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "walden-university-dnp-capstone-help",
@@ -648,12 +1070,31 @@
       "intro": "Walden University's Doctor of Nursing Practice program is one of the most widely enrolled DNP programs in the United States, with a capstone structure that uses a DNP scholarly project sequence running through the NURS-8000 series and culminating in the NURS-6600 capstone practicum. Walden's DNP scholarly project follows a five-section format — introduction and background, literature review, project design, evaluation plan, and scholarly project manuscript — with a heavy emphasis on social change framing and a Walden-specific manuscript template. Expert support is available for the full scholarly project and all Walden DNP course assignments.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "DNP Discussion Board Help", "slug": "dnp-discussion-board-help" },
-        { "title": "MSN Capstone Project Help", "slug": "msn-capstone-project-help" },
-        { "title": "Capella DNP Capstone Help", "slug": "capella-dnp-capstone-help" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "DNP Discussion Board Help",
+          "slug": "dnp-discussion-board-help"
+        },
+        {
+          "title": "MSN Capstone Project Help",
+          "slug": "msn-capstone-project-help"
+        },
+        {
+          "title": "Capella DNP Capstone Help",
+          "slug": "capella-dnp-capstone-help"
+        }
       ],
-      "contextualQuestion": "Which Walden DNP course or capstone component are you working on — and do you need help with a discussion post, assignment, or capstone section?"
+      "contextualQuestion": "Which Walden DNP course or capstone component are you working on — and do you need help with a discussion post, assignment, or capstone section?",
+      "headerImage": {
+        "src": "/images/header_walden-university-dnp-capstone-help.webp",
+        "alt": "Walden University DNP Capstone Help — expert DNP capstone support",
+        "title": "Walden University DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "capella-dnp-capstone-help",
@@ -665,12 +1106,31 @@
       "intro": "Capella University's Doctor of Nursing Practice program offers two learning formats — FlexPath (self-paced competency-based) and GuidedPath (structured quarterly terms) — each with a distinct capstone structure and deliverable format. Capella DNP capstones use a comprehensive assessment model in which each course culminates in a performance-based assessment graded against a detailed scoring guide. The DNP capstone sequence runs through NUR-700 (Theory Selection), NUR-7045 (Scholarly Project I), and NURS-FPX-9901 (Nursing Doctoral Project). Expert support is available for all Capella DNP assessments and capstone components.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "Walden University DNP Capstone Help", "slug": "walden-university-dnp-capstone-help" },
-        { "title": "GCU DNP Capstone Help", "slug": "dnp-capstone-project-help-grand-canyon-university" },
-        { "title": "BSN Capstone Project Help", "slug": "bsn-capstone-project-help" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "Walden University DNP Capstone Help",
+          "slug": "walden-university-dnp-capstone-help"
+        },
+        {
+          "title": "GCU DNP Capstone Help",
+          "slug": "dnp-capstone-project-help-grand-canyon-university"
+        },
+        {
+          "title": "BSN Capstone Project Help",
+          "slug": "bsn-capstone-project-help"
+        }
       ],
-      "contextualQuestion": "Which Capella DNP course or capstone assessment are you working on — and are you in FlexPath or GuidedPath?"
+      "contextualQuestion": "Which Capella DNP course or capstone assessment are you working on — and are you in FlexPath or GuidedPath?",
+      "headerImage": {
+        "src": "/images/header_capella-dnp-capstone-help.webp",
+        "alt": "Capella DNP Capstone Help — expert DNP capstone support",
+        "title": "Capella DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "orders",
@@ -682,12 +1142,31 @@
       "intro": "Getting started is straightforward. Share your DNP specialisation track, the capstone component you need help with, your university program and degree level, and your deadline. A specialist matched to your specific track is assigned within 24 hours. All orders include unlimited revisions until the deliverable meets your committee's standards.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" },
-        { "title": "Services", "slug": "services" },
-        { "title": "Contact Us", "slug": "contact-us" },
-        { "title": "FAQ", "slug": "faq" }
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        },
+        {
+          "title": "Services",
+          "slug": "services"
+        },
+        {
+          "title": "Contact Us",
+          "slug": "contact-us"
+        },
+        {
+          "title": "FAQ",
+          "slug": "faq"
+        }
       ],
-      "contextualQuestion": "Ready to place your order? Use the form above or contact us directly to get started."
+      "contextualQuestion": "Ready to place your order? Use the form above or contact us directly to get started.",
+      "headerImage": {
+        "src": "/images/header_orders.webp",
+        "alt": "Place Your Order — expert DNP capstone support",
+        "title": "Place Your Order",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "apa-7th-edition-dnp",
@@ -699,12 +1178,31 @@
       "intro": "APA 7th edition is the required formatting standard for all DNP capstone proposals, scholarly manuscripts, and course assignments. The 7th edition (published 2020) introduced significant changes from APA 6th edition that still create errors in DNP proposals — most notably the elimination of the running head for student papers, the change to DOI format (doi.org links replace DOI numbers), the new seventh hanging indent standard, and the updated reference format for journal articles without DOIs. This guide covers every APA 7th edition rule that applies directly to DNP capstone writing.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+        {
+          "title": "DNP Capstone Manuscript Help",
+          "slug": "dnp-capstone-manuscript-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        }
       ],
-      "contextualQuestion": "Which APA 7th edition rule is giving you trouble — running head, DOI format, level headings, or reference list formatting?"
+      "contextualQuestion": "Which APA 7th edition rule is giving you trouble — running head, DOI format, level headings, or reference list formatting?",
+      "headerImage": {
+        "src": "/images/header_apa-7th-edition-dnp.webp",
+        "alt": "APA 7th Edition for DNP Students — expert DNP capstone support",
+        "title": "APA 7th Edition for DNP Students",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-vs-phd-nursing",
@@ -716,10 +1214,23 @@
       "intro": "The DNP is a practice doctorate; the PhD is a research doctorate. Choosing between them depends on whether you want to implement and evaluate evidence in clinical settings or generate original knowledge through primary research.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "AACN DNP Essentials 2021", "slug": "aacn-dnp-essentials-2021" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+        {
+          "title": "AACN DNP Essentials 2021",
+          "slug": "aacn-dnp-essentials-2021"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        }
       ],
-      "contextualQuestion": "Are you choosing between a DNP and PhD program — or have you already enrolled and need capstone support?"
+      "contextualQuestion": "Are you choosing between a DNP and PhD program — or have you already enrolled and need capstone support?",
+      "headerImage": {
+        "src": "/images/header_dnp-vs-phd-nursing.webp",
+        "alt": "DNP vs PhD Nursing — expert DNP capstone support",
+        "title": "DNP vs PhD Nursing",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "aacn-dnp-essentials-2021",
@@ -731,11 +1242,27 @@
       "intro": "The 2021 AACN Essentials replaced the 2006 DNP Essentials with a ten-domain competency framework. DNP capstone projects are expected to explicitly demonstrate competency across the domains most relevant to the project type and specialisation track.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP vs PhD Nursing", "slug": "dnp-vs-phd-nursing" },
-        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" },
-        { "title": "DNP Capstone Project Help", "slug": "dnp-capstone-project-help" }
+        {
+          "title": "DNP vs PhD Nursing",
+          "slug": "dnp-vs-phd-nursing"
+        },
+        {
+          "title": "EBP Frameworks for DNP",
+          "slug": "ebp-frameworks-dnp"
+        },
+        {
+          "title": "DNP Capstone Project Help",
+          "slug": "dnp-capstone-project-help"
+        }
       ],
-      "contextualQuestion": "Does your programme use the 2021 AACN Essentials or the 2006 Essentials — and does your capstone require an explicit Essentials alignment section?"
+      "contextualQuestion": "Does your programme use the 2021 AACN Essentials or the 2006 Essentials — and does your capstone require an explicit Essentials alignment section?",
+      "headerImage": {
+        "src": "/images/header_aacn-dnp-essentials-2021.webp",
+        "alt": "AACN DNP Essentials 2021 — expert DNP capstone support",
+        "title": "AACN DNP Essentials 2021",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "ebp-frameworks-dnp",
@@ -747,11 +1274,27 @@
       "intro": "Selecting the correct EBP framework is a methodological decision that determines your proposal structure and chapter organisation. The Iowa Model, JHNEBP, PARIHS, ACE Star, and Rosswurm and Larrabee each serve different project types.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "AACN DNP Essentials 2021", "slug": "aacn-dnp-essentials-2021" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
-        { "title": "DNP EBP Implementation Project", "slug": "dnp-ebp-implementation-project" }
+        {
+          "title": "AACN DNP Essentials 2021",
+          "slug": "aacn-dnp-essentials-2021"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        },
+        {
+          "title": "DNP EBP Implementation Project",
+          "slug": "dnp-ebp-implementation-project"
+        }
       ],
-      "contextualQuestion": "Which EBP framework does your committee expect — and do you need help mapping each framework stage to your specific project activities?"
+      "contextualQuestion": "Which EBP framework does your committee expect — and do you need help mapping each framework stage to your specific project activities?",
+      "headerImage": {
+        "src": "/images/header_ebp-frameworks-dnp.webp",
+        "alt": "EBP Frameworks for DNP — expert DNP capstone support",
+        "title": "EBP Frameworks for DNP",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "picot-framework-explained",
@@ -763,11 +1306,27 @@
       "intro": "The PICOT question anchors every DNP capstone project. At the doctoral level, each element requires local data, named protocols, and quantified targets — a degree of specificity that differs substantially from BSN or MSN PICOT format.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "60 DNP PICOT Question Examples", "slug": "60-dnp-picot-question-examples" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" }
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "60 DNP PICOT Question Examples",
+          "slug": "60-dnp-picot-question-examples"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        }
       ],
-      "contextualQuestion": "Which PICOT element is giving you difficulty — Population specificity, Intervention detail, Outcome baseline data, or Timeframe?"
+      "contextualQuestion": "Which PICOT element is giving you difficulty — Population specificity, Intervention detail, Outcome baseline data, or Timeframe?",
+      "headerImage": {
+        "src": "/images/header_picot-framework-explained.webp",
+        "alt": "PICOT Framework Explained — expert DNP capstone support",
+        "title": "PICOT Framework Explained",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "systematic-vs-scoping-review",
@@ -779,11 +1338,27 @@
       "intro": "The DNP capstone literature review is not a systematic review or scoping review — it is a structured evidence synthesis with PRISMA-inspired documentation. Understanding the distinctions prevents methodological errors that trigger committee revision requests.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" },
-        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" }
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        },
+        {
+          "title": "EBP Frameworks for DNP",
+          "slug": "ebp-frameworks-dnp"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        }
       ],
-      "contextualQuestion": "Are you writing Chapter 2 and unsure how to structure the literature synthesis — or confused about which review type your programme requires?"
+      "contextualQuestion": "Are you writing Chapter 2 and unsure how to structure the literature synthesis — or confused about which review type your programme requires?",
+      "headerImage": {
+        "src": "/images/header_systematic-vs-scoping-review.webp",
+        "alt": "Systematic vs Scoping Review for DNP — expert DNP capstone support",
+        "title": "Systematic vs Scoping Review for DNP",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "irb-protocol-dnp",
@@ -795,11 +1370,27 @@
       "intro": "Most DNP QI projects qualify for QI non-research determination — but that determination must be formally obtained before data collection begins. Misidentifying the IRB pathway or starting data collection early are the two errors that most commonly derail DNP capstone timelines.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP IRB Proposal Help", "slug": "dnp-irb-proposal-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" },
-        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" }
+        {
+          "title": "DNP IRB Proposal Help",
+          "slug": "dnp-irb-proposal-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        },
+        {
+          "title": "DNP Implementation Plan Help",
+          "slug": "dnp-implementation-plan-help"
+        }
       ],
-      "contextualQuestion": "Which IRB pathway does your project require — and have you confirmed it with your faculty chair before submitting?"
+      "contextualQuestion": "Which IRB pathway does your project require — and have you confirmed it with your faculty chair before submitting?",
+      "headerImage": {
+        "src": "/images/header_irb-protocol-dnp.webp",
+        "alt": "IRB Protocol for DNP Projects — expert DNP capstone support",
+        "title": "IRB Protocol for DNP Projects",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "statistical-methods-dnp",
@@ -811,11 +1402,27 @@
       "intro": "The statistical analysis plan must name specific tests. Selecting the correct test requires knowing your data type, design structure, and distribution assumptions. This guide covers every test used in DNP capstones with full reporting format examples.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Data Analysis Help", "slug": "dnp-data-analysis-help" },
-        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" },
-        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" }
+        {
+          "title": "DNP Data Analysis Help",
+          "slug": "dnp-data-analysis-help"
+        },
+        {
+          "title": "DNP Capstone Manuscript Help",
+          "slug": "dnp-capstone-manuscript-help"
+        },
+        {
+          "title": "IRB Protocol for DNP",
+          "slug": "irb-protocol-dnp"
+        }
       ],
-      "contextualQuestion": "What is your primary outcome data type — continuous, categorical, or count — and what is your design (one-group pre-post, two-group, or time-series)?"
+      "contextualQuestion": "What is your primary outcome data type — continuous, categorical, or count — and what is your design (one-group pre-post, two-group, or time-series)?",
+      "headerImage": {
+        "src": "/images/header_statistical-methods-dnp.webp",
+        "alt": "Statistical Methods for DNP Capstone — expert DNP capstone support",
+        "title": "Statistical Methods for DNP Capstone",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-quality-improvement-project",
@@ -827,11 +1434,27 @@
       "intro": "The QI project is the most common DNP capstone type. It uses the IHI Model for Improvement and PDSA methodology to close a specific, measurable gap between current clinical performance and an evidence-based benchmark — with SPC monitoring and a documented sustainability plan.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP EBP Implementation Project", "slug": "dnp-ebp-implementation-project" },
-        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
-        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" }
+        {
+          "title": "DNP EBP Implementation Project",
+          "slug": "dnp-ebp-implementation-project"
+        },
+        {
+          "title": "Statistical Methods for DNP",
+          "slug": "statistical-methods-dnp"
+        },
+        {
+          "title": "DNP Implementation Plan Help",
+          "slug": "dnp-implementation-plan-help"
+        }
       ],
-      "contextualQuestion": "What clinical quality gap are you addressing — and do you have baseline data from NHSN, NDNQI, HCAHPS, or your EHR quality reports?"
+      "contextualQuestion": "What clinical quality gap are you addressing — and do you have baseline data from NHSN, NDNQI, HCAHPS, or your EHR quality reports?",
+      "headerImage": {
+        "src": "/images/header_dnp-quality-improvement-project.webp",
+        "alt": "DNP Quality Improvement Project — expert DNP capstone support",
+        "title": "DNP Quality Improvement Project",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-ebp-implementation-project",
@@ -843,11 +1466,27 @@
       "intro": "The EBP implementation project translates an existing evidence base into a defined practice change and evaluates whether it achieves measurable improvements. The Iowa Model structures every phase — from problem identification through sustainability — with each phase mapped explicitly to a capstone chapter.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" },
-        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
-        { "title": "DNP Literature Review Help", "slug": "dnp-literature-review-help" }
+        {
+          "title": "EBP Frameworks for DNP",
+          "slug": "ebp-frameworks-dnp"
+        },
+        {
+          "title": "DNP Quality Improvement Project",
+          "slug": "dnp-quality-improvement-project"
+        },
+        {
+          "title": "DNP Literature Review Help",
+          "slug": "dnp-literature-review-help"
+        }
       ],
-      "contextualQuestion": "Which EBP framework does your programme require — and has the evidence sufficiency determination been reached in your literature review?"
+      "contextualQuestion": "Which EBP framework does your programme require — and has the evidence sufficiency determination been reached in your literature review?",
+      "headerImage": {
+        "src": "/images/header_dnp-ebp-implementation-project.webp",
+        "alt": "DNP EBP Implementation Project — expert DNP capstone support",
+        "title": "DNP EBP Implementation Project",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-program-evaluation-project",
@@ -859,11 +1498,27 @@
       "intro": "The programme evaluation project assesses whether an existing clinical or educational programme achieves its stated goals. The Kirkpatrick Model evaluates Reaction, Learning, Behaviour, and Results — four increasingly rigorous levels of programme effectiveness evidence.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
-        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
-        { "title": "DNP Capstone Manuscript Help", "slug": "dnp-capstone-manuscript-help" }
+        {
+          "title": "DNP Quality Improvement Project",
+          "slug": "dnp-quality-improvement-project"
+        },
+        {
+          "title": "Statistical Methods for DNP",
+          "slug": "statistical-methods-dnp"
+        },
+        {
+          "title": "DNP Capstone Manuscript Help",
+          "slug": "dnp-capstone-manuscript-help"
+        }
       ],
-      "contextualQuestion": "What programme are you evaluating — and which Kirkpatrick levels are feasible to collect within your capstone timeline?"
+      "contextualQuestion": "What programme are you evaluating — and which Kirkpatrick levels are feasible to collect within your capstone timeline?",
+      "headerImage": {
+        "src": "/images/header_dnp-program-evaluation-project.webp",
+        "alt": "DNP Program Evaluation Project — expert DNP capstone support",
+        "title": "DNP Program Evaluation Project",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-policy-change-project",
@@ -875,11 +1530,27 @@
       "intro": "The policy change project navigates the institutional policy approval pathway to advance a specific practice change — producing a drafted policy, documented stakeholder engagement, and pilot implementation data. Kingdon's Multiple Streams frames the problem, policy, and political streams that must converge for approval.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "AACN DNP Essentials 2021", "slug": "aacn-dnp-essentials-2021" },
-        { "title": "DNP Implementation Plan Help", "slug": "dnp-implementation-plan-help" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" }
+        {
+          "title": "AACN DNP Essentials 2021",
+          "slug": "aacn-dnp-essentials-2021"
+        },
+        {
+          "title": "DNP Implementation Plan Help",
+          "slug": "dnp-implementation-plan-help"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        }
       ],
-      "contextualQuestion": "What policy are you proposing — institutional protocol, credentialing policy, or prescribing policy — and has the policy window been identified?"
+      "contextualQuestion": "What policy are you proposing — institutional protocol, credentialing policy, or prescribing policy — and has the policy window been identified?",
+      "headerImage": {
+        "src": "/images/header_dnp-policy-change-project.webp",
+        "alt": "DNP Policy Change Project — expert DNP capstone support",
+        "title": "DNP Policy Change Project",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-fnp-capstone-help",
@@ -891,11 +1562,27 @@
       "intro": "The FNP DNP capstone leverages EHR quality dashboards, HEDIS and UDS data, and the Chronic Care Model to target chronic disease and preventive care gaps in primary care settings — from HbA1c control in T2DM panels to PHQ-9 screening compliance at FQHC wellness visits.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" },
-        { "title": "50 DNP Capstone Project Ideas", "slug": "50-dnp-capstone-project-ideas" }
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "EBP Frameworks for DNP",
+          "slug": "ebp-frameworks-dnp"
+        },
+        {
+          "title": "50 DNP Capstone Project Ideas",
+          "slug": "50-dnp-capstone-project-ideas"
+        }
       ],
-      "contextualQuestion": "What primary care quality gap are you targeting — chronic disease control, preventive screening, or medication adherence — and which EHR system does your site use?"
+      "contextualQuestion": "What primary care quality gap are you targeting — chronic disease control, preventive screening, or medication adherence — and which EHR system does your site use?",
+      "headerImage": {
+        "src": "/images/header_dnp-fnp-capstone-help.webp",
+        "alt": "FNP DNP Capstone Help — expert DNP capstone support",
+        "title": "FNP DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-pmhnp-capstone-help",
@@ -907,11 +1594,27 @@
       "intro": "The PMHNP DNP capstone addresses the most urgent gaps in mental health care delivery — suicide risk documentation, depression follow-up, antipsychotic adherence in SMI, and trauma-informed care staff education — in settings ranging from integrated primary care to inpatient psychiatry and community mental health.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP PICOT Question Help", "slug": "dnp-picot-question-help" },
-        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" },
-        { "title": "60 DNP PICOT Question Examples", "slug": "60-dnp-picot-question-examples" }
+        {
+          "title": "DNP PICOT Question Help",
+          "slug": "dnp-picot-question-help"
+        },
+        {
+          "title": "IRB Protocol for DNP",
+          "slug": "irb-protocol-dnp"
+        },
+        {
+          "title": "60 DNP PICOT Question Examples",
+          "slug": "60-dnp-picot-question-examples"
+        }
       ],
-      "contextualQuestion": "What is your PMHNP practice setting — outpatient, inpatient, integrated care, or crisis — and is the project targeting patient outcomes, staff education, or system process compliance?"
+      "contextualQuestion": "What is your PMHNP practice setting — outpatient, inpatient, integrated care, or crisis — and is the project targeting patient outcomes, staff education, or system process compliance?",
+      "headerImage": {
+        "src": "/images/header_dnp-pmhnp-capstone-help.webp",
+        "alt": "PMHNP DNP Capstone Help — expert DNP capstone support",
+        "title": "PMHNP DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-agacnp-capstone-help",
@@ -923,11 +1626,27 @@
       "intro": "The AGACNP DNP capstone targets hospital-acquired infections, care bundle compliance, and sepsis protocol adherence in ICU and acute care settings using NHSN SIR data, NDNQI nursing-sensitive indicators, and IHI Model for Improvement methodology.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
-        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
-        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" }
+        {
+          "title": "DNP Quality Improvement Project",
+          "slug": "dnp-quality-improvement-project"
+        },
+        {
+          "title": "Statistical Methods for DNP",
+          "slug": "statistical-methods-dnp"
+        },
+        {
+          "title": "IRB Protocol for DNP",
+          "slug": "irb-protocol-dnp"
+        }
       ],
-      "contextualQuestion": "What unit are you working in — ICU, step-down, or ED — and which HAI or bundle compliance gap do you have NHSN or quality data for?"
+      "contextualQuestion": "What unit are you working in — ICU, step-down, or ED — and which HAI or bundle compliance gap do you have NHSN or quality data for?",
+      "headerImage": {
+        "src": "/images/header_dnp-agacnp-capstone-help.webp",
+        "alt": "AGACNP DNP Capstone Help — expert DNP capstone support",
+        "title": "AGACNP DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-crna-capstone-help",
@@ -939,11 +1658,27 @@
       "intro": "The CRNA DNP capstone targets perioperative quality outcomes — opioid consumption reduction, PONV prevention, airway management safety, and PACU throughput — using AIMS intraoperative data and IHI PDSA methodology in the OR, PACU, and NORA settings.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
-        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
-        { "title": "DNP Capstone Proposal Help", "slug": "dnp-capstone-proposal-help" }
+        {
+          "title": "DNP Quality Improvement Project",
+          "slug": "dnp-quality-improvement-project"
+        },
+        {
+          "title": "Statistical Methods for DNP",
+          "slug": "statistical-methods-dnp"
+        },
+        {
+          "title": "DNP Capstone Proposal Help",
+          "slug": "dnp-capstone-proposal-help"
+        }
       ],
-      "contextualQuestion": "Which perioperative outcome are you targeting — opioid consumption, PONV, airway management, or PACU throughput — and what AIMS data access have you confirmed with the informatics team?"
+      "contextualQuestion": "Which perioperative outcome are you targeting — opioid consumption, PONV, airway management, or PACU throughput — and what AIMS data access have you confirmed with the informatics team?",
+      "headerImage": {
+        "src": "/images/header_dnp-crna-capstone-help.webp",
+        "alt": "CRNA DNP Capstone Help — expert DNP capstone support",
+        "title": "CRNA DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-nurse-executive-capstone-help",
@@ -955,11 +1690,27 @@
       "intro": "The nurse executive DNP capstone operates at the organisation and system level — targeting HCAHPS scores, nurse voluntary turnover, TeamSTEPPS communication, and nurse manager development using Kotter's 8-Step Change Model, Donabedian S-P-O, and administrative data from HCAHPS quarterly reports and NDNQI.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Policy Change Project", "slug": "dnp-policy-change-project" },
-        { "title": "DNP Program Evaluation Project", "slug": "dnp-program-evaluation-project" },
-        { "title": "AACN DNP Essentials 2021", "slug": "aacn-dnp-essentials-2021" }
+        {
+          "title": "DNP Policy Change Project",
+          "slug": "dnp-policy-change-project"
+        },
+        {
+          "title": "DNP Program Evaluation Project",
+          "slug": "dnp-program-evaluation-project"
+        },
+        {
+          "title": "AACN DNP Essentials 2021",
+          "slug": "aacn-dnp-essentials-2021"
+        }
       ],
-      "contextualQuestion": "What organisational level is your project targeting — unit, department, or system — and which administrative data source (HCAHPS, NDNQI, HR turnover, SAQ) documents the baseline gap?"
+      "contextualQuestion": "What organisational level is your project targeting — unit, department, or system — and which administrative data source (HCAHPS, NDNQI, HR turnover, SAQ) documents the baseline gap?",
+      "headerImage": {
+        "src": "/images/header_dnp-nurse-executive-capstone-help.webp",
+        "alt": "Nurse Executive DNP Capstone Help — expert DNP capstone support",
+        "title": "Nurse Executive DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-population-health-capstone-help",
@@ -971,11 +1722,27 @@
       "intro": "The population health DNP capstone targets upstream determinants of health disparities — prediabetes, hypertension in underserved communities, food insecurity, opioid overdose — using CDC Wonder and County Health Rankings baseline data, PRAPARE screening tools, and the Social Ecological Model as the theoretical framework.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Policy Change Project", "slug": "dnp-policy-change-project" },
-        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" },
-        { "title": "EBP Frameworks for DNP", "slug": "ebp-frameworks-dnp" }
+        {
+          "title": "DNP Policy Change Project",
+          "slug": "dnp-policy-change-project"
+        },
+        {
+          "title": "IRB Protocol for DNP",
+          "slug": "irb-protocol-dnp"
+        },
+        {
+          "title": "EBP Frameworks for DNP",
+          "slug": "ebp-frameworks-dnp"
+        }
       ],
-      "contextualQuestion": "What community, population, and health gap are you targeting — and which public health data source (CDC Wonder, County Health Rankings, UDS, BRFSS) documents the local need?"
+      "contextualQuestion": "What community, population, and health gap are you targeting — and which public health data source (CDC Wonder, County Health Rankings, UDS, BRFSS) documents the local need?",
+      "headerImage": {
+        "src": "/images/header_dnp-population-health-capstone-help.webp",
+        "alt": "Population Health DNP Capstone Help — expert DNP capstone support",
+        "title": "Population Health DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     },
     {
       "slug": "dnp-nursing-informatics-capstone-help",
@@ -987,11 +1754,27 @@
       "intro": "The nursing informatics DNP capstone addresses the unintended consequences of health IT — CDS alert fatigue with 90%+ override rates, EHR documentation burden consuming 25–35% of nursing shift time, and patient portal adoption gaps — using Epic Reporting Workbench or Cerner Discern Analytics data and the Technology Acceptance Model.",
       "h2Sections": [],
       "relatedPages": [
-        { "title": "DNP Quality Improvement Project", "slug": "dnp-quality-improvement-project" },
-        { "title": "Statistical Methods for DNP", "slug": "statistical-methods-dnp" },
-        { "title": "IRB Protocol for DNP", "slug": "irb-protocol-dnp" }
+        {
+          "title": "DNP Quality Improvement Project",
+          "slug": "dnp-quality-improvement-project"
+        },
+        {
+          "title": "Statistical Methods for DNP",
+          "slug": "statistical-methods-dnp"
+        },
+        {
+          "title": "IRB Protocol for DNP",
+          "slug": "irb-protocol-dnp"
+        }
       ],
-      "contextualQuestion": "Which health IT problem are you targeting — alert fatigue, documentation burden, patient portal adoption, or telehealth quality — and which EHR platform does your health system use?"
+      "contextualQuestion": "Which health IT problem are you targeting — alert fatigue, documentation burden, patient portal adoption, or telehealth quality — and which EHR platform does your health system use?",
+      "headerImage": {
+        "src": "/images/header_dnp-nursing-informatics-capstone-help.webp",
+        "alt": "Nursing Informatics DNP Capstone Help — expert DNP capstone support",
+        "title": "Nursing Informatics DNP Capstone Help",
+        "width": 1200,
+        "height": 500
+      }
     }
   ]
 }
