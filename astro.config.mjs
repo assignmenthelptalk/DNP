@@ -20,20 +20,20 @@ const CORE_T1C = new Set([
 ]);
 
 const CORE_T2_PROJECT_TYPE = new Set([
-  'dnp-quality-improvement-project-help',
-  'dnp-evidence-based-practice-project-help',
-  'dnp-program-evaluation-capstone-help',
-  'dnp-policy-change-project-help',
+  'dnp-quality-improvement-project',
+  'dnp-ebp-implementation-project',
+  'dnp-program-evaluation-project',
+  'dnp-policy-change-project',
 ]);
 
 const CORE_T2_TRACKS = new Set([
-  'fnp-dnp-capstone-project-help',
-  'pmhnp-dnp-capstone-project-help',
-  'agacnp-dnp-capstone-project-help',
-  'crna-dnp-capstone-project-help',
-  'nurse-executive-dnp-capstone-help',
-  'population-health-dnp-capstone-help',
-  'nursing-informatics-dnp-capstone-help',
+  'dnp-fnp-capstone-help',
+  'dnp-pmhnp-capstone-help',
+  'dnp-agacnp-capstone-help',
+  'dnp-crna-capstone-help',
+  'dnp-nurse-executive-capstone-help',
+  'dnp-population-health-capstone-help',
+  'dnp-nursing-informatics-capstone-help',
 ]);
 
 const CORE_T2C = new Set([
@@ -50,13 +50,35 @@ const CORE_T2D = new Set([
 
 const OUTER = new Set([
   'dnp-vs-phd-nursing',
-  'aacn-dnp-essentials-capstone',
-  'ebp-frameworks-dnp-projects',
-  'picot-framework-nursing',
-  'systematic-vs-scoping-review-dnp',
-  'irb-protocol-nursing-projects',
-  'statistical-methods-dnp-capstone',
+  'aacn-dnp-essentials-2021',
+  'ebp-frameworks-dnp',
+  'picot-framework-explained',
+  'systematic-vs-scoping-review',
+  'irb-protocol-dnp',
+  'statistical-methods-dnp',
   'apa-7th-edition-dnp',
+]);
+
+// Tier 0 utility pages — low crawl priority, rarely change
+const UTILITY = new Set([
+  'about-us',
+  'contact-us',
+  'services',
+  'faq',
+  'samples',
+  'our-policy',
+  'privacy-policy',
+  'refund-policy',
+  'money-back-guarantee',
+  'term-conditions',
+  'cookie-policy',
+  'orders',
+]);
+
+// Pages to exclude from sitemap entirely
+const EXCLUDED = new Set([
+  'https://dnpcapstoneproject.help/thank-you/',
+  'https://dnpcapstoneproject.help/orders/signup/',
 ]);
 
 const UNIVERSITY = new Set([
@@ -220,8 +242,10 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
+      filter: (page) => !EXCLUDED.has(page),
       serialize(item) {
         const slug = getSlug(item.url);
+        const today = new Date().toISOString().split('T')[0];
 
         if (slug === '') {
           item.priority = 1.0;
@@ -238,17 +262,21 @@ export default defineConfig({
         } else if (CORE_T2C.has(slug) || CORE_T2D.has(slug)) {
           item.priority = 0.75;
           item.changefreq = 'monthly';
-        } else if (OUTER.has(slug)) {
-          item.priority = 0.65;
-          item.changefreq = 'monthly';
         } else if (UNIVERSITY.has(slug)) {
           item.priority = 0.7;
           item.changefreq = 'monthly';
+        } else if (OUTER.has(slug)) {
+          item.priority = 0.65;
+          item.changefreq = 'monthly';
+        } else if (UTILITY.has(slug)) {
+          item.priority = 0.5;
+          item.changefreq = 'yearly';
         } else {
           item.priority = 0.6;
           item.changefreq = 'monthly';
         }
 
+        item.lastmod = today;
         return item;
       },
     }),
