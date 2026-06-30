@@ -70,7 +70,7 @@ interface SiteConfig {
 }
 
 const { page, config, rawHtml } = Astro.props;
-const { header, finalCta, footer, faq } = config;
+const { header, finalCta, faq } = config;
 
 const faqItems = faq?.items?.slice(0, 4) ?? [];
 ---
@@ -116,6 +116,12 @@ const faqItems = faq?.items?.slice(0, 4) ?? [];
           class="page-article__header-img"
         />
       )}
+      <!-- Table of Contents — auto-generated from article H2s -->
+      <nav class="article-toc" id="article-toc" aria-label="Table of contents" style="display:none">
+        <p class="article-toc__heading">In This Article</p>
+        <ol class="article-toc__list" id="article-toc-list"></ol>
+      </nav>
+
       {rawHtml ? (
         <Fragment set:html={rawHtml} />
       ) : (
@@ -395,4 +401,88 @@ const faqItems = faq?.items?.slice(0, 4) ?? [];
     .wa-float { bottom: 1rem; right: 1rem; padding: 0.75rem; border-radius: 50%; }
     .wa-float__label { display: none; }
   }
+
+  /* ── Table of Contents ──────────────────────────────────────── */
+  .article-toc {
+    background-color: #f4fafa;
+    border: 1.5px solid #2e7878;
+    border-radius: 0.625rem;
+    padding: 1.25rem 1.5rem 1.25rem 1.25rem;
+    margin-bottom: 2rem;
+  }
+  .article-toc__heading {
+    font-size: 0.6875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #2e7878;
+    margin: 0 0 0.75rem;
+  }
+  .article-toc__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: toc-counter;
+  }
+  .article-toc__list li {
+    counter-increment: toc-counter;
+    display: flex;
+    align-items: baseline;
+    gap: 0.625rem;
+    padding: 0.3rem 0;
+    border-bottom: 1px solid rgba(46,120,120,0.12);
+  }
+  .article-toc__list li:last-child { border-bottom: none; }
+  .article-toc__list li::before {
+    content: counter(toc-counter, decimal-leading-zero);
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #2e7878;
+    flex-shrink: 0;
+    min-width: 1.5rem;
+  }
+  .article-toc__list a {
+    font-size: 0.9375rem;
+    color: var(--color-primary, #0B2A40);
+    text-decoration: none;
+    line-height: 1.4;
+    transition: color 0.15s;
+  }
+  .article-toc__list a:hover { color: #2e7878; text-decoration: underline; }
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const toc     = document.getElementById('article-toc');
+    const tocList = document.getElementById('article-toc-list');
+    const article = document.querySelector('.page-article');
+    if (!toc || !tocList || !article) return;
+
+    // Collect all H2 elements inside the article
+    const headings = Array.from(article.querySelectorAll('h2'));
+
+    // Need at least 2 headings to be worth showing a TOC
+    if (headings.length < 2) return;
+
+    headings.forEach((h, i) => {
+      // Assign a slug-style id if the heading doesn't already have one
+      if (!h.id) {
+        const slug = h.textContent
+          .trim()
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-|-$/g, '');
+        h.id = slug || `section-${i}`;
+      }
+      const li = document.createElement('li');
+      const a  = document.createElement('a');
+      a.href        = `#${h.id}`;
+      a.textContent = h.textContent.trim();
+      li.appendChild(a);
+      tocList.appendChild(li);
+    });
+
+    // Show the TOC now that it's populated
+    toc.style.display = '';
+  });
+</script>
