@@ -77,8 +77,8 @@ const UTILITY = new Set([
 
 // Pages to exclude from sitemap entirely
 const EXCLUDED = new Set([
-  'https://dnpcapstoneproject.help/thank-you/',
-  'https://dnpcapstoneproject.help/orders/signup/',
+  'https://www.dnpcapstoneproject.help/thank-you/',
+  'https://www.dnpcapstoneproject.help/orders/signup/',
 ]);
 
 const UNIVERSITY = new Set([
@@ -93,11 +93,17 @@ function getSlug(url) {
 }
 
 export default defineConfig({
-  site: 'https://dnpcapstoneproject.help',
+  site: 'https://www.dnpcapstoneproject.help',
   redirects: {
     // ── Legacy catch-all ────────────────────────────────────────────────────
     '/faq-on-dnp-capstone-project-help/': '/',
     '/blog/': '/',
+
+    // ── Mis-slugged internal links (old slug → current canonical slug) ──────
+    '/ebp-frameworks-for-dnp-projects/': '/ebp-frameworks-dnp/',
+    '/how-to-write-irb-protocol-nursing/': '/irb-protocol-dnp/',
+    '/statistical-methods-in-dnp/': '/statistical-methods-dnp/',
+    '/apa-7th-edition-dnp-manuscripts/': '/apa-7th-edition-dnp/',
 
     // ── Service page redirects ───────────────────────────────────────────────
     '/dnp-capstone-project-writing/': '/dnp-capstone-project-help/',
