@@ -1,5 +1,682 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "astro"
+  "framework": "astro",
+  "redirects": [
+    {
+      "source": "/faq-on-dnp-capstone-project-help/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ebp-frameworks-for-dnp-projects/",
+      "destination": "/ebp-frameworks-dnp/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-write-irb-protocol-nursing/",
+      "destination": "/irb-protocol-dnp/",
+      "permanent": true
+    },
+    {
+      "source": "/statistical-methods-in-dnp/",
+      "destination": "/statistical-methods-dnp/",
+      "permanent": true
+    },
+    {
+      "source": "/apa-7th-edition-dnp-manuscripts/",
+      "destination": "/apa-7th-edition-dnp/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-capstone-project-writing/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-capstone-project-writing-services/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-capstone-proposal-writing-services/",
+      "destination": "/dnp-capstone-proposal-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-capstone-services/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-capstone-coursework-writing-help/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-project-proposal-examples/",
+      "destination": "/dnp-capstone-project-examples/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-project-editor/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-project-literature-review-help/",
+      "destination": "/dnp-literature-review-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-literature-review/",
+      "destination": "/dnp-literature-review-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dpi-literature-review-help/",
+      "destination": "/dnp-literature-review-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dpi-project-writer/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-discussion-posts-writing-services/",
+      "destination": "/dnp-discussion-board-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-final-project-presentations/",
+      "destination": "/dnp-powerpoint-presentation-help/",
+      "permanent": true
+    },
+    {
+      "source": "/np-dnp-letter-of-recommendation/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/irb-proposal-writing-services/",
+      "destination": "/dnp-irb-proposal-help/",
+      "permanent": true
+    },
+    {
+      "source": "/proposal-writing-for-clinical-nursing-and-dnp-projects/",
+      "destination": "/dnp-capstone-proposal-help/",
+      "permanent": true
+    },
+    {
+      "source": "/hire-dnp-capstone-statistician/",
+      "destination": "/dnp-data-analysis-help/",
+      "permanent": true
+    },
+    {
+      "source": "/online-dnp-assignment-exam-help/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/online-dnp-project-tutors/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/help-with-dnp-class/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/help-with-dnp-picot-question/",
+      "destination": "/dnp-picot-question-help/",
+      "permanent": true
+    },
+    {
+      "source": "/help-with-dnp-prospectus/",
+      "destination": "/dnp-capstone-proposal-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-assignment-help/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-help/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-thesis-statement-writing-services/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/pie-nursing-writing-services/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/pathophysiology-discussion-board-writing-help/",
+      "destination": "/dnp-discussion-board-help/",
+      "permanent": true
+    },
+    {
+      "source": "/online-nursing-essays-discussions-and-assignments-papers/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/doctoral-level-nursing-essay-help/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/ihuman-assignment-help/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/shadow-health-assignment-help/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/walden-university-online-nursing-assignment-writing-company/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/bsn-capstone-project-writing-services/",
+      "destination": "/bsn-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/bsn-capstone-services/",
+      "destination": "/bsn-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/msn-capstone-project-writing-services/",
+      "destination": "/msn-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/msn-capstone-services/",
+      "destination": "/msn-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-picot-question-examples/",
+      "destination": "/60-dnp-picot-question-examples/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-evidence-based-practice-project-picot-questions/",
+      "destination": "/60-dnp-picot-question-examples/",
+      "permanent": true
+    },
+    {
+      "source": "/evidence-based-project-ebp-picot-question/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/pediatrics-picot-questions-examples/",
+      "destination": "/60-dnp-picot-question-examples/",
+      "permanent": true
+    },
+    {
+      "source": "/picot-new-diabetics/",
+      "destination": "/60-dnp-picot-question-examples/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-essentials/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-doctor-of-nursing-practice/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-dpi-proposal-template/",
+      "destination": "/dnp-capstone-proposal-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-crna-project/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-healthcare-administration-capstone/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-scholarly-project-and-phd-dissertation/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-projects-aacn-essentials/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-project-proposal-management-and-prevention-of-type-2-diabetes/",
+      "destination": "/50-dnp-capstone-project-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/inspiring-dnp-project-ideas-in-psychiatric-mental-health/",
+      "destination": "/50-dnp-capstone-project-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/oncology-dnp-project-ideas-for-dnp-bsn-msn/",
+      "destination": "/50-dnp-capstone-project-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/pediatric-dnp-project-ideas/",
+      "destination": "/50-dnp-capstone-project-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/what-should-i-do-for-my-dnp-project/",
+      "destination": "/50-dnp-capstone-project-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/latest-pediatric-nursing-research-topics/",
+      "destination": "/50-dnp-capstone-project-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-practicum-objectives-examples/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-practicum-project-ideas/",
+      "destination": "/50-dnp-capstone-project-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-literature-review-matrix/",
+      "destination": "/dnp-literature-review-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-quality-improvement-paper-essay-example/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-quality-indicator-improvement/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-project-of-fall-prevention-using-ebp-of-exercise/",
+      "destination": "/50-dnp-capstone-project-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/nursing-roles-graphic-organizer/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/evidence-based-practice-nursing-essays-and-research-papers/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/evidence-based-practice-paper-in-nursing/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/change-project-paper-in-nursing/",
+      "destination": "/dnp-implementation-plan-help/",
+      "permanent": true
+    },
+    {
+      "source": "/ihi-triple-aim/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/soap-note/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/walden-dissertation-checklist/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/walden-msn-program/",
+      "destination": "/msn-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/walden-university-discussion-post/",
+      "destination": "/dnp-discussion-board-help/",
+      "permanent": true
+    },
+    {
+      "source": "/capella-rn-to-bsn-in-just-3-months/",
+      "destination": "/bsn-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/career-paths-for-nurse-informaticist/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurse-educator-scope-of-practice-essay/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/nurse-manager-interview-questions-and-answers/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/long-term-goals-for-nurse-practitioner-student-example-essay/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/self-directed-learning-plan/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/tables-graphs-and-histograms-in-nursing-essay/",
+      "destination": "/dnp-data-analysis-help/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-use-the-epidemiologic-triangle/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/quality-healthcare-measuring-np-performance/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/quality-improvement-initiative-executive-summary/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/effective-approaches-in-leadership-and-management/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/roles-of-professional-nursing-organizations/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/johns-hopkins-nursing-evidence-based-practice-jhnebp-and-the-six-sigma-model/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/accountability-in-healthcare-essay-example/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/covid-19-evaluation-and-management/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/affordable-care-act-aca-nursing-homework-help/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-801a-introduction-to-dnp-studies/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-805a-health-care-informatics/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-810a-emerging-areas-of-human-health/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-815a-scientific-underpinnings/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-820a-translational-research-and-evidence-based-practice/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-825a-population-management/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-830a-data-analysis/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-835a-patient-outcomes-and-sustainable-change/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-838a-nursing-program-development-and-educational-leadership/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-840a-leadership-for-advanced-nursing-practice/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-955a-dpi-project-part-i/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-960a-dpi-project-part-ii/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp-965a-dpi-project-part-iii/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/nrs-415-creating-change-through-advocacy/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/nrs-415-nursing-leadership-and-interprofessional-collaboration/",
+      "destination": "/dnp-capstone-project-help-grand-canyon-university/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-6501-advanced-pathophysiology-discussion-essay-assignments-and-question-and-answer-quizzes/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-6512-advanced-health-assessment-and-diagnostic-reasoning-discussion-essay-assignments-and-question-and-answer-quizzes/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-6521-advanced-pharmacology-discussion-essay-assignments-and-question-and-answer-quizzes/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-6531-advanced-practice-care-of-adults-across-the-lifespan/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-6540-advanced-practice-care-of-frail-elders-discussion-essay-assignments-and-question-and-answer-quizzes/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-6551-primary-care-of-women-essay-assignment-papers-and-exam-questions-and-answers/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-6600-capstone-synthesis-practicum-writing-services/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-8000-foundations-and-essentials-of-doctoral-study-in-nursing-discussion-essay-assignments/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-8100-identification-of-a-practice-issue-for-the-evidence-based-practice-ebp-essay-assignment/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-8410-best-practices-in-nursing-specialties-weekly-discussion-essay-assignments/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nurs-fpx-9901-nursing-doctoral-project-1/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/leadership-and-management-master-of-science-in-nursing-msn-nurs-6600-nurs-6201-nurs-6241-nurs-6231-nurs-6221-nurs-6211/",
+      "destination": "/walden-university-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nur-513-introduction-to-advanced-registered-nursing-essays/",
+      "destination": "/capella-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nur-514-organizational-leadership-and-informatics/",
+      "destination": "/capella-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nur-550-translational-research-nursing-essay-example/",
+      "destination": "/capella-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/nur-700-theory-selection-and-critical-analysis/",
+      "destination": "/capella-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/msn-fp6610-comprehensive-needs-assessment-essay/",
+      "destination": "/capella-dnp-capstone-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp800-theoretical-and-scientific-underpinnings/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp805-organizational-and-systems-leadership/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp810-evidence-based-practice-for-quality-improvement/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp820-health-policy-and-advocacy-essay-help/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp865-healthcare-technologies-and-informatics/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp870-health-policy-advocacy-and-partnerships/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp875-population-health-and-person-centered-care/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp880-strategic-leadership-and-business-management/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp885-strategic-planning-and-financial-management/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp890-dnp-practicum/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/dnp899-dnp-project-capstone/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    },
+    {
+      "source": "/gonzaga-university-dnp-course-essay-assignments-nurs-563-700-701-705-710-720-730-761-764/",
+      "destination": "/dnp-capstone-project-help/",
+      "permanent": true
+    }
+  ]
 }
