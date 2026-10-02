@@ -85,10 +85,16 @@ Notes:
 - `thank-you` and `orders/signup` are excluded from the sitemap.
 - **Adding a page to a tier:** add its slug to the matching `Set` in [astro.config.mjs](astro.config.mjs). A slug in no set gets the default 0.6.
 
+## On-page conventions
+
+- **Meta titles** use `Keyword | DNP Help`, kept under 60 characters. The keyword is the page's target phrase, with no descriptive tail. The brand is the logo text; to change it, find and replace ` | DNP Help` in [content.json](content.json).
+- **Homepage link.** Every inner page links to `/` in the first paragraph of its body HTML (`src/content/pages/<slug>.html`). Use natural anchor text such as "DNP capstone project help", not "click here".
+- **Footer.** [Footer.astro](src/components/Footer.astro) is deliberately minimal to keep link equity on the homepage: the logo (home), email, WhatsApp, and Privacy Policy and Terms & Conditions links. Do not add service, resource or specialty links back to it. Navigation to those pages comes from the header, body content and `relatedPages`.
+
 ## Adding a page
 
-1. Add an entry to [content.json](content.json) with the slug, tier, meta fields, H1, intro and related pages.
-2. Write the body HTML at `src/content/pages/<slug>.html`. Use `<section class="main-content">` with `h2` sections, as the existing pages do.
+1. Add an entry to [content.json](content.json) with the slug, tier, meta fields (`metaTitle` as `Keyword | DNP Help`), H1, intro and related pages.
+2. Write the body HTML at `src/content/pages/<slug>.html`, with a homepage link in the first paragraph. Use `<section class="main-content">` with `h2` sections, as the existing pages do.
 3. Add a header image at `public/images/header_<slug>.webp`.
 4. Add the slug to the right tier set in [astro.config.mjs](astro.config.mjs).
 5. Link to it from related pages, and link back from the new page's `relatedPages`.
@@ -128,6 +134,7 @@ The methodology defines coverage strictly: a topic is covered only if it is defi
 
 ## Known issues
 
+- **Orphaned pages.** The cookie policy and refund policy pages are published and in the sitemap, but the footer no longer links to them. Consider linking them from the Terms page, or restoring a footer link if cookie-consent rules require it.
 - **Favicon.** `site-config.json` and the layouts reference `/favicon.ico` and `/apple-touch-icon.png`. Only `favicon.svg` is in `public/`.
 - **Tracking scripts.** Tawk.to is on every page, but Ahrefs Analytics is only in [Layout.astro](src/layouts/Layout.astro) (the homepage), not on inner pages. Confirm whether that is intended.
 - **Tier labels.** The `tier` value in `content.json` is separate from the sitemap sets in `astro.config.mjs`, and the two can drift.
