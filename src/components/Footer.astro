@@ -63,74 +63,6 @@ interface Props {
         </div>
       </div>
 
-      <!-- DNP Services -->
-      <div class="footer__col">
-        <h3 class="footer__col-heading">DNP Services</h3>
-        <ul class="footer__links">
-          <li><a href="/dnp-capstone-project-help/" class="footer__link">DNP Capstone Project Help</a></li>
-          <li><a href="/dnp-capstone-proposal-help/" class="footer__link">DNP Capstone Proposal Help</a></li>
-          <li><a href="/dnp-picot-question-help/" class="footer__link">DNP PICOT Question Help</a></li>
-          <li><a href="/dnp-literature-review-help/" class="footer__link">DNP Literature Review Help</a></li>
-          <li><a href="/dnp-irb-proposal-help/" class="footer__link">DNP IRB Proposal Help</a></li>
-          <li><a href="/dnp-implementation-plan-help/" class="footer__link">DNP Implementation Plan Help</a></li>
-          <li><a href="/dnp-data-analysis-help/" class="footer__link">DNP Data Analysis Help</a></li>
-          <li><a href="/dnp-capstone-manuscript-help/" class="footer__link">DNP Capstone Manuscript Help</a></li>
-          <li><a href="/dnp-powerpoint-presentation-help/" class="footer__link">DNP Defense Presentation Help</a></li>
-          <li><a href="/dnp-discussion-board-help/" class="footer__link">DNP Discussion Board Help</a></li>
-        </ul>
-      </div>
-
-      <!-- By Specialty -->
-      <div class="footer__col">
-        <h3 class="footer__col-heading">By Specialty</h3>
-        <ul class="footer__links">
-          <li><a href="/dnp-fnp-capstone-help/" class="footer__link">FNP DNP Capstone Help</a></li>
-          <li><a href="/dnp-pmhnp-capstone-help/" class="footer__link">PMHNP DNP Capstone Help</a></li>
-          <li><a href="/dnp-agacnp-capstone-help/" class="footer__link">AGACNP DNP Capstone Help</a></li>
-          <li><a href="/dnp-crna-capstone-help/" class="footer__link">CRNA DNP Capstone Help</a></li>
-          <li><a href="/dnp-nurse-executive-capstone-help/" class="footer__link">Nurse Executive DNP Capstone</a></li>
-          <li><a href="/dnp-population-health-capstone-help/" class="footer__link">Population Health DNP Capstone</a></li>
-          <li><a href="/dnp-nursing-informatics-capstone-help/" class="footer__link">Nursing Informatics DNP Capstone</a></li>
-          <li><a href="/bsn-capstone-project-help/" class="footer__link">BSN Capstone Project Help</a></li>
-          <li><a href="/msn-capstone-project-help/" class="footer__link">MSN Capstone Project Help</a></li>
-        </ul>
-      </div>
-
-      <!-- Resources -->
-      <div class="footer__col">
-        <h3 class="footer__col-heading">Resources</h3>
-        <ul class="footer__links">
-          <li><a href="/50-dnp-capstone-project-ideas/" class="footer__link">50 DNP Capstone Project Ideas</a></li>
-          <li><a href="/60-dnp-picot-question-examples/" class="footer__link">60 DNP PICOT Question Examples</a></li>
-          <li><a href="/dnp-capstone-project-examples/" class="footer__link">DNP Capstone Project Examples</a></li>
-          <li><a href="/dnp-vs-phd-nursing/" class="footer__link">DNP vs PhD in Nursing</a></li>
-          <li><a href="/aacn-dnp-essentials-2021/" class="footer__link">AACN DNP Essentials 2021</a></li>
-          <li><a href="/ebp-frameworks-dnp/" class="footer__link">EBP Frameworks for DNP</a></li>
-          <li><a href="/statistical-methods-dnp/" class="footer__link">Statistical Methods for DNP</a></li>
-          <li><a href="/irb-protocol-dnp/" class="footer__link">IRB Protocol for DNP Projects</a></li>
-        </ul>
-      </div>
-
-      <!-- Company + Policies -->
-      <div class="footer__col">
-        <h3 class="footer__col-heading">Company</h3>
-        <ul class="footer__links">
-          <li><a href="/about-us/" class="footer__link">About Us</a></li>
-          <li><a href="/services/" class="footer__link">All Services</a></li>
-          <li><a href="/samples/" class="footer__link">Writing Samples</a></li>
-          <li><a href="/faq/" class="footer__link">FAQs</a></li>
-          <li><a href="/contact-us/" class="footer__link">Contact Us</a></li>
-        </ul>
-        <h3 class="footer__col-heading footer__col-heading--spaced">Policies</h3>
-        <ul class="footer__links">
-          <li><a href="/money-back-guarantee/" class="footer__link">Money-Back Guarantee</a></li>
-          <li><a href="/our-policy/" class="footer__link">Our Policy</a></li>
-          <li><a href="/privacy-policy/" class="footer__link">Privacy Policy</a></li>
-          <li><a href="/refund-policy/" class="footer__link">Refund Policy</a></li>
-          <li><a href="/term-conditions/" class="footer__link">Terms &amp; Conditions</a></li>
-        </ul>
-      </div>
-
     </div>
   </div>
 
@@ -167,8 +99,6 @@ interface Props {
       <nav class="footer__legal-nav" aria-label="Legal links">
         <a href="/privacy-policy/" class="footer__legal-link">Privacy Policy</a>
         <a href="/term-conditions/" class="footer__legal-link">Terms &amp; Conditions</a>
-        <a href="/cookie-policy/" class="footer__legal-link">Cookie Policy</a>
-        <a href="/refund-policy/" class="footer__legal-link">Refund Policy</a>
       </nav>
     </div>
   </div>
@@ -189,7 +119,7 @@ interface Props {
 
   .footer__grid {
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 2.5rem;
     align-items: start;
   }
@@ -254,33 +184,6 @@ interface Props {
     white-space: nowrap;
   }
 
-  /* ── Link columns ───────────────────────────────────────────── */
-  .footer__col-heading {
-    font-size: 0.75rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: rgba(255,255,255,0.45);
-    margin-bottom: 0.875rem;
-  }
-
-  .footer__col-heading--spaced { margin-top: 1.75rem; }
-
-  .footer__links {
-    display: flex;
-    flex-direction: column;
-    gap: 0.55rem;
-  }
-
-  .footer__link {
-    font-size: 0.875rem;
-    color: rgba(255,255,255,0.7);
-    transition: color 0.15s;
-    line-height: 1.4;
-  }
-
-  .footer__link:hover { color: var(--color-accent, #e67e22); }
-
   /* ── Trust bar ──────────────────────────────────────────────── */
   .footer__trust {
     background: rgba(255,255,255,0.04);
@@ -338,20 +241,14 @@ interface Props {
   .footer__legal-link:hover { color: rgba(255,255,255,0.7); }
 
   /* ── Responsive ─────────────────────────────────────────────── */
-  @media (max-width: 1200px) {
-    .footer__grid { grid-template-columns: 1fr 1fr 1fr 1fr; }
-    .footer__brand { grid-column: 1 / -1; }
-    .footer__desc { max-width: 100%; }
-    .footer__badges { flex-direction: row; }
-  }
+  .footer__desc { max-width: 640px; }
+  .footer__badges { flex-direction: row; }
 
   @media (max-width: 768px) {
-    .footer__grid { grid-template-columns: 1fr 1fr; gap: 2rem; }
     .footer__trust-inner { justify-content: flex-start; }
   }
 
   @media (max-width: 480px) {
-    .footer__grid { grid-template-columns: 1fr; }
     .footer__bar-inner { flex-direction: column; align-items: flex-start; }
     .footer__trust-item { font-size: 0.75rem; }
   }
